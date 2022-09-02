@@ -1,0 +1,1098 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Respect Campaign - Wins Statewide</title>
+     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
+   integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+   crossorigin=""/>
+
+     <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+   integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+   crossorigin=""></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/leaflet-search@3.0.2/dist/leaflet-search.src.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-search@3.0.2/dist/leaflet-search.min.css">
+
+    <script src="https://unpkg.com/leaflet-responsive-popup@1.0.0/leaflet.responsive.popup.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-responsive-popup@1.0.0/leaflet.responsive.popup.css" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <style>
+        #respect-map {
+            height: 800px
+        }
+
+        #respect-map-modal {
+            height: 300px
+        }
+
+        .info {
+            padding: 6px 8px;
+            font: 14px/16px Arial, Helvetica, sans-serif;
+            background: white;
+            background: rgba(255,255,255,0.8);
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+            border-radius: 4px;
+        }
+
+        .info h4 {
+            margin: 0 0 5px;
+            color: #777;
+        }
+
+        .legend {
+            line-height: 18px;
+            color: #555;
+        }
+
+        .legend i {
+            width: 18px;
+            height: 18px;
+            float: left;
+            margin-right: 8px;
+            opacity: 0.7;
+        }
+
+        a, p, h1, h2, h3, h4, h5, h6, label, li {
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        }
+
+        .respect-campaign-map-button {
+            color: white;
+
+            padding: 7px;
+            cursor: pointer;
+            margin: auto;
+
+            background-color: white;
+
+            border: 1px solid gray;
+            border-radius: 4px;
+        }
+
+        .respect-campaign-map-button:hover {
+            opacity: 0.5;
+            color: white;
+
+            padding: 7px;
+            cursor: pointer;
+            margin: auto;
+        }
+
+        .overlay {
+          height: 100%;
+          width: 0;
+          position: fixed;
+          z-index: 1000;
+          top: 0;
+          left: 0;
+          background-color: #003366;
+          overflow-x: hidden;
+          transition: 0.5s;
+        }
+
+        .overlay-content {
+          position: relative;
+          top: 10%;
+          width: 100%;
+          margin-top: 30px;
+            padding: 30px;
+
+            background-color: white;
+            color: black;
+        }
+
+        .overlay .closebtn {
+          position: absolute;
+          top: 10px;
+          right: 15px;
+          font-size: 48px;
+            color: #FFCC33;
+
+        }
+
+        .overlay .closebtn:hover {
+            color: #A57F13;
+        }
+
+        @media screen and (max-height: 450px) {
+          .overlay a {font-size: 20px}
+          .overlay .closebtn {
+          font-size: 24px;
+          top: 15px;
+          right: 35px;
+          }
+        }
+
+        .district-name-linked {
+            color: royalblue;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .district-name-linked:hover {
+            color: #003366;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .my-popup {pointer-events: none;}
+
+         .leaflet-popup-scrolled {
+            overflow: auto;
+            border-bottom: 1px solid #ddd;
+            border-top: none;
+            }
+
+         .chart-container {
+              width: 80%;
+              margin: 0 auto;
+            }
+
+        .pie-chart-container {
+            height: 280px;
+            width: 280px;
+            margin: auto;
+        }
+
+        .bar-chart-chart-container {
+              width: 80%;
+              height: 120px;
+              margin: 0 auto;
+
+            }
+
+        .bar-chart-container {
+            max-height: 120px;
+            width: 80%;
+            margin: auto;
+        }
+
+        .modal-subheader {
+            text-decoration: underline;
+        }
+
+    </style>
+</head>
+<body>
+    <div style="margin: 30px;">
+        <h1>Respect Campaign</h1>
+        <h2>Statewide Salary Comparison</h2>
+        <p>Texas AFT is working with our local leaders across the state to XXXX.</p>
+
+        <div style="margin: auto; border: 1px solid lightgrey; border-radius: 4px; width: 60%; min-width: 450px; text-align: center; padding: 15px;">
+
+            <p>The below map is shaded according to XXXX. It looks bad and it is bad, but <u>teachers are fighting for change.</u></p>
+
+            <p><b>Together, we’ve just won all of these victories.</b></p>
+
+            <p>Texas AFT has a local or organizing committee in the school districts outlined in green. Find or search for your school district below to learn more about stagnant teacher pay in your district, the victories led by AFT members organizing in school districts across Texas, and lead change by joining AFT.</p>
+        </div>
+    </div>
+    <div id="respect-map"></div>
+
+    <div id="myNav" class="overlay">
+      <a href="javascript:void(0)" class="closebtn" style="text-decoration: none;" onclick="closeNav()">&times;</a>
+      <div class="overlay-content">
+          <div style="clear: right; width: 100%"><span style="float: left;"><h1 id="detail-district-name"></h1></span><span style="float: right; margin-right: 65px;">
+              <div id="detail-join-houston-local" style="display: none; margin: 2.5px; border: 1px solid lightgrey; border-radius: 4px; padding: 7px; background-color: #1167B0; color: white; text-align: center;">
+                  <label for="houston-locals" style="font-size: 14px;">JOIN OUR UNION:</label></br>
+
+                    <select name="houston-locals" id="houston-locals" onchange="var houstonLocals = document.getElementById('houston-locals'); if (houstonLocals.value === 'hft') {
+                            let a = document.createElement('a');
+                            a.target= '_blank';
+                            a.href= 'https://join.aft.org/form/houston-federation-of-teachers/local/02415/hft-membership-application';
+                            a.click();
+
+                    } else if (houstonLocals.value === 'hesp') {
+                            let a = document.createElement('a');
+                            a.target= '_blank';
+                            a.href= 'https://www.texasaft.org/wp-content/uploads/2022/07/HESPDuesForm2022-202350.pdf';
+                            a.click();
+
+                    } " required>
+                        <option disabled>SELECT STAFF TYPE</option>
+                      <option value="hft">Certified & Classroom Personnel - HFT</option>
+                      <option value="hesp">Support & Auxiliary Staff - HESP</option>
+                    </select>
+              </div>
+
+              <button class="respect-campaign-map-button" style="background-color: #880808; font-size: 14px; margin: 2.5px;"><a id="raw-data-link" href="#" style="text-decoration: none; color: white; font-size: 14px;">DATA: EMPLOYEE PAY</a></button>
+              <button class="respect-campaign-map-button" style="background: linear-gradient(166deg, rgba(2,0,36,1) 0%, rgba(0,51,102,1) 52%, rgba(255,204,51,1) 98%); margin: 5px;"><a style="color: white; font-size: 14px; text-decoration: none;" href="https://actionnetwork.org/forms/take-the-respect-pledge" target="_blank">SIGN RESPECT PLEDGE</a></button>
+
+              <button class="respect-campaign-map-button" id="detail-join-union-button" style="background-color: #1167B0; font-size: 14px; margin: 2.5px;">
+                  <a onclick="var districtName = document.getElementById('detail-district-name').innerText;
+                  TexasDistrictsFeatureCollection.features.forEach(district => {
+                      if (district.properties.NAME.replace(' County)', ')') == districtName.replace(' County)', ')')) {
+                            window.open(district.properties.JoinTAFT, '_blank');
+                      }
+                  })" href="#" style="color: white; text-decoration: none;">JOIN OUR UNION</a>
+              </button>
+
+          </span></div>
+
+          <h3 style="clear: left">CDN: <span id="detail-district-number" style="font-weight: normal"></span></h3>
+
+          <div id="respect-map-modal"></div>
+
+          <br>
+
+          <div style="text-align: center;">
+              <div>
+                  <h2>Cost Comparison</h2>
+                  <div class="bar-chart-chart-container" style="height: 120px;">
+                    <div class="bar-chart-container">
+                      <canvas id="myBarChart" style="height: 120px; width: 480px;"></canvas>
+                    </div>
+                  </div>
+          </div>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+
+              <h2>School District Profile</h2>
+              <br>
+              <div style="text-align: left; max-width: 650px; margin: auto; display: flex; flex-direction: column">
+
+                  <div style="text-align: center; padding: 15px; border: 1px solid lightgrey; border-radius: 4px;">
+                      <h4 class="modal-subheader">2009-2010 TO 2020-2021 % CHANGE<br>IN AVERAGE TEACHER PAY (2021 USD)</h4>
+                      <p style="font-weight: bold; display: flex; flex-direction: column; text-align: center;">
+                            <div style="display: flex; flex-direction: row">
+                                <div style="flex: 0.5">
+                                    <p style="font-weight: bold;">Texas Average:</p>
+                                    <p style="color: black">-3.89%</p>
+                                </div>
+                                <div style="flex: 0.5">
+                                    <p style="font-weight: bold;" id="detail-district-name-2"></p>
+                                    <p id="detail-district-teacher-pay"></p>
+                                </div>
+                            </div>
+                            <div style="flex: 0.5; font-weight: normal; font-size: 0.85em; width: 65%; margin: auto;"><p>This figure represents the change in the average teacher salary in the district between the 2009-2010 and 2020-2021 school years after being adjusted for the impact of inflation. For example, $1.00 in 2009 USD was only worth $0.65 in 2021.</p><p>This figure does not capture changes in the local cost of living, which are increasing at accelerating and volatile rates in some areas of the state.</p><p>Therefore, this figure is conservative - if it shows a relative decline, the actual decline could be much more substantial.</p></div>
+                      </p>
+                  </div>
+                  <br>
+                  <div style="text-align: center; border: 1px solid lightgrey; border-radius: 4px; padding: 15px;">
+                      <h4 class="modal-subheader">2020-2021 ATTENDANCE/ENROLLMENT</h4>
+                      <p style="font-weight: bold;">5-year % enrollment change: <span id="detail-district-enrollment-change" style="font-weight: normal;"></span></p>
+                      <div style="display: flex; flex-direction: row;">
+                        <div style="flex: 0.33; text-align: center;">
+                            <p style="font-weight: bold;">Attendance:
+                                <br>
+                                <br>
+                                <br>
+                                <span id="detail-district-attendance" style="font-weight: normal;"></span>
+                            </p>
+
+                        </div>
+                          <div style="flex: 0.33; text-align: center;">
+                            <p style="font-weight: bold;">Enrollment:
+                                <br>
+                                <br>
+                                <br>
+                                <span id="detail-district-enrollment" style="font-weight: normal;"></span>
+                            </p>
+                          </div>
+                          <div style="flex: 0.33; text-align: center;">
+                            <p style="font-weight: bold;">Attendance % of Enrollment:
+                                <br>
+                                <br>
+                                <span id="detail-district-ada-percent" style="font-weight: normal;"></span>
+                            </p>
+                          </div>
+                      </div>
+                  </div>
+                  <br>
+                  <div style="text-align: center; border: 1px solid lightgrey; border-radius: 4px; padding: 15px;">
+                      <h4 class="modal-subheader">2020-2021 COST OF CHARTERS</h4>
+                      <div style="display: flex; flex-direction: row;">
+                          <div style="flex: 0.33; flex-direction: column">
+                            <p style="font-weight: bold;">Estimated Revenue Loss from Charter Transfers:
+                                <br>
+                                <br>
+                                <span id="detail-district-charter-cost" style="font-weight: normal;"></span>
+                            </p>
+
+                          </div>
+                          <div style="flex: 0.33; flex-direction: column">
+                            <p style="font-weight: bold;">Estimated Revenue Loss, Per Student:
+                                <br>
+                                <br>
+                                <span id="detail-district-charter-cost-per-student" style="font-weight: normal;"></span>
+                            </p>
+                          </div>
+                          <div style="flex: 0.33; flex-direction: column">
+                            <p style="font-weight: bold;">Charter Transfers Out, Total:
+                                <br>
+                                <br>
+                                <span id="detail-charter-transfers" style="font-weight: normal;"></span>
+                            </p>
+
+                          </div>
+                      </div>
+
+                  </div>
+                    <br>
+                  <div style="border: 1px solid lightgrey; border-radius: 4px; text-align: center; padding: 15px;">
+                  <h4 class="modal-subheader">2020-2021 STATE/LOCAL FUNDING</h4>
+                  <p style="font-weight: bold;">2020-2021 Recapture Liability: <span id="detail-district-recapture" style="font-weight: normal;"></span></p>
+
+                  <div class="chart-container" style="padding: 15px;">
+                    <div class="pie-chart-container">
+                      <canvas id="pie-chartcanvas-1"></canvas>
+                    </div>
+                  </div>
+
+                  <div style="display: flex; flex-direction: row;">
+                      <div style="flex: 0.5; flex-direction: column; text-align: center;">
+                        <p style="font-weight: bold; flex: 0.5">Total State Funding:
+                            <br>
+                            <br>
+                            <span id="detail-state-funding" style="font-weight: normal; flex: 0.5"></span>
+                        </p>
+                      </div>
+                      <div style="flex: 0.5; flex-direction: column; text-align: center;">
+                        <p style="font-weight: bold; flex: 0.5">Total Local Funding:
+                            <br>
+                            <br>
+                            <span id="detail-local-funding" style="font-weight: normal; flex: 0.5"></span>
+                        </p>
+                      </div>
+                  </div>
+                </div>
+
+              </div>
+
+          </div>
+
+          <br>
+
+          <div style="border: 1px solid lightgrey; border-radius: 4px; padding: 15px; max-width: 80%; margin: auto;">
+
+
+          <div style="text-align: center;">
+              <h4 class="modal-subheader" style="padding-bottom: 0; margin-bottom: 0;">LEGISLATIVE DISTRICTS</h4>
+              <p style="font-weight: bold;">Who Represents Us in the Texas Legislature:</p>
+          </div>
+
+          <div style="display: flex; flex-direction: row;">
+              <div style="flex: 0.5; text-align: center;">
+                  <h4 style="text-decoration: underline;">Texas House District: % of School District Within HD</h4>
+                  <div id="house-districts" style="text-align: left; max-width: 400px; margin: auto;">
+
+                  </div>
+              </div>
+
+              <div style="flex: 0.5; text-align: center;">
+                  <h4 style="text-decoration: underline;">Texas Senate District: % of School District Within SD</h4>
+                  <div id="senate-districts" style="text-align: left; max-width: 400px; margin: auto;">
+
+                  </div>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="Districts2020to2021.js" type="text/javascript"></script>
+    <script src="DistrictsData.js" type="text/javascript"></script>
+    <script src="PLANHD.js" type="text/javascript"></script>
+    <script src="PLANSD.js" type="text/javascript"></script>
+    <script src="PLANCD.js" type="text/javascript"></script>
+    <script src="PLANED.js" type="text/javascript"></script>
+
+    <script src="Texas AFT locals.js" type="text/javascript"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.min.js" type="text/javascript"></script>
+
+</body>
+<footer>
+    <script>
+
+        function initMap() {
+        var map = L.map('respect-map').setView([31.6623, -99.0306], 6);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        var geojson;
+
+        var geojsonhd;
+
+        var geojsonsd;
+
+        var geojsoncd;
+
+        var geojsoned;
+
+        var geojsonLocals;
+
+        function getColorByStagnantPay(d) {
+            return  d < -30     ?   '#99000d'  :
+                    d < -25     ?   '#cb181d'  :
+                    d < -20     ?   '#ef3b2c'  :
+                    d < -15     ?   '#fb6a4a'  :
+                    d < -10     ?   '#fc9272'  :
+                    d < -5      ?   '#fcbba1'  :
+                    d < 0       ?   '#fee5d9'  :
+
+                                    'white';
+        }
+
+        function style(feature) {
+            return {
+                fillColor: getColorByStagnantPay(feature.properties.PercentChangeTeacherPay),
+                weight: 0.5,
+                opacity: 1,
+                color: '#bdbdbd',
+                fillOpacity: 0.7,
+                smoothFactor: 0,
+            };
+        }
+
+        function highlightFeature(e) {
+            var layer = e.target;
+
+            layer.setStyle({
+                weight: 3,
+                fillColor: getColorByStagnantPay(layer.feature.properties.PercentChangeTeacherPay),
+                color: 'black',
+                dashArray: '',
+                fillOpacity: 0.7,
+                smoothFactor: 0,
+            });
+
+            if (!L.Browser.ie & !L.Browser.opera && !L.Browser.edge) {
+                layer.bringToFront();
+            }
+
+            info.update(layer.feature.properties);
+        }
+
+        function resetHighlight(e) {
+            geojson.resetStyle(e.target);
+            info.update();
+        }
+
+        function zoomToFeature(e) {
+
+            map.fitBounds(e.target.getBounds());
+
+        }
+
+        var info = L.control();
+
+        info.onAdd = function (map) {
+            this._div = L.DomUtil.create('div', 'info');
+            this.update();
+            return this._div;
+        };
+
+        info.update = function (props) {
+            this._div.innerHTML = '<h4>School District</h4>' + (props ?
+                '<h1 style="line-height: 1em;" class="district-name-linked">'+props.NAME+'</h1><h2>CDN: <span style="font-weight: normal; float: right;">'+props.DISTRICT_C+'</span></h2><p style="font-weight: bold;">2009-2021 % Change in<br/>Average Teacher Salary<br/>(2021 USD): <span id="teacher-pay-modal" style="float: right; font-weight: normal; font-size: 1.5em;">'+props.PercentChangeTeacherPay+'%</span></p><p style="font-weight: bold;">"" Texas (2021 USD): <span style="float: right; font-weight: normal; font-size: 1.5em;">-3.89%</span></p>'
+
+                : 'Hover over a district');
+            this._div.style.width = '250px';
+
+            if (props) {
+                var el = document.getElementById('teacher-pay-modal')
+                if (parseFloat(el.innerHTML) < 0) {
+                    el.style.color = 'red';
+                } else {
+                    el.style.color = 'black';
+                }
+
+            }
+        };
+
+        info.addTo(map)
+
+        var legend = L.control({position: 'bottomright'});
+
+        legend.onAdd = function (map) {
+
+            var div = L.DomUtil.create('div', 'info legend');
+
+            var grades = [-50, -30, -25, -20, -15, -10, -5, 0];
+            var labels = [];
+
+            for (var n = 0; n < grades.length; n++) {
+                div.innerHTML +=
+                    `<i style="background: ${getColorByStagnantPay(grades[n])}"></i> ${grades[n]}% ${(grades[n] ? ' &ndash; ' + grades[n + 1] + '%' + '</br>' : '+')}`;
+            }
+
+            return div;
+        };
+
+        legend.addTo(map);
+
+        var districtData = DistrictsData;
+        window.TexasDistrictsFeatureCollection = texasDistrictsFeatureCollection;
+
+        for (var i=0; i < TexasDistrictsFeatureCollection['features'].length; i++) {
+            var districtNumber = TexasDistrictsFeatureCollection['features'][i].properties.DISTRICT_C;
+
+            TexasDistrictsFeatureCollection['features'][i].properties["PercentChangeTeacherPay"] = districtData[districtNumber]["PercentChangeTeacherPay"]
+            TexasDistrictsFeatureCollection['features'][i].properties["RecaptureAmount"] = districtData[districtNumber]["RecaptureAmount"]
+            TexasDistrictsFeatureCollection['features'][i].properties["EnrollmentChange"] = districtData[districtNumber]["EnrollmentChange"]
+            TexasDistrictsFeatureCollection['features'][i].properties["Enrollment"] = districtData[districtNumber]["Enrollment"]
+            TexasDistrictsFeatureCollection['features'][i].properties["Victories"] = districtData[districtNumber]["Victories"]
+            TexasDistrictsFeatureCollection['features'][i].properties["JoinTAFT"] = districtData[districtNumber]["JoinTAFT"]
+            TexasDistrictsFeatureCollection['features'][i].properties["RawDataLink"] = districtData[districtNumber]["RawDataLink"]
+            TexasDistrictsFeatureCollection['features'][i].properties["House"] = districtData[districtNumber]["House"]
+            TexasDistrictsFeatureCollection['features'][i].properties["Senate"] = districtData[districtNumber]["Senate"]
+            TexasDistrictsFeatureCollection['features'][i].properties["PerStudentCostOfCharters"] = districtData[districtNumber]["PerStudentCostOfCharters"]
+            TexasDistrictsFeatureCollection['features'][i].properties["CostOfCharters"] = districtData[districtNumber]["CostOfCharters"]
+            TexasDistrictsFeatureCollection['features'][i].properties["CharterTransfers"] = districtData[districtNumber]["CharterTransfers"]
+            TexasDistrictsFeatureCollection['features'][i].properties["Attendance"] = districtData[districtNumber]["Attendance"]
+            TexasDistrictsFeatureCollection['features'][i].properties["StateFunding"] = districtData[districtNumber]["StateFunding"]
+            TexasDistrictsFeatureCollection['features'][i].properties["LocalFunding"] = districtData[districtNumber]["LocalFunding"]
+        }
+
+        geojson = L.geoJSON(TexasDistrictsFeatureCollection, {
+                style: style,
+                onEachFeature: function (feature, layer) {
+                    var color;
+                    var display;
+
+                    if (feature.properties.PercentChangeTeacherPay < 0) {
+                        color = 'red'
+                    } else {
+                        color = 'black'
+                    }
+
+                    if (feature.properties.Victories) {
+                        display = 'block';
+                    } else {
+                        display = 'none';
+                    }
+
+                    layer.on({
+                        mouseover: highlightFeature,
+                        mouseout: resetHighlight,
+                        click: zoomToFeature,
+                    })
+
+                    var houstonTrigger;
+
+                    if (feature.properties.NAME == 'Houston ISD') {
+                        houstonTrigger = 'block'
+                    } else {
+                        houstonTrigger = 'none'
+                    }
+
+                    var popup = L.responsivePopup().setContent(`<div><h1><a class="district-name-linked" onclick="openNav(name='${feature.properties.NAME.toString()}', number='${feature.properties.DISTRICT_C.toString()}', teacherPay='${feature.properties.PercentChangeTeacherPay.toString()}%', recaptureAmount='${feature.properties.RecaptureAmount.toString()}', enrollmentChange='${feature.properties.EnrollmentChange.toString()}', rawDataLink='${feature.properties.RawDataLink}')">${feature.properties.NAME.toString()}</a></h1><h2>CDN: <span style="font-weight: normal">${feature.properties.DISTRICT_C.toString()}</span></h2><div style="border: 1px solid lightgrey; border-radius: 4px;"><h4 style="text-align: center; padding-bottom: 0; margin-bottom: 0;">2009-2021 % Change in Average<br/>Teacher Salary (2021 USD)</h4><div style="display: flex; flex: 1; flex-direction: row"><div style="flex: 0.5"><h3 style="text-align: center; text-decoration: underline;">${feature.properties.NAME}:</h3><h3 style="text-align: center; color: ${color}">${feature.properties.PercentChangeTeacherPay.toString()}%</h3></div><div style="flex: 0.5"><h3 style="text-align: center; text-decoration: underline;">Texas:</h3><h3 style="text-align: center; color: black;">-3.89%</h3></div></div></div><h3 id="respect-campaign-victories-subheader" style="display: ${display}">RESPECT CAMPAIGN Victories:</h3><div style="display: ${display}">${feature.properties.Victories}</div><h3>Lead change in ${feature.properties.NAME}:</h3><p>Where do you work? Select employer below.</p>
+                        <input type="radio" id="employer1" name="employer" value="k-12" checked>
+                        <label for="employer1">K-12 Public School (ISD)</label><br>
+
+                        <select style="display: ${houstonTrigger}; clear: right; width: 100%" name="hisd-employer" id="hisd-employer" required>
+                          <option value="NONE" disabled>SELECT STAFF TYPE</option>
+                          <option value="hft">Certified & Classroom Personnel - HFT</option>
+                          <option value="hesp">Support & Auxiliary Staff - HESP</option>
+                          <br/>
+                        </select>
+
+                        <input type="radio" id="employer2" name="employer" value="higher-ed">
+                        <label for="employer2">Higher Education</label><br>
+
+                        <input type="radio" id="employer3" name="employer" value="charter">
+                        <label for="employer3">Charter School</label><br>
+
+                        <input type="radio" id="employer4" name="employer" value="retiree">
+                        <label for="employer4">Retiree</label><br>
+
+                        <input type="radio" id="employer5" name="employer" value="student">
+                        <label for="employer5">Student Membership</label><br>
+
+                        <div style="margin: auto; text-align: center;">
+                        <button style="background-color: #1167B0; margin-top: 10px; width: 100%;"><a href="#" onclick="
+                        var employers = document.getElementsByName('employer');
+                        for (var i = 0; i < employers.length; i++) {if (employers[i].checked) {
+                          var employerType = employers[i].value;
+
+                          if (employerType == 'k-12') {
+
+                                    if ('${feature.properties.NAME}' == 'Houston ISD') {
+                                        var houstonEmployer = document.getElementById('hisd-employer').value;
+                                        if (houstonEmployer == 'hft') {
+                                            window.open('https://join.aft.org/form/houston-federation-of-teachers/local/02415/hft-membership-application', '_blank');
+                                        } else if (houstonEmployer == 'hesp') {
+                                            window.open('https://www.texasaft.org/wp-content/uploads/2022/07/HESPDuesForm2022-202350.pdf', '_blank');
+                                        } else {
+                                            alert('REQUIRED: Select your staff type below to join AFT.')
+                                        }
+
+                                    } else {
+                                        window.open('${feature.properties.JoinTAFT.toString()}', '_blank');
+                                    }
+                            } else if (employerType == 'higher-ed') {
+                                window.open('https://www.texasaft.org/join', '_blank');
+                            } else if (employerType == 'charter') {
+                                window.open('https://www.texasaft.org/charter-school-membership/', '_blank');
+                            } else if (employerType == 'retiree') {
+                                window.open('https://join.aft.org/form/texas-aft-retiree-plus/local/08041/texas-aft-retiree-plus-membership-form', '_blank');
+                            } else if (employerType == 'student') {
+                                window.open('https://www.texasaft.org/student-membership-application/', '_blank');
+                            }
+                        }}" style="text-decoration: none; color: white; font-size: 14px;">JOIN OUR UNION</a></button>
+                        <button style="margin-top: 10px; width: 100%; background: linear-gradient(166deg, rgba(2,0,36,1) 0%, rgba(0,51,102,1) 52%, rgba(255,204,51,1) 98%);"><a style="color: white; font-size: 14px; text-decoration: none;" href="https://actionnetwork.org/forms/take-the-respect-pledge" target="_blank">SIGN RESPECT PLEDGE</a></button>
+                        </div></div>`);
+
+                    layer.bindPopup(popup, {maxHeight: 700});
+
+                }
+
+        }).addTo(map)
+
+        window.geojsonhd = L.geoJSON(planhd, {
+                style: {
+                    fillColor: 'white',
+                    weight: 3,
+                    opacity: 1,
+                    color: 'red',
+                    fillOpacity: 0,
+                    smoothFactor: 0,
+                },
+                onEachFeature: function (feature, layer) {
+                    layer.bindTooltip(feature.properties.District.toString(), {permanent: false, direction:"center"})
+
+                }
+        })
+
+        window.geojsonsd = L.geoJSON(plansd, {
+                style: {
+                    fillColor: 'white',
+                    weight: 3,
+                    opacity: 1,
+                    color: 'red',
+                    fillOpacity: 0,
+                    smoothFactor: 0,
+                },
+                onEachFeature: function (feature, layer) {
+                    layer.bindTooltip(feature.properties.District.toString(), {permanent: false, direction:"center"})
+
+                }
+        })
+
+        window.geojsoncd = L.geoJSON(plancd, {
+                style: {
+                    fillColor: 'white',
+                    weight: 3,
+                    opacity: 1,
+                    color: 'red',
+                    fillOpacity: 0,
+                    smoothFactor: 0,
+                },
+                onEachFeature: function (feature, layer) {
+                    layer.bindTooltip(feature.properties.District.toString(), {permanent: false, direction:"center"})
+
+                }
+        })
+
+        window.geojsoned = L.geoJSON(planed, {
+                style: {
+                    fillColor: 'white',
+                    weight: 3,
+                    opacity: 1,
+                    color: 'red',
+                    fillOpacity: 0,
+                    smoothFactor: 0,
+                },
+                onEachFeature: function (feature, layer) {
+                    layer.bindTooltip(feature.properties.District.toString(), {permanent: false, direction:"center"})
+
+                }
+        })
+
+        map.addControl( new L.Control.Search({layer: geojson, propertyName: 'NAME', marker: {icon: false, animate: true, circle: true}, zoom: 10}).on("search:locationfound", function (e) {
+                        if (e.layer._popup) e.layer.openPopup();
+                      }));
+
+        window.geojsonLocals = L.geoJSON(TexasAFTLocals, {
+                style: {
+                    fillColor: 'black',
+                    weight: 1.75,
+                    opacity: 1,
+                    color: '#1167B0',
+                    fillOpacity: 0,
+                    smoothFactor: 0,
+                    pointerEvents: 'none',
+                },
+                interactive: false,
+                text: ''
+        }).addTo(map)
+
+        var overlayMaps = {
+            "Texas AFT Locals/Org Committees": geojsonLocals,
+            "School Districts": geojson,
+            "Texas House": geojsonhd,
+            "Texas Senate": geojsonsd,
+            "Congress": geojsoncd,
+            "SBOE": geojsoned,
+        }
+
+        var layerControl = L.control.layers(null, overlayMaps).addTo(map);
+
+        L.Control.FindMyLocation = L.Control.extend({
+            onAdd: function(map) {
+                var button = L.DomUtil.create('button');
+
+                button.innerText = '🏠'
+
+                button.style.width = '35px';
+                button.style.height = '35px';
+
+                button.onclick = function () {
+                    map.locate({setView: true, maxZoom: 12})
+
+                    function onLocationFound(e) {
+                        var radius = e.accuracy;
+
+                        L.marker(e.latlng).addTo(map)
+                            .bindPopup('You are within ' + radius + ' meters from this point');
+
+                        L.circle(e.latlng, radius).addTo(map);
+                    }
+
+                    map.on('locationfound', onLocationFound); function onLocationError(e) {
+                        alert(e.message);
+                    }
+
+                    map.on('locationerror', onLocationError);
+
+                }
+
+                return button;
+            },
+
+            onRemove: function(map) {
+                // Nothing to do here
+            }
+        });
+
+        L.control.findmylocationbutton = function(opts) {
+            return new L.Control.FindMyLocation(opts);
+        }
+
+        L.control.findmylocationbutton({ position: 'bottomleft' }).addTo(map);
+        }
+
+        initMap()
+
+        // functions opening and closing the district detail page, loading with data
+        function openNav(name, number, teacherPay, recaptureAmount, enrollmentChange, rawDataLink) {
+
+            var mapModal = L.map('respect-map-modal').setView([31.6623, -99.0306], 6);
+
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(mapModal);
+
+            for (var i=0; i < window.TexasDistrictsFeatureCollection.features.length; i++) {
+                var districtLocal = TexasDistrictsFeatureCollection.features[i]
+                if (districtLocal.properties.NAME === name) {
+                            console.log(districtLocal.properties)
+
+                            window.geojsonSchoolDistrict = L.geoJSON(districtLocal, {
+                                    style: {
+                                        fillColor: 'green',
+                                        weight: 2,
+                                        opacity: 1,
+                                        color: 'green',
+                                        fillOpacity: 0,
+                                        smoothFactor: 0,
+                                        pointerEvents: 'none',
+                                    },
+                                    interactive: false,
+                                    text: ''
+                            }).addTo(mapModal)
+
+                            var overlayMaps = {
+                                "Texas AFT Locals/Org Committees": geojsonLocals,
+                                "Texas House": geojsonhd,
+                                "Texas Senate": geojsonsd,
+                                "Congress": geojsoncd,
+                                "SBOE": geojsoned,
+                            }
+
+                            var layerControl = L.control.layers(null, overlayMaps).addTo(mapModal);
+
+                            mapModal.fitBounds(geojsonSchoolDistrict.getBounds())
+                            mapModal.setZoom(9)
+
+                            // TODO: dynamically create table of lege districts (House + Senate)
+
+                            var houseDistricts = districtLocal.properties.House
+                            var senateDistricts = districtLocal.properties.Senate
+
+                            var houseList = '<ul>';
+
+                            for (var n = 0; n < houseDistricts.length; n++) {
+                               houseList += `<li><a target="_blank" href="https://house.texas.gov/members/member-page/?district=${houseDistricts[n][0].replace('DISTRICT ', '')}">${houseDistricts[n][0]}</a>: <span style="float: right;">${houseDistricts[n][1]}</span></li>`;
+                            }
+
+                            houseList += '</ul>';
+
+                            var houseDistrictsUnordered = document.getElementById('house-districts');
+                            houseDistrictsUnordered.innerHTML = houseList
+
+
+                            var senateList = '<ul>';
+
+                            for (var m = 0; m < senateDistricts.length; m++) {
+                               senateList += `<li><a target="_blank" href="https://senate.texas.gov/member.php?d=${senateDistricts[m][0].replace('DISTRICT ', '')}">${senateDistricts[m][0]}</a>: <span style="float: right;">${senateDistricts[m][1]}</span></li>`;
+                            }
+
+                            senateList += '</ul>';
+
+                            var senateDistrictsUnordered = document.getElementById('senate-districts');
+                            senateDistrictsUnordered.innerHTML = senateList
+
+                            var adaPercent = document.getElementById('detail-district-ada-percent');
+                            adaPercent.innerText = `${((parseFloat(districtLocal.properties.Attendance)/parseFloat(districtLocal.properties.Enrollment)) * 100).toFixed(2)}%`
+
+                            var enrollment = document.getElementById('detail-district-enrollment');
+                            enrollment.innerText = `${districtLocal.properties.Enrollment.toLocaleString()}`
+
+                            var attendance = document.getElementById('detail-district-attendance');
+                            attendance.innerText = `${districtLocal.properties.Attendance.toLocaleString()}`
+
+                            var charterCost = document.getElementById('detail-district-charter-cost');
+                            charterCost.innerText = `$${districtLocal.properties.CostOfCharters}`
+
+                            var charterCostPerStudent = document.getElementById('detail-district-charter-cost-per-student');
+                            charterCostPerStudent.innerText = `$${districtLocal.properties.PerStudentCostOfCharters}`
+
+                            var stateFunding = document.getElementById('detail-state-funding');
+                            stateFunding.innerText = `$${districtLocal.properties.StateFunding.toLocaleString()} (${((districtLocal.properties.StateFunding/(districtLocal.properties.StateFunding + districtLocal.properties.LocalFunding)) * 100).toFixed(2)}%)`
+
+                            var localFunding = document.getElementById('detail-local-funding');
+                            localFunding.innerText = `$${districtLocal.properties.LocalFunding.toLocaleString()} (${((districtLocal.properties.LocalFunding/(districtLocal.properties.StateFunding + districtLocal.properties.LocalFunding)) * 100).toFixed(2)}%)`
+
+                            var charterTransfers = document.getElementById('detail-charter-transfers');
+                            charterTransfers.innerText = `${districtLocal.properties.CharterTransfers.toLocaleString()}`
+
+                            var pieChart = document.getElementById('pie-chartcanvas-1');
+
+                            var options = {
+                              responsive: true,
+                              title: {
+                                display: true,
+                                position: "top",
+                                text: "Pie Chart",
+                                fontSize: 18,
+                                fontColor: "#111"
+                              },
+                              legend: {
+                                display: true,
+                                position: "bottom",
+                                labels: {
+                                  fontColor: "#333",
+                                  fontSize: 16
+                                }
+                              }
+                            };
+
+                            var stateFundingRaw = districtLocal.properties.StateFunding
+
+                            var localFundingRaw = districtLocal.properties.LocalFunding
+
+                            var stateShare = ((stateFundingRaw / (stateFundingRaw + localFundingRaw)) * 100).toFixed(2)
+
+                            var localShare = ((localFundingRaw / (stateFundingRaw + localFundingRaw)) * 100).toFixed(2)
+
+
+                          var data1 = {
+                            labels: ["State", "Local"],
+                            datasets: [
+                              {
+                                label: `${districtLocal.properties.NAME} State v. Local Funding`,
+                                data: [stateShare, localShare],
+                                backgroundColor: [
+                                  "red",
+                                  "blue",
+
+                                ],
+                                borderColor: [
+                                  "darkred",
+                                  "darkblue",
+                                ],
+                                borderWidth: [1, 1]
+                              }
+                            ]
+                          };
+
+                    window.pieChart = new Chart(pieChart, {
+                                type: "pie",
+                                data: data1,
+                                options: options
+                            })
+
+                    var xValues = ["State Funding", "Recapture", "Cost of Charters"];
+                    var recaptureAmountFloat = 0
+
+                    if (districtLocal.properties.RecaptureAmount.includes("cost of recapture")) {
+                        recaptureAmountFloat = 0
+                    } else {
+                        recaptureAmountFloat = districtLocal.properties.RecaptureAmount.replaceAll(",", "")
+                        recaptureAmountFloat = parseInt(recaptureAmountFloat)
+                    }
+
+                    var costOfChartersFloat = parseFloat(districtLocal.properties.CostOfCharters.replaceAll(",", ""))
+
+                    var barChart = document.getElementById('myBarChart');
+
+                    var options2 = {
+                      responsive: true,
+                      title: {
+                        display: false,
+                        position: "top",
+                        text: "Bar Graph",
+                        fontSize: 18,
+                        fontColor: "#111"
+                      },
+                      legend: {
+                        display: false,
+                        position: "bottom",
+                        labels: {
+                          fontColor: "#333",
+                          fontSize: 16
+                        }
+                      },
+                      scales: {
+                        yAxes: [{
+                          ticks: {
+                            min: 0
+                          }
+                        }]
+                      },
+                        plugins: {
+                        legend: {
+                          display: false
+                        }
+                      }
+                    };
+
+                    var data = {
+                        labels: xValues,
+                        datasets: [
+                          {
+                            labels: "Cost Comparison",
+                            data: [stateFundingRaw, recaptureAmountFloat, costOfChartersFloat],
+                            backgroundColor: [
+                              "red",
+                                "orange",
+                                "yellow"
+                            ],
+                            borderColor: [
+                              "black",
+                                "black",
+                                "black",
+                            ],
+                            borderWidth: 1
+                          }
+                        ]
+                      };
+
+                    window.barChart = new Chart(barChart, {
+                        type: "bar",
+                        data: data,
+                        options: options2
+                      });
+
+                }
+            }
+
+            var districtNameField = document.getElementById('detail-district-name')
+            districtNameField.innerText = name
+
+            var districtNameField2 = document.getElementById('detail-district-name-2')
+            districtNameField2.innerText = name + ":"
+
+            var districtNumberField = document.getElementById('detail-district-number')
+            districtNumberField.innerText = number
+
+            var districtTeacherPay = document.getElementById('detail-district-teacher-pay')
+            districtTeacherPay.innerText = teacherPay
+
+            if (parseFloat(teacherPay) >= 0) {
+                districtTeacherPay.style.color = 'black';
+            } else {
+                districtTeacherPay.style.color = 'red';
+            }
+
+            var districtRecapture = document.getElementById('detail-district-recapture')
+            var formatter = new Intl.NumberFormat("en-US", {
+              style: "currency",
+              currency: "USD",
+
+              // These options are needed to round to whole numbers if that's what you want.
+              // minimumFractionDigits: 0, // (this suffices for whole numbers, but will print 2500.10 as $2,500.1)
+              maximumFractionDigits: 0, // (causes 2500.99 to be printed as $2,501)
+            });
+
+            if (!recaptureAmount.includes('report')) {
+                districtRecapture.innerText = formatter.format(recaptureAmount)
+            } else {
+                districtRecapture.innerText = recaptureAmount
+            }
+
+            var districtEnrollmentChange = document.getElementById('detail-district-enrollment-change')
+            districtEnrollmentChange.innerText = enrollmentChange
+
+            enrollmentChange.replace("%", "")
+
+            if (parseFloat(enrollmentChange) >= 0) {
+                districtEnrollmentChange.style.color = 'black'
+            } else {
+                districtEnrollmentChange.style.color = 'red'
+            }
+
+            var districtRawData = document.getElementById('raw-data-link')
+            districtRawData.href = rawDataLink
+            districtRawData.target = '_blank'
+
+            var detailJoinTheUnionButton = document.getElementById('detail-join-union-button')
+            var joinHoustonLocalDropdown = document.getElementById('detail-join-houston-local')
+
+            if (name === 'Houston ISD') {
+                detailJoinTheUnionButton.style.display = 'none'
+
+                joinHoustonLocalDropdown.style.display = ''
+
+            } else {
+                detailJoinTheUnionButton.style.display = ''
+
+                joinHoustonLocalDropdown.style.display = 'none'
+            }
+
+            document.getElementById('respect-map-modal').style.width = '65%'
+            document.getElementById('respect-map-modal').style.margin = 'auto'
+            
+            document.getElementById("myNav").style.width = "100%";
+
+            window.mapModal = mapModal
+
+            setTimeout(function() {
+                mapModal.invalidateSize();
+            }, 400);
+
+        }
+
+        function closeNav() {
+            window.mapModal.remove();
+            window.pieChart.destroy();
+            window.barChart.destroy();
+
+          document.getElementById("myNav").style.width = "0%";
+        }
+
+    </script>
+</footer>
+</html>

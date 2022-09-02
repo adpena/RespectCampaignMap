@@ -1,0 +1,15 @@
+.xml
+
+.idea
+
+.DS_Store
+
+*.geojson
+
+*.csv
+*.xlsx
+
+*.txt
+*.json
+
+DistrictsFinal.js
