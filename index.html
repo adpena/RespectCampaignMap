@@ -21,7 +21,7 @@
 
     <style>
         #respect-map {
-            height: 800px
+            height: 650px
         }
 
         #respect-map-modal {
@@ -79,6 +79,17 @@
             padding: 7px;
             cursor: pointer;
             margin: auto;
+        }
+
+        .respect-campaign-popup-button {
+            padding: 7px;
+            border: 1px solid gray;
+            border-radius: 4px;
+            color: white;
+        }
+
+        .respect-campaign-popup-button:hover {
+            opacity: 0.5
         }
 
         .overlay {
@@ -178,17 +189,19 @@
 </head>
 <body>
     <div style="margin: 30px;">
-        <h1>Respect Campaign</h1>
-        <h2>Statewide Salary Comparison</h2>
-        <p>Texas AFT is working with our local leaders across the state to XXXX.</p>
+        <h1>Respect Campaign Map</h1>
+        <p style="font-size: 24px;">School district salary analysis and local organizing wins</p>
 
-        <div style="margin: auto; border: 1px solid lightgrey; border-radius: 4px; width: 60%; min-width: 450px; text-align: center; padding: 15px;">
+        <div style="margin: auto; border: 1px solid lightgrey; border-radius: 4px; width: 70%; min-width: 450px; text-align: center; padding: 15px 30px;">
+            <h3>School employees have been underpaid and suffered a lack of respect at work for <u>too long.</u></h3>
+                <h3>School districts are experiencing the consequences as the so-called "recruitment/retention crisis."</h3>
 
-            <p>The below map is shaded according to XXXX. It looks bad and it is bad, but <u>teachers are fighting for change.</u></p>
+            <p>The below map displays Texas's school districts shaded according to the percentage change in the average teacher salary in the district between the 2009-2010 and 2020-2021 school years in 2021 U.S. dollars.</p>
 
-            <p><b>Together, we’ve just won all of these victories.</b></p>
+            <p>However, we are <u>fighting for change in school districts across the state</u> and <u>laying the groundwork for change in the Texas Legislature in 2023.</u> AFT members won significant victories across Texas by organizing in their districts' budget processes, and they brought home much-needed and well-deserved pay raises and benefits enhancements in 2022.</p>
 
-            <p>Texas AFT has a local or organizing committee in the school districts outlined in green. Find or search for your school district below to learn more about stagnant teacher pay in your district, the victories led by AFT members organizing in school districts across Texas, and lead change by joining AFT.</p>
+            <p>Our work is far from over. Texas AFT has a local or organizing committee in the school districts outlined in blue.</p>
+            <p><b>Find or search for your school district below (using the 🔍 or 🏠 buttons)</b> to learn more about stagnant teacher pay in your district, explore details regarding the victories led by AFT members, and lead change in your community together with AFT and your colleagues by joining your union.</p>
         </div>
     </div>
     <div id="respect-map"></div>
@@ -475,7 +488,7 @@
         }
 
         function resetHighlight(e) {
-            geojson.resetStyle(e.target);
+            window.geojson.resetStyle(e.target);
             info.update();
         }
 
@@ -555,7 +568,7 @@
             TexasDistrictsFeatureCollection['features'][i].properties["LocalFunding"] = districtData[districtNumber]["LocalFunding"]
         }
 
-        geojson = L.geoJSON(TexasDistrictsFeatureCollection, {
+        window.geojson = L.geoJSON(TexasDistrictsFeatureCollection, {
                 style: style,
                 onEachFeature: function (feature, layer) {
                     var color;
@@ -611,7 +624,7 @@
                         <label for="employer5">Student Membership</label><br>
 
                         <div style="margin: auto; text-align: center;">
-                        <button style="background-color: #1167B0; margin-top: 10px; width: 100%;"><a href="#" onclick="
+                        <button class="respect-campaign-popup-button" style="background-color: #1167B0; margin-top: 10px; width: 100%;"><a href="#" onclick="
                         var employers = document.getElementsByName('employer');
                         for (var i = 0; i < employers.length; i++) {if (employers[i].checked) {
                           var employerType = employers[i].value;
@@ -641,10 +654,10 @@
                                 window.open('https://www.texasaft.org/student-membership-application/', '_blank');
                             }
                         }}" style="text-decoration: none; color: white; font-size: 14px;">JOIN OUR UNION</a></button>
-                        <button style="margin-top: 10px; width: 100%; background: linear-gradient(166deg, rgba(2,0,36,1) 0%, rgba(0,51,102,1) 52%, rgba(255,204,51,1) 98%);"><a style="color: white; font-size: 14px; text-decoration: none;" href="https://actionnetwork.org/forms/take-the-respect-pledge" target="_blank">SIGN RESPECT PLEDGE</a></button>
+                        <button class="respect-campaign-popup-button" style="margin-top: 10px; width: 100%; background: linear-gradient(166deg, rgba(2,0,36,1) 0%, rgba(0,51,102,1) 52%, rgba(255,204,51,1) 98%);"><a style="color: white; font-size: 14px; text-decoration: none;" href="https://actionnetwork.org/forms/take-the-respect-pledge" target="_blank">SIGN RESPECT PLEDGE</a></button>
                         </div></div>`);
 
-                    layer.bindPopup(popup, {maxHeight: 700});
+                    layer.bindPopup(popup, {maxHeight: 550});
 
                 }
 
@@ -710,7 +723,7 @@
                 }
         })
 
-        map.addControl( new L.Control.Search({layer: geojson, propertyName: 'NAME', marker: {icon: false, animate: true, circle: true}, zoom: 10}).on("search:locationfound", function (e) {
+        map.addControl( new L.Control.Search({layer: window.geojson, propertyName: 'NAME', marker: {icon: false, animate: true, circle: true}, zoom: 10}).on("search:locationfound", function (e) {
                         if (e.layer._popup) e.layer.openPopup();
                       }));
 
@@ -729,12 +742,12 @@
         }).addTo(map)
 
         var overlayMaps = {
-            "Texas AFT Locals/Org Committees": geojsonLocals,
-            "School Districts": geojson,
-            "Texas House": geojsonhd,
-            "Texas Senate": geojsonsd,
-            "Congress": geojsoncd,
-            "SBOE": geojsoned,
+            "Texas AFT Locals/Org Committees": window.geojsonLocals,
+            "School Districts": window.geojson,
+            "Texas House": window.geojsonhd,
+            "Texas Senate": window.geojsonsd,
+            "Congress": window.geojsoncd,
+            "SBOE": window.geojsoned,
         }
 
         var layerControl = L.control.layers(null, overlayMaps).addTo(map);
@@ -781,6 +794,7 @@
         }
 
         L.control.findmylocationbutton({ position: 'bottomleft' }).addTo(map);
+
         }
 
         initMap()
