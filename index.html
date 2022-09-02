@@ -254,20 +254,6 @@
           <br>
 
           <div style="text-align: center;">
-              <div>
-                  <h2>Cost Comparison</h2>
-                  <div class="bar-chart-chart-container" style="height: 120px;">
-                    <div class="bar-chart-container">
-                      <canvas id="myBarChart" style="height: 120px; width: 480px;"></canvas>
-                    </div>
-                  </div>
-          </div>
-              <br>
-              <br>
-              <br>
-              <br>
-              <br>
-              <br>
 
               <h2>School District Profile</h2>
               <br>
@@ -286,7 +272,7 @@
                                     <p id="detail-district-teacher-pay"></p>
                                 </div>
                             </div>
-                            <div style="flex: 0.5; font-weight: normal; font-size: 0.85em; width: 65%; margin: auto;"><p>This figure represents the change in the average teacher salary in the district between the 2009-2010 and 2020-2021 school years after being adjusted for the impact of inflation. For example, $1.00 in 2009 USD was only worth $0.65 in 2021.</p><p>This figure does not capture changes in the local cost of living, which are increasing at accelerating and volatile rates in some areas of the state.</p><p>Therefore, this figure is conservative - if it shows a relative decline, the actual decline could be much more substantial.</p></div>
+                            <div style="flex: 0.5; font-weight: normal; font-size: 0.85em; width: 65%; margin: auto;"><p>This figure represents the change in the average teacher salary in the district between the 2009-2010 and 2020-2021 school years after being adjusted for the impact of inflation.</p><p>This figure does not capture changes in the local cost of living, which are increasing at accelerating and volatile rates in some areas of the state.</p><p>Therefore, this figure is conservative - if it shows a relative decline, the actual decline could be much more substantial depending on the local cost of living.</p></div>
                       </p>
                   </div>
                   <br>
@@ -377,6 +363,14 @@
                         </p>
                       </div>
                   </div>
+                      <div>
+                          <h4 class="modal-subheader">Cost Comparison</h4>
+                              <div class="bar-chart-chart-container" style="height: 180px;">
+                                <div class="bar-chart-container">
+                                  <canvas id="myBarChart" style="height: 180px; width: 480px;"></canvas>
+                                </div>
+                              </div>
+                        </div>
                 </div>
 
               </div>
