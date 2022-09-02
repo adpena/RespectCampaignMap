@@ -472,8 +472,8 @@ with open("Districts2020to2021.geojson", "r") as json_file:
                         feature["properties"]["StateFunding"], feature["properties"]["LocalFunding"] = get_state_and_local_funding(district_number)
                         new_json[district_number]["StateFunding"], new_json[district_number]["LocalFunding"] = get_state_and_local_funding(district_number)
 
-    with open("DistrictsFinal.geojson", "w", encoding="utf-8") as f:
-        json.dump(json_raw, f, ensure_ascii=False, indent=4)
+    # with open("DistrictsFinal.geojson", "w", encoding="utf-8") as f:
+        # json.dump(json_raw, f, ensure_ascii=False, indent=4)
 
     with open("DistrictsData.geojson", "w", encoding="utf-8") as f:
         json.dump(new_json, f, ensure_ascii=False, indent=4)
@@ -483,9 +483,7 @@ with open("Districts2020to2021.geojson", "r") as json_file:
         json.dump(new_json, f, ensure_ascii=False, indent=4)
         f.write(";\n")
 
-    with open("DistrictsFinal.js", "w", encoding="utf-8") as f:
+    """with open("DistrictsFinal.js", "w", encoding="utf-8") as f:
         f.write("var TexasDistrictsFeatureCollection = ")
         json.dump(json_raw, f, ensure_ascii=False, indent=4)
-        f.write(";\n")
-
-texas_average = -3.89
+        f.write(";\n")"""

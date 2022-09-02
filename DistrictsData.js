@@ -5317,7 +5317,7 @@ var DistrictsData = {
         "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-18.59%",
         "Enrollment": 7929.0,
-        "Victories": "<div>In 2022, Education Austin members fought for and WON:<ul><li></li><li></li><li></ul></li></div>",
+        "Victories": "<div>In 2022, Southwest Dallas members fought for and WON:<ul><li>$6,500 pay raise at every step level for teachers</li><li>starting salary up to $58,500</li><li>6% pay raise at midpoint for all paraprofessional and auxiliary staff</ul></li></div>",
         "JoinTAFT": "https://join.aft.org/form/texas-aft-associate-membership-program/local/TXAMP/texas-aft-amp-membership-form-pre-k-12",
         "RawDataLink": "https://netorg5477163-my.sharepoint.com/:x:/g/personal/apena_texasaft_org/Ecwt94k1hMlNp2gn8yheV5UBzK4ebnO9P4eYWpzeKFYqsw",
         "House": [
@@ -18170,7 +18170,7 @@ var DistrictsData = {
         "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.23%",
         "Enrollment": 31234.0,
-        "Victories": "",
+        "Victories": "<div>In 2022, PSJA AFT members fought for and WON:<ul><li>3% pay raise for all employees</li><li>$4,500 retention stipend for all employees</ul></li></div>",
         "JoinTAFT": "https://join.aft.org/form/psja-aft/local/06597/psja-aft-membership-application",
         "RawDataLink": "https://netorg5477163-my.sharepoint.com/:x:/g/personal/apena_texasaft_org/EQGvgO0yIgFPjUrXkZ8jze0BNcN8TNgvlWHP1zQmuajaBg",
         "House": [
@@ -18252,7 +18252,7 @@ var DistrictsData = {
         "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-5.13%",
         "Enrollment": 32797.0,
-        "Victories": "",
+        "Victories": "<div>In 2022, Edinburg AFT members fought for and WON:<ul><li>4.1% pay raise for teachers\n- 4% pay raise for all other staff</ul></li></div>",
         "JoinTAFT": "",
         "RawDataLink": "https://netorg5477163-my.sharepoint.com/:x:/g/personal/apena_texasaft_org/ERcdLejkN2tJnFVrSQ952YUBpxfaXUKa-jpgNGxSjlICVA",
         "House": [
@@ -28252,7 +28252,7 @@ var DistrictsData = {
         "RecaptureAmount": "16498121",
         "EnrollmentChange": "0.99%",
         "Enrollment": 48302.0,
-        "Victories": "",
+        "Victories": "<div>In 2022, Education Round Rock members fought for and WON:<ul><li>5% pay raise for teachers and librarians</li><li>$15 minimum hourly wage</ul></li></div>",
         "JoinTAFT": "https://drive.google.com/file/d/15-KYS20T_SyH_VZzmMCuVaiankZYZUit/view",
         "RawDataLink": "https://netorg5477163-my.sharepoint.com/:x:/g/personal/apena_texasaft_org/ERJYYGxBGSBHjJyECqVho5cBIdf7vpVjgXbSEDoigycMCw",
         "House": [
