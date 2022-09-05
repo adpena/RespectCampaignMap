@@ -846,7 +846,7 @@
             for (var i=0; i < window.TexasDistrictsFeatureCollection.features.length; i++) {
                 var districtLocal = window.TexasDistrictsFeatureCollection.features[i]
                 if (districtLocal.properties.NAME === name) {
-                            console.log(districtLocal.properties)
+                            // console.log(districtLocal.properties)
 
                             window.geojsonSchoolDistrict = L.geoJSON(districtLocal, {
                                     style: {
@@ -1058,7 +1058,7 @@
 
                     var xValues2 = ["All Teachers", "Beginning Teachers", "Campus Admin", "Central Admin", "Support Staff"];
 
-                    console.log(districtLocal.properties)
+                    //  (districtLocal.properties)
 
                     var allTeachers = parseFloat(districtLocal.properties.PercentChangeTeacherPay)
 
