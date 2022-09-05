@@ -102,18 +102,64 @@ with open("Districts2020to2021.geojson", "r") as json_file:
 
                         # G4: (float(ws['D4'].value) * float(1 + ws['AJ4'].value))
 
-                        percent_change = (
+                        percent_change_teacher_pay = round(((
                             (float(ws["D15"].value) * float(1 + ws["AJ15"].value))
                             - (float(ws["D4"].value) * float(1 + ws["AJ4"].value))
-                        ) / (float(ws["D4"].value) * float(1 + ws["AJ4"].value))
-
-                        percent_change = round(percent_change * 100, 2)
+                        ) / (float(ws["D4"].value) * float(1 + ws["AJ4"].value))) * 100, 2)
 
                         feature["properties"][
                             "PercentChangeTeacherPay"
-                        ] = percent_change
+                        ] = percent_change_teacher_pay
 
-                        new_json[district_number]["PercentChangeTeacherPay"] = percent_change
+                        new_json[district_number]["PercentChangeTeacherPay"] = percent_change_teacher_pay
+
+                        # COLUMN I
+                        try:
+                            percent_change_beginning_teacher = round(((
+                                (float(ws["I15"].value) * float(1 + ws["AJ15"].value))
+                                - (float(ws["I4"].value) * float(1 + ws["AJ4"].value))
+                            ) / (float(ws["I4"].value) * float(1 + ws["AJ4"].value))) * 100, 2)
+                        except Exception:
+                            percent_change_beginning_teacher = "N/A"
+
+                        feature["properties"]["PercentChangeBeginningTeacherPay"] = percent_change_beginning_teacher
+                        new_json[district_number]["PercentChangeBeginningTeacherPay"] = percent_change_beginning_teacher
+
+                        # COLUMN M
+                        try:
+                            percent_change_campus_admin = round(((
+                                    (float(ws["M15"].value) * float(1 + ws["AJ15"].value))
+                                    - (float(ws["M4"].value) * float(1 + ws["AJ4"].value))
+                                ) / (float(ws["M4"].value) * float(1 + ws["AJ4"].value))) * 100, 2)
+                        except Exception:
+                            percent_change_campus_admin = "N/A"
+
+                        feature["properties"]["PercentChangeCampusAdminPay"] = percent_change_campus_admin
+                        new_json[district_number]["PercentChangeCampusAdminPay"] = percent_change_campus_admin
+
+                        # COLUMN Q
+                        try:
+                            percent_change_central_admin = round(((
+                                    (float(ws["Q15"].value) * float(1 + ws["AJ15"].value))
+                                    - (float(ws["Q4"].value) * float(1 + ws["AJ4"].value))
+                                ) / (float(ws["Q4"].value) * float(1 + ws["AJ4"].value))) * 100, 2)
+                        except Exception:
+                            percent_change_central_admin = "N/A"
+
+                        feature["properties"]["PercentChangeCentralAdminPay"] = percent_change_central_admin
+                        new_json[district_number]["PercentChangeCentralAdminPay"] = percent_change_central_admin
+
+                        # COLUMN U
+                        try:
+                            percent_change_support_staff = round(((
+                                    (float(ws["U15"].value) * float(1 + ws["AJ15"].value))
+                                    - (float(ws["U4"].value) * float(1 + ws["AJ4"].value))
+                                ) / (float(ws["U4"].value) * float(1 + ws["AJ4"].value))) * 100, 2)
+                        except Exception:
+                            percent_change_support_staff = "N/A"
+
+                        feature["properties"]["PercentChangeSupportStaffPay"] = percent_change_support_staff
+                        new_json[district_number]["PercentChangeSupportStaffPay"] = percent_change_support_staff
 
                         # TODO: pull in recapture and enrollment
 

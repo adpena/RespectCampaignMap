@@ -177,15 +177,16 @@
 
         .bar-chart-chart-container {
               width: 80%;
-              height: 120px;
+              height: 180px;
               margin: 0 auto;
 
             }
 
         .bar-chart-container {
-            max-height: 120px;
+            max-height: 180px;
             width: 80%;
             margin: auto;
+            clear: right;
         }
 
         .modal-subheader {
@@ -286,7 +287,7 @@
 
                   <div style="text-align: center; padding: 15px; border: 1px solid lightgrey; border-radius: 4px;">
                       <h4 class="modal-subheader">2009-2010 TO 2020-2021 % CHANGE<br>IN AVERAGE TEACHER PAY (2021 USD)</h4>
-                      <p style="font-weight: bold; display: flex; flex-direction: column; text-align: center;">
+                      <p style="font-weight: bold; text-align: center;">
                             <div style="display: flex; flex-direction: row">
                                 <div style="flex: 0.5">
                                     <p style="font-weight: bold;">Texas Average:</p>
@@ -297,7 +298,12 @@
                                     <p id="detail-district-teacher-pay"></p>
                                 </div>
                             </div>
-                            <div style="flex: 0.5; font-weight: normal; font-size: 0.85em; width: 65%; margin: auto;"><p>This figure represents the change in the average teacher salary in the district between the 2009-2010 and 2020-2021 school years after being adjusted for the impact of inflation.</p><p>This figure does not capture changes in the local cost of living, which have increased at an accelerating rate in some areas of the state over the same period of time.</p><p>Therefore, this figure is conservative - if it shows a relative decline, the actual decline could be much more substantial depending on the local cost of living.</p></div>
+                            <div class="bar-chart-chart-container" style="display: block; height: 180px; width: 90%; clear: right;">
+                                <div class="bar-chart-container" style="display: block; height: 180px; width: 90%;">
+                                  <canvas id="myBarChart2" style="display: block; height: 180px; width: 90%;"></canvas>
+                                </div>
+                              </div>
+                            <div style="display: block; font-weight: normal; font-size: 0.85em; width: 65%; margin: auto;"><p>This chart represents the change in the average salary by professional staff type in the district between the 2009-2010 and 2020-2021 school years after being adjusted for the impact of inflation.</p><p>This figure does not capture changes in the local cost of living, which have increased at an accelerating rate in some areas of the state over the same period of time.</p><p>Therefore, this figure is conservative - if it shows a relative decline, the actual decline could be much more substantial depending on the local cost of living.</p></div>
                       </p>
                   </div>
                   <br>
@@ -392,7 +398,7 @@
                           <h4 class="modal-subheader">Cost Comparison</h4>
                               <div class="bar-chart-chart-container" style="height: 180px;">
                                 <div class="bar-chart-container">
-                                  <canvas id="myBarChart" style="height: 180px; width: 480px;"></canvas>
+                                  <canvas id="myBarChart" style="height: 180px; width: 90%;"></canvas>
                                 </div>
                               </div>
                         </div>
@@ -576,6 +582,11 @@
             var districtNumber = TexasDistrictsFeatureCollection['features'][i].properties.DISTRICT_C;
 
             TexasDistrictsFeatureCollection['features'][i].properties["PercentChangeTeacherPay"] = districtData[districtNumber]["PercentChangeTeacherPay"]
+            TexasDistrictsFeatureCollection['features'][i].properties["PercentChangeBeginningTeacherPay"] = districtData[districtNumber]["PercentChangeBeginningTeacherPay"]
+            TexasDistrictsFeatureCollection['features'][i].properties["PercentChangeCampusAdminPay"] = districtData[districtNumber]["PercentChangeCampusAdminPay"]
+            TexasDistrictsFeatureCollection['features'][i].properties["PercentChangeCentralAdminPay"] = districtData[districtNumber]["PercentChangeCentralAdminPay"]
+            TexasDistrictsFeatureCollection['features'][i].properties["PercentChangeSupportStaffPay"] = districtData[districtNumber]["PercentChangeSupportStaffPay"]
+
             TexasDistrictsFeatureCollection['features'][i].properties["RecaptureAmount"] = districtData[districtNumber]["RecaptureAmount"]
             TexasDistrictsFeatureCollection['features'][i].properties["EnrollmentChange"] = districtData[districtNumber]["EnrollmentChange"]
             TexasDistrictsFeatureCollection['features'][i].properties["Enrollment"] = districtData[districtNumber]["Enrollment"]
@@ -833,7 +844,7 @@
             }).addTo(mapModal);
 
             for (var i=0; i < window.TexasDistrictsFeatureCollection.features.length; i++) {
-                var districtLocal = TexasDistrictsFeatureCollection.features[i]
+                var districtLocal = window.TexasDistrictsFeatureCollection.features[i]
                 if (districtLocal.properties.NAME === name) {
                             console.log(districtLocal.properties)
 
@@ -988,6 +999,7 @@
 
                     var options2 = {
                       responsive: true,
+                        maintainAspectRatio: false,
                       title: {
                         display: false,
                         position: "top",
@@ -1042,6 +1054,124 @@
                         type: "bar",
                         data: data,
                         options: options2
+                      });
+
+                    var xValues2 = ["All Teachers", "Beginning Teachers", "Campus Admin", "Central Admin", "Support Staff"];
+
+                    console.log(districtLocal.properties)
+
+                    var allTeachers = parseFloat(districtLocal.properties.PercentChangeTeacherPay)
+
+                    var beginningTeachers;
+                    if (districtLocal.properties.PercentChangeBeginningTeacherPay.toString().includes("N/A")) {
+                        beginningTeachers = 0
+                    } else {
+                        beginningTeachers = parseFloat(districtLocal.properties.PercentChangeBeginningTeacherPay)
+                    }
+
+                    var campusAdmin;
+                    if (districtLocal.properties.PercentChangeCampusAdminPay.toString().includes("N/A")) {
+                        campusAdmin = 0
+                    } else {
+                        campusAdmin = parseFloat(districtLocal.properties.PercentChangeCampusAdminPay)
+                    }
+
+                    var centralAdmin;
+                    if (districtLocal.properties.PercentChangeCentralAdminPay.toString().includes("N/A")) {
+                        centralAdmin = 0
+                    } else {
+                        centralAdmin = parseFloat(districtLocal.properties.PercentChangeCentralAdminPay)
+                    }
+
+                    var supportStaff;
+                    if (districtLocal.properties.PercentChangeSupportStaffPay.toString().includes("N/A")) {
+                        supportStaff = 0
+                    } else {
+                        supportStaff = parseFloat(districtLocal.properties.PercentChangeSupportStaffPay)
+                    }
+
+                    var barChart2 = document.getElementById('myBarChart2');
+
+                    var options3 = {
+                      responsive: true,
+                        maintainAspectRatio: false,
+                      title: {
+                        display: true,
+                        position: "top",
+                        text: "Bar Graph",
+                        fontSize: 18,
+                        fontColor: "#111"
+                      },
+                      legend: {
+                        display: true,
+                        position: "bottom",
+                        labels: {
+                          fontColor: "#333",
+                          fontSize: 16,
+                        },
+                      },
+                      scales: {
+                        yAxes: [{
+                          ticks: {
+                            min: 0
+                          }
+                        }]
+                      },
+                        plugins: {
+                        legend: {
+                          display: true,
+                        }
+                      }
+                    };
+
+                    var data2 = {
+                        labels: xValues2,
+                        datasets: [
+                            {
+                                label: "Texas",
+                                data: [-3.89, -0.6, -4.38, 0.91, -3.06],
+                                backgroundColor: [
+                                    "blue",
+                                    "blue",
+                                    "blue",
+                                    "blue",
+                                    "blue"
+                                ],
+                                borderColor: [
+                                  "black",
+                                    "black",
+                                    "black",
+                                    "black",
+                                    "black"
+                                ],
+                                borderWidth: 1
+                            },
+                            {
+                              label: districtLocal.properties.NAME,
+                            data: [allTeachers, beginningTeachers, campusAdmin, centralAdmin, supportStaff],
+                            backgroundColor: [
+                                "red",
+                                "red",
+                              "red",
+                                "red",
+                                "red"
+                            ],
+                            borderColor: [
+                              "black",
+                                "black",
+                                "black",
+                                "black",
+                                "black"
+                            ],
+                            borderWidth: 1
+                          },
+                        ]
+                      };
+
+                    window.barChart2 = new Chart(barChart2, {
+                        type: "bar",
+                        data: data2,
+                        options: options3
                       });
 
                 }
@@ -1127,6 +1257,7 @@
             window.mapModal.remove();
             window.pieChart.destroy();
             window.barChart.destroy();
+            window.barChart2.destroy();
 
           document.getElementById("myNav").style.width = "0%";
         }
