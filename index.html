@@ -538,7 +538,7 @@
 
         info.update = function (props) {
             this._div.innerHTML = '<h4>School District</h4>' + (props ?
-                '<h1 style="line-height: 1em;" class="district-name-linked">'+props.NAME+'</h1><h2>CDN: <span style="font-weight: normal; float: right;">'+props.DISTRICT_C+'</span></h2><p style="font-weight: bold;">2009-2010 - 2020-2021 % Change<br/>in Average Teacher Salary<br/>(2021 USD): <span id="teacher-pay-modal" style="float: right; font-weight: normal; font-size: 1.5em;">'+props.PercentChangeTeacherPay+'%</span></p><p style="font-weight: bold;">"" Texas (2021 USD): <span style="float: right; font-weight: normal; font-size: 1.5em;">-3.89%</span></p>'
+                '<h1 style="line-height: 1em;" class="district-name-linked">'+props.NAME+'</h1><h2>CDN: <span style="font-weight: normal; float: right;">'+props.DISTRICT_C+'</span></h2><p style="font-weight: bold;">2009-2010 - 2020-2021 %<br/>Change in Average Teacher<br/>Salary (2021 USD): <span id="teacher-pay-modal" style="float: right; font-weight: normal; font-size: 1.5em;">'+props.PercentChangeTeacherPay+'%</span></p><p style="font-weight: bold;">"" Texas (2021 USD): <span style="float: right; font-weight: normal; font-size: 1.5em;">-3.89%</span></p>'
 
                 : 'Hover over a district');
             this._div.style.width = '250px';
