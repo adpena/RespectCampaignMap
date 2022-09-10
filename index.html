@@ -576,6 +576,7 @@
         legend.addTo(map);
 
         var districtData = DistrictsData;
+
         window.TexasDistrictsFeatureCollection = texasDistrictsFeatureCollection;
 
         for (var i=0; i < TexasDistrictsFeatureCollection['features'].length; i++) {
@@ -995,7 +996,7 @@
 
                     var costOfChartersFloat = parseFloat(districtLocal.properties.CostOfCharters.replaceAll(",", ""))
 
-                    var barChart = document.getElementById('myBarChart');
+                    var barChartElement = document.getElementById('myBarChart');
 
                     var options2 = {
                       responsive: true,
@@ -1050,7 +1051,7 @@
                         ]
                       };
 
-                    window.barChart = new Chart(barChart, {
+                    window.barChart = new Chart(barChartElement, {
                         type: "bar",
                         data: data,
                         options: options2
@@ -1090,7 +1091,7 @@
                         supportStaff = parseFloat(districtLocal.properties.PercentChangeSupportStaffPay)
                     }
 
-                    var barChart2 = document.getElementById('myBarChart2');
+                    var barChartElement2 = document.getElementById('myBarChart2');
 
                     var options3 = {
                       responsive: true,
@@ -1168,7 +1169,7 @@
                         ]
                       };
 
-                    window.barChart2 = new Chart(barChart2, {
+                    window.barChart2 = new Chart(barChartElement2, {
                         type: "bar",
                         data: data2,
                         options: options3
