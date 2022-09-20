@@ -286,8 +286,11 @@
               <div style="text-align: left; max-width: 650px; margin: auto; display: flex; flex-direction: column">
 
                   <div style="text-align: center; padding: 15px; border: 1px solid lightgrey; border-radius: 4px;">
-                      <h4 class="modal-subheader">2009-2010 TO 2020-2021 % CHANGE<br>IN AVERAGE TEACHER PAY (2021 USD)</h4>
+                      <h4 class="modal-subheader"><a id="raw-data-link-3">2009-2010 TO 2020-2021 % CHANGE IN<br>AVERAGE PAY BY PROFESSIONAL STAFF TYPE<br>(2021 USD)</a></h4>
                       <p style="font-weight: bold; text-align: center;">
+
+                      <h5 style="margin-bottom: 0; padding-bottom: 0;">ALL TEACHERS</h5>
+
                             <div style="display: flex; flex-direction: row">
                                 <div style="flex: 0.5">
                                     <p style="font-weight: bold;">Texas Average:</p>
@@ -298,12 +301,18 @@
                                     <p id="detail-district-teacher-pay"></p>
                                 </div>
                             </div>
+
+                      <div style="border: 1px solid lightgrey; border-radius: 4px;">
+
+                      <h5>COMPARISON BY STAFF TYPE</h5>
+
                             <div class="bar-chart-chart-container" style="display: block; height: 180px; width: 90%; clear: right;">
                                 <div class="bar-chart-container" style="display: block; height: 180px; width: 90%;">
                                   <canvas id="myBarChart2" style="display: block; height: 180px; width: 90%;"></canvas>
                                 </div>
                               </div>
-                            <div style="display: block; font-weight: normal; font-size: 0.85em; width: 65%; margin: auto;"><p>This chart represents the change in the average salary by professional staff type in the district between the 2009-2010 and 2020-2021 school years after being adjusted for the impact of inflation.</p><p>This figure does not capture changes in the local cost of living, nor does it capture the fairness of the actual salaries.</p><p>Click on the <a id="raw-data-link-2" href="" target="_blank">DATA: EMPLOYEE PAY</a> button above to dig deeper into the data.</p></div>
+                          </div>
+                            <div style="display: block; font-weight: normal; font-size: 0.85em; width: 80%; margin: auto; margin-top: 20px;"><p>This chart represents the change in the average salary by professional staff type in the district between the 2009-2010 and 2020-2021 school years after being adjusted for the impact of inflation.</p><p>This figure does not capture changes in the local cost of living, nor does it capture the fairness of the actual salaries.</p><p>Click on the <a id="raw-data-link-2" href="" target="_blank">DATA: EMPLOYEE PAY</a> button above to dig deeper into the data.</p></div>
                       </p>
                   </div>
                   <br>
@@ -312,7 +321,7 @@
                       <p style="font-weight: bold;">5-year % enrollment change: <span id="detail-district-enrollment-change" style="font-weight: normal;"></span></p>
                       <div style="display: flex; flex-direction: row;">
                         <div style="flex: 0.33; text-align: center;">
-                            <p style="font-weight: bold;">Attendance:
+                            <p style="font-weight: bold;"><a href="https://tealprod.tea.state.tx.us/fsp/Reports/ReportSelection.aspx">Attendance:</a>
                                 <br>
                                 <br>
                                 <br>
@@ -321,7 +330,7 @@
 
                         </div>
                           <div style="flex: 0.33; text-align: center;">
-                            <p style="font-weight: bold;">Enrollment:
+                            <p style="font-weight: bold;"><a href="https://rptsvr1.tea.texas.gov/adhocrpt/adste.html" target="_blank">Enrollment:</a>
                                 <br>
                                 <br>
                                 <br>
@@ -369,8 +378,8 @@
                   </div>
                     <br>
                   <div style="border: 1px solid lightgrey; border-radius: 4px; text-align: center; padding: 15px;">
-                  <h4 class="modal-subheader">2020-2021 STATE/LOCAL FUNDING</h4>
-                  <p style="font-weight: bold;">2020-2021 Recapture Liability: <span id="detail-district-recapture" style="font-weight: normal;"></span></p>
+                  <h4 class="modal-subheader"><a id="peims-actual-link">2020-2021 STATE/LOCAL FUNDING - OPERATING REVENUE</a></h4>
+                  <p style="font-weight: bold;">2020-2021 Cost of Recapture: <span id="detail-district-recapture" style="font-weight: normal;"></span></p>
 
                   <div class="chart-container" style="padding: 15px;">
                     <div class="pie-chart-container">
@@ -380,14 +389,15 @@
 
                   <div style="display: flex; flex-direction: row;">
                       <div style="flex: 0.25; flex-direction: column; text-align: center;">
-                        <p style="font-weight: bold; flex: 0.5; padding: 5px;">Total Local Funding:
+                        <p style="font-weight: bold; flex: 0.5; padding: 5px;">Local Property Tax from M&O (excl. recapture):
                             <br>
                             <br>
                             <span id="detail-local-funding" style="font-weight: normal; flex: 0.5"></span>
                         </p>
                       </div>
                       <div style="flex: 0.25; flex-direction: column; text-align: center;">
-                        <p style="font-weight: bold; flex: 0.5; padding: 5px;">Total State Funding:
+                        <p style="font-weight: bold; flex: 0.5; padding: 5px;">State Operating Funds:
+                            <br>
                             <br>
                             <br>
                             <span id="detail-state-funding" style="font-weight: normal; flex: 0.5"></span>
@@ -395,17 +405,21 @@
                       </div>
 
                       <div style="flex: 0.25; flex-direction: column; text-align: center;">
-                        <p style="font-weight: bold; flex: 0.5; padding: 5px;">Total Federal Funding:
+                        <p style="font-weight: bold; flex: 0.5; padding: 5px;">Federal Funds:
+                            <br>
+                            <br>
                             <br>
                             <br>
                             <span id="detail-federal-funding" style="font-weight: normal; flex: 0.5"></span>
                         </p>
                       </div>
                       <div style="flex: 0.25; flex-direction: column; text-align: center;">
-                        <p style="font-weight: bold; flex: 0.5; padding: 5px;">Total Other Local Funding:
+                        <p style="font-weight: bold; flex: 0.5; padding: 5px;">Other Local:
                             <br>
                             <br>
-                            <span id="detail-other-local-funding" style="font-weight: normal; flex: 0.5"></span>
+                            <br>
+                            <br>
+                            <span id="detail-other-local-funding" style="font-weight: normal; flex: 0.5;"></span>
                         </p>
                       </div>
                   </div>
@@ -435,14 +449,14 @@
 
           <div style="display: flex; flex-direction: row;">
               <div style="flex: 0.5; text-align: center;">
-                  <h4 style="text-decoration: underline;">Texas House District: % of School District Within HD</h4>
+                  <h4 style="text-decoration: underline;"><a href="https://data.capitol.texas.gov/dataset/planh2316" target="_blank">Texas House District: % of School District Within HD</a></h4>
                   <div id="house-districts" style="text-align: left; max-width: 400px; margin: auto;">
 
                   </div>
               </div>
 
               <div style="flex: 0.5; text-align: center;">
-                  <h4 style="text-decoration: underline;">Texas Senate District: % of School District Within SD</h4>
+                  <h4 style="text-decoration: underline;"><a href="https://data.capitol.texas.gov/dataset/plans2168" target="_blank">Texas Senate District: % of School District Within SD</a></h4>
                   <div id="senate-districts" style="text-align: left; max-width: 400px; margin: auto;">
 
                   </div>
@@ -993,7 +1007,7 @@
                             labels: ["Local (excl. recapture)", "State", "Federal", "Other Local"],
                             datasets: [
                               {
-                                label: `${districtLocal.properties.NAME} Funding Breakdown (All Funds)`,
+                                label: `${districtLocal.properties.NAME} Funding Breakdown (Operating Revenue, All Funds)`,
                                 data: [localShare, stateShare, federalShare, otherLocalShare],
                                 backgroundColor: [
                                   "red",
@@ -1022,11 +1036,11 @@
                     var xValues = ["State Funding", "Cost of Recapture", "Cost of Charters"];
                     var recaptureAmountFloat = 0
 
-                    if (districtLocal.properties.RecaptureAmount.includes("cost of recapture")) {
+                    if (districtLocal.properties.RecaptureAmount == 0) {
                         recaptureAmountFloat = 0
                     } else {
-                        recaptureAmountFloat = districtLocal.properties.RecaptureAmount.replaceAll(",", "")
-                        recaptureAmountFloat = parseInt(recaptureAmountFloat)
+                        // recaptureAmountFloat = districtLocal.properties.RecaptureAmount.replaceAll(",", "")
+                        recaptureAmountFloat = parseInt(districtLocal.properties.RecaptureAmount)
                     }
 
                     var costOfChartersFloat = parseFloat(districtLocal.properties.CostOfCharters.replaceAll(",", ""))
@@ -1265,6 +1279,14 @@
             var districtRawData2 = document.getElementById('raw-data-link-2')
             districtRawData2.href = rawDataLink
             districtRawData2.target = '_blank'
+
+            var districtRawData3 = document.getElementById('raw-data-link-3')
+            districtRawData3.href = rawDataLink
+            districtRawData3.target = '_blank'
+
+            var districtProfileFundingBreakdown = document.getElementById('peims-actual-link');
+            districtProfileFundingBreakdown.href = 'https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=sfadhoc.actual_report_2021.sas&_service=appserv&_debug=0&who_box=&who_list=' + number
+            districtProfileFundingBreakdown.target = '_blank'
 
             var detailJoinTheUnionButton = document.getElementById('detail-join-union-button')
             var joinHoustonLocalDropdown = document.getElementById('detail-join-houston-local')

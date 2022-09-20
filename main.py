@@ -197,11 +197,11 @@ with open("Districts2020to2021.geojson", "r") as json_file:
 
                             return recapture_amount_local
 
-                        recapture_amount = get_recapture_amount(district_number)
+                        # recapture_amount = get_recapture_amount(district_number)
 
-                        feature["properties"]["RecaptureAmount"] = recapture_amount
+                        # feature["properties"]["RecaptureAmount"] = recapture_amount
 
-                        new_json[district_number]["RecaptureAmount"] = recapture_amount
+                        # new_json[district_number]["RecaptureAmount"] = recapture_amount
 
                         def get_enrollment_change(year_delta, district_number_local):
                             enrollment_url = "/Users/adpena/PycharmProjects/CharterCostTracker/enrollment_reports/statewide_reports_consolidated/"
@@ -518,10 +518,6 @@ with open("Districts2020to2021.geojson", "r") as json_file:
                             return total_state_funding, total_local_funding
 
                         def get_state_and_local_funding(district_number_local):
-                            total_local_funding = 0.0
-                            total_state_funding = 0.0
-                            total_federal_funding = 0.0
-                            total_other_local_funding = 0.0
 
                             with open(peims_actual_funding_breakdown, "r") as csvfile:
                                 reader = csv.reader(csvfile)
@@ -538,10 +534,10 @@ with open("Districts2020to2021.geojson", "r") as json_file:
 
                                     else:
                                         if pad_district_number(row[header_indexes["District Number"]]) == district_number_local:
-                                            return int(row[header_indexes["Local"]].replace("$", "").replace(",", "")), int(row[header_indexes["State"]].replace("$", "").replace(",", "")), int(row[header_indexes["Federal"]].replace("$", "").replace(",", "")), int(row[header_indexes["Other Local"]].replace("$", "").replace(",", ""))
+                                            return int(row[header_indexes["Local"]].replace("$", "").replace(",", "")), int(row[header_indexes["State"]].replace("$", "").replace(",", "")), int(row[header_indexes["Federal"]].replace("$", "").replace(",", "")), int(row[header_indexes["Other Local"]].replace("$", "").replace(",", "")), int(row[header_indexes["Recapture"]].replace("$", "").replace(",", ""))
 
-                        feature["properties"]["LocalFunding"], feature["properties"]["StateFunding"], feature["properties"]["FederalFunding"], feature["properties"]["OtherLocalFunding"] = get_state_and_local_funding(district_number)
-                        new_json[district_number]["LocalFunding"], new_json[district_number]["StateFunding"], new_json[district_number]["FederalFunding"], new_json[district_number]["OtherLocalFunding"] = get_state_and_local_funding(district_number)
+                        feature["properties"]["LocalFunding"], feature["properties"]["StateFunding"], feature["properties"]["FederalFunding"], feature["properties"]["OtherLocalFunding"], feature["properties"]["RecaptureAmount"] = get_state_and_local_funding(district_number)
+                        new_json[district_number]["LocalFunding"], new_json[district_number]["StateFunding"], new_json[district_number]["FederalFunding"], new_json[district_number]["OtherLocalFunding"], new_json[district_number]["RecaptureAmount"] = get_state_and_local_funding(district_number)
 
     # with open("DistrictsFinal.geojson", "w", encoding="utf-8") as f:
         # json.dump(json_raw, f, ensure_ascii=False, indent=4)

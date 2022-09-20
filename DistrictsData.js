@@ -7,7 +7,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.37,
         "PercentChangeCentralAdminPay": 34.7,
         "PercentChangeSupportStaffPay": -2.1,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-14.81%",
         "Enrollment": 443.0,
         "Victories": "",
@@ -36,7 +35,8 @@ var DistrictsData = {
         "LocalFunding": 1961972,
         "StateFunding": 4260448,
         "FederalFunding": 1165187,
-        "OtherLocalFunding": 1603630
+        "OtherLocalFunding": 1603630,
+        "RecaptureAmount": 0
     },
     "063906": {
         "NAME": "PATTON SPRINGS ISD",
@@ -46,7 +46,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 34.51,
         "PercentChangeCentralAdminPay": -22.35,
         "PercentChangeSupportStaffPay": 3.09,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-21.05%",
         "Enrollment": 90.0,
         "Victories": "",
@@ -66,7 +65,8 @@ var DistrictsData = {
         "LocalFunding": 938833,
         "StateFunding": 1024969,
         "FederalFunding": 474418,
-        "OtherLocalFunding": 54778
+        "OtherLocalFunding": 54778,
+        "RecaptureAmount": 0
     },
     "063903": {
         "NAME": "SPUR ISD",
@@ -76,7 +76,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 11.64,
         "PercentChangeCentralAdminPay": 25.85,
         "PercentChangeSupportStaffPay": 7.22,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-11.76%",
         "Enrollment": 240.0,
         "Victories": "",
@@ -96,7 +95,8 @@ var DistrictsData = {
         "LocalFunding": 1404222,
         "StateFunding": 1477489,
         "FederalFunding": 352029,
-        "OtherLocalFunding": 103311
+        "OtherLocalFunding": 103311,
+        "RecaptureAmount": 0
     },
     "091906": {
         "NAME": "SHERMAN ISD",
@@ -106,7 +106,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.86,
         "PercentChangeCentralAdminPay": 26.59,
         "PercentChangeSupportStaffPay": -4.39,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.34%",
         "Enrollment": 7503.0,
         "Victories": "",
@@ -131,7 +130,8 @@ var DistrictsData = {
         "LocalFunding": 38745684,
         "StateFunding": 34713634,
         "FederalFunding": 13145353,
-        "OtherLocalFunding": 1032783
+        "OtherLocalFunding": 1032783,
+        "RecaptureAmount": 0
     },
     "091914": {
         "NAME": "S AND S CONS ISD",
@@ -141,7 +141,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -18.85,
         "PercentChangeCentralAdminPay": -3.72,
         "PercentChangeSupportStaffPay": 6.46,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "16.02%",
         "Enrollment": 985.0,
         "Victories": "",
@@ -156,7 +155,8 @@ var DistrictsData = {
         "LocalFunding": 5126723,
         "StateFunding": 6216840,
         "FederalFunding": 1439823,
-        "OtherLocalFunding": 262009
+        "OtherLocalFunding": 262009,
+        "RecaptureAmount": 0
     },
     "091913": {
         "NAME": "POTTSBORO ISD",
@@ -166,7 +166,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.77,
         "PercentChangeCentralAdminPay": 11.32,
         "PercentChangeSupportStaffPay": -5.72,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-1.47%",
         "Enrollment": 1403.0,
         "Victories": "",
@@ -186,7 +185,8 @@ var DistrictsData = {
         "LocalFunding": 9997993,
         "StateFunding": 2849993,
         "FederalFunding": 1950535,
-        "OtherLocalFunding": 554378
+        "OtherLocalFunding": 554378,
+        "RecaptureAmount": 0
     },
     "070912": {
         "NAME": "WAXAHACHIE ISD",
@@ -196,7 +196,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.54,
         "PercentChangeCentralAdminPay": 0.2,
         "PercentChangeSupportStaffPay": 0.74,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "19.18%",
         "Enrollment": 9679.0,
         "Victories": "",
@@ -216,7 +215,8 @@ var DistrictsData = {
         "LocalFunding": 50399150,
         "StateFunding": 43806028,
         "FederalFunding": 6147219,
-        "OtherLocalFunding": 2058503
+        "OtherLocalFunding": 2058503,
+        "RecaptureAmount": 0
     },
     "070910": {
         "NAME": "PALMER ISD",
@@ -226,7 +226,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -43.15,
         "PercentChangeCentralAdminPay": -33.02,
         "PercentChangeSupportStaffPay": -46.3,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "7.04%",
         "Enrollment": 1246.0,
         "Victories": "",
@@ -251,7 +250,8 @@ var DistrictsData = {
         "LocalFunding": 3834096,
         "StateFunding": 10479630,
         "FederalFunding": 1431657,
-        "OtherLocalFunding": 210287
+        "OtherLocalFunding": 210287,
+        "RecaptureAmount": 0
     },
     "070903": {
         "NAME": "ENNIS ISD",
@@ -261,7 +261,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.71,
         "PercentChangeCentralAdminPay": 16.81,
         "PercentChangeSupportStaffPay": 3.64,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.57%",
         "Enrollment": 5836.0,
         "Victories": "",
@@ -290,7 +289,8 @@ var DistrictsData = {
         "LocalFunding": 26379818,
         "StateFunding": 27347589,
         "FederalFunding": 8917635,
-        "OtherLocalFunding": 1047046
+        "OtherLocalFunding": 1047046,
+        "RecaptureAmount": 0
     },
     "091903": {
         "NAME": "DENISON ISD",
@@ -300,7 +300,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.89,
         "PercentChangeCentralAdminPay": -9.99,
         "PercentChangeSupportStaffPay": -3.91,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.22%",
         "Enrollment": 4591.0,
         "Victories": "",
@@ -325,7 +324,8 @@ var DistrictsData = {
         "LocalFunding": 22267158,
         "StateFunding": 21315077,
         "FederalFunding": 8537581,
-        "OtherLocalFunding": 1319567
+        "OtherLocalFunding": 1319567,
+        "RecaptureAmount": 0
     },
     "091901": {
         "NAME": "BELLS ISD",
@@ -335,7 +335,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -15.42,
         "PercentChangeCentralAdminPay": -4.44,
         "PercentChangeSupportStaffPay": -6.11,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "12.87%",
         "Enrollment": 868.0,
         "Victories": "",
@@ -360,7 +359,8 @@ var DistrictsData = {
         "LocalFunding": 3301371,
         "StateFunding": 6785091,
         "FederalFunding": 795309,
-        "OtherLocalFunding": 379481
+        "OtherLocalFunding": 379481,
+        "RecaptureAmount": 0
     },
     "091909": {
         "NAME": "WHITESBORO ISD",
@@ -370,7 +370,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -25.01,
         "PercentChangeCentralAdminPay": -11.48,
         "PercentChangeSupportStaffPay": -6.97,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.14%",
         "Enrollment": 1596.0,
         "Victories": "",
@@ -395,7 +394,8 @@ var DistrictsData = {
         "LocalFunding": 9953727,
         "StateFunding": 5698429,
         "FederalFunding": 2348132,
-        "OtherLocalFunding": 576039
+        "OtherLocalFunding": 576039,
+        "RecaptureAmount": 0
     },
     "091902": {
         "NAME": "COLLINSVILLE ISD",
@@ -405,7 +405,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.82,
         "PercentChangeCentralAdminPay": 5.82,
         "PercentChangeSupportStaffPay": 46.9,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.19%",
         "Enrollment": 539.0,
         "Victories": "",
@@ -434,7 +433,8 @@ var DistrictsData = {
         "LocalFunding": 2470125,
         "StateFunding": 4263996,
         "FederalFunding": 952592,
-        "OtherLocalFunding": 435433
+        "OtherLocalFunding": 435433,
+        "RecaptureAmount": 0
     },
     "121906": {
         "NAME": "EVADALE ISD",
@@ -444,7 +444,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 19.89,
         "PercentChangeCentralAdminPay": -2.44,
         "PercentChangeSupportStaffPay": -1.26,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-22.66%",
         "Enrollment": 389.0,
         "Victories": "",
@@ -469,7 +468,8 @@ var DistrictsData = {
         "LocalFunding": 3613851,
         "StateFunding": 1994011,
         "FederalFunding": 623336,
-        "OtherLocalFunding": 119567
+        "OtherLocalFunding": 119567,
+        "RecaptureAmount": 0
     },
     "121903": {
         "NAME": "BUNA ISD",
@@ -479,7 +479,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.48,
         "PercentChangeCentralAdminPay": 0.87,
         "PercentChangeSupportStaffPay": 102.96,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.4%",
         "Enrollment": 1492.0,
         "Victories": "",
@@ -504,7 +503,8 @@ var DistrictsData = {
         "LocalFunding": 4408217,
         "StateFunding": 10811315,
         "FederalFunding": 2492629,
-        "OtherLocalFunding": 1812859
+        "OtherLocalFunding": 1812859,
+        "RecaptureAmount": 0
     },
     "137904": {
         "NAME": "SANTA GERTRUDIS ISD",
@@ -514,7 +514,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -27.25,
         "PercentChangeCentralAdminPay": 18.21,
         "PercentChangeSupportStaffPay": -3.25,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "10.65%",
         "Enrollment": 779.0,
         "Victories": "",
@@ -539,7 +538,8 @@ var DistrictsData = {
         "LocalFunding": 965086,
         "StateFunding": 7096587,
         "FederalFunding": 608528,
-        "OtherLocalFunding": 443082
+        "OtherLocalFunding": 443082,
+        "RecaptureAmount": 0
     },
     "137903": {
         "NAME": "RIVIERA ISD",
@@ -549,7 +549,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 4.6,
         "PercentChangeCentralAdminPay": 31.23,
         "PercentChangeSupportStaffPay": 30.84,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.57%",
         "Enrollment": 435.0,
         "Victories": "",
@@ -578,7 +577,8 @@ var DistrictsData = {
         "LocalFunding": 2847025,
         "StateFunding": 2735357,
         "FederalFunding": 678449,
-        "OtherLocalFunding": 137895
+        "OtherLocalFunding": 137895,
+        "RecaptureAmount": 0
     },
     "137902": {
         "NAME": "RICARDO ISD",
@@ -588,7 +588,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.64,
         "PercentChangeCentralAdminPay": -8.84,
         "PercentChangeSupportStaffPay": 8.19,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.68%",
         "Enrollment": 654.0,
         "Victories": "",
@@ -613,7 +612,8 @@ var DistrictsData = {
         "LocalFunding": 2087508,
         "StateFunding": 5863521,
         "FederalFunding": 1194633,
-        "OtherLocalFunding": 105630
+        "OtherLocalFunding": 105630,
+        "RecaptureAmount": 0
     },
     "137901": {
         "NAME": "KINGSVILLE ISD",
@@ -623,7 +623,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.14,
         "PercentChangeCentralAdminPay": 15.05,
         "PercentChangeSupportStaffPay": 7.2,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-16.93%",
         "Enrollment": 2861.0,
         "Victories": "",
@@ -648,7 +647,8 @@ var DistrictsData = {
         "LocalFunding": 9498011,
         "StateFunding": 18149356,
         "FederalFunding": 6767878,
-        "OtherLocalFunding": 820719
+        "OtherLocalFunding": 820719,
+        "RecaptureAmount": 0
     },
     "228905": {
         "NAME": "APPLE SPRINGS ISD",
@@ -658,7 +658,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 15.04,
         "PercentChangeCentralAdminPay": -2.45,
         "PercentChangeSupportStaffPay": 18.55,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.49%",
         "Enrollment": 206.0,
         "Victories": "",
@@ -683,7 +682,8 @@ var DistrictsData = {
         "LocalFunding": 518054,
         "StateFunding": 2050488,
         "FederalFunding": 399193,
-        "OtherLocalFunding": 33269
+        "OtherLocalFunding": 33269,
+        "RecaptureAmount": 0
     },
     "228903": {
         "NAME": "TRINITY ISD",
@@ -693,7 +693,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.39,
         "PercentChangeCentralAdminPay": 6.72,
         "PercentChangeSupportStaffPay": -5.17,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.0%",
         "Enrollment": 1161.0,
         "Victories": "",
@@ -722,7 +721,8 @@ var DistrictsData = {
         "LocalFunding": 4739581,
         "StateFunding": 8603440,
         "FederalFunding": 1701145,
-        "OtherLocalFunding": 332001
+        "OtherLocalFunding": 332001,
+        "RecaptureAmount": 0
     },
     "113906": {
         "NAME": "KENNARD ISD",
@@ -732,7 +732,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.07,
         "PercentChangeCentralAdminPay": 58.85,
         "PercentChangeSupportStaffPay": 22.5,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-12.89%",
         "Enrollment": 223.0,
         "Victories": "",
@@ -757,7 +756,8 @@ var DistrictsData = {
         "LocalFunding": 1314574,
         "StateFunding": 1875627,
         "FederalFunding": 548439,
-        "OtherLocalFunding": 44028
+        "OtherLocalFunding": 44028,
+        "RecaptureAmount": 0
     },
     "155901": {
         "NAME": "JEFFERSON ISD",
@@ -767,7 +767,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.82,
         "PercentChangeCentralAdminPay": 4.64,
         "PercentChangeSupportStaffPay": -0.77,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.74%",
         "Enrollment": 1227.0,
         "Victories": "",
@@ -792,7 +791,8 @@ var DistrictsData = {
         "LocalFunding": 6410325,
         "StateFunding": 7384484,
         "FederalFunding": 4574414,
-        "OtherLocalFunding": 502645
+        "OtherLocalFunding": 502645,
+        "RecaptureAmount": 0
     },
     "034902": {
         "NAME": "AVINGER ISD",
@@ -802,7 +802,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -35.47,
         "PercentChangeCentralAdminPay": 54.61,
         "PercentChangeSupportStaffPay": -67.08,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.45%",
         "Enrollment": 140.0,
         "Victories": "",
@@ -827,7 +826,8 @@ var DistrictsData = {
         "LocalFunding": 838110,
         "StateFunding": 1448938,
         "FederalFunding": 188820,
-        "OtherLocalFunding": 12157
+        "OtherLocalFunding": 12157,
+        "RecaptureAmount": 0
     },
     "195901": {
         "NAME": "PECOS-BARSTOW-TOYAH ISD",
@@ -837,7 +837,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.85,
         "PercentChangeCentralAdminPay": 4.26,
         "PercentChangeSupportStaffPay": 20.37,
-        "RecaptureAmount": "99488537",
         "EnrollmentChange": "9.06%",
         "Enrollment": 2697.0,
         "Victories": "",
@@ -866,7 +865,8 @@ var DistrictsData = {
         "LocalFunding": 23667151,
         "StateFunding": 1393312,
         "FederalFunding": 7353774,
-        "OtherLocalFunding": 4571733
+        "OtherLocalFunding": 4571733,
+        "RecaptureAmount": 106052955
     },
     "195902": {
         "NAME": "BALMORHEA ISD",
@@ -876,7 +876,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 10.73,
         "PercentChangeCentralAdminPay": -0.86,
         "PercentChangeSupportStaffPay": 1.95,
-        "RecaptureAmount": "2604322",
         "EnrollmentChange": "-6.06%",
         "Enrollment": 155.0,
         "Victories": "",
@@ -901,7 +900,8 @@ var DistrictsData = {
         "LocalFunding": 2533422,
         "StateFunding": 77854,
         "FederalFunding": 215859,
-        "OtherLocalFunding": 63378
+        "OtherLocalFunding": 63378,
+        "RecaptureAmount": 2604436
     },
     "222901": {
         "NAME": "TERRELL COUNTY ISD",
@@ -911,7 +911,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 13.09,
         "PercentChangeCentralAdminPay": 3.54,
         "PercentChangeSupportStaffPay": -10.04,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-23.42%",
         "Enrollment": 121.0,
         "Victories": "",
@@ -936,7 +935,8 @@ var DistrictsData = {
         "LocalFunding": 1821385,
         "StateFunding": 158288,
         "FederalFunding": 159026,
-        "OtherLocalFunding": 802022
+        "OtherLocalFunding": 802022,
+        "RecaptureAmount": 382
     },
     "082902": {
         "NAME": "DILLEY ISD",
@@ -946,7 +946,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.89,
         "PercentChangeCentralAdminPay": -24.08,
         "PercentChangeSupportStaffPay": -18.13,
-        "RecaptureAmount": "2410468",
         "EnrollmentChange": "-8.59%",
         "Enrollment": 894.0,
         "Victories": "",
@@ -979,7 +978,8 @@ var DistrictsData = {
         "LocalFunding": 10096177,
         "StateFunding": 763534,
         "FederalFunding": 2238874,
-        "OtherLocalFunding": 312103
+        "OtherLocalFunding": 312103,
+        "RecaptureAmount": 2485517
     },
     "140907": {
         "NAME": "SPRINGLAKE-EARTH ISD",
@@ -989,7 +989,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 13.2,
         "PercentChangeCentralAdminPay": 13.02,
         "PercentChangeSupportStaffPay": -16.7,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-20.52%",
         "Enrollment": 306.0,
         "Victories": "",
@@ -1009,7 +1008,8 @@ var DistrictsData = {
         "LocalFunding": 986605,
         "StateFunding": 3148677,
         "FederalFunding": 839380,
-        "OtherLocalFunding": 140494
+        "OtherLocalFunding": 140494,
+        "RecaptureAmount": 0
     },
     "153904": {
         "NAME": "TAHOKA ISD",
@@ -1019,7 +1019,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.38,
         "PercentChangeCentralAdminPay": 28.02,
         "PercentChangeSupportStaffPay": 0.52,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.53%",
         "Enrollment": 597.0,
         "Victories": "",
@@ -1039,7 +1038,8 @@ var DistrictsData = {
         "LocalFunding": 2068921,
         "StateFunding": 5440813,
         "FederalFunding": 1456017,
-        "OtherLocalFunding": 824018
+        "OtherLocalFunding": 824018,
+        "RecaptureAmount": 0
     },
     "153903": {
         "NAME": "O'DONNELL ISD",
@@ -1049,7 +1049,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.96,
         "PercentChangeCentralAdminPay": "N/A",
         "PercentChangeSupportStaffPay": -1.99,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.61%",
         "Enrollment": 298.0,
         "Victories": "",
@@ -1073,7 +1072,8 @@ var DistrictsData = {
         "LocalFunding": 1037578,
         "StateFunding": 2879099,
         "FederalFunding": 565501,
-        "OtherLocalFunding": 239239
+        "OtherLocalFunding": 239239,
+        "RecaptureAmount": 0
     },
     "058902": {
         "NAME": "DAWSON ISD (DAWSON)",
@@ -1083,7 +1083,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.69,
         "PercentChangeCentralAdminPay": -7.78,
         "PercentChangeSupportStaffPay": 8.02,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-14.2%",
         "Enrollment": 151.0,
         "Victories": "",
@@ -1112,7 +1111,8 @@ var DistrictsData = {
         "LocalFunding": 859815,
         "StateFunding": 1281964,
         "FederalFunding": 258346,
-        "OtherLocalFunding": 80623
+        "OtherLocalFunding": 80623,
+        "RecaptureAmount": 0
     },
     "023902": {
         "NAME": "SILVERTON ISD",
@@ -1122,7 +1122,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.93,
         "PercentChangeCentralAdminPay": 0.59,
         "PercentChangeSupportStaffPay": 62.6,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.53%",
         "Enrollment": 188.0,
         "Victories": "",
@@ -1142,7 +1141,8 @@ var DistrictsData = {
         "LocalFunding": 1488843,
         "StateFunding": 905582,
         "FederalFunding": 413175,
-        "OtherLocalFunding": 51337
+        "OtherLocalFunding": 51337,
+        "RecaptureAmount": 0
     },
     "035903": {
         "NAME": "NAZARETH ISD",
@@ -1152,7 +1152,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.48,
         "PercentChangeCentralAdminPay": 3.64,
         "PercentChangeSupportStaffPay": 316.66,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "8.23%",
         "Enrollment": 250.0,
         "Victories": "",
@@ -1177,7 +1176,8 @@ var DistrictsData = {
         "LocalFunding": 823209,
         "StateFunding": 2446522,
         "FederalFunding": 241496,
-        "OtherLocalFunding": 196575
+        "OtherLocalFunding": 196575,
+        "RecaptureAmount": 0
     },
     "035902": {
         "NAME": "HART ISD",
@@ -1187,7 +1187,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 37.0,
         "PercentChangeCentralAdminPay": 77.32,
         "PercentChangeSupportStaffPay": 6.01,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-17.19%",
         "Enrollment": 212.0,
         "Victories": "",
@@ -1212,7 +1211,8 @@ var DistrictsData = {
         "LocalFunding": 830389,
         "StateFunding": 2345484,
         "FederalFunding": 522706,
-        "OtherLocalFunding": 40410
+        "OtherLocalFunding": 40410,
+        "RecaptureAmount": 0
     },
     "035901": {
         "NAME": "DIMMITT ISD",
@@ -1222,7 +1222,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.15,
         "PercentChangeCentralAdminPay": 13.12,
         "PercentChangeSupportStaffPay": 0.91,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.07%",
         "Enrollment": 1182.0,
         "Victories": "",
@@ -1247,7 +1246,8 @@ var DistrictsData = {
         "LocalFunding": 3046716,
         "StateFunding": 9344233,
         "FederalFunding": 2313172,
-        "OtherLocalFunding": 423867
+        "OtherLocalFunding": 423867,
+        "RecaptureAmount": 0
     },
     "127906": {
         "NAME": "STAMFORD ISD",
@@ -1257,7 +1257,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.87,
         "PercentChangeCentralAdminPay": -13.75,
         "PercentChangeSupportStaffPay": -4.0,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.16%",
         "Enrollment": 595.0,
         "Victories": "",
@@ -1281,7 +1280,8 @@ var DistrictsData = {
         "LocalFunding": 1094850,
         "StateFunding": 7484353,
         "FederalFunding": 3559056,
-        "OtherLocalFunding": 232653
+        "OtherLocalFunding": 232653,
+        "RecaptureAmount": 0
     },
     "104907": {
         "NAME": "PAINT CREEK ISD",
@@ -1291,7 +1291,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 11.57,
         "PercentChangeCentralAdminPay": 25.79,
         "PercentChangeSupportStaffPay": -0.36,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-35.92%",
         "Enrollment": 91.0,
         "Victories": "",
@@ -1315,7 +1314,8 @@ var DistrictsData = {
         "LocalFunding": 1568178,
         "StateFunding": 224578,
         "FederalFunding": 233334,
-        "OtherLocalFunding": 132586
+        "OtherLocalFunding": 132586,
+        "RecaptureAmount": 0
     },
     "221904": {
         "NAME": "MERKEL ISD",
@@ -1325,7 +1325,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.27,
         "PercentChangeCentralAdminPay": 22.82,
         "PercentChangeSupportStaffPay": -6.49,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.09%",
         "Enrollment": 1097.0,
         "Victories": "",
@@ -1350,7 +1349,8 @@ var DistrictsData = {
         "LocalFunding": 4404846,
         "StateFunding": 7173947,
         "FederalFunding": 1360539,
-        "OtherLocalFunding": 146477
+        "OtherLocalFunding": 146477,
+        "RecaptureAmount": 0
     },
     "127901": {
         "NAME": "ANSON ISD",
@@ -1360,7 +1360,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.29,
         "PercentChangeCentralAdminPay": 90.34,
         "PercentChangeSupportStaffPay": 17.01,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.61%",
         "Enrollment": 708.0,
         "Victories": "",
@@ -1385,7 +1384,8 @@ var DistrictsData = {
         "LocalFunding": 1496544,
         "StateFunding": 6960557,
         "FederalFunding": 1331735,
-        "OtherLocalFunding": 384586
+        "OtherLocalFunding": 384586,
+        "RecaptureAmount": 0
     },
     "221905": {
         "NAME": "TRENT ISD",
@@ -1395,7 +1395,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 39.61,
         "PercentChangeCentralAdminPay": -29.0,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "34257",
         "EnrollmentChange": "-41.52%",
         "Enrollment": 131.0,
         "Victories": "",
@@ -1415,7 +1414,8 @@ var DistrictsData = {
         "LocalFunding": 2008663,
         "StateFunding": 344555,
         "FederalFunding": 335311,
-        "OtherLocalFunding": 393143
+        "OtherLocalFunding": 393143,
+        "RecaptureAmount": 27103
     },
     "076903": {
         "NAME": "ROBY CONS ISD",
@@ -1425,7 +1425,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.87,
         "PercentChangeCentralAdminPay": 1.92,
         "PercentChangeSupportStaffPay": -20.51,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "9.03%",
         "Enrollment": 314.0,
         "Victories": "",
@@ -1449,7 +1448,8 @@ var DistrictsData = {
         "LocalFunding": 1567542,
         "StateFunding": 2537026,
         "FederalFunding": 409151,
-        "OtherLocalFunding": 1981561
+        "OtherLocalFunding": 1981561,
+        "RecaptureAmount": 0
     },
     "127903": {
         "NAME": "HAMLIN ISD",
@@ -1459,7 +1459,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.04,
         "PercentChangeCentralAdminPay": "N/A",
         "PercentChangeSupportStaffPay": 16.8,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "5.48%",
         "Enrollment": 443.0,
         "Victories": "",
@@ -1488,7 +1487,8 @@ var DistrictsData = {
         "LocalFunding": 1555127,
         "StateFunding": 4010626,
         "FederalFunding": 2137690,
-        "OtherLocalFunding": 391131
+        "OtherLocalFunding": 391131,
+        "RecaptureAmount": 0
     },
     "039904": {
         "NAME": "BELLEVUE ISD",
@@ -1498,7 +1498,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.79,
         "PercentChangeCentralAdminPay": -19.27,
         "PercentChangeSupportStaffPay": -3.69,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-0.68%",
         "Enrollment": 145.0,
         "Victories": "",
@@ -1523,7 +1522,8 @@ var DistrictsData = {
         "LocalFunding": 1434349,
         "StateFunding": 665093,
         "FederalFunding": 175951,
-        "OtherLocalFunding": 63197
+        "OtherLocalFunding": 63197,
+        "RecaptureAmount": 0
     },
     "169906": {
         "NAME": "GOLD-BURG ISD",
@@ -1533,7 +1533,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.2,
         "PercentChangeCentralAdminPay": -13.98,
         "PercentChangeSupportStaffPay": 6.25,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.99%",
         "Enrollment": 133.0,
         "Victories": "",
@@ -1562,7 +1561,8 @@ var DistrictsData = {
         "LocalFunding": 1184222,
         "StateFunding": 768246,
         "FederalFunding": 230205,
-        "OtherLocalFunding": 90507
+        "OtherLocalFunding": 90507,
+        "RecaptureAmount": 0
     },
     "235904": {
         "NAME": "NURSERY ISD",
@@ -1572,7 +1572,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": 21.96,
         "PercentChangeSupportStaffPay": -8.44,
-        "RecaptureAmount": "885844",
         "EnrollmentChange": "31.78%",
         "Enrollment": 141.0,
         "Victories": "",
@@ -1597,7 +1596,8 @@ var DistrictsData = {
         "LocalFunding": 1724311,
         "StateFunding": 71765,
         "FederalFunding": 183127,
-        "OtherLocalFunding": 58810
+        "OtherLocalFunding": 58810,
+        "RecaptureAmount": 886613
     },
     "235902": {
         "NAME": "VICTORIA ISD",
@@ -1607,7 +1607,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.21,
         "PercentChangeCentralAdminPay": 23.41,
         "PercentChangeSupportStaffPay": -4.8,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.05%",
         "Enrollment": 13479.0,
         "Victories": "",
@@ -1632,7 +1631,8 @@ var DistrictsData = {
         "LocalFunding": 59080356,
         "StateFunding": 55895943,
         "FederalFunding": 22991437,
-        "OtherLocalFunding": 2347309
+        "OtherLocalFunding": 2347309,
+        "RecaptureAmount": 0
     },
     "120905": {
         "NAME": "INDUSTRIAL ISD",
@@ -1642,7 +1642,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.28,
         "PercentChangeCentralAdminPay": -23.16,
         "PercentChangeSupportStaffPay": -0.57,
-        "RecaptureAmount": "16968",
         "EnrollmentChange": "-2.13%",
         "Enrollment": 1195.0,
         "Victories": "",
@@ -1671,7 +1670,8 @@ var DistrictsData = {
         "LocalFunding": 10809977,
         "StateFunding": 2437482,
         "FederalFunding": 872956,
-        "OtherLocalFunding": 799305
+        "OtherLocalFunding": 799305,
+        "RecaptureAmount": 0
     },
     "235901": {
         "NAME": "BLOOMINGTON ISD",
@@ -1681,7 +1681,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 7.8,
         "PercentChangeCentralAdminPay": 38.46,
         "PercentChangeSupportStaffPay": 9.12,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.21%",
         "Enrollment": 887.0,
         "Victories": "",
@@ -1706,7 +1705,8 @@ var DistrictsData = {
         "LocalFunding": 2205242,
         "StateFunding": 7234329,
         "FederalFunding": 1945966,
-        "OtherLocalFunding": 340949
+        "OtherLocalFunding": 340949,
+        "RecaptureAmount": 0
     },
     "158902": {
         "NAME": "TIDEHAVEN ISD",
@@ -1716,7 +1716,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 7.25,
         "PercentChangeCentralAdminPay": 11.57,
         "PercentChangeSupportStaffPay": -7.65,
-        "RecaptureAmount": "2654822",
         "EnrollmentChange": "8.03%",
         "Enrollment": 955.0,
         "Victories": "",
@@ -1741,7 +1740,8 @@ var DistrictsData = {
         "LocalFunding": 9306117,
         "StateFunding": 1410624,
         "FederalFunding": 1660552,
-        "OtherLocalFunding": 482456
+        "OtherLocalFunding": 482456,
+        "RecaptureAmount": 2633180
     },
     "158904": {
         "NAME": "MATAGORDA ISD",
@@ -1751,7 +1751,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": -7.2,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "1702396",
         "EnrollmentChange": "-38.37%",
         "Enrollment": 106.0,
         "Victories": "",
@@ -1776,7 +1775,8 @@ var DistrictsData = {
         "LocalFunding": 1393206,
         "StateFunding": 77758,
         "FederalFunding": 290681,
-        "OtherLocalFunding": 86346
+        "OtherLocalFunding": 86346,
+        "RecaptureAmount": 1560043
     },
     "158901": {
         "NAME": "BAY CITY ISD",
@@ -1786,7 +1786,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.49,
         "PercentChangeCentralAdminPay": 29.18,
         "PercentChangeSupportStaffPay": 14.18,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.48%",
         "Enrollment": 3536.0,
         "Victories": "",
@@ -1811,7 +1810,8 @@ var DistrictsData = {
         "LocalFunding": 13906090,
         "StateFunding": 18726946,
         "FederalFunding": 6317907,
-        "OtherLocalFunding": 2088381
+        "OtherLocalFunding": 2088381,
+        "RecaptureAmount": 0
     },
     "158905": {
         "NAME": "PALACIOS ISD",
@@ -1821,7 +1821,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.61,
         "PercentChangeCentralAdminPay": 20.53,
         "PercentChangeSupportStaffPay": -7.76,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-8.29%",
         "Enrollment": 1316.0,
         "Victories": "",
@@ -1850,7 +1849,8 @@ var DistrictsData = {
         "LocalFunding": 12013915,
         "StateFunding": 2236490,
         "FederalFunding": 2735064,
-        "OtherLocalFunding": 2536247
+        "OtherLocalFunding": 2536247,
+        "RecaptureAmount": 0
     },
     "200906": {
         "NAME": "OLFEN ISD",
@@ -1860,7 +1860,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -15.51,
         "PercentChangeCentralAdminPay": 60.94,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "97.22%",
         "Enrollment": 142.0,
         "Victories": "",
@@ -1880,7 +1879,8 @@ var DistrictsData = {
         "LocalFunding": 122183,
         "StateFunding": 2067650,
         "FederalFunding": 427283,
-        "OtherLocalFunding": 40634
+        "OtherLocalFunding": 40634,
+        "RecaptureAmount": 0
     },
     "200904": {
         "NAME": "WINTERS ISD",
@@ -1890,7 +1890,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.71,
         "PercentChangeCentralAdminPay": -12.22,
         "PercentChangeSupportStaffPay": -3.3,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.94%",
         "Enrollment": 556.0,
         "Victories": "",
@@ -1914,7 +1913,8 @@ var DistrictsData = {
         "LocalFunding": 2181339,
         "StateFunding": 4185471,
         "FederalFunding": 1049881,
-        "OtherLocalFunding": 122849
+        "OtherLocalFunding": 122849,
+        "RecaptureAmount": 0
     },
     "200902": {
         "NAME": "MILES ISD",
@@ -1924,7 +1924,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.92,
         "PercentChangeCentralAdminPay": -11.46,
         "PercentChangeSupportStaffPay": -12.99,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "14.15%",
         "Enrollment": 468.0,
         "Victories": "",
@@ -1944,7 +1943,8 @@ var DistrictsData = {
         "LocalFunding": 1162573,
         "StateFunding": 4864933,
         "FederalFunding": 449200,
-        "OtherLocalFunding": 257258
+        "OtherLocalFunding": 257258,
+        "RecaptureAmount": 0
     },
     "200901": {
         "NAME": "BALLINGER ISD",
@@ -1954,7 +1954,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.26,
         "PercentChangeCentralAdminPay": -8.45,
         "PercentChangeSupportStaffPay": -12.03,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.86%",
         "Enrollment": 854.0,
         "Victories": "",
@@ -1979,7 +1978,8 @@ var DistrictsData = {
         "LocalFunding": 3812160,
         "StateFunding": 6020170,
         "FederalFunding": 2600660,
-        "OtherLocalFunding": 459866
+        "OtherLocalFunding": 459866,
+        "RecaptureAmount": 0
     },
     "041901": {
         "NAME": "BRONTE ISD",
@@ -1989,7 +1989,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.89,
         "PercentChangeCentralAdminPay": -22.27,
         "PercentChangeSupportStaffPay": 13.76,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.4%",
         "Enrollment": 240.0,
         "Victories": "",
@@ -2014,7 +2013,8 @@ var DistrictsData = {
         "LocalFunding": 1402718,
         "StateFunding": 1497336,
         "FederalFunding": 368074,
-        "OtherLocalFunding": 236005
+        "OtherLocalFunding": 236005,
+        "RecaptureAmount": 0
     },
     "033902": {
         "NAME": "PANHANDLE ISD",
@@ -2024,7 +2024,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.14,
         "PercentChangeCentralAdminPay": -1.48,
         "PercentChangeSupportStaffPay": -11.75,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "2.76%",
         "Enrollment": 669.0,
         "Victories": "",
@@ -2049,7 +2048,8 @@ var DistrictsData = {
         "LocalFunding": 4601225,
         "StateFunding": 2403371,
         "FederalFunding": 629367,
-        "OtherLocalFunding": 529659
+        "OtherLocalFunding": 529659,
+        "RecaptureAmount": 0
     },
     "117903": {
         "NAME": "SANFORD-FRITCH ISD",
@@ -2059,7 +2059,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.43,
         "PercentChangeCentralAdminPay": -5.12,
         "PercentChangeSupportStaffPay": -6.49,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-11.5%",
         "Enrollment": 685.0,
         "Victories": "",
@@ -2084,7 +2083,8 @@ var DistrictsData = {
         "LocalFunding": 1351136,
         "StateFunding": 6037844,
         "FederalFunding": 924201,
-        "OtherLocalFunding": 283201
+        "OtherLocalFunding": 283201,
+        "RecaptureAmount": 0
     },
     "146907": {
         "NAME": "TARKINGTON ISD",
@@ -2094,7 +2094,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 8.48,
         "PercentChangeCentralAdminPay": 16.08,
         "PercentChangeSupportStaffPay": -5.32,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.86%",
         "Enrollment": 1718.0,
         "Victories": "",
@@ -2114,7 +2113,8 @@ var DistrictsData = {
         "LocalFunding": 6752123,
         "StateFunding": 9174084,
         "FederalFunding": 3988767,
-        "OtherLocalFunding": 437794
+        "OtherLocalFunding": 437794,
+        "RecaptureAmount": 0
     },
     "247901": {
         "NAME": "FLORESVILLE ISD",
@@ -2124,7 +2124,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -14.86,
         "PercentChangeCentralAdminPay": -3.77,
         "PercentChangeSupportStaffPay": -3.06,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.25%",
         "Enrollment": 3992.0,
         "Victories": "",
@@ -2157,7 +2156,8 @@ var DistrictsData = {
         "LocalFunding": 14317395,
         "StateFunding": 18512559,
         "FederalFunding": 4498185,
-        "OtherLocalFunding": 1702294
+        "OtherLocalFunding": 1702294,
+        "RecaptureAmount": 0
     },
     "058906": {
         "NAME": "LAMESA ISD",
@@ -2167,7 +2167,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.08,
         "PercentChangeCentralAdminPay": -2.05,
         "PercentChangeSupportStaffPay": -17.26,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-15.16%",
         "Enrollment": 1729.0,
         "Victories": "",
@@ -2192,7 +2191,8 @@ var DistrictsData = {
         "LocalFunding": 4998031,
         "StateFunding": 13514892,
         "FederalFunding": 7131463,
-        "OtherLocalFunding": 2770968
+        "OtherLocalFunding": 2770968,
+        "RecaptureAmount": 0
     },
     "058905": {
         "NAME": "KLONDIKE ISD",
@@ -2202,7 +2202,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.49,
         "PercentChangeCentralAdminPay": 1.82,
         "PercentChangeSupportStaffPay": -23.97,
-        "RecaptureAmount": "14081046",
         "EnrollmentChange": "-1.49%",
         "Enrollment": 264.0,
         "Victories": "",
@@ -2231,7 +2230,8 @@ var DistrictsData = {
         "LocalFunding": 6009129,
         "StateFunding": 179923,
         "FederalFunding": 242560,
-        "OtherLocalFunding": 365950
+        "OtherLocalFunding": 365950,
+        "RecaptureAmount": 14058054
     },
     "169909": {
         "NAME": "PRAIRIE VALLEY ISD",
@@ -2241,7 +2241,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.7,
         "PercentChangeCentralAdminPay": 4.61,
         "PercentChangeSupportStaffPay": -20.59,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.4%",
         "Enrollment": 152.0,
         "Victories": "",
@@ -2261,7 +2260,8 @@ var DistrictsData = {
         "LocalFunding": 951481,
         "StateFunding": 1108187,
         "FederalFunding": 349186,
-        "OtherLocalFunding": 67882
+        "OtherLocalFunding": 67882,
+        "RecaptureAmount": 0
     },
     "169902": {
         "NAME": "NOCONA ISD",
@@ -2271,7 +2271,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.75,
         "PercentChangeCentralAdminPay": 43.76,
         "PercentChangeSupportStaffPay": -8.46,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.51%",
         "Enrollment": 805.0,
         "Victories": "",
@@ -2296,7 +2295,8 @@ var DistrictsData = {
         "LocalFunding": 2682907,
         "StateFunding": 7228440,
         "FederalFunding": 2013065,
-        "OtherLocalFunding": 252416
+        "OtherLocalFunding": 252416,
+        "RecaptureAmount": 0
     },
     "169908": {
         "NAME": "MONTAGUE ISD",
@@ -2306,7 +2306,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 4.28,
         "PercentChangeCentralAdminPay": 15.26,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "5.59%",
         "Enrollment": 151.0,
         "Victories": "",
@@ -2331,7 +2330,8 @@ var DistrictsData = {
         "LocalFunding": 443982,
         "StateFunding": 1782259,
         "FederalFunding": 336268,
-        "OtherLocalFunding": 31091
+        "OtherLocalFunding": 31091,
+        "RecaptureAmount": 0
     },
     "169911": {
         "NAME": "SAINT JO ISD",
@@ -2341,7 +2341,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 21.65,
         "PercentChangeCentralAdminPay": 22.72,
         "PercentChangeSupportStaffPay": -24.77,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "26.59%",
         "Enrollment": 319.0,
         "Victories": "",
@@ -2366,7 +2365,8 @@ var DistrictsData = {
         "LocalFunding": 2006368,
         "StateFunding": 2080178,
         "FederalFunding": 347765,
-        "OtherLocalFunding": 317988
+        "OtherLocalFunding": 317988,
+        "RecaptureAmount": 0
     },
     "231901": {
         "NAME": "MCCAMEY ISD",
@@ -2376,7 +2376,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.4,
         "PercentChangeCentralAdminPay": -25.88,
         "PercentChangeSupportStaffPay": -3.02,
-        "RecaptureAmount": "3556702",
         "EnrollmentChange": "-14.97%",
         "Enrollment": 494.0,
         "Victories": "",
@@ -2396,7 +2395,8 @@ var DistrictsData = {
         "LocalFunding": 5725465,
         "StateFunding": 378030,
         "FederalFunding": 1026474,
-        "OtherLocalFunding": 2161859
+        "OtherLocalFunding": 2161859,
+        "RecaptureAmount": 3556213
     },
     "018908": {
         "NAME": "CRANFILLS GAP ISD",
@@ -2406,7 +2406,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": 12.08,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.77%",
         "Enrollment": 129.0,
         "Victories": "",
@@ -2439,7 +2438,8 @@ var DistrictsData = {
         "LocalFunding": 876758,
         "StateFunding": 1032225,
         "FederalFunding": 331012,
-        "OtherLocalFunding": 194769
+        "OtherLocalFunding": 194769,
+        "RecaptureAmount": 0
     },
     "097902": {
         "NAME": "HAMILTON ISD",
@@ -2449,7 +2449,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 10.62,
         "PercentChangeCentralAdminPay": 55.05,
         "PercentChangeSupportStaffPay": 10.39,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.15%",
         "Enrollment": 792.0,
         "Victories": "",
@@ -2474,7 +2473,8 @@ var DistrictsData = {
         "LocalFunding": 3728161,
         "StateFunding": 5900196,
         "FederalFunding": 963717,
-        "OtherLocalFunding": 116198
+        "OtherLocalFunding": 116198,
+        "RecaptureAmount": 0
     },
     "177902": {
         "NAME": "SWEETWATER ISD",
@@ -2484,7 +2484,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.29,
         "PercentChangeCentralAdminPay": 0.38,
         "PercentChangeSupportStaffPay": -0.8,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.63%",
         "Enrollment": 2083.0,
         "Victories": "",
@@ -2508,7 +2507,8 @@ var DistrictsData = {
         "LocalFunding": 8629377,
         "StateFunding": 10317064,
         "FederalFunding": 7681611,
-        "OtherLocalFunding": 1311762
+        "OtherLocalFunding": 1311762,
+        "RecaptureAmount": 0
     },
     "076904": {
         "NAME": "ROTAN ISD",
@@ -2518,7 +2518,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.3,
         "PercentChangeCentralAdminPay": 10.68,
         "PercentChangeSupportStaffPay": 11.02,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-12.13%",
         "Enrollment": 239.0,
         "Victories": "",
@@ -2538,7 +2537,8 @@ var DistrictsData = {
         "LocalFunding": 1879897,
         "StateFunding": 1347133,
         "FederalFunding": 480963,
-        "OtherLocalFunding": 206702
+        "OtherLocalFunding": 206702,
+        "RecaptureAmount": 0
     },
     "177901": {
         "NAME": "ROSCOE COLLEGIATE ISD",
@@ -2548,7 +2548,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -14.79,
         "PercentChangeCentralAdminPay": -6.42,
         "PercentChangeSupportStaffPay": -18.11,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "9.49%",
         "Enrollment": 681.0,
         "Victories": "",
@@ -2576,7 +2575,8 @@ var DistrictsData = {
         "LocalFunding": 3390660,
         "StateFunding": 10286095,
         "FederalFunding": 1364459,
-        "OtherLocalFunding": 2453662
+        "OtherLocalFunding": 2453662,
+        "RecaptureAmount": 0
     },
     "208901": {
         "NAME": "HERMLEIGH ISD",
@@ -2586,7 +2586,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.09,
         "PercentChangeCentralAdminPay": -31.53,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "0",
         "EnrollmentChange": "9.5%",
         "Enrollment": 265.0,
         "Victories": "",
@@ -2615,7 +2614,8 @@ var DistrictsData = {
         "LocalFunding": 1903047,
         "StateFunding": 971051,
         "FederalFunding": 211399,
-        "OtherLocalFunding": 217130
+        "OtherLocalFunding": 217130,
+        "RecaptureAmount": 0
     },
     "098903": {
         "NAME": "PRINGLE-MORSE CONS ISD",
@@ -2625,7 +2625,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.35,
         "PercentChangeCentralAdminPay": 19.38,
         "PercentChangeSupportStaffPay": 21.36,
-        "RecaptureAmount": "2540",
         "EnrollmentChange": "-9.6%",
         "Enrollment": 113.0,
         "Victories": "",
@@ -2654,7 +2653,8 @@ var DistrictsData = {
         "LocalFunding": 1317435,
         "StateFunding": 563491,
         "FederalFunding": 213896,
-        "OtherLocalFunding": 44575
+        "OtherLocalFunding": 44575,
+        "RecaptureAmount": 2534
     },
     "117904": {
         "NAME": "PLEMONS-STINNETT-PHILLIPS CONS ISD",
@@ -2664,7 +2664,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.6,
         "PercentChangeCentralAdminPay": -13.45,
         "PercentChangeSupportStaffPay": 2.09,
-        "RecaptureAmount": "4320288",
         "EnrollmentChange": "3.06%",
         "Enrollment": 673.0,
         "Victories": "",
@@ -2689,7 +2688,8 @@ var DistrictsData = {
         "LocalFunding": 6719720,
         "StateFunding": 530066,
         "FederalFunding": 934566,
-        "OtherLocalFunding": 488429
+        "OtherLocalFunding": 488429,
+        "RecaptureAmount": 4611128
     },
     "117907": {
         "NAME": "SPRING CREEK ISD",
@@ -2699,7 +2699,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.43,
         "PercentChangeCentralAdminPay": 4.09,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.95%",
         "Enrollment": 106.0,
         "Victories": "",
@@ -2719,7 +2718,8 @@ var DistrictsData = {
         "LocalFunding": 362538,
         "StateFunding": 1407943,
         "FederalFunding": 55758,
-        "OtherLocalFunding": 26814
+        "OtherLocalFunding": 26814,
+        "RecaptureAmount": 0
     },
     "117901": {
         "NAME": "BORGER ISD",
@@ -2729,7 +2729,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -16.44,
         "PercentChangeCentralAdminPay": -1.88,
         "PercentChangeSupportStaffPay": -1.33,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.47%",
         "Enrollment": 2472.0,
         "Victories": "",
@@ -2754,7 +2753,8 @@ var DistrictsData = {
         "LocalFunding": 5896956,
         "StateFunding": 16076391,
         "FederalFunding": 4215306,
-        "OtherLocalFunding": 1969989
+        "OtherLocalFunding": 1969989,
+        "RecaptureAmount": 0
     },
     "098904": {
         "NAME": "SPEARMAN ISD",
@@ -2764,7 +2764,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 77.88,
         "PercentChangeCentralAdminPay": -17.08,
         "PercentChangeSupportStaffPay": -3.93,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.52%",
         "Enrollment": 812.0,
         "Victories": "",
@@ -2788,7 +2787,8 @@ var DistrictsData = {
         "LocalFunding": 3639511,
         "StateFunding": 5735650,
         "FederalFunding": 1219416,
-        "OtherLocalFunding": 318282
+        "OtherLocalFunding": 318282,
+        "RecaptureAmount": 0
     },
     "241904": {
         "NAME": "WHARTON ISD",
@@ -2798,7 +2798,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.68,
         "PercentChangeCentralAdminPay": -9.18,
         "PercentChangeSupportStaffPay": -1.31,
-        "RecaptureAmount": "3391",
         "EnrollmentChange": "-13.98%",
         "Enrollment": 1914.0,
         "Victories": "",
@@ -2823,7 +2822,8 @@ var DistrictsData = {
         "LocalFunding": 12951527,
         "StateFunding": 5322186,
         "FederalFunding": 3105204,
-        "OtherLocalFunding": 743198
+        "OtherLocalFunding": 743198,
+        "RecaptureAmount": 0
     },
     "241906": {
         "NAME": "LOUISE ISD",
@@ -2833,7 +2833,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 9.11,
         "PercentChangeCentralAdminPay": 24.05,
         "PercentChangeSupportStaffPay": -6.69,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.71%",
         "Enrollment": 493.0,
         "Victories": "",
@@ -2858,7 +2857,8 @@ var DistrictsData = {
         "LocalFunding": 3028415,
         "StateFunding": 3004738,
         "FederalFunding": 528465,
-        "OtherLocalFunding": 319587
+        "OtherLocalFunding": 319587,
+        "RecaptureAmount": 0
     },
     "241903": {
         "NAME": "EL CAMPO ISD",
@@ -2868,7 +2868,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.54,
         "PercentChangeCentralAdminPay": -9.1,
         "PercentChangeSupportStaffPay": -4.05,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.97%",
         "Enrollment": 3530.0,
         "Victories": "",
@@ -2893,7 +2892,8 @@ var DistrictsData = {
         "LocalFunding": 14503996,
         "StateFunding": 19594210,
         "FederalFunding": 5412596,
-        "OtherLocalFunding": 1842500
+        "OtherLocalFunding": 1842500,
+        "RecaptureAmount": 0
     },
     "189902": {
         "NAME": "PRESIDIO ISD",
@@ -2903,7 +2903,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.15,
         "PercentChangeCentralAdminPay": 5.18,
         "PercentChangeSupportStaffPay": 14.56,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-22.55%",
         "Enrollment": 1058.0,
         "Victories": "",
@@ -2928,7 +2927,8 @@ var DistrictsData = {
         "LocalFunding": 2029128,
         "StateFunding": 10114440,
         "FederalFunding": 2085688,
-        "OtherLocalFunding": 248768
+        "OtherLocalFunding": 248768,
+        "RecaptureAmount": 0
     },
     "072908": {
         "NAME": "HUCKABAY ISD",
@@ -2938,7 +2938,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 7.89,
         "PercentChangeCentralAdminPay": 25.65,
         "PercentChangeSupportStaffPay": -22.93,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "37.86%",
         "Enrollment": 284.0,
         "Victories": "",
@@ -2971,7 +2970,8 @@ var DistrictsData = {
         "LocalFunding": 1836780,
         "StateFunding": 1192413,
         "FederalFunding": 92062,
-        "OtherLocalFunding": 124239
+        "OtherLocalFunding": 124239,
+        "RecaptureAmount": 0
     },
     "067907": {
         "NAME": "RANGER ISD",
@@ -2981,7 +2981,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.57,
         "PercentChangeCentralAdminPay": -11.55,
         "PercentChangeSupportStaffPay": -20.09,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-17.61%",
         "Enrollment": 351.0,
         "Victories": "",
@@ -3001,7 +3000,8 @@ var DistrictsData = {
         "LocalFunding": 1535885,
         "StateFunding": 2833309,
         "FederalFunding": 920873,
-        "OtherLocalFunding": 129137
+        "OtherLocalFunding": 129137,
+        "RecaptureAmount": 0
     },
     "067903": {
         "NAME": "EASTLAND ISD",
@@ -3011,7 +3011,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.18,
         "PercentChangeCentralAdminPay": 2.74,
         "PercentChangeSupportStaffPay": 4.2,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.46%",
         "Enrollment": 1072.0,
         "Victories": "",
@@ -3036,7 +3035,8 @@ var DistrictsData = {
         "LocalFunding": 5301960,
         "StateFunding": 5589987,
         "FederalFunding": 2530161,
-        "OtherLocalFunding": 301340
+        "OtherLocalFunding": 301340,
+        "RecaptureAmount": 0
     },
     "030901": {
         "NAME": "CROSS PLAINS ISD",
@@ -3046,7 +3046,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.87,
         "PercentChangeCentralAdminPay": -9.54,
         "PercentChangeSupportStaffPay": -22.55,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.01%",
         "Enrollment": 363.0,
         "Victories": "",
@@ -3075,7 +3074,8 @@ var DistrictsData = {
         "LocalFunding": 1846588,
         "StateFunding": 3036682,
         "FederalFunding": 535135,
-        "OtherLocalFunding": 31435
+        "OtherLocalFunding": 31435,
+        "RecaptureAmount": 0
     },
     "067902": {
         "NAME": "CISCO ISD",
@@ -3085,7 +3085,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.11,
         "PercentChangeCentralAdminPay": -17.61,
         "PercentChangeSupportStaffPay": 7.26,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.56%",
         "Enrollment": 839.0,
         "Victories": "",
@@ -3114,7 +3113,8 @@ var DistrictsData = {
         "LocalFunding": 5576322,
         "StateFunding": 4349496,
         "FederalFunding": 1055012,
-        "OtherLocalFunding": 1112546
+        "OtherLocalFunding": 1112546,
+        "RecaptureAmount": 0
     },
     "067908": {
         "NAME": "RISING STAR ISD",
@@ -3124,7 +3124,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 19.8,
         "PercentChangeCentralAdminPay": -45.75,
         "PercentChangeSupportStaffPay": 9.73,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "16.25%",
         "Enrollment": 186.0,
         "Victories": "",
@@ -3148,7 +3147,8 @@ var DistrictsData = {
         "LocalFunding": 583586,
         "StateFunding": 1814574,
         "FederalFunding": 254526,
-        "OtherLocalFunding": 49495
+        "OtherLocalFunding": 49495,
+        "RecaptureAmount": 0
     },
     "072909": {
         "NAME": "LINGLEVILLE ISD",
@@ -3158,7 +3158,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.96,
         "PercentChangeCentralAdminPay": 3.15,
         "PercentChangeSupportStaffPay": 10.07,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "8.59%",
         "Enrollment": 278.0,
         "Victories": "",
@@ -3195,7 +3194,8 @@ var DistrictsData = {
         "LocalFunding": 1190782,
         "StateFunding": 2189316,
         "FederalFunding": 358787,
-        "OtherLocalFunding": 36621
+        "OtherLocalFunding": 36621,
+        "RecaptureAmount": 0
     },
     "067904": {
         "NAME": "GORMAN ISD",
@@ -3205,7 +3205,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -24.92,
         "PercentChangeCentralAdminPay": -14.18,
         "PercentChangeSupportStaffPay": -13.44,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-14.29%",
         "Enrollment": 276.0,
         "Victories": "",
@@ -3238,7 +3237,8 @@ var DistrictsData = {
         "LocalFunding": 1251970,
         "StateFunding": 2202777,
         "FederalFunding": 1573457,
-        "OtherLocalFunding": 811998
+        "OtherLocalFunding": 811998,
+        "RecaptureAmount": 0
     },
     "047902": {
         "NAME": "DE LEON ISD",
@@ -3248,7 +3248,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 7.8,
         "PercentChangeCentralAdminPay": 21.4,
         "PercentChangeSupportStaffPay": 9.03,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "9.97%",
         "Enrollment": 739.0,
         "Victories": "",
@@ -3285,7 +3284,8 @@ var DistrictsData = {
         "LocalFunding": 2351841,
         "StateFunding": 6350390,
         "FederalFunding": 2350127,
-        "OtherLocalFunding": 681927
+        "OtherLocalFunding": 681927,
+        "RecaptureAmount": 0
     },
     "210903": {
         "NAME": "SHELBYVILLE ISD",
@@ -3295,7 +3295,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.81,
         "PercentChangeCentralAdminPay": -2.73,
         "PercentChangeSupportStaffPay": -19.36,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.1%",
         "Enrollment": 770.0,
         "Victories": "",
@@ -3315,7 +3314,8 @@ var DistrictsData = {
         "LocalFunding": 2666418,
         "StateFunding": 6101610,
         "FederalFunding": 1843285,
-        "OtherLocalFunding": 225785
+        "OtherLocalFunding": 225785,
+        "RecaptureAmount": 0
     },
     "201904": {
         "NAME": "LEVERETTS CHAPEL ISD",
@@ -3325,7 +3325,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -18.39,
         "PercentChangeCentralAdminPay": "N/A",
         "PercentChangeSupportStaffPay": 19.46,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.49%",
         "Enrollment": 237.0,
         "Victories": "",
@@ -3350,7 +3349,8 @@ var DistrictsData = {
         "LocalFunding": 354066,
         "StateFunding": 2838693,
         "FederalFunding": 375697,
-        "OtherLocalFunding": 40889
+        "OtherLocalFunding": 40889,
+        "RecaptureAmount": 0
     },
     "201908": {
         "NAME": "OVERTON ISD",
@@ -3360,7 +3360,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -17.54,
         "PercentChangeCentralAdminPay": 24.65,
         "PercentChangeSupportStaffPay": -10.69,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.98%",
         "Enrollment": 477.0,
         "Victories": "",
@@ -3385,7 +3384,8 @@ var DistrictsData = {
         "LocalFunding": 814325,
         "StateFunding": 4900570,
         "FederalFunding": 904733,
-        "OtherLocalFunding": 408226
+        "OtherLocalFunding": 408226,
+        "RecaptureAmount": 0
     },
     "201907": {
         "NAME": "MOUNT ENTERPRISE ISD",
@@ -3395,7 +3395,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.58,
         "PercentChangeCentralAdminPay": 4.77,
         "PercentChangeSupportStaffPay": -15.07,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.74%",
         "Enrollment": 403.0,
         "Victories": "",
@@ -3420,7 +3419,8 @@ var DistrictsData = {
         "LocalFunding": 640649,
         "StateFunding": 4583491,
         "FederalFunding": 451159,
-        "OtherLocalFunding": 342497
+        "OtherLocalFunding": 342497,
+        "RecaptureAmount": 0
     },
     "201903": {
         "NAME": "LANEVILLE ISD",
@@ -3430,7 +3430,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -58.75,
         "PercentChangeCentralAdminPay": 20.16,
         "PercentChangeSupportStaffPay": 18.21,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.44%",
         "Enrollment": 163.0,
         "Victories": "",
@@ -3455,7 +3454,8 @@ var DistrictsData = {
         "LocalFunding": 1016398,
         "StateFunding": 1445865,
         "FederalFunding": 270201,
-        "OtherLocalFunding": 44408
+        "OtherLocalFunding": 44408,
+        "RecaptureAmount": 0
     },
     "201902": {
         "NAME": "HENDERSON ISD",
@@ -3465,7 +3465,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.53,
         "PercentChangeCentralAdminPay": -5.46,
         "PercentChangeSupportStaffPay": -9.75,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.71%",
         "Enrollment": 3344.0,
         "Victories": "",
@@ -3490,7 +3489,8 @@ var DistrictsData = {
         "LocalFunding": 15025516,
         "StateFunding": 15519587,
         "FederalFunding": 5491848,
-        "OtherLocalFunding": 1498092
+        "OtherLocalFunding": 1498092,
+        "RecaptureAmount": 0
     },
     "174903": {
         "NAME": "GARRISON ISD",
@@ -3500,7 +3500,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.39,
         "PercentChangeCentralAdminPay": 13.63,
         "PercentChangeSupportStaffPay": -4.4,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.14%",
         "Enrollment": 691.0,
         "Victories": "",
@@ -3529,7 +3528,8 @@ var DistrictsData = {
         "LocalFunding": 1577589,
         "StateFunding": 6092178,
         "FederalFunding": 881766,
-        "OtherLocalFunding": 232010
+        "OtherLocalFunding": 232010,
+        "RecaptureAmount": 0
     },
     "174902": {
         "NAME": "CUSHING ISD",
@@ -3539,7 +3539,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 13.11,
         "PercentChangeCentralAdminPay": 7.5,
         "PercentChangeSupportStaffPay": -14.71,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "7.46%",
         "Enrollment": 576.0,
         "Victories": "",
@@ -3568,7 +3567,8 @@ var DistrictsData = {
         "LocalFunding": 1750848,
         "StateFunding": 4968097,
         "FederalFunding": 1042498,
-        "OtherLocalFunding": 308515
+        "OtherLocalFunding": 308515,
+        "RecaptureAmount": 0
     },
     "201910": {
         "NAME": "TATUM ISD",
@@ -3578,7 +3578,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.14,
         "PercentChangeCentralAdminPay": -17.97,
         "PercentChangeSupportStaffPay": -13.42,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-12.63%",
         "Enrollment": 1473.0,
         "Victories": "",
@@ -3602,7 +3601,8 @@ var DistrictsData = {
         "LocalFunding": 8298654,
         "StateFunding": 5690037,
         "FederalFunding": 2297647,
-        "OtherLocalFunding": 1302427
+        "OtherLocalFunding": 1302427,
+        "RecaptureAmount": 0
     },
     "037907": {
         "NAME": "RUSK ISD",
@@ -3612,7 +3612,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.37,
         "PercentChangeCentralAdminPay": -7.07,
         "PercentChangeSupportStaffPay": 0.2,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.1%",
         "Enrollment": 1969.0,
         "Victories": "",
@@ -3632,7 +3631,8 @@ var DistrictsData = {
         "LocalFunding": 4407286,
         "StateFunding": 13799351,
         "FederalFunding": 4679981,
-        "OtherLocalFunding": 937264
+        "OtherLocalFunding": 937264,
+        "RecaptureAmount": 0
     },
     "143905": {
         "NAME": "SWEET HOME ISD",
@@ -3642,7 +3642,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": 3.46,
         "PercentChangeSupportStaffPay": -60.6,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.67%",
         "Enrollment": 143.0,
         "Victories": "",
@@ -3667,7 +3666,8 @@ var DistrictsData = {
         "LocalFunding": 730020,
         "StateFunding": 1268759,
         "FederalFunding": 47178,
-        "OtherLocalFunding": 124861
+        "OtherLocalFunding": 124861,
+        "RecaptureAmount": 0
     },
     "143906": {
         "NAME": "EZZELL ISD",
@@ -3677,7 +3677,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": 20.94,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-19.79%",
         "Enrollment": 77.0,
         "Victories": "",
@@ -3702,7 +3701,8 @@ var DistrictsData = {
         "LocalFunding": 810220,
         "StateFunding": 182337,
         "FederalFunding": 117211,
-        "OtherLocalFunding": 47055
+        "OtherLocalFunding": 47055,
+        "RecaptureAmount": 0
     },
     "143903": {
         "NAME": "SHINER ISD",
@@ -3712,7 +3712,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.59,
         "PercentChangeCentralAdminPay": 12.33,
         "PercentChangeSupportStaffPay": 23.19,
-        "RecaptureAmount": "173598",
         "EnrollmentChange": "15.84%",
         "Enrollment": 702.0,
         "Victories": "",
@@ -3741,7 +3740,8 @@ var DistrictsData = {
         "LocalFunding": 7147435,
         "StateFunding": 974525,
         "FederalFunding": 351900,
-        "OtherLocalFunding": 871992
+        "OtherLocalFunding": 871992,
+        "RecaptureAmount": 135651
     },
     "143902": {
         "NAME": "MOULTON ISD",
@@ -3751,7 +3751,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 15.15,
         "PercentChangeCentralAdminPay": 40.21,
         "PercentChangeSupportStaffPay": 17.58,
-        "RecaptureAmount": "785997",
         "EnrollmentChange": "-10.34%",
         "Enrollment": 286.0,
         "Victories": "",
@@ -3780,7 +3779,8 @@ var DistrictsData = {
         "LocalFunding": 3359350,
         "StateFunding": 300705,
         "FederalFunding": 323622,
-        "OtherLocalFunding": 80248
+        "OtherLocalFunding": 80248,
+        "RecaptureAmount": 809386
     },
     "044902": {
         "NAME": "WELLINGTON ISD",
@@ -3790,7 +3790,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.18,
         "PercentChangeCentralAdminPay": 0.79,
         "PercentChangeSupportStaffPay": -6.07,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.6%",
         "Enrollment": 542.0,
         "Victories": "",
@@ -3805,7 +3804,8 @@ var DistrictsData = {
         "LocalFunding": 1857786,
         "StateFunding": 4369679,
         "FederalFunding": 1437220,
-        "OtherLocalFunding": 241840
+        "OtherLocalFunding": 241840,
+        "RecaptureAmount": 0
     },
     "104901": {
         "NAME": "HASKELL CONS ISD",
@@ -3815,7 +3815,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.19,
         "PercentChangeCentralAdminPay": -11.5,
         "PercentChangeSupportStaffPay": -5.08,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-11.29%",
         "Enrollment": 550.0,
         "Victories": "",
@@ -3840,7 +3839,8 @@ var DistrictsData = {
         "LocalFunding": 2840499,
         "StateFunding": 3738885,
         "FederalFunding": 2273699,
-        "OtherLocalFunding": 600470
+        "OtherLocalFunding": 600470,
+        "RecaptureAmount": 0
     },
     "104903": {
         "NAME": "RULE ISD",
@@ -3850,7 +3850,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.97,
         "PercentChangeCentralAdminPay": 3.55,
         "PercentChangeSupportStaffPay": -16.18,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "12.8%",
         "Enrollment": 141.0,
         "Victories": "",
@@ -3870,7 +3869,8 @@ var DistrictsData = {
         "LocalFunding": 748530,
         "StateFunding": 1397652,
         "FederalFunding": 308332,
-        "OtherLocalFunding": 36925
+        "OtherLocalFunding": 36925,
+        "RecaptureAmount": 0
     },
     "171902": {
         "NAME": "SUNRAY ISD",
@@ -3880,7 +3880,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 6.81,
         "PercentChangeCentralAdminPay": 7.94,
         "PercentChangeSupportStaffPay": -27.08,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "7.26%",
         "Enrollment": 591.0,
         "Victories": "",
@@ -3900,7 +3899,8 @@ var DistrictsData = {
         "LocalFunding": 2456524,
         "StateFunding": 3685069,
         "FederalFunding": 1420245,
-        "OtherLocalFunding": 465814
+        "OtherLocalFunding": 465814,
+        "RecaptureAmount": 0
     },
     "171901": {
         "NAME": "DUMAS ISD",
@@ -3910,7 +3910,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.04,
         "PercentChangeCentralAdminPay": -9.48,
         "PercentChangeSupportStaffPay": -4.45,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.25%",
         "Enrollment": 4170.0,
         "Victories": "",
@@ -3935,7 +3934,8 @@ var DistrictsData = {
         "LocalFunding": 18416026,
         "StateFunding": 17860814,
         "FederalFunding": 7586617,
-        "OtherLocalFunding": 841526
+        "OtherLocalFunding": 841526,
+        "RecaptureAmount": 0
     },
     "053001": {
         "NAME": "CROCKETT COUNTY CONS CSD",
@@ -3945,7 +3945,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 36.59,
         "PercentChangeCentralAdminPay": 14.31,
         "PercentChangeSupportStaffPay": -8.09,
-        "RecaptureAmount": "7078012",
         "EnrollmentChange": "-7.73%",
         "Enrollment": 764.0,
         "Victories": "",
@@ -3970,7 +3969,8 @@ var DistrictsData = {
         "LocalFunding": 8836131,
         "StateFunding": 915722,
         "FederalFunding": 1186127,
-        "OtherLocalFunding": 2914777
+        "OtherLocalFunding": 2914777,
+        "RecaptureAmount": 6815279
     },
     "129910": {
         "NAME": "SCURRY-ROSSER ISD",
@@ -3980,7 +3980,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.28,
         "PercentChangeCentralAdminPay": -7.2,
         "PercentChangeSupportStaffPay": -4.45,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "6.03%",
         "Enrollment": 1073.0,
         "Victories": "",
@@ -4005,7 +4004,8 @@ var DistrictsData = {
         "LocalFunding": 2862349,
         "StateFunding": 9074526,
         "FederalFunding": 1228214,
-        "OtherLocalFunding": 318197
+        "OtherLocalFunding": 318197,
+        "RecaptureAmount": 0
     },
     "129904": {
         "NAME": "KEMP ISD",
@@ -4015,7 +4015,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.29,
         "PercentChangeCentralAdminPay": -7.9,
         "PercentChangeSupportStaffPay": 12.29,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "10.41%",
         "Enrollment": 1654.0,
         "Victories": "",
@@ -4048,7 +4047,8 @@ var DistrictsData = {
         "LocalFunding": 5461141,
         "StateFunding": 12116519,
         "FederalFunding": 2971724,
-        "OtherLocalFunding": 342653
+        "OtherLocalFunding": 342653,
+        "RecaptureAmount": 0
     },
     "223902": {
         "NAME": "MEADOW ISD",
@@ -4058,7 +4058,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.51,
         "PercentChangeCentralAdminPay": 30.76,
         "PercentChangeSupportStaffPay": -25.79,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-19.45%",
         "Enrollment": 265.0,
         "Victories": "",
@@ -4078,7 +4077,8 @@ var DistrictsData = {
         "LocalFunding": 600311,
         "StateFunding": 2871414,
         "FederalFunding": 808630,
-        "OtherLocalFunding": 194684
+        "OtherLocalFunding": 194684,
+        "RecaptureAmount": 0
     },
     "223904": {
         "NAME": "WELLMAN-UNION CONS ISD",
@@ -4088,7 +4088,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.29,
         "PercentChangeCentralAdminPay": -9.59,
         "PercentChangeSupportStaffPay": 8.89,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "24.7%",
         "Enrollment": 308.0,
         "Victories": "",
@@ -4108,7 +4107,8 @@ var DistrictsData = {
         "LocalFunding": 1683696,
         "StateFunding": 2355553,
         "FederalFunding": 829000,
-        "OtherLocalFunding": 266429
+        "OtherLocalFunding": 266429,
+        "RecaptureAmount": 0
     },
     "083902": {
         "NAME": "LOOP ISD",
@@ -4118,7 +4118,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 10.94,
         "PercentChangeCentralAdminPay": 22.41,
         "PercentChangeSupportStaffPay": 20.86,
-        "RecaptureAmount": "101065",
         "EnrollmentChange": "32.73%",
         "Enrollment": 146.0,
         "Victories": "",
@@ -4147,7 +4146,8 @@ var DistrictsData = {
         "LocalFunding": 1795245,
         "StateFunding": 553432,
         "FederalFunding": 161702,
-        "OtherLocalFunding": 529015
+        "OtherLocalFunding": 529015,
+        "RecaptureAmount": 137389
     },
     "113903": {
         "NAME": "LOVELADY ISD",
@@ -4157,7 +4157,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.18,
         "PercentChangeCentralAdminPay": 64.48,
         "PercentChangeSupportStaffPay": -1.25,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.79%",
         "Enrollment": 512.0,
         "Victories": "",
@@ -4182,7 +4181,8 @@ var DistrictsData = {
         "LocalFunding": 2776080,
         "StateFunding": 3187771,
         "FederalFunding": 485834,
-        "OtherLocalFunding": 166040
+        "OtherLocalFunding": 166040,
+        "RecaptureAmount": 0
     },
     "113905": {
         "NAME": "LATEXO ISD",
@@ -4192,7 +4192,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.46,
         "PercentChangeCentralAdminPay": -4.42,
         "PercentChangeSupportStaffPay": 34.54,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.38%",
         "Enrollment": 464.0,
         "Victories": "",
@@ -4217,7 +4216,8 @@ var DistrictsData = {
         "LocalFunding": 1932578,
         "StateFunding": 3336140,
         "FederalFunding": 502907,
-        "OtherLocalFunding": 245834
+        "OtherLocalFunding": 245834,
+        "RecaptureAmount": 0
     },
     "113902": {
         "NAME": "GRAPELAND ISD",
@@ -4227,7 +4227,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -28.0,
         "PercentChangeCentralAdminPay": -2.79,
         "PercentChangeSupportStaffPay": -8.69,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "25.52%",
         "Enrollment": 605.0,
         "Victories": "",
@@ -4252,7 +4251,8 @@ var DistrictsData = {
         "LocalFunding": 3431976,
         "StateFunding": 3185384,
         "FederalFunding": 634664,
-        "OtherLocalFunding": 486351
+        "OtherLocalFunding": 486351,
+        "RecaptureAmount": 0
     },
     "113901": {
         "NAME": "CROCKETT ISD",
@@ -4262,7 +4262,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.99,
         "PercentChangeCentralAdminPay": 47.52,
         "PercentChangeSupportStaffPay": -3.54,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.01%",
         "Enrollment": 1273.0,
         "Victories": "",
@@ -4287,7 +4286,8 @@ var DistrictsData = {
         "LocalFunding": 4933263,
         "StateFunding": 8778779,
         "FederalFunding": 3786089,
-        "OtherLocalFunding": 517718
+        "OtherLocalFunding": 517718,
+        "RecaptureAmount": 0
     },
     "238902": {
         "NAME": "MONAHANS-WICKETT-PYOTE ISD",
@@ -4297,7 +4297,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.68,
         "PercentChangeCentralAdminPay": -21.98,
         "PercentChangeSupportStaffPay": 6.93,
-        "RecaptureAmount": "12205655",
         "EnrollmentChange": "-7.88%",
         "Enrollment": 2103.0,
         "Victories": "",
@@ -4317,7 +4316,8 @@ var DistrictsData = {
         "LocalFunding": 20652070,
         "StateFunding": 7854228,
         "FederalFunding": 2799519,
-        "OtherLocalFunding": 521768
+        "OtherLocalFunding": 521768,
+        "RecaptureAmount": 12216245
     },
     "238904": {
         "NAME": "GRANDFALLS-ROYALTY ISD",
@@ -4327,7 +4327,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 14.12,
         "PercentChangeCentralAdminPay": 0.59,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "0",
         "EnrollmentChange": "8.5%",
         "Enrollment": 166.0,
         "Victories": "",
@@ -4352,7 +4351,8 @@ var DistrictsData = {
         "LocalFunding": 1773626,
         "StateFunding": 237970,
         "FederalFunding": 351356,
-        "OtherLocalFunding": 37426
+        "OtherLocalFunding": 37426,
+        "RecaptureAmount": 0
     },
     "156905": {
         "NAME": "GRADY ISD",
@@ -4362,7 +4362,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.78,
         "PercentChangeCentralAdminPay": -7.72,
         "PercentChangeSupportStaffPay": -18.22,
-        "RecaptureAmount": "34401032",
         "EnrollmentChange": "2.26%",
         "Enrollment": 226.0,
         "Victories": "",
@@ -4387,7 +4386,8 @@ var DistrictsData = {
         "LocalFunding": 7265543,
         "StateFunding": 765322,
         "FederalFunding": 229911,
-        "OtherLocalFunding": 444878
+        "OtherLocalFunding": 444878,
+        "RecaptureAmount": 34443863
     },
     "252902": {
         "NAME": "NEWCASTLE ISD",
@@ -4397,7 +4397,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.97,
         "PercentChangeCentralAdminPay": 0.33,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.3%",
         "Enrollment": 210.0,
         "Victories": "",
@@ -4422,7 +4421,8 @@ var DistrictsData = {
         "LocalFunding": 825357,
         "StateFunding": 1960779,
         "FederalFunding": 317318,
-        "OtherLocalFunding": 176872
+        "OtherLocalFunding": 176872,
+        "RecaptureAmount": 0
     },
     "252901": {
         "NAME": "GRAHAM ISD",
@@ -4432,7 +4432,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.16,
         "PercentChangeCentralAdminPay": -5.82,
         "PercentChangeSupportStaffPay": 4.26,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.83%",
         "Enrollment": 2279.0,
         "Victories": "",
@@ -4465,7 +4464,8 @@ var DistrictsData = {
         "LocalFunding": 7338116,
         "StateFunding": 13736093,
         "FederalFunding": 5727598,
-        "OtherLocalFunding": 841503
+        "OtherLocalFunding": 841503,
+        "RecaptureAmount": 0
     },
     "103902": {
         "NAME": "HARTLEY ISD",
@@ -4475,7 +4475,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.53,
         "PercentChangeCentralAdminPay": 20.08,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "9.77%",
         "Enrollment": 236.0,
         "Victories": "",
@@ -4500,7 +4499,8 @@ var DistrictsData = {
         "LocalFunding": 1862171,
         "StateFunding": 1166154,
         "FederalFunding": 247952,
-        "OtherLocalFunding": 92721
+        "OtherLocalFunding": 92721,
+        "RecaptureAmount": 0
     },
     "103901": {
         "NAME": "CHANNING ISD",
@@ -4510,7 +4510,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 16.2,
         "PercentChangeCentralAdminPay": 8.87,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "0",
         "EnrollmentChange": "5.66%",
         "Enrollment": 168.0,
         "Victories": "",
@@ -4535,7 +4534,8 @@ var DistrictsData = {
         "LocalFunding": 2002453,
         "StateFunding": 314619,
         "FederalFunding": 263689,
-        "OtherLocalFunding": 49695
+        "OtherLocalFunding": 49695,
+        "RecaptureAmount": 7412
     },
     "056901": {
         "NAME": "DALHART ISD",
@@ -4545,7 +4545,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.6,
         "PercentChangeCentralAdminPay": -10.53,
         "PercentChangeSupportStaffPay": 0.3,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-7.17%",
         "Enrollment": 1632.0,
         "Victories": "",
@@ -4570,7 +4569,8 @@ var DistrictsData = {
         "LocalFunding": 12149682,
         "StateFunding": 3030419,
         "FederalFunding": 2499073,
-        "OtherLocalFunding": 610103
+        "OtherLocalFunding": 610103,
+        "RecaptureAmount": 0
     },
     "182904": {
         "NAME": "SANTO ISD",
@@ -4580,7 +4580,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.38,
         "PercentChangeCentralAdminPay": 48.47,
         "PercentChangeSupportStaffPay": 13.29,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.6%",
         "Enrollment": 453.0,
         "Victories": "",
@@ -4609,7 +4608,8 @@ var DistrictsData = {
         "LocalFunding": 3461302,
         "StateFunding": 2183065,
         "FederalFunding": 549171,
-        "OtherLocalFunding": 163397
+        "OtherLocalFunding": 163397,
+        "RecaptureAmount": 0
     },
     "072910": {
         "NAME": "MORGAN MILL ISD",
@@ -4619,7 +4619,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": 1.7,
         "PercentChangeSupportStaffPay": 67.65,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "4.03%",
         "Enrollment": 129.0,
         "Victories": "",
@@ -4644,7 +4643,8 @@ var DistrictsData = {
         "LocalFunding": 1060666,
         "StateFunding": 332122,
         "FederalFunding": 182889,
-        "OtherLocalFunding": 46195
+        "OtherLocalFunding": 46195,
+        "RecaptureAmount": 0
     },
     "182901": {
         "NAME": "GORDON ISD",
@@ -4654,7 +4654,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -18.65,
         "PercentChangeCentralAdminPay": -16.98,
         "PercentChangeSupportStaffPay": -41.32,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "15.18%",
         "Enrollment": 220.0,
         "Victories": "",
@@ -4683,7 +4682,8 @@ var DistrictsData = {
         "LocalFunding": 1684319,
         "StateFunding": 932059,
         "FederalFunding": 229283,
-        "OtherLocalFunding": 248170
+        "OtherLocalFunding": 248170,
+        "RecaptureAmount": 0
     },
     "072902": {
         "NAME": "DUBLIN ISD",
@@ -4693,7 +4693,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.51,
         "PercentChangeCentralAdminPay": -16.07,
         "PercentChangeSupportStaffPay": -21.63,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.14%",
         "Enrollment": 1093.0,
         "Victories": "",
@@ -4722,7 +4721,8 @@ var DistrictsData = {
         "LocalFunding": 4410743,
         "StateFunding": 7553385,
         "FederalFunding": 2425897,
-        "OtherLocalFunding": 598044
+        "OtherLocalFunding": 598044,
+        "RecaptureAmount": 0
     },
     "089903": {
         "NAME": "NIXON-SMILEY CONS ISD",
@@ -4732,7 +4732,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.78,
         "PercentChangeCentralAdminPay": -0.2,
         "PercentChangeSupportStaffPay": -5.54,
-        "RecaptureAmount": "165152",
         "EnrollmentChange": "-4.87%",
         "Enrollment": 1015.0,
         "Victories": "",
@@ -4765,7 +4764,8 @@ var DistrictsData = {
         "LocalFunding": 10750300,
         "StateFunding": 950605,
         "FederalFunding": 2234541,
-        "OtherLocalFunding": 912987
+        "OtherLocalFunding": 912987,
+        "RecaptureAmount": 160442
     },
     "161914": {
         "NAME": "WACO ISD",
@@ -4775,7 +4775,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.87,
         "PercentChangeCentralAdminPay": -40.38,
         "PercentChangeSupportStaffPay": -33.67,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.47%",
         "Enrollment": 14428.0,
         "Victories": "",
@@ -4799,7 +4798,8 @@ var DistrictsData = {
         "LocalFunding": 65811898,
         "StateFunding": 81835417,
         "FederalFunding": 33722403,
-        "OtherLocalFunding": 12129959
+        "OtherLocalFunding": 12129959,
+        "RecaptureAmount": 0
     },
     "161924": {
         "NAME": "HALLSBURG ISD",
@@ -4809,7 +4809,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -29.41,
         "PercentChangeCentralAdminPay": 22.91,
         "PercentChangeSupportStaffPay": -33.13,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.82%",
         "Enrollment": 164.0,
         "Victories": "",
@@ -4834,7 +4833,8 @@ var DistrictsData = {
         "LocalFunding": 859662,
         "StateFunding": 1018546,
         "FederalFunding": 231694,
-        "OtherLocalFunding": 44819
+        "OtherLocalFunding": 44819,
+        "RecaptureAmount": 0
     },
     "161923": {
         "NAME": "BOSQUEVILLE ISD",
@@ -4844,7 +4844,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.56,
         "PercentChangeCentralAdminPay": 3.83,
         "PercentChangeSupportStaffPay": 18.8,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "10.29%",
         "Enrollment": 729.0,
         "Victories": "",
@@ -4869,7 +4868,8 @@ var DistrictsData = {
         "LocalFunding": 2283859,
         "StateFunding": 6879161,
         "FederalFunding": 495712,
-        "OtherLocalFunding": 446036
+        "OtherLocalFunding": 446036,
+        "RecaptureAmount": 0
     },
     "154903": {
         "NAME": "NORTH ZULCH ISD",
@@ -4879,7 +4879,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -20.54,
         "PercentChangeCentralAdminPay": 86.93,
         "PercentChangeSupportStaffPay": -6.22,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-14.29%",
         "Enrollment": 300.0,
         "Victories": "",
@@ -4904,7 +4903,8 @@ var DistrictsData = {
         "LocalFunding": 2946811,
         "StateFunding": 878954,
         "FederalFunding": 541347,
-        "OtherLocalFunding": 168605
+        "OtherLocalFunding": 168605,
+        "RecaptureAmount": 0
     },
     "145906": {
         "NAME": "NORMANGEE ISD",
@@ -4914,7 +4914,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.51,
         "PercentChangeCentralAdminPay": -1.11,
         "PercentChangeSupportStaffPay": -1.87,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "7.4%",
         "Enrollment": 595.0,
         "Victories": "",
@@ -4939,7 +4938,8 @@ var DistrictsData = {
         "LocalFunding": 3590938,
         "StateFunding": 2836059,
         "FederalFunding": 856433,
-        "OtherLocalFunding": 249143
+        "OtherLocalFunding": 249143,
+        "RecaptureAmount": 0
     },
     "100904": {
         "NAME": "SILSBEE ISD",
@@ -4949,7 +4949,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.26,
         "PercentChangeCentralAdminPay": -3.22,
         "PercentChangeSupportStaffPay": 1.44,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.25%",
         "Enrollment": 2743.0,
         "Victories": "",
@@ -4969,7 +4968,8 @@ var DistrictsData = {
         "LocalFunding": 10035832,
         "StateFunding": 19386456,
         "FederalFunding": 5397483,
-        "OtherLocalFunding": 888601
+        "OtherLocalFunding": 888601,
+        "RecaptureAmount": 0
     },
     "052901": {
         "NAME": "CRANE ISD",
@@ -4979,7 +4979,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.3,
         "PercentChangeCentralAdminPay": 14.57,
         "PercentChangeSupportStaffPay": -14.54,
-        "RecaptureAmount": "2538386",
         "EnrollmentChange": "-4.27%",
         "Enrollment": 1099.0,
         "Victories": "",
@@ -5004,7 +5003,8 @@ var DistrictsData = {
         "LocalFunding": 9888439,
         "StateFunding": 2056644,
         "FederalFunding": 1324593,
-        "OtherLocalFunding": 593328
+        "OtherLocalFunding": 593328,
+        "RecaptureAmount": 2734738
     },
     "175911": {
         "NAME": "RICE ISD",
@@ -5014,7 +5014,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.12,
         "PercentChangeCentralAdminPay": -32.22,
         "PercentChangeSupportStaffPay": 8.04,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "12.02%",
         "Enrollment": 969.0,
         "Victories": "",
@@ -5034,7 +5033,8 @@ var DistrictsData = {
         "LocalFunding": 1766344,
         "StateFunding": 10183549,
         "FederalFunding": 1243908,
-        "OtherLocalFunding": 267509
+        "OtherLocalFunding": 267509,
+        "RecaptureAmount": 0
     },
     "175910": {
         "NAME": "MILDRED ISD",
@@ -5044,7 +5044,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.39,
         "PercentChangeCentralAdminPay": 7.62,
         "PercentChangeSupportStaffPay": 3.44,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "5.45%",
         "Enrollment": 755.0,
         "Victories": "",
@@ -5069,7 +5068,8 @@ var DistrictsData = {
         "LocalFunding": 4906581,
         "StateFunding": 3557296,
         "FederalFunding": 604832,
-        "OtherLocalFunding": 538591
+        "OtherLocalFunding": 538591,
+        "RecaptureAmount": 0
     },
     "175907": {
         "NAME": "KERENS ISD",
@@ -5079,7 +5079,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.31,
         "PercentChangeCentralAdminPay": 44.74,
         "PercentChangeSupportStaffPay": 5.9,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.52%",
         "Enrollment": 570.0,
         "Victories": "",
@@ -5104,7 +5103,8 @@ var DistrictsData = {
         "LocalFunding": 3496298,
         "StateFunding": 3117225,
         "FederalFunding": 1252460,
-        "OtherLocalFunding": 305353
+        "OtherLocalFunding": 305353,
+        "RecaptureAmount": 0
     },
     "065902": {
         "NAME": "HEDLEY ISD",
@@ -5114,7 +5114,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -20.6,
         "PercentChangeCentralAdminPay": -5.94,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-18.12%",
         "Enrollment": 113.0,
         "Victories": "",
@@ -5143,7 +5142,8 @@ var DistrictsData = {
         "LocalFunding": 726077,
         "StateFunding": 1320562,
         "FederalFunding": 243563,
-        "OtherLocalFunding": 59238
+        "OtherLocalFunding": 59238,
+        "RecaptureAmount": 0
     },
     "132902": {
         "NAME": "JAYTON-GIRARD ISD",
@@ -5153,7 +5153,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 16.39,
         "PercentChangeCentralAdminPay": -1.54,
         "PercentChangeSupportStaffPay": 8.94,
-        "RecaptureAmount": "1800333",
         "EnrollmentChange": "37.5%",
         "Enrollment": 176.0,
         "Victories": "",
@@ -5178,7 +5177,8 @@ var DistrictsData = {
         "LocalFunding": 2275019,
         "StateFunding": 525936,
         "FederalFunding": 150670,
-        "OtherLocalFunding": 6439563
+        "OtherLocalFunding": 6439563,
+        "RecaptureAmount": 1794072
     },
     "218901": {
         "NAME": "SONORA ISD",
@@ -5188,7 +5188,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.9,
         "PercentChangeCentralAdminPay": 7.36,
         "PercentChangeSupportStaffPay": -17.81,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-23.27%",
         "Enrollment": 699.0,
         "Victories": "",
@@ -5208,7 +5207,8 @@ var DistrictsData = {
         "LocalFunding": 6093110,
         "StateFunding": 2125258,
         "FederalFunding": 1718405,
-        "OtherLocalFunding": 450831
+        "OtherLocalFunding": 450831,
+        "RecaptureAmount": 0
     },
     "115902": {
         "NAME": "SIERRA BLANCA ISD",
@@ -5218,7 +5218,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 35.32,
         "PercentChangeCentralAdminPay": -9.47,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "0",
         "EnrollmentChange": "4.88%",
         "Enrollment": 129.0,
         "Victories": "",
@@ -5243,7 +5242,8 @@ var DistrictsData = {
         "LocalFunding": 1612708,
         "StateFunding": 372208,
         "FederalFunding": 232705,
-        "OtherLocalFunding": 261827
+        "OtherLocalFunding": 261827,
+        "RecaptureAmount": 0
     },
     "115901": {
         "NAME": "FORT HANCOCK ISD",
@@ -5253,7 +5253,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.41,
         "PercentChangeCentralAdminPay": 23.75,
         "PercentChangeSupportStaffPay": 25.37,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-5.98%",
         "Enrollment": 409.0,
         "Victories": "",
@@ -5278,7 +5277,8 @@ var DistrictsData = {
         "LocalFunding": 2803046,
         "StateFunding": 2280399,
         "FederalFunding": 740997,
-        "OtherLocalFunding": 47242
+        "OtherLocalFunding": 47242,
+        "RecaptureAmount": 0
     },
     "115903": {
         "NAME": "DELL CITY ISD",
@@ -5288,7 +5288,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": 8.46,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-13.41%",
         "Enrollment": 71.0,
         "Victories": "",
@@ -5313,7 +5312,8 @@ var DistrictsData = {
         "LocalFunding": 828144,
         "StateFunding": 977701,
         "FederalFunding": 227056,
-        "OtherLocalFunding": 61244
+        "OtherLocalFunding": 61244,
+        "RecaptureAmount": 0
     },
     "055901": {
         "NAME": "CULBERSON COUNTY-ALLAMORE ISD",
@@ -5323,7 +5323,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 11.99,
         "PercentChangeCentralAdminPay": 38.93,
         "PercentChangeSupportStaffPay": 31.64,
-        "RecaptureAmount": "21902871",
         "EnrollmentChange": "-11.24%",
         "Enrollment": 387.0,
         "Victories": "",
@@ -5348,7 +5347,8 @@ var DistrictsData = {
         "LocalFunding": 8270126,
         "StateFunding": 775961,
         "FederalFunding": 726083,
-        "OtherLocalFunding": 213281
+        "OtherLocalFunding": 213281,
+        "RecaptureAmount": 22421270
     },
     "254902": {
         "NAME": "LA PRYOR ISD",
@@ -5358,7 +5358,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 7.38,
         "PercentChangeCentralAdminPay": -15.0,
         "PercentChangeSupportStaffPay": -9.73,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "6.25%",
         "Enrollment": 527.0,
         "Victories": "",
@@ -5383,7 +5382,8 @@ var DistrictsData = {
         "LocalFunding": 2338850,
         "StateFunding": 5693340,
         "FederalFunding": 1137456,
-        "OtherLocalFunding": 134789
+        "OtherLocalFunding": 134789,
+        "RecaptureAmount": 0
     },
     "025906": {
         "NAME": "ZEPHYR ISD",
@@ -5393,7 +5393,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.51,
         "PercentChangeCentralAdminPay": -11.78,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.0%",
         "Enrollment": 199.0,
         "Victories": "",
@@ -5417,7 +5416,8 @@ var DistrictsData = {
         "LocalFunding": 597280,
         "StateFunding": 1814592,
         "FederalFunding": 332856,
-        "OtherLocalFunding": 144916
+        "OtherLocalFunding": 144916,
+        "RecaptureAmount": 0
     },
     "047905": {
         "NAME": "SIDNEY ISD",
@@ -5427,7 +5427,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.59,
         "PercentChangeCentralAdminPay": -20.89,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.43%",
         "Enrollment": 142.0,
         "Victories": "",
@@ -5447,7 +5446,8 @@ var DistrictsData = {
         "LocalFunding": 373100,
         "StateFunding": 1540617,
         "FederalFunding": 293442,
-        "OtherLocalFunding": 25306
+        "OtherLocalFunding": 25306,
+        "RecaptureAmount": 0
     },
     "167904": {
         "NAME": "PRIDDY ISD",
@@ -5457,7 +5457,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": -28.77,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.5%",
         "Enrollment": 116.0,
         "Victories": "",
@@ -5477,7 +5476,8 @@ var DistrictsData = {
         "LocalFunding": 438055,
         "StateFunding": 1370380,
         "FederalFunding": 184889,
-        "OtherLocalFunding": 211931
+        "OtherLocalFunding": 211931,
+        "RecaptureAmount": 0
     },
     "167902": {
         "NAME": "MULLIN ISD",
@@ -5487,7 +5487,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 25.42,
         "PercentChangeCentralAdminPay": -18.01,
         "PercentChangeSupportStaffPay": -2042910.01,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-49.18%",
         "Enrollment": 217.0,
         "Victories": "",
@@ -5516,7 +5515,8 @@ var DistrictsData = {
         "LocalFunding": 1275514,
         "StateFunding": 2503030,
         "FederalFunding": 1113390,
-        "OtherLocalFunding": 139103
+        "OtherLocalFunding": 139103,
+        "RecaptureAmount": 0
     },
     "025905": {
         "NAME": "MAY ISD",
@@ -5526,7 +5526,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.14,
         "PercentChangeCentralAdminPay": -49.95,
         "PercentChangeSupportStaffPay": 8.45,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-17.59%",
         "Enrollment": 253.0,
         "Victories": "",
@@ -5555,7 +5554,8 @@ var DistrictsData = {
         "LocalFunding": 1917983,
         "StateFunding": 1231354,
         "FederalFunding": 758312,
-        "OtherLocalFunding": 61077
+        "OtherLocalFunding": 61077,
+        "RecaptureAmount": 0
     },
     "047903": {
         "NAME": "GUSTINE ISD",
@@ -5565,7 +5565,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 27.17,
         "PercentChangeCentralAdminPay": 31.65,
         "PercentChangeSupportStaffPay": 19.0,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-22.68%",
         "Enrollment": 150.0,
         "Victories": "",
@@ -5590,7 +5589,8 @@ var DistrictsData = {
         "LocalFunding": 814936,
         "StateFunding": 1423298,
         "FederalFunding": 562429,
-        "OtherLocalFunding": 37547
+        "OtherLocalFunding": 37547,
+        "RecaptureAmount": 0
     },
     "047901": {
         "NAME": "COMANCHE ISD",
@@ -5600,7 +5600,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.13,
         "PercentChangeCentralAdminPay": 4.78,
         "PercentChangeSupportStaffPay": -7.04,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.42%",
         "Enrollment": 1318.0,
         "Victories": "",
@@ -5625,7 +5624,8 @@ var DistrictsData = {
         "LocalFunding": 4954324,
         "StateFunding": 9737653,
         "FederalFunding": 2658444,
-        "OtherLocalFunding": 708671
+        "OtherLocalFunding": 708671,
+        "RecaptureAmount": 0
     },
     "025904": {
         "NAME": "BLANKET ISD",
@@ -5635,7 +5635,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 24.18,
         "PercentChangeCentralAdminPay": -35.44,
         "PercentChangeSupportStaffPay": 3.79,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-31.25%",
         "Enrollment": 143.0,
         "Victories": "",
@@ -5664,7 +5663,8 @@ var DistrictsData = {
         "LocalFunding": 757791,
         "StateFunding": 1385494,
         "FederalFunding": 236305,
-        "OtherLocalFunding": 80542
+        "OtherLocalFunding": 80542,
+        "RecaptureAmount": 0
     },
     "102903": {
         "NAME": "WASKOM ISD",
@@ -5674,7 +5674,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.99,
         "PercentChangeCentralAdminPay": -14.72,
         "PercentChangeSupportStaffPay": -0.45,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-11.21%",
         "Enrollment": 824.0,
         "Victories": "",
@@ -5694,7 +5693,8 @@ var DistrictsData = {
         "LocalFunding": 3865155,
         "StateFunding": 5205716,
         "FederalFunding": 1510887,
-        "OtherLocalFunding": 899421
+        "OtherLocalFunding": 899421,
+        "RecaptureAmount": 0
     },
     "230906": {
         "NAME": "NEW DIANA ISD",
@@ -5704,7 +5704,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 8.97,
         "PercentChangeCentralAdminPay": 9.04,
         "PercentChangeSupportStaffPay": 13.2,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "13.09%",
         "Enrollment": 1175.0,
         "Victories": "",
@@ -5733,7 +5732,8 @@ var DistrictsData = {
         "LocalFunding": 2451057,
         "StateFunding": 8749850,
         "FederalFunding": 1315749,
-        "OtherLocalFunding": 497010
+        "OtherLocalFunding": 497010,
+        "RecaptureAmount": 0
     },
     "102902": {
         "NAME": "MARSHALL ISD",
@@ -5743,7 +5743,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.62,
         "PercentChangeCentralAdminPay": 1.61,
         "PercentChangeSupportStaffPay": 0.79,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.25%",
         "Enrollment": 5064.0,
         "Victories": "",
@@ -5768,7 +5767,8 @@ var DistrictsData = {
         "LocalFunding": 25637335,
         "StateFunding": 16959089,
         "FederalFunding": 10705362,
-        "OtherLocalFunding": 1140535
+        "OtherLocalFunding": 1140535,
+        "RecaptureAmount": 0
     },
     "102901": {
         "NAME": "KARNACK ISD",
@@ -5778,7 +5778,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -26.41,
         "PercentChangeCentralAdminPay": -8.39,
         "PercentChangeSupportStaffPay": -6.82,
-        "RecaptureAmount": "216825",
         "EnrollmentChange": "13.49%",
         "Enrollment": 143.0,
         "Victories": "",
@@ -5803,7 +5802,8 @@ var DistrictsData = {
         "LocalFunding": 1822430,
         "StateFunding": 116216,
         "FederalFunding": 508245,
-        "OtherLocalFunding": 327440
+        "OtherLocalFunding": 327440,
+        "RecaptureAmount": 222300
     },
     "102905": {
         "NAME": "HARLETON ISD",
@@ -5813,7 +5813,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.29,
         "PercentChangeCentralAdminPay": 43.18,
         "PercentChangeSupportStaffPay": 17.4,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.28%",
         "Enrollment": 714.0,
         "Victories": "",
@@ -5838,7 +5837,8 @@ var DistrictsData = {
         "LocalFunding": 1813750,
         "StateFunding": 6586365,
         "FederalFunding": 851403,
-        "OtherLocalFunding": 463308
+        "OtherLocalFunding": 463308,
+        "RecaptureAmount": 0
     },
     "102904": {
         "NAME": "HALLSVILLE ISD",
@@ -5848,7 +5848,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -18.22,
         "PercentChangeCentralAdminPay": 11.58,
         "PercentChangeSupportStaffPay": -9.7,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "209.3%",
         "Enrollment": 15267.0,
         "Victories": "",
@@ -5873,7 +5872,8 @@ var DistrictsData = {
         "LocalFunding": 26406193,
         "StateFunding": 104183168,
         "FederalFunding": 6337311,
-        "OtherLocalFunding": 9728684
+        "OtherLocalFunding": 9728684,
+        "RecaptureAmount": 0
     },
     "102906": {
         "NAME": "ELYSIAN FIELDS ISD",
@@ -5883,7 +5883,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -17.09,
         "PercentChangeCentralAdminPay": -3.14,
         "PercentChangeSupportStaffPay": -7.37,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.04%",
         "Enrollment": 846.0,
         "Victories": "",
@@ -5908,7 +5907,8 @@ var DistrictsData = {
         "LocalFunding": 6962418,
         "StateFunding": 4620082,
         "FederalFunding": 815663,
-        "OtherLocalFunding": 716459
+        "OtherLocalFunding": 716459,
+        "RecaptureAmount": 0
     },
     "168903": {
         "NAME": "WESTBROOK ISD",
@@ -5918,7 +5918,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -18.7,
         "PercentChangeCentralAdminPay": 6.88,
         "PercentChangeSupportStaffPay": 13.89,
-        "RecaptureAmount": "66490",
         "EnrollmentChange": "-19.79%",
         "Enrollment": 227.0,
         "Victories": "",
@@ -5938,7 +5937,8 @@ var DistrictsData = {
         "LocalFunding": 2382154,
         "StateFunding": 634667,
         "FederalFunding": 98271,
-        "OtherLocalFunding": 112779
+        "OtherLocalFunding": 112779,
+        "RecaptureAmount": 101928
     },
     "168902": {
         "NAME": "LORAINE ISD",
@@ -5948,7 +5948,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.27,
         "PercentChangeCentralAdminPay": -14.84,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-15.88%",
         "Enrollment": 143.0,
         "Victories": "",
@@ -5973,7 +5972,8 @@ var DistrictsData = {
         "LocalFunding": 1580149,
         "StateFunding": 462010,
         "FederalFunding": 231376,
-        "OtherLocalFunding": 110322
+        "OtherLocalFunding": 110322,
+        "RecaptureAmount": 0
     },
     "208903": {
         "NAME": "IRA ISD",
@@ -5983,7 +5983,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.31,
         "PercentChangeCentralAdminPay": -4.84,
         "PercentChangeSupportStaffPay": -16.15,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.44%",
         "Enrollment": 273.0,
         "Victories": "",
@@ -6008,7 +6007,8 @@ var DistrictsData = {
         "LocalFunding": 1387456,
         "StateFunding": 1758904,
         "FederalFunding": 103159,
-        "OtherLocalFunding": 179195
+        "OtherLocalFunding": 179195,
+        "RecaptureAmount": 0
     },
     "168901": {
         "NAME": "COLORADO ISD",
@@ -6018,7 +6018,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.82,
         "PercentChangeCentralAdminPay": 18.33,
         "PercentChangeSupportStaffPay": 6.38,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-11.06%",
         "Enrollment": 901.0,
         "Victories": "",
@@ -6043,7 +6042,8 @@ var DistrictsData = {
         "LocalFunding": 5456479,
         "StateFunding": 4557335,
         "FederalFunding": 2018567,
-        "OtherLocalFunding": 437513
+        "OtherLocalFunding": 437513,
+        "RecaptureAmount": 0
     },
     "249906": {
         "NAME": "PARADISE ISD",
@@ -6053,7 +6053,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.34,
         "PercentChangeCentralAdminPay": -20.98,
         "PercentChangeSupportStaffPay": 5.21,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "6.85%",
         "Enrollment": 1216.0,
         "Victories": "",
@@ -6078,7 +6077,8 @@ var DistrictsData = {
         "LocalFunding": 5138974,
         "StateFunding": 7010507,
         "FederalFunding": 1067477,
-        "OtherLocalFunding": 620250
+        "OtherLocalFunding": 620250,
+        "RecaptureAmount": 0
     },
     "249904": {
         "NAME": "CHICO ISD",
@@ -6088,7 +6088,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.76,
         "PercentChangeCentralAdminPay": -10.54,
         "PercentChangeSupportStaffPay": -4.54,
-        "RecaptureAmount": "484186",
         "EnrollmentChange": "-4.55%",
         "Enrollment": 588.0,
         "Victories": "",
@@ -6113,7 +6112,8 @@ var DistrictsData = {
         "LocalFunding": 6286391,
         "StateFunding": 412987,
         "FederalFunding": 808035,
-        "OtherLocalFunding": 116495
+        "OtherLocalFunding": 116495,
+        "RecaptureAmount": 508279
     },
     "249903": {
         "NAME": "BRIDGEPORT ISD",
@@ -6123,7 +6123,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.87,
         "PercentChangeCentralAdminPay": 12.07,
         "PercentChangeSupportStaffPay": -5.26,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-1.96%",
         "Enrollment": 2051.0,
         "Victories": "",
@@ -6148,7 +6147,8 @@ var DistrictsData = {
         "LocalFunding": 13919020,
         "StateFunding": 5647875,
         "FederalFunding": 3785958,
-        "OtherLocalFunding": 2824193
+        "OtherLocalFunding": 2824193,
+        "RecaptureAmount": 0
     },
     "184901": {
         "NAME": "POOLVILLE ISD",
@@ -6158,7 +6158,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.5,
         "PercentChangeCentralAdminPay": -35.8,
         "PercentChangeSupportStaffPay": 8.0,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "9.43%",
         "Enrollment": 557.0,
         "Victories": "",
@@ -6178,7 +6177,8 @@ var DistrictsData = {
         "LocalFunding": 2722712,
         "StateFunding": 4135248,
         "FederalFunding": 719448,
-        "OtherLocalFunding": 59536
+        "OtherLocalFunding": 59536,
+        "RecaptureAmount": 0
     },
     "122902": {
         "NAME": "VALENTINE ISD",
@@ -6188,7 +6188,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": 20.07,
         "PercentChangeSupportStaffPay": -44.06,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-23.91%",
         "Enrollment": 35.0,
         "Victories": "",
@@ -6213,7 +6212,8 @@ var DistrictsData = {
         "LocalFunding": 493334,
         "StateFunding": 1067189,
         "FederalFunding": 72355,
-        "OtherLocalFunding": 7502
+        "OtherLocalFunding": 7502,
+        "RecaptureAmount": 0
     },
     "122901": {
         "NAME": "FORT DAVIS ISD",
@@ -6223,7 +6223,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -22.53,
         "PercentChangeCentralAdminPay": -23.44,
         "PercentChangeSupportStaffPay": -1.74,
-        "RecaptureAmount": "9861",
         "EnrollmentChange": "-13.97%",
         "Enrollment": 197.0,
         "Victories": "",
@@ -6248,7 +6247,8 @@ var DistrictsData = {
         "LocalFunding": 2131910,
         "StateFunding": 491906,
         "FederalFunding": 387168,
-        "OtherLocalFunding": 30152
+        "OtherLocalFunding": 30152,
+        "RecaptureAmount": 9781
     },
     "071908": {
         "NAME": "TORNILLO ISD",
@@ -6258,7 +6258,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -23.73,
         "PercentChangeCentralAdminPay": -12.57,
         "PercentChangeSupportStaffPay": -16.58,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-23.77%",
         "Enrollment": 914.0,
         "Victories": "",
@@ -6283,7 +6282,8 @@ var DistrictsData = {
         "LocalFunding": 873767,
         "StateFunding": 10373716,
         "FederalFunding": 2295608,
-        "OtherLocalFunding": 129936
+        "OtherLocalFunding": 129936,
+        "RecaptureAmount": 0
     },
     "057913": {
         "NAME": "LANCASTER ISD",
@@ -6293,7 +6293,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.9,
         "PercentChangeCentralAdminPay": 41.2,
         "PercentChangeSupportStaffPay": -0.85,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.02%",
         "Enrollment": 7176.0,
         "Victories": "",
@@ -6318,7 +6317,8 @@ var DistrictsData = {
         "LocalFunding": 35081583,
         "StateFunding": 37665692,
         "FederalFunding": 7496716,
-        "OtherLocalFunding": 1263019
+        "OtherLocalFunding": 1263019,
+        "RecaptureAmount": 0
     },
     "057911": {
         "NAME": "HIGHLAND PARK ISD (DALLAS)",
@@ -6328,7 +6328,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -16.62,
         "PercentChangeCentralAdminPay": -1.71,
         "PercentChangeSupportStaffPay": -11.9,
-        "RecaptureAmount": "104884697",
         "EnrollmentChange": "-6.11%",
         "Enrollment": 6648.0,
         "Victories": "",
@@ -6357,7 +6356,8 @@ var DistrictsData = {
         "LocalFunding": 48646486,
         "StateFunding": 7431247,
         "FederalFunding": 1057729,
-        "OtherLocalFunding": 14235737
+        "OtherLocalFunding": 14235737,
+        "RecaptureAmount": 105437688
     },
     "057907": {
         "NAME": "DUNCANVILLE ISD",
@@ -6367,7 +6367,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.27,
         "PercentChangeCentralAdminPay": 6.18,
         "PercentChangeSupportStaffPay": -5.65,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.99%",
         "Enrollment": 11748.0,
         "Victories": "<div>In 2022, Southwest Dallas AFT members fought for and WON:<ul><li>6.6% midpoint salary increase for all teachers</li><li>4.4% increase for all other employees </ul></li></div>",
@@ -6400,7 +6399,8 @@ var DistrictsData = {
         "LocalFunding": 54670228,
         "StateFunding": 59690693,
         "FederalFunding": 16560504,
-        "OtherLocalFunding": 1289031
+        "OtherLocalFunding": 1289031,
+        "RecaptureAmount": 0
     },
     "057906": {
         "NAME": "DESOTO ISD",
@@ -6410,7 +6410,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.06,
         "PercentChangeCentralAdminPay": 7.21,
         "PercentChangeSupportStaffPay": 1.06,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-18.59%",
         "Enrollment": 7929.0,
         "Victories": "<div>In 2022, Southwest Dallas members fought for and WON:<ul><li>$6,500 pay raise at every step level for teachers</li><li>starting salary up to $58,500</li><li>6% pay raise at midpoint for all paraprofessional and auxiliary staff</ul></li></div>",
@@ -6439,7 +6438,8 @@ var DistrictsData = {
         "LocalFunding": 37932779,
         "StateFunding": 39144797,
         "FederalFunding": 18464651,
-        "OtherLocalFunding": 1781335
+        "OtherLocalFunding": 1781335,
+        "RecaptureAmount": 0
     },
     "070905": {
         "NAME": "FERRIS ISD",
@@ -6449,7 +6449,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -17.94,
         "PercentChangeCentralAdminPay": -20.33,
         "PercentChangeSupportStaffPay": -3.81,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.56%",
         "Enrollment": 2586.0,
         "Victories": "",
@@ -6482,7 +6481,8 @@ var DistrictsData = {
         "LocalFunding": 5802490,
         "StateFunding": 20611898,
         "FederalFunding": 3903976,
-        "OtherLocalFunding": 202183
+        "OtherLocalFunding": 202183,
+        "RecaptureAmount": 0
     },
     "114902": {
         "NAME": "COAHOMA ISD",
@@ -6492,7 +6492,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.54,
         "PercentChangeCentralAdminPay": -5.79,
         "PercentChangeSupportStaffPay": -11.46,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "19.41%",
         "Enrollment": 1095.0,
         "Victories": "",
@@ -6517,7 +6516,8 @@ var DistrictsData = {
         "LocalFunding": 5522891,
         "StateFunding": 6476004,
         "FederalFunding": 1760342,
-        "OtherLocalFunding": 2047015
+        "OtherLocalFunding": 2047015,
+        "RecaptureAmount": 0
     },
     "114901": {
         "NAME": "BIG SPRING ISD",
@@ -6527,7 +6527,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.37,
         "PercentChangeCentralAdminPay": -11.58,
         "PercentChangeSupportStaffPay": -9.7,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-10.29%",
         "Enrollment": 3698.0,
         "Victories": "",
@@ -6552,7 +6551,8 @@ var DistrictsData = {
         "LocalFunding": 27849020,
         "StateFunding": 5969706,
         "FederalFunding": 6678956,
-        "OtherLocalFunding": 1248074
+        "OtherLocalFunding": 1248074,
+        "RecaptureAmount": 0
     },
     "114904": {
         "NAME": "FORSAN ISD",
@@ -6562,7 +6562,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.46,
         "PercentChangeCentralAdminPay": -9.11,
         "PercentChangeSupportStaffPay": -18.58,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "5.14%",
         "Enrollment": 777.0,
         "Victories": "",
@@ -6595,7 +6594,8 @@ var DistrictsData = {
         "LocalFunding": 6843785,
         "StateFunding": 1340685,
         "FederalFunding": 558246,
-        "OtherLocalFunding": 304526
+        "OtherLocalFunding": 304526,
+        "RecaptureAmount": 0
     },
     "058909": {
         "NAME": "SANDS CONSOLIDATED ISD",
@@ -6605,7 +6605,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -15.82,
         "PercentChangeCentralAdminPay": 8.08,
         "PercentChangeSupportStaffPay": -2.2,
-        "RecaptureAmount": "10979659",
         "EnrollmentChange": "2.33%",
         "Enrollment": 263.0,
         "Victories": "",
@@ -6638,7 +6637,8 @@ var DistrictsData = {
         "LocalFunding": 8409799,
         "StateFunding": 155168,
         "FederalFunding": 287813,
-        "OtherLocalFunding": 122409
+        "OtherLocalFunding": 122409,
+        "RecaptureAmount": 10972754
     },
     "096905": {
         "NAME": "TURKEY-QUITAQUE ISD",
@@ -6648,7 +6648,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.34,
         "PercentChangeCentralAdminPay": 4.58,
         "PercentChangeSupportStaffPay": 45.34,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.72%",
         "Enrollment": 195.0,
         "Victories": "",
@@ -6668,7 +6667,8 @@ var DistrictsData = {
         "LocalFunding": 838211,
         "StateFunding": 1543958,
         "FederalFunding": 610791,
-        "OtherLocalFunding": 73495
+        "OtherLocalFunding": 73495,
+        "RecaptureAmount": 0
     },
     "095905": {
         "NAME": "PLAINVIEW ISD",
@@ -6678,7 +6678,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.18,
         "PercentChangeCentralAdminPay": -2.61,
         "PercentChangeSupportStaffPay": -13.27,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-14.72%",
         "Enrollment": 4843.0,
         "Victories": "",
@@ -6702,7 +6701,8 @@ var DistrictsData = {
         "LocalFunding": 12556035,
         "StateFunding": 34810957,
         "FederalFunding": 9956783,
-        "OtherLocalFunding": 1550338
+        "OtherLocalFunding": 1550338,
+        "RecaptureAmount": 0
     },
     "173901": {
         "NAME": "MOTLEY COUNTY ISD",
@@ -6712,7 +6712,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.77,
         "PercentChangeCentralAdminPay": 24.44,
         "PercentChangeSupportStaffPay": 21.55,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "5.7%",
         "Enrollment": 167.0,
         "Victories": "",
@@ -6732,7 +6731,8 @@ var DistrictsData = {
         "LocalFunding": 1271273,
         "StateFunding": 1045355,
         "FederalFunding": 599720,
-        "OtherLocalFunding": 390128
+        "OtherLocalFunding": 390128,
+        "RecaptureAmount": 0
     },
     "077902": {
         "NAME": "LOCKNEY ISD",
@@ -6742,7 +6742,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.52,
         "PercentChangeCentralAdminPay": 30.97,
         "PercentChangeSupportStaffPay": 3.56,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.8%",
         "Enrollment": 456.0,
         "Victories": "",
@@ -6771,7 +6770,8 @@ var DistrictsData = {
         "LocalFunding": 1254405,
         "StateFunding": 4499254,
         "FederalFunding": 846562,
-        "OtherLocalFunding": 947767
+        "OtherLocalFunding": 947767,
+        "RecaptureAmount": 0
     },
     "077901": {
         "NAME": "FLOYDADA ISD",
@@ -6781,7 +6781,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 7.61,
         "PercentChangeCentralAdminPay": 18.5,
         "PercentChangeSupportStaffPay": 0.04,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.65%",
         "Enrollment": 705.0,
         "Victories": "",
@@ -6806,7 +6805,8 @@ var DistrictsData = {
         "LocalFunding": 3278931,
         "StateFunding": 5435025,
         "FederalFunding": 2217276,
-        "OtherLocalFunding": 505913
+        "OtherLocalFunding": 505913,
+        "RecaptureAmount": 0
     },
     "022004": {
         "NAME": "TERLINGUA CSD",
@@ -6816,7 +6816,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -17.18,
         "PercentChangeCentralAdminPay": -32.55,
         "PercentChangeSupportStaffPay": 12.42,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "13.95%",
         "Enrollment": 98.0,
         "Victories": "",
@@ -6841,7 +6840,8 @@ var DistrictsData = {
         "LocalFunding": 975701,
         "StateFunding": 926558,
         "FederalFunding": 289793,
-        "OtherLocalFunding": 97238
+        "OtherLocalFunding": 97238,
+        "RecaptureAmount": 0
     },
     "022903": {
         "NAME": "SAN VICENTE ISD",
@@ -6851,7 +6851,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": -3.27,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "((<10 + <10 - 31.0) / (31.0))%",
         "Enrollment": "<10 + <10",
         "Victories": "",
@@ -6876,7 +6875,8 @@ var DistrictsData = {
         "LocalFunding": 86903,
         "StateFunding": 722480,
         "FederalFunding": 217197,
-        "OtherLocalFunding": 40808
+        "OtherLocalFunding": 40808,
+        "RecaptureAmount": 0
     },
     "176903": {
         "NAME": "DEWEYVILLE ISD",
@@ -6886,7 +6886,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -15.55,
         "PercentChangeCentralAdminPay": -32.81,
         "PercentChangeSupportStaffPay": 7.55,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-16.04%",
         "Enrollment": 534.0,
         "Victories": "",
@@ -6911,7 +6910,8 @@ var DistrictsData = {
         "LocalFunding": 4584171,
         "StateFunding": 816924,
         "FederalFunding": 961170,
-        "OtherLocalFunding": 196906
+        "OtherLocalFunding": 196906,
+        "RecaptureAmount": 580221
     },
     "136901": {
         "NAME": "BRACKETT ISD",
@@ -6921,7 +6921,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 7.84,
         "PercentChangeCentralAdminPay": 3.67,
         "PercentChangeSupportStaffPay": -23.68,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-15.61%",
         "Enrollment": 519.0,
         "Victories": "",
@@ -6946,7 +6945,8 @@ var DistrictsData = {
         "LocalFunding": 6026023,
         "StateFunding": 2007058,
         "FederalFunding": 623032,
-        "OtherLocalFunding": 412580
+        "OtherLocalFunding": 412580,
+        "RecaptureAmount": 0
     },
     "025901": {
         "NAME": "BANGS ISD",
@@ -6956,7 +6956,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.33,
         "PercentChangeCentralAdminPay": -5.04,
         "PercentChangeSupportStaffPay": 20.68,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-15.54%",
         "Enrollment": 837.0,
         "Victories": "",
@@ -6985,7 +6984,8 @@ var DistrictsData = {
         "LocalFunding": 3984250,
         "StateFunding": 5224281,
         "FederalFunding": 833994,
-        "OtherLocalFunding": 213130
+        "OtherLocalFunding": 213130,
+        "RecaptureAmount": 0
     },
     "180904": {
         "NAME": "WILDORADO ISD",
@@ -6995,7 +6995,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 11.81,
         "PercentChangeCentralAdminPay": 27.51,
         "PercentChangeSupportStaffPay": 52.71,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "109.71%",
         "Enrollment": 216.0,
         "Victories": "",
@@ -7015,7 +7014,8 @@ var DistrictsData = {
         "LocalFunding": 1826384,
         "StateFunding": 826680,
         "FederalFunding": 124036,
-        "OtherLocalFunding": 920860
+        "OtherLocalFunding": 920860,
+        "RecaptureAmount": 0
     },
     "191901": {
         "NAME": "CANYON ISD",
@@ -7025,7 +7025,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.19,
         "PercentChangeCentralAdminPay": 3.15,
         "PercentChangeSupportStaffPay": 0.06,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "7.37%",
         "Enrollment": 10324.0,
         "Victories": "",
@@ -7050,7 +7049,8 @@ var DistrictsData = {
         "LocalFunding": 52902467,
         "StateFunding": 29839130,
         "FederalFunding": 12008776,
-        "OtherLocalFunding": 2656158
+        "OtherLocalFunding": 2656158,
+        "RecaptureAmount": 0
     },
     "145902": {
         "NAME": "CENTERVILLE ISD (LEON)",
@@ -7060,7 +7060,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.42,
         "PercentChangeCentralAdminPay": -7.22,
         "PercentChangeSupportStaffPay": 10.12,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.87%",
         "Enrollment": 646.0,
         "Victories": "",
@@ -7085,7 +7084,8 @@ var DistrictsData = {
         "LocalFunding": 3480183,
         "StateFunding": 3837529,
         "FederalFunding": 1344542,
-        "OtherLocalFunding": 473453
+        "OtherLocalFunding": 473453,
+        "RecaptureAmount": 0
     },
     "226906": {
         "NAME": "WALL ISD",
@@ -7095,7 +7095,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.19,
         "PercentChangeCentralAdminPay": -0.86,
         "PercentChangeSupportStaffPay": 8.87,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "13.85%",
         "Enrollment": 1258.0,
         "Victories": "",
@@ -7115,7 +7114,8 @@ var DistrictsData = {
         "LocalFunding": 4668359,
         "StateFunding": 9345076,
         "FederalFunding": 1394699,
-        "OtherLocalFunding": 538216
+        "OtherLocalFunding": 538216,
+        "RecaptureAmount": 0
     },
     "226908": {
         "NAME": "VERIBEST ISD",
@@ -7125,7 +7125,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.49,
         "PercentChangeCentralAdminPay": 9.9,
         "PercentChangeSupportStaffPay": 25.8,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.15%",
         "Enrollment": 258.0,
         "Victories": "",
@@ -7145,7 +7144,8 @@ var DistrictsData = {
         "LocalFunding": 1689653,
         "StateFunding": 1465154,
         "FederalFunding": 205032,
-        "OtherLocalFunding": 133302
+        "OtherLocalFunding": 133302,
+        "RecaptureAmount": 0
     },
     "226903": {
         "NAME": "SAN ANGELO ISD",
@@ -7155,7 +7155,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.18,
         "PercentChangeCentralAdminPay": -10.57,
         "PercentChangeSupportStaffPay": -5.54,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.92%",
         "Enrollment": 14100.0,
         "Victories": "",
@@ -7175,7 +7174,8 @@ var DistrictsData = {
         "LocalFunding": 55645733,
         "StateFunding": 58180229,
         "FederalFunding": 23465820,
-        "OtherLocalFunding": 2335382
+        "OtherLocalFunding": 2335382,
+        "RecaptureAmount": 0
     },
     "226907": {
         "NAME": "GRAPE CREEK ISD",
@@ -7185,7 +7185,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 15.92,
         "PercentChangeCentralAdminPay": 29.77,
         "PercentChangeSupportStaffPay": -2.8,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.48%",
         "Enrollment": 1099.0,
         "Victories": "",
@@ -7210,7 +7209,8 @@ var DistrictsData = {
         "LocalFunding": 3579279,
         "StateFunding": 10053297,
         "FederalFunding": 1647929,
-        "OtherLocalFunding": 150243
+        "OtherLocalFunding": 150243,
+        "RecaptureAmount": 0
     },
     "226901": {
         "NAME": "CHRISTOVAL ISD",
@@ -7220,7 +7220,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 10.65,
         "PercentChangeCentralAdminPay": 27.35,
         "PercentChangeSupportStaffPay": 6.67,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "15.98%",
         "Enrollment": 566.0,
         "Victories": "",
@@ -7245,7 +7244,8 @@ var DistrictsData = {
         "LocalFunding": 2749230,
         "StateFunding": 4457014,
         "FederalFunding": 298610,
-        "OtherLocalFunding": 277581
+        "OtherLocalFunding": 277581,
+        "RecaptureAmount": 0
     },
     "214903": {
         "NAME": "ROMA ISD",
@@ -7255,7 +7255,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.17,
         "PercentChangeCentralAdminPay": 12.12,
         "PercentChangeSupportStaffPay": 6.75,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.0%",
         "Enrollment": 6060.0,
         "Victories": "",
@@ -7280,7 +7279,8 @@ var DistrictsData = {
         "LocalFunding": 5963286,
         "StateFunding": 52849980,
         "FederalFunding": 20989211,
-        "OtherLocalFunding": 3444899
+        "OtherLocalFunding": 3444899,
+        "RecaptureAmount": 0
     },
     "140904": {
         "NAME": "LITTLEFIELD ISD",
@@ -7290,7 +7290,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 9.49,
         "PercentChangeCentralAdminPay": 19.16,
         "PercentChangeSupportStaffPay": -1.32,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-12.19%",
         "Enrollment": 1268.0,
         "Victories": "",
@@ -7315,7 +7314,8 @@ var DistrictsData = {
         "LocalFunding": 2332504,
         "StateFunding": 10254286,
         "FederalFunding": 2971416,
-        "OtherLocalFunding": 1680576
+        "OtherLocalFunding": 1680576,
+        "RecaptureAmount": 0
     },
     "140901": {
         "NAME": "AMHERST ISD",
@@ -7325,7 +7325,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.8,
         "PercentChangeCentralAdminPay": 38.81,
         "PercentChangeSupportStaffPay": 49.06,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-14.19%",
         "Enrollment": 133.0,
         "Victories": "",
@@ -7350,7 +7349,8 @@ var DistrictsData = {
         "LocalFunding": 530538,
         "StateFunding": 1647519,
         "FederalFunding": 235361,
-        "OtherLocalFunding": 24251
+        "OtherLocalFunding": 24251,
+        "RecaptureAmount": 0
     },
     "056902": {
         "NAME": "TEXLINE ISD",
@@ -7360,7 +7360,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 31.65,
         "PercentChangeCentralAdminPay": -2.36,
         "PercentChangeSupportStaffPay": -19.93,
-        "RecaptureAmount": "13859",
         "EnrollmentChange": "12.43%",
         "Enrollment": 199.0,
         "Victories": "",
@@ -7380,7 +7379,8 @@ var DistrictsData = {
         "LocalFunding": 2141423,
         "StateFunding": 569915,
         "FederalFunding": 229192,
-        "OtherLocalFunding": 66657
+        "OtherLocalFunding": 66657,
+        "RecaptureAmount": 0
     },
     "242905": {
         "NAME": "KELTON ISD",
@@ -7390,7 +7390,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 29.85,
         "PercentChangeCentralAdminPay": -12.0,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "1999158",
         "EnrollmentChange": "7.21%",
         "Enrollment": 119.0,
         "Victories": "",
@@ -7415,7 +7414,8 @@ var DistrictsData = {
         "LocalFunding": 1597678,
         "StateFunding": 503360,
         "FederalFunding": 125152,
-        "OtherLocalFunding": 147373
+        "OtherLocalFunding": 147373,
+        "RecaptureAmount": 2159554
     },
     "242902": {
         "NAME": "SHAMROCK ISD",
@@ -7425,7 +7425,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.69,
         "PercentChangeCentralAdminPay": -2.14,
         "PercentChangeSupportStaffPay": 1.17,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.68%",
         "Enrollment": 407.0,
         "Victories": "",
@@ -7450,7 +7449,8 @@ var DistrictsData = {
         "LocalFunding": 1315063,
         "StateFunding": 3142963,
         "FederalFunding": 1379239,
-        "OtherLocalFunding": 614937
+        "OtherLocalFunding": 614937,
+        "RecaptureAmount": 0
     },
     "120902": {
         "NAME": "GANADO ISD",
@@ -7460,7 +7460,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.15,
         "PercentChangeCentralAdminPay": 4.75,
         "PercentChangeSupportStaffPay": -15.06,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.0%",
         "Enrollment": 713.0,
         "Victories": "",
@@ -7485,7 +7484,8 @@ var DistrictsData = {
         "LocalFunding": 2434238,
         "StateFunding": 6160753,
         "FederalFunding": 498964,
-        "OtherLocalFunding": 271006
+        "OtherLocalFunding": 271006,
+        "RecaptureAmount": 0
     },
     "120901": {
         "NAME": "EDNA ISD",
@@ -7495,7 +7495,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.42,
         "PercentChangeCentralAdminPay": -3.9,
         "PercentChangeSupportStaffPay": -1.87,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.75%",
         "Enrollment": 1483.0,
         "Victories": "",
@@ -7520,7 +7519,8 @@ var DistrictsData = {
         "LocalFunding": 5607595,
         "StateFunding": 8573232,
         "FederalFunding": 3040695,
-        "OtherLocalFunding": 1979171
+        "OtherLocalFunding": 1979171,
+        "RecaptureAmount": 0
     },
     "083903": {
         "NAME": "SEMINOLE ISD",
@@ -7530,7 +7530,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.35,
         "PercentChangeCentralAdminPay": 7.34,
         "PercentChangeSupportStaffPay": -2.52,
-        "RecaptureAmount": "7610479",
         "EnrollmentChange": "2.92%",
         "Enrollment": 2928.0,
         "Victories": "",
@@ -7555,7 +7554,8 @@ var DistrictsData = {
         "LocalFunding": 23965190,
         "StateFunding": 7278186,
         "FederalFunding": 4247679,
-        "OtherLocalFunding": 9794859
+        "OtherLocalFunding": 9794859,
+        "RecaptureAmount": 7616748
     },
     "174906": {
         "NAME": "WODEN ISD",
@@ -7565,7 +7565,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.34,
         "PercentChangeCentralAdminPay": 2.19,
         "PercentChangeSupportStaffPay": 8.12,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.78%",
         "Enrollment": 764.0,
         "Victories": "",
@@ -7585,7 +7584,8 @@ var DistrictsData = {
         "LocalFunding": 2421163,
         "StateFunding": 6135347,
         "FederalFunding": 1062014,
-        "OtherLocalFunding": 311915
+        "OtherLocalFunding": 311915,
+        "RecaptureAmount": 0
     },
     "174904": {
         "NAME": "NACOGDOCHES ISD",
@@ -7595,7 +7595,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.22,
         "PercentChangeCentralAdminPay": -28.9,
         "PercentChangeSupportStaffPay": -12.95,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.11%",
         "Enrollment": 5940.0,
         "Victories": "",
@@ -7615,7 +7614,8 @@ var DistrictsData = {
         "LocalFunding": 22897860,
         "StateFunding": 27978444,
         "FederalFunding": 15022047,
-        "OtherLocalFunding": 1442724
+        "OtherLocalFunding": 1442724,
+        "RecaptureAmount": 0
     },
     "174909": {
         "NAME": "MARTINSVILLE ISD",
@@ -7625,7 +7625,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 6.26,
         "PercentChangeCentralAdminPay": 12.5,
         "PercentChangeSupportStaffPay": 18.56,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.06%",
         "Enrollment": 341.0,
         "Victories": "",
@@ -7650,7 +7649,8 @@ var DistrictsData = {
         "LocalFunding": 782403,
         "StateFunding": 3641578,
         "FederalFunding": 585704,
-        "OtherLocalFunding": 72232
+        "OtherLocalFunding": 72232,
+        "RecaptureAmount": 0
     },
     "174911": {
         "NAME": "DOUGLASS ISD",
@@ -7660,7 +7660,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.49,
         "PercentChangeCentralAdminPay": -5.37,
         "PercentChangeSupportStaffPay": -13.78,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.08%",
         "Enrollment": 457.0,
         "Victories": "",
@@ -7685,7 +7684,8 @@ var DistrictsData = {
         "LocalFunding": 1560094,
         "StateFunding": 3340054,
         "FederalFunding": 336937,
-        "OtherLocalFunding": 202293
+        "OtherLocalFunding": 202293,
+        "RecaptureAmount": 0
     },
     "174908": {
         "NAME": "CENTRAL HEIGHTS ISD",
@@ -7695,7 +7695,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.85,
         "PercentChangeCentralAdminPay": -5.94,
         "PercentChangeSupportStaffPay": -12.06,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.22%",
         "Enrollment": 1131.0,
         "Victories": "",
@@ -7720,7 +7719,8 @@ var DistrictsData = {
         "LocalFunding": 1316537,
         "StateFunding": 9306535,
         "FederalFunding": 1918955,
-        "OtherLocalFunding": 1899981
+        "OtherLocalFunding": 1899981,
+        "RecaptureAmount": 0
     },
     "166902": {
         "NAME": "GAUSE ISD",
@@ -7730,7 +7730,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -16.14,
         "PercentChangeCentralAdminPay": 2.3,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.02%",
         "Enrollment": 167.0,
         "Victories": "",
@@ -7755,7 +7754,8 @@ var DistrictsData = {
         "LocalFunding": 1856720,
         "StateFunding": 656161,
         "FederalFunding": 235976,
-        "OtherLocalFunding": 63195
+        "OtherLocalFunding": 63195,
+        "RecaptureAmount": 0
     },
     "212909": {
         "NAME": "CHAPEL HILL ISD (SMITH)",
@@ -7765,7 +7765,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.07,
         "PercentChangeCentralAdminPay": -4.03,
         "PercentChangeSupportStaffPay": -2.31,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-5.32%",
         "Enrollment": 3416.0,
         "Victories": "",
@@ -7794,7 +7793,8 @@ var DistrictsData = {
         "LocalFunding": 14775102,
         "StateFunding": 19675339,
         "FederalFunding": 5153756,
-        "OtherLocalFunding": 590002
+        "OtherLocalFunding": 590002,
+        "RecaptureAmount": 0
     },
     "180901": {
         "NAME": "BOYS RANCH ISD",
@@ -7804,7 +7804,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -13.55,
         "PercentChangeCentralAdminPay": 5.75,
         "PercentChangeSupportStaffPay": 5.75,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-26.69%",
         "Enrollment": 206.0,
         "Victories": "",
@@ -7829,7 +7828,8 @@ var DistrictsData = {
         "LocalFunding": 0,
         "StateFunding": 3332871,
         "FederalFunding": 2718576,
-        "OtherLocalFunding": 2512439
+        "OtherLocalFunding": 2512439,
+        "RecaptureAmount": 0
     },
     "180902": {
         "NAME": "VEGA ISD",
@@ -7839,7 +7839,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.07,
         "PercentChangeCentralAdminPay": 32.45,
         "PercentChangeSupportStaffPay": -1.63,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.1%",
         "Enrollment": 360.0,
         "Victories": "",
@@ -7859,7 +7858,8 @@ var DistrictsData = {
         "LocalFunding": 2649619,
         "StateFunding": 2389251,
         "FederalFunding": 259473,
-        "OtherLocalFunding": 140935
+        "OtherLocalFunding": 140935,
+        "RecaptureAmount": 0
     },
     "180903": {
         "NAME": "ADRIAN ISD",
@@ -7869,7 +7869,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": -2.62,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-5.43%",
         "Enrollment": 122.0,
         "Victories": "",
@@ -7894,7 +7893,8 @@ var DistrictsData = {
         "LocalFunding": 582717,
         "StateFunding": 1536079,
         "FederalFunding": 171510,
-        "OtherLocalFunding": 16007
+        "OtherLocalFunding": 16007,
+        "RecaptureAmount": 0
     },
     "215901": {
         "NAME": "BRECKENRIDGE ISD",
@@ -7904,7 +7904,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -21.02,
         "PercentChangeCentralAdminPay": -21.0,
         "PercentChangeSupportStaffPay": 4.1,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-5.53%",
         "Enrollment": 1402.0,
         "Victories": "",
@@ -7929,7 +7928,8 @@ var DistrictsData = {
         "LocalFunding": 5010448,
         "StateFunding": 8736832,
         "FederalFunding": 2026143,
-        "OtherLocalFunding": 301766
+        "OtherLocalFunding": 301766,
+        "RecaptureAmount": 0
     },
     "059902": {
         "NAME": "WALCOTT ISD",
@@ -7939,7 +7939,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 32.54,
         "PercentChangeCentralAdminPay": -49.61,
         "PercentChangeSupportStaffPay": -13.28,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.16%",
         "Enrollment": 142.0,
         "Victories": "",
@@ -7959,7 +7958,8 @@ var DistrictsData = {
         "LocalFunding": 650651,
         "StateFunding": 1321240,
         "FederalFunding": 248585,
-        "OtherLocalFunding": 57926
+        "OtherLocalFunding": 57926,
+        "RecaptureAmount": 0
     },
     "025909": {
         "NAME": "EARLY ISD",
@@ -7969,7 +7969,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.44,
         "PercentChangeCentralAdminPay": 15.04,
         "PercentChangeSupportStaffPay": -4.45,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.6%",
         "Enrollment": 1141.0,
         "Victories": "",
@@ -7994,7 +7993,8 @@ var DistrictsData = {
         "LocalFunding": 3733752,
         "StateFunding": 9310399,
         "FederalFunding": 1576201,
-        "OtherLocalFunding": 419766
+        "OtherLocalFunding": 419766,
+        "RecaptureAmount": 0
     },
     "025902": {
         "NAME": "BROWNWOOD ISD",
@@ -8004,7 +8004,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.63,
         "PercentChangeCentralAdminPay": 0.15,
         "PercentChangeSupportStaffPay": -6.41,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.18%",
         "Enrollment": 3439.0,
         "Victories": "",
@@ -8029,7 +8028,8 @@ var DistrictsData = {
         "LocalFunding": 15358502,
         "StateFunding": 15343363,
         "FederalFunding": 7639624,
-        "OtherLocalFunding": 927487
+        "OtherLocalFunding": 927487,
+        "RecaptureAmount": 0
     },
     "233901": {
         "NAME": "SAN FELIPE-DEL RIO CONS ISD",
@@ -8039,7 +8039,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 7.9,
         "PercentChangeCentralAdminPay": 7.87,
         "PercentChangeSupportStaffPay": -2.49,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.1%",
         "Enrollment": 9874.0,
         "Victories": "",
@@ -8064,7 +8063,8 @@ var DistrictsData = {
         "LocalFunding": 22247302,
         "StateFunding": 69193900,
         "FederalFunding": 16226825,
-        "OtherLocalFunding": 3532308
+        "OtherLocalFunding": 3532308,
+        "RecaptureAmount": 0
     },
     "233903": {
         "NAME": "COMSTOCK ISD",
@@ -8074,7 +8074,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.94,
         "PercentChangeCentralAdminPay": 29.83,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "432099",
         "EnrollmentChange": "21.58%",
         "Enrollment": 231.0,
         "Victories": "",
@@ -8099,7 +8098,8 @@ var DistrictsData = {
         "LocalFunding": 2799368,
         "StateFunding": 890823,
         "FederalFunding": 450634,
-        "OtherLocalFunding": 74059
+        "OtherLocalFunding": 74059,
+        "RecaptureAmount": 360571
     },
     "184908": {
         "NAME": "PEASTER ISD",
@@ -8109,7 +8109,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.4,
         "PercentChangeCentralAdminPay": -5.59,
         "PercentChangeSupportStaffPay": -4.08,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "30.38%",
         "Enrollment": 1382.0,
         "Victories": "",
@@ -8129,7 +8128,8 @@ var DistrictsData = {
         "LocalFunding": 4134948,
         "StateFunding": 10605376,
         "FederalFunding": 1284045,
-        "OtherLocalFunding": 2072078
+        "OtherLocalFunding": 2072078,
+        "RecaptureAmount": 0
     },
     "184911": {
         "NAME": "GARNER ISD",
@@ -8139,7 +8139,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.51,
         "PercentChangeCentralAdminPay": 9.25,
         "PercentChangeSupportStaffPay": 9.02,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "21.35%",
         "Enrollment": 216.0,
         "Victories": "",
@@ -8164,7 +8163,8 @@ var DistrictsData = {
         "LocalFunding": 2075352,
         "StateFunding": 604053,
         "FederalFunding": 464144,
-        "OtherLocalFunding": 72428
+        "OtherLocalFunding": 72428,
+        "RecaptureAmount": 0
     },
     "236901": {
         "NAME": "NEW WAVERLY ISD",
@@ -8174,7 +8174,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.75,
         "PercentChangeCentralAdminPay": 7.13,
         "PercentChangeSupportStaffPay": 3.41,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.85%",
         "Enrollment": 1038.0,
         "Victories": "",
@@ -8199,7 +8198,8 @@ var DistrictsData = {
         "LocalFunding": 4542568,
         "StateFunding": 6911329,
         "FederalFunding": 2083080,
-        "OtherLocalFunding": 320437
+        "OtherLocalFunding": 320437,
+        "RecaptureAmount": 0
     },
     "236902": {
         "NAME": "HUNTSVILLE ISD",
@@ -8209,7 +8209,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 7.8,
         "PercentChangeCentralAdminPay": 18.19,
         "PercentChangeSupportStaffPay": -0.02,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "55.96%",
         "Enrollment": 10858.0,
         "Victories": "",
@@ -8234,7 +8233,8 @@ var DistrictsData = {
         "LocalFunding": 36164771,
         "StateFunding": 47145403,
         "FederalFunding": 12852263,
-        "OtherLocalFunding": 665606
+        "OtherLocalFunding": 665606,
+        "RecaptureAmount": 0
     },
     "128903": {
         "NAME": "RUNGE ISD",
@@ -8244,7 +8244,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.06,
         "PercentChangeCentralAdminPay": 0.53,
         "PercentChangeSupportStaffPay": 19.19,
-        "RecaptureAmount": "513403",
         "EnrollmentChange": "-24.67%",
         "Enrollment": 229.0,
         "Victories": "",
@@ -8269,7 +8268,8 @@ var DistrictsData = {
         "LocalFunding": 2659675,
         "StateFunding": 218989,
         "FederalFunding": 495406,
-        "OtherLocalFunding": 117455
+        "OtherLocalFunding": 117455,
+        "RecaptureAmount": 538034
     },
     "128902": {
         "NAME": "KENEDY ISD",
@@ -8279,7 +8279,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 4.99,
         "PercentChangeCentralAdminPay": -2.68,
         "PercentChangeSupportStaffPay": 15.35,
-        "RecaptureAmount": "2267370",
         "EnrollmentChange": "-9.71%",
         "Enrollment": 725.0,
         "Victories": "",
@@ -8304,7 +8303,8 @@ var DistrictsData = {
         "LocalFunding": 8244557,
         "StateFunding": 754463,
         "FederalFunding": 1178405,
-        "OtherLocalFunding": 487662
+        "OtherLocalFunding": 487662,
+        "RecaptureAmount": 2271759
     },
     "182905": {
         "NAME": "STRAWN ISD",
@@ -8314,7 +8314,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": -4.71,
         "PercentChangeSupportStaffPay": -42.52,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-13.94%",
         "Enrollment": 142.0,
         "Victories": "",
@@ -8339,7 +8338,8 @@ var DistrictsData = {
         "LocalFunding": 641009,
         "StateFunding": 1505619,
         "FederalFunding": 152939,
-        "OtherLocalFunding": 53211
+        "OtherLocalFunding": 53211,
+        "RecaptureAmount": 0
     },
     "182906": {
         "NAME": "PALO PINTO ISD",
@@ -8349,7 +8349,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -32.94,
         "PercentChangeCentralAdminPay": -0.6,
         "PercentChangeSupportStaffPay": -44.5,
-        "RecaptureAmount": "4080193",
         "EnrollmentChange": "-22.22%",
         "Enrollment": 84.0,
         "Victories": "",
@@ -8374,7 +8373,8 @@ var DistrictsData = {
         "LocalFunding": 1392093,
         "StateFunding": 89470,
         "FederalFunding": 162582,
-        "OtherLocalFunding": 21016
+        "OtherLocalFunding": 21016,
+        "RecaptureAmount": 4080022
     },
     "182903": {
         "NAME": "MINERAL WELLS ISD",
@@ -8384,7 +8384,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.03,
         "PercentChangeCentralAdminPay": 6.69,
         "PercentChangeSupportStaffPay": 19.38,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.8%",
         "Enrollment": 3116.0,
         "Victories": "",
@@ -8413,7 +8412,8 @@ var DistrictsData = {
         "LocalFunding": 9817572,
         "StateFunding": 21034562,
         "FederalFunding": 6243374,
-        "OtherLocalFunding": 1117832
+        "OtherLocalFunding": 1117832,
+        "RecaptureAmount": 0
     },
     "184904": {
         "NAME": "MILLSAP ISD",
@@ -8423,7 +8423,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -13.3,
         "PercentChangeCentralAdminPay": 0.92,
         "PercentChangeSupportStaffPay": 20.48,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "9.0%",
         "Enrollment": 1029.0,
         "Victories": "",
@@ -8452,7 +8451,8 @@ var DistrictsData = {
         "LocalFunding": 4868419,
         "StateFunding": 7156179,
         "FederalFunding": 1218319,
-        "OtherLocalFunding": 287541
+        "OtherLocalFunding": 287541,
+        "RecaptureAmount": 0
     },
     "210905": {
         "NAME": "TIMPSON ISD",
@@ -8462,7 +8462,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -15.24,
         "PercentChangeCentralAdminPay": 16.69,
         "PercentChangeSupportStaffPay": 1.25,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.02%",
         "Enrollment": 649.0,
         "Victories": "",
@@ -8482,7 +8481,8 @@ var DistrictsData = {
         "LocalFunding": 1446665,
         "StateFunding": 6776189,
         "FederalFunding": 1912665,
-        "OtherLocalFunding": 168148
+        "OtherLocalFunding": 168148,
+        "RecaptureAmount": 0
     },
     "210906": {
         "NAME": "EXCELSIOR ISD",
@@ -8492,7 +8492,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": -14.55,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-28.28%",
         "Enrollment": 71.0,
         "Victories": "",
@@ -8517,7 +8516,8 @@ var DistrictsData = {
         "LocalFunding": 390549,
         "StateFunding": 801162,
         "FederalFunding": 173823,
-        "OtherLocalFunding": 3354
+        "OtherLocalFunding": 3354,
+        "RecaptureAmount": 0
     },
     "210901": {
         "NAME": "CENTER ISD",
@@ -8527,7 +8527,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.45,
         "PercentChangeCentralAdminPay": -6.88,
         "PercentChangeSupportStaffPay": -8.28,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-11.88%",
         "Enrollment": 2477.0,
         "Victories": "",
@@ -8552,7 +8551,8 @@ var DistrictsData = {
         "LocalFunding": 5906712,
         "StateFunding": 20280753,
         "FederalFunding": 6076860,
-        "OtherLocalFunding": 624936
+        "OtherLocalFunding": 624936,
+        "RecaptureAmount": 0
     },
     "054903": {
         "NAME": "RALLS ISD",
@@ -8562,7 +8562,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 6.38,
         "PercentChangeCentralAdminPay": 27.14,
         "PercentChangeSupportStaffPay": -19.64,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-20.48%",
         "Enrollment": 462.0,
         "Victories": "",
@@ -8582,7 +8581,8 @@ var DistrictsData = {
         "LocalFunding": 1327757,
         "StateFunding": 4158171,
         "FederalFunding": 1356419,
-        "OtherLocalFunding": 174852
+        "OtherLocalFunding": 174852,
+        "RecaptureAmount": 0
     },
     "054901": {
         "NAME": "CROSBYTON CONS ISD",
@@ -8592,7 +8592,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.57,
         "PercentChangeCentralAdminPay": 23.57,
         "PercentChangeSupportStaffPay": -7.67,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-18.35%",
         "Enrollment": 316.0,
         "Victories": "",
@@ -8617,7 +8616,8 @@ var DistrictsData = {
         "LocalFunding": 1239971,
         "StateFunding": 3194259,
         "FederalFunding": 978999,
-        "OtherLocalFunding": 1510930
+        "OtherLocalFunding": 1510930,
+        "RecaptureAmount": 0
     },
     "178905": {
         "NAME": "DRISCOLL ISD",
@@ -8627,7 +8627,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 52.79,
         "PercentChangeCentralAdminPay": 38.14,
         "PercentChangeSupportStaffPay": 35.79,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.12%",
         "Enrollment": 289.0,
         "Victories": "",
@@ -8652,7 +8651,8 @@ var DistrictsData = {
         "LocalFunding": 790951,
         "StateFunding": 2908848,
         "FederalFunding": 812693,
-        "OtherLocalFunding": 81260
+        "OtherLocalFunding": 81260,
+        "RecaptureAmount": 0
     },
     "178913": {
         "NAME": "BANQUETE ISD",
@@ -8662,7 +8662,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 9.1,
         "PercentChangeCentralAdminPay": -2.91,
         "PercentChangeSupportStaffPay": 15.2,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.04%",
         "Enrollment": 855.0,
         "Victories": "",
@@ -8687,7 +8686,8 @@ var DistrictsData = {
         "LocalFunding": 6439018,
         "StateFunding": 3666434,
         "FederalFunding": 854704,
-        "OtherLocalFunding": 329672
+        "OtherLocalFunding": 329672,
+        "RecaptureAmount": 0
     },
     "178901": {
         "NAME": "AGUA DULCE ISD",
@@ -8697,7 +8697,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.9,
         "PercentChangeCentralAdminPay": -4.17,
         "PercentChangeSupportStaffPay": 53.12,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "6.84%",
         "Enrollment": 406.0,
         "Victories": "",
@@ -8726,7 +8725,8 @@ var DistrictsData = {
         "LocalFunding": 1853308,
         "StateFunding": 3318521,
         "FederalFunding": 423780,
-        "OtherLocalFunding": 236290
+        "OtherLocalFunding": 236290,
+        "RecaptureAmount": 0
     },
     "196902": {
         "NAME": "WOODSBORO ISD",
@@ -8736,7 +8736,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.56,
         "PercentChangeCentralAdminPay": -25.53,
         "PercentChangeSupportStaffPay": 4.54,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-18.32%",
         "Enrollment": 428.0,
         "Victories": "",
@@ -8756,7 +8755,8 @@ var DistrictsData = {
         "LocalFunding": 3212539,
         "StateFunding": 3011941,
         "FederalFunding": 718057,
-        "OtherLocalFunding": 2508838
+        "OtherLocalFunding": 2508838,
+        "RecaptureAmount": 0
     },
     "196901": {
         "NAME": "AUSTWELL-TIVOLI ISD",
@@ -8766,7 +8766,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -20.88,
         "PercentChangeCentralAdminPay": -33.05,
         "PercentChangeSupportStaffPay": 6.7,
-        "RecaptureAmount": "237415",
         "EnrollmentChange": "-9.27%",
         "Enrollment": 137.0,
         "Victories": "",
@@ -8791,7 +8790,8 @@ var DistrictsData = {
         "LocalFunding": 1992048,
         "StateFunding": 260033,
         "FederalFunding": 326945,
-        "OtherLocalFunding": 141579
+        "OtherLocalFunding": 141579,
+        "RecaptureAmount": 236845
     },
     "216901": {
         "NAME": "STERLING CITY ISD",
@@ -8801,7 +8801,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 12.25,
         "PercentChangeCentralAdminPay": 6.38,
         "PercentChangeSupportStaffPay": 24.7,
-        "RecaptureAmount": "1890004",
         "EnrollmentChange": "2.74%",
         "Enrollment": 338.0,
         "Victories": "",
@@ -8821,7 +8820,8 @@ var DistrictsData = {
         "LocalFunding": 4270201,
         "StateFunding": 1465871,
         "FederalFunding": 198250,
-        "OtherLocalFunding": 219207
+        "OtherLocalFunding": 219207,
+        "RecaptureAmount": 1897639
     },
     "170904": {
         "NAME": "WILLIS ISD",
@@ -8831,7 +8831,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.68,
         "PercentChangeCentralAdminPay": 17.92,
         "PercentChangeSupportStaffPay": 4.85,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "10.81%",
         "Enrollment": 7882.0,
         "Victories": "",
@@ -8860,7 +8859,8 @@ var DistrictsData = {
         "LocalFunding": 39297029,
         "StateFunding": 30397717,
         "FederalFunding": 9251707,
-        "OtherLocalFunding": 2099048
+        "OtherLocalFunding": 2099048,
+        "RecaptureAmount": 0
     },
     "170907": {
         "NAME": "SPLENDORA ISD",
@@ -8870,7 +8870,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.82,
         "PercentChangeCentralAdminPay": 17.93,
         "PercentChangeSupportStaffPay": -2.97,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "10.32%",
         "Enrollment": 4170.0,
         "Victories": "",
@@ -8895,7 +8894,8 @@ var DistrictsData = {
         "LocalFunding": 9837552,
         "StateFunding": 30870591,
         "FederalFunding": 5847890,
-        "OtherLocalFunding": 864910
+        "OtherLocalFunding": 864910,
+        "RecaptureAmount": 0
     },
     "186903": {
         "NAME": "IRAAN-SHEFFIELD ISD",
@@ -8905,7 +8905,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -14.28,
         "PercentChangeCentralAdminPay": -8.44,
         "PercentChangeSupportStaffPay": -25.81,
-        "RecaptureAmount": "5373506",
         "EnrollmentChange": "-34.87%",
         "Enrollment": 338.0,
         "Victories": "",
@@ -8930,7 +8929,8 @@ var DistrictsData = {
         "LocalFunding": 3998874,
         "StateFunding": 457051,
         "FederalFunding": 503912,
-        "OtherLocalFunding": 558617
+        "OtherLocalFunding": 558617,
+        "RecaptureAmount": 5376827
     },
     "186901": {
         "NAME": "BUENA VISTA ISD",
@@ -8940,7 +8940,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -55.47,
         "PercentChangeCentralAdminPay": -17.02,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "5244351",
         "EnrollmentChange": "13.74%",
         "Enrollment": 240.0,
         "Victories": "",
@@ -8965,7 +8964,8 @@ var DistrictsData = {
         "LocalFunding": 2816699,
         "StateFunding": 269638,
         "FederalFunding": 380890,
-        "OtherLocalFunding": 178774
+        "OtherLocalFunding": 178774,
+        "RecaptureAmount": 5243569
     },
     "119903": {
         "NAME": "PERRIN-WHITT CONS ISD",
@@ -8975,7 +8975,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.15,
         "PercentChangeCentralAdminPay": 0.59,
         "PercentChangeSupportStaffPay": 22.34,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-11.24%",
         "Enrollment": 316.0,
         "Victories": "",
@@ -9003,7 +9002,8 @@ var DistrictsData = {
         "LocalFunding": 2607605,
         "StateFunding": 1593605,
         "FederalFunding": 503020,
-        "OtherLocalFunding": 195799
+        "OtherLocalFunding": 195799,
+        "RecaptureAmount": 0
     },
     "039905": {
         "NAME": "MIDWAY ISD (CLAY)",
@@ -9013,7 +9013,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 30.88,
         "PercentChangeCentralAdminPay": 8.61,
         "PercentChangeSupportStaffPay": -100.0,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "26.92%",
         "Enrollment": 132.0,
         "Victories": "",
@@ -9042,7 +9041,8 @@ var DistrictsData = {
         "LocalFunding": 841840,
         "StateFunding": 1299086,
         "FederalFunding": 268075,
-        "OtherLocalFunding": 156489
+        "OtherLocalFunding": 156489,
+        "RecaptureAmount": 0
     },
     "182902": {
         "NAME": "GRAFORD ISD",
@@ -9052,7 +9052,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -19.93,
         "PercentChangeCentralAdminPay": 12.19,
         "PercentChangeSupportStaffPay": -3.09,
-        "RecaptureAmount": "6204814",
         "EnrollmentChange": "-9.46%",
         "Enrollment": 316.0,
         "Victories": "",
@@ -9081,7 +9080,8 @@ var DistrictsData = {
         "LocalFunding": 3962772,
         "StateFunding": 187846,
         "FederalFunding": 297147,
-        "OtherLocalFunding": 132224
+        "OtherLocalFunding": 132224,
+        "RecaptureAmount": 6323797
     },
     "119901": {
         "NAME": "BRYSON ISD",
@@ -9091,7 +9091,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.2,
         "PercentChangeCentralAdminPay": 121.0,
         "PercentChangeSupportStaffPay": -35.82,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.14%",
         "Enrollment": 260.0,
         "Victories": "",
@@ -9116,7 +9115,8 @@ var DistrictsData = {
         "LocalFunding": 1505938,
         "StateFunding": 1631733,
         "FederalFunding": 533492,
-        "OtherLocalFunding": 94622
+        "OtherLocalFunding": 94622,
+        "RecaptureAmount": 0
     },
     "169901": {
         "NAME": "BOWIE ISD",
@@ -9126,7 +9126,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.57,
         "PercentChangeCentralAdminPay": -1.41,
         "PercentChangeSupportStaffPay": 9.55,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.0%",
         "Enrollment": 1693.0,
         "Victories": "",
@@ -9155,7 +9154,8 @@ var DistrictsData = {
         "LocalFunding": 9721110,
         "StateFunding": 6202271,
         "FederalFunding": 2426922,
-        "OtherLocalFunding": 304647
+        "OtherLocalFunding": 304647,
+        "RecaptureAmount": 0
     },
     "219903": {
         "NAME": "TULIA ISD",
@@ -9165,7 +9165,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.47,
         "PercentChangeCentralAdminPay": -0.53,
         "PercentChangeSupportStaffPay": -6.19,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-14.65%",
         "Enrollment": 950.0,
         "Victories": "",
@@ -9185,7 +9184,8 @@ var DistrictsData = {
         "LocalFunding": 2100327,
         "StateFunding": 9086360,
         "FederalFunding": 2270764,
-        "OtherLocalFunding": 893733
+        "OtherLocalFunding": 893733,
+        "RecaptureAmount": 0
     },
     "219905": {
         "NAME": "KRESS ISD",
@@ -9195,7 +9195,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": 0.46,
         "PercentChangeSupportStaffPay": -21.9,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "14.94%",
         "Enrollment": 277.0,
         "Victories": "",
@@ -9220,7 +9219,8 @@ var DistrictsData = {
         "LocalFunding": 1233427,
         "StateFunding": 2297092,
         "FederalFunding": 384158,
-        "OtherLocalFunding": 78607
+        "OtherLocalFunding": 78607,
+        "RecaptureAmount": 0
     },
     "181906": {
         "NAME": "WEST ORANGE-COVE CONS ISD",
@@ -9230,7 +9230,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.39,
         "PercentChangeCentralAdminPay": 10.22,
         "PercentChangeSupportStaffPay": -0.4,
-        "RecaptureAmount": "165092",
         "EnrollmentChange": "3.74%",
         "Enrollment": 2522.0,
         "Victories": "",
@@ -9250,7 +9249,8 @@ var DistrictsData = {
         "LocalFunding": 19800569,
         "StateFunding": 5367464,
         "FederalFunding": 8503040,
-        "OtherLocalFunding": 384058
+        "OtherLocalFunding": 384058,
+        "RecaptureAmount": 181820
     },
     "181905": {
         "NAME": "ORANGEFIELD ISD",
@@ -9260,7 +9260,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.38,
         "PercentChangeCentralAdminPay": 13.22,
         "PercentChangeSupportStaffPay": 6.46,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.65%",
         "Enrollment": 1791.0,
         "Victories": "",
@@ -9280,7 +9279,8 @@ var DistrictsData = {
         "LocalFunding": 6442893,
         "StateFunding": 10629673,
         "FederalFunding": 1631793,
-        "OtherLocalFunding": 1366423
+        "OtherLocalFunding": 1366423,
+        "RecaptureAmount": 0
     },
     "181908": {
         "NAME": "LITTLE CYPRESS-MAURICEVILLE CONS ISD",
@@ -9290,7 +9290,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 4.57,
         "PercentChangeCentralAdminPay": 7.44,
         "PercentChangeSupportStaffPay": -3.76,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-5.42%",
         "Enrollment": 3194.0,
         "Victories": "",
@@ -9315,7 +9314,8 @@ var DistrictsData = {
         "LocalFunding": 10143733,
         "StateFunding": 18165094,
         "FederalFunding": 5435872,
-        "OtherLocalFunding": 1057826
+        "OtherLocalFunding": 1057826,
+        "RecaptureAmount": 0
     },
     "181901": {
         "NAME": "BRIDGE CITY ISD",
@@ -9325,7 +9325,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 10.75,
         "PercentChangeCentralAdminPay": 38.57,
         "PercentChangeSupportStaffPay": 1.46,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.88%",
         "Enrollment": 3028.0,
         "Victories": "",
@@ -9350,7 +9349,8 @@ var DistrictsData = {
         "LocalFunding": 11070623,
         "StateFunding": 14289368,
         "FederalFunding": 3458745,
-        "OtherLocalFunding": 816254
+        "OtherLocalFunding": 816254,
+        "RecaptureAmount": 0
     },
     "181907": {
         "NAME": "VIDOR ISD",
@@ -9360,7 +9360,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.96,
         "PercentChangeCentralAdminPay": 2.27,
         "PercentChangeSupportStaffPay": -4.72,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-12.98%",
         "Enrollment": 4236.0,
         "Victories": "",
@@ -9384,7 +9383,8 @@ var DistrictsData = {
         "LocalFunding": 13295822,
         "StateFunding": 28915372,
         "FederalFunding": 6647400,
-        "OtherLocalFunding": 459607
+        "OtherLocalFunding": 459607,
+        "RecaptureAmount": 0
     },
     "045905": {
         "NAME": "WEIMAR ISD",
@@ -9394,7 +9394,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.01,
         "PercentChangeCentralAdminPay": 18.85,
         "PercentChangeSupportStaffPay": 57.17,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "5.02%",
         "Enrollment": 670.0,
         "Victories": "",
@@ -9419,7 +9418,8 @@ var DistrictsData = {
         "LocalFunding": 4246164,
         "StateFunding": 3397314,
         "FederalFunding": 1107016,
-        "OtherLocalFunding": 352121
+        "OtherLocalFunding": 352121,
+        "RecaptureAmount": 0
     },
     "143901": {
         "NAME": "HALLETTSVILLE ISD",
@@ -9429,7 +9429,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.84,
         "PercentChangeCentralAdminPay": -6.68,
         "PercentChangeSupportStaffPay": -6.9,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.24%",
         "Enrollment": 1116.0,
         "Victories": "",
@@ -9458,7 +9457,8 @@ var DistrictsData = {
         "LocalFunding": 7802555,
         "StateFunding": 3482597,
         "FederalFunding": 631458,
-        "OtherLocalFunding": 913249
+        "OtherLocalFunding": 913249,
+        "RecaptureAmount": 0
     },
     "040902": {
         "NAME": "WHITEFACE CONS ISD",
@@ -9468,7 +9468,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.88,
         "PercentChangeCentralAdminPay": -4.18,
         "PercentChangeSupportStaffPay": -5.01,
-        "RecaptureAmount": "670503",
         "EnrollmentChange": "-1.45%",
         "Enrollment": 339.0,
         "Victories": "",
@@ -9488,7 +9487,8 @@ var DistrictsData = {
         "LocalFunding": 3920300,
         "StateFunding": 574041,
         "FederalFunding": 611584,
-        "OtherLocalFunding": 434198
+        "OtherLocalFunding": 434198,
+        "RecaptureAmount": 413283
     },
     "040901": {
         "NAME": "MORTON ISD",
@@ -9498,7 +9498,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.96,
         "PercentChangeCentralAdminPay": 16.17,
         "PercentChangeSupportStaffPay": 10.65,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.74%",
         "Enrollment": 374.0,
         "Victories": "",
@@ -9523,7 +9522,8 @@ var DistrictsData = {
         "LocalFunding": 532762,
         "StateFunding": 4079066,
         "FederalFunding": 794129,
-        "OtherLocalFunding": 380659
+        "OtherLocalFunding": 380659,
+        "RecaptureAmount": 0
     },
     "185904": {
         "NAME": "LAZBUDDIE ISD",
@@ -9533,7 +9533,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -15.58,
         "PercentChangeCentralAdminPay": 70.06,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-13.74%",
         "Enrollment": 182.0,
         "Victories": "",
@@ -9562,7 +9561,8 @@ var DistrictsData = {
         "LocalFunding": 635855,
         "StateFunding": 1692422,
         "FederalFunding": 198173,
-        "OtherLocalFunding": 201298
+        "OtherLocalFunding": 201298,
+        "RecaptureAmount": 0
     },
     "059901": {
         "NAME": "HEREFORD ISD",
@@ -9572,7 +9572,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.27,
         "PercentChangeCentralAdminPay": -5.94,
         "PercentChangeSupportStaffPay": -1.22,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.24%",
         "Enrollment": 3868.0,
         "Victories": "",
@@ -9601,7 +9600,8 @@ var DistrictsData = {
         "LocalFunding": 15361523,
         "StateFunding": 19865309,
         "FederalFunding": 8541901,
-        "OtherLocalFunding": 969700
+        "OtherLocalFunding": 969700,
+        "RecaptureAmount": 0
     },
     "185903": {
         "NAME": "FRIONA ISD",
@@ -9611,7 +9611,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -13.98,
         "PercentChangeCentralAdminPay": -1.48,
         "PercentChangeSupportStaffPay": -4.04,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.7%",
         "Enrollment": 1086.0,
         "Victories": "",
@@ -9636,7 +9635,8 @@ var DistrictsData = {
         "LocalFunding": 4282220,
         "StateFunding": 7201926,
         "FederalFunding": 2186126,
-        "OtherLocalFunding": 498572
+        "OtherLocalFunding": 498572,
+        "RecaptureAmount": 0
     },
     "185901": {
         "NAME": "BOVINA ISD",
@@ -9646,7 +9646,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.26,
         "PercentChangeCentralAdminPay": -8.29,
         "PercentChangeSupportStaffPay": 20.08,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.12%",
         "Enrollment": 465.0,
         "Victories": "",
@@ -9671,7 +9670,8 @@ var DistrictsData = {
         "LocalFunding": 1207120,
         "StateFunding": 4585104,
         "FederalFunding": 957340,
-        "OtherLocalFunding": 63483
+        "OtherLocalFunding": 63483,
+        "RecaptureAmount": 0
     },
     "081906": {
         "NAME": "DEW ISD",
@@ -9681,7 +9681,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 131.53,
         "PercentChangeCentralAdminPay": 13.22,
         "PercentChangeSupportStaffPay": 12.73,
-        "RecaptureAmount": "12525",
         "EnrollmentChange": "2.5%",
         "Enrollment": 164.0,
         "Victories": "",
@@ -9706,7 +9705,8 @@ var DistrictsData = {
         "LocalFunding": 1852301,
         "StateFunding": 442993,
         "FederalFunding": 265735,
-        "OtherLocalFunding": 608269
+        "OtherLocalFunding": 608269,
+        "RecaptureAmount": 12325
     },
     "081905": {
         "NAME": "WORTHAM ISD",
@@ -9716,7 +9716,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.64,
         "PercentChangeCentralAdminPay": -24.07,
         "PercentChangeSupportStaffPay": 39.83,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-5.53%",
         "Enrollment": 495.0,
         "Victories": "",
@@ -9745,7 +9744,8 @@ var DistrictsData = {
         "LocalFunding": 1788469,
         "StateFunding": 3778567,
         "FederalFunding": 860093,
-        "OtherLocalFunding": 56062
+        "OtherLocalFunding": 56062,
+        "RecaptureAmount": 0
     },
     "081904": {
         "NAME": "TEAGUE ISD",
@@ -9755,7 +9755,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.17,
         "PercentChangeCentralAdminPay": 17.76,
         "PercentChangeSupportStaffPay": 12.98,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.21%",
         "Enrollment": 1163.0,
         "Victories": "",
@@ -9780,7 +9779,8 @@ var DistrictsData = {
         "LocalFunding": 7336028,
         "StateFunding": 4697670,
         "FederalFunding": 1614649,
-        "OtherLocalFunding": 1006142
+        "OtherLocalFunding": 1006142,
+        "RecaptureAmount": 0
     },
     "145907": {
         "NAME": "OAKWOOD ISD",
@@ -9790,7 +9790,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 133.33,
         "PercentChangeCentralAdminPay": 37.39,
         "PercentChangeSupportStaffPay": -3.13,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.13%",
         "Enrollment": 192.0,
         "Victories": "",
@@ -9819,7 +9818,8 @@ var DistrictsData = {
         "LocalFunding": 1646150,
         "StateFunding": 699127,
         "FederalFunding": 626009,
-        "OtherLocalFunding": 78457
+        "OtherLocalFunding": 78457,
+        "RecaptureAmount": 0
     },
     "147903": {
         "NAME": "MEXIA ISD",
@@ -9829,7 +9829,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.78,
         "PercentChangeCentralAdminPay": -7.96,
         "PercentChangeSupportStaffPay": -10.36,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.31%",
         "Enrollment": 1844.0,
         "Victories": "",
@@ -9858,7 +9857,8 @@ var DistrictsData = {
         "LocalFunding": 5079892,
         "StateFunding": 15738453,
         "FederalFunding": 4211453,
-        "OtherLocalFunding": 143631
+        "OtherLocalFunding": 143631,
+        "RecaptureAmount": 0
     },
     "081902": {
         "NAME": "FAIRFIELD ISD",
@@ -9868,7 +9868,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -14.84,
         "PercentChangeCentralAdminPay": -0.49,
         "PercentChangeSupportStaffPay": 0.51,
-        "RecaptureAmount": "54398",
         "EnrollmentChange": "-6.84%",
         "Enrollment": 1703.0,
         "Victories": "",
@@ -9897,7 +9896,8 @@ var DistrictsData = {
         "LocalFunding": 12986451,
         "StateFunding": 3405759,
         "FederalFunding": 3691159,
-        "OtherLocalFunding": 1958162
+        "OtherLocalFunding": 1958162,
+        "RecaptureAmount": 53099
     },
     "175903": {
         "NAME": "CORSICANA ISD",
@@ -9907,7 +9907,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.13,
         "PercentChangeCentralAdminPay": 4.66,
         "PercentChangeSupportStaffPay": 3.06,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.75%",
         "Enrollment": 6059.0,
         "Victories": "",
@@ -9936,7 +9935,8 @@ var DistrictsData = {
         "LocalFunding": 20789494,
         "StateFunding": 34546056,
         "FederalFunding": 11462579,
-        "OtherLocalFunding": 1251463
+        "OtherLocalFunding": 1251463,
+        "RecaptureAmount": 0
     },
     "145901": {
         "NAME": "BUFFALO ISD",
@@ -9946,7 +9946,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 6.75,
         "PercentChangeCentralAdminPay": -1.11,
         "PercentChangeSupportStaffPay": -6.91,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.27%",
         "Enrollment": 947.0,
         "Victories": "",
@@ -9975,7 +9974,8 @@ var DistrictsData = {
         "LocalFunding": 5106727,
         "StateFunding": 5901589,
         "FederalFunding": 1225323,
-        "OtherLocalFunding": 331097
+        "OtherLocalFunding": 331097,
+        "RecaptureAmount": 0
     },
     "248901": {
         "NAME": "KERMIT ISD",
@@ -9985,7 +9985,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.58,
         "PercentChangeCentralAdminPay": -4.36,
         "PercentChangeSupportStaffPay": 17.29,
-        "RecaptureAmount": "12428",
         "EnrollmentChange": "-12.73%",
         "Enrollment": 1275.0,
         "Victories": "",
@@ -10010,7 +10009,8 @@ var DistrictsData = {
         "LocalFunding": 9930739,
         "StateFunding": 4528093,
         "FederalFunding": 2084457,
-        "OtherLocalFunding": 896948
+        "OtherLocalFunding": 896948,
+        "RecaptureAmount": 0
     },
     "248902": {
         "NAME": "WINK-LOVING ISD",
@@ -10020,7 +10020,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.99,
         "PercentChangeCentralAdminPay": 5.3,
         "PercentChangeSupportStaffPay": -15.78,
-        "RecaptureAmount": "87063496",
         "EnrollmentChange": "-8.2%",
         "Enrollment": 403.0,
         "Victories": "",
@@ -10044,7 +10043,8 @@ var DistrictsData = {
         "LocalFunding": 19073366,
         "StateFunding": 2320294,
         "FederalFunding": 441733,
-        "OtherLocalFunding": 1134894
+        "OtherLocalFunding": 1134894,
+        "RecaptureAmount": 86843170
     },
     "033904": {
         "NAME": "WHITE DEER ISD",
@@ -10054,7 +10054,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -13.68,
         "PercentChangeCentralAdminPay": 26.96,
         "PercentChangeSupportStaffPay": -8.98,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.8%",
         "Enrollment": 373.0,
         "Victories": "",
@@ -10078,7 +10077,8 @@ var DistrictsData = {
         "LocalFunding": 2040877,
         "StateFunding": 2345061,
         "FederalFunding": 430278,
-        "OtherLocalFunding": 131761
+        "OtherLocalFunding": 131761,
+        "RecaptureAmount": 0
     },
     "242903": {
         "NAME": "WHEELER ISD",
@@ -10088,7 +10088,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 7.28,
         "PercentChangeCentralAdminPay": -11.2,
         "PercentChangeSupportStaffPay": -16.47,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-14.37%",
         "Enrollment": 417.0,
         "Victories": "",
@@ -10108,7 +10107,8 @@ var DistrictsData = {
         "LocalFunding": 2097481,
         "StateFunding": 3090270,
         "FederalFunding": 327849,
-        "OtherLocalFunding": 142366
+        "OtherLocalFunding": 142366,
+        "RecaptureAmount": 0
     },
     "090904": {
         "NAME": "PAMPA ISD",
@@ -10118,7 +10118,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.76,
         "PercentChangeCentralAdminPay": -0.67,
         "PercentChangeSupportStaffPay": -12.59,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.57%",
         "Enrollment": 3506.0,
         "Victories": "",
@@ -10143,7 +10142,8 @@ var DistrictsData = {
         "LocalFunding": 10827522,
         "StateFunding": 20086515,
         "FederalFunding": 5161241,
-        "OtherLocalFunding": 934139
+        "OtherLocalFunding": 934139,
+        "RecaptureAmount": 0
     },
     "207901": {
         "NAME": "SCHLEICHER ISD",
@@ -10153,7 +10153,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.37,
         "PercentChangeCentralAdminPay": -2.77,
         "PercentChangeSupportStaffPay": -14.62,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.17%",
         "Enrollment": 521.0,
         "Victories": "",
@@ -10173,7 +10172,8 @@ var DistrictsData = {
         "LocalFunding": 2836107,
         "StateFunding": 3435495,
         "FederalFunding": 605122,
-        "OtherLocalFunding": 454387
+        "OtherLocalFunding": 454387,
+        "RecaptureAmount": 0
     },
     "090902": {
         "NAME": "LEFORS ISD",
@@ -10183,7 +10183,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 8.84,
         "PercentChangeCentralAdminPay": -4.33,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.14%",
         "Enrollment": 169.0,
         "Victories": "",
@@ -10208,7 +10207,8 @@ var DistrictsData = {
         "LocalFunding": 865945,
         "StateFunding": 1315575,
         "FederalFunding": 184233,
-        "OtherLocalFunding": 53775
+        "OtherLocalFunding": 53775,
+        "RecaptureAmount": 0
     },
     "090905": {
         "NAME": "GRANDVIEW-HOPKINS ISD",
@@ -10218,7 +10218,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": 4.06,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "72715",
         "EnrollmentChange": "-20.83%",
         "Enrollment": 38.0,
         "Victories": "",
@@ -10243,7 +10242,8 @@ var DistrictsData = {
         "LocalFunding": 730234,
         "StateFunding": 231360,
         "FederalFunding": 38417,
-        "OtherLocalFunding": 15622
+        "OtherLocalFunding": 15622,
+        "RecaptureAmount": 80906
     },
     "090903": {
         "NAME": "MCLEAN ISD",
@@ -10253,7 +10253,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.77,
         "PercentChangeCentralAdminPay": -7.1,
         "PercentChangeSupportStaffPay": 4.4,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-15.9%",
         "Enrollment": 201.0,
         "Victories": "",
@@ -10282,7 +10281,8 @@ var DistrictsData = {
         "LocalFunding": 771868,
         "StateFunding": 1697867,
         "FederalFunding": 220026,
-        "OtherLocalFunding": 66087
+        "OtherLocalFunding": 66087,
+        "RecaptureAmount": 0
     },
     "099902": {
         "NAME": "CHILLICOTHE ISD",
@@ -10292,7 +10292,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.46,
         "PercentChangeCentralAdminPay": 19.0,
         "PercentChangeSupportStaffPay": 13.32,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "5.61%",
         "Enrollment": 207.0,
         "Victories": "",
@@ -10317,7 +10316,8 @@ var DistrictsData = {
         "LocalFunding": 1485927,
         "StateFunding": 1174778,
         "FederalFunding": 384111,
-        "OtherLocalFunding": 1447104
+        "OtherLocalFunding": 1447104,
+        "RecaptureAmount": 0
     },
     "099903": {
         "NAME": "QUANAH ISD",
@@ -10327,7 +10327,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.83,
         "PercentChangeCentralAdminPay": -47.49,
         "PercentChangeSupportStaffPay": -6.73,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.21%",
         "Enrollment": 528.0,
         "Victories": "",
@@ -10347,7 +10346,8 @@ var DistrictsData = {
         "LocalFunding": 3315346,
         "StateFunding": 3933725,
         "FederalFunding": 1832045,
-        "OtherLocalFunding": 989563
+        "OtherLocalFunding": 989563,
+        "RecaptureAmount": 0
     },
     "038901": {
         "NAME": "CHILDRESS ISD",
@@ -10357,7 +10357,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 8.78,
         "PercentChangeCentralAdminPay": -2.75,
         "PercentChangeSupportStaffPay": -16.92,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-12.16%",
         "Enrollment": 997.0,
         "Victories": "",
@@ -10386,7 +10385,8 @@ var DistrictsData = {
         "LocalFunding": 4573567,
         "StateFunding": 5227021,
         "FederalFunding": 1500940,
-        "OtherLocalFunding": 3082173
+        "OtherLocalFunding": 3082173,
+        "RecaptureAmount": 0
     },
     "251902": {
         "NAME": "PLAINS ISD",
@@ -10396,7 +10396,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.4,
         "PercentChangeCentralAdminPay": 29.18,
         "PercentChangeSupportStaffPay": 65.42,
-        "RecaptureAmount": "6789768",
         "EnrollmentChange": "-7.71%",
         "Enrollment": 431.0,
         "Victories": "",
@@ -10421,7 +10420,8 @@ var DistrictsData = {
         "LocalFunding": 5452330,
         "StateFunding": 255733,
         "FederalFunding": 471398,
-        "OtherLocalFunding": 271687
+        "OtherLocalFunding": 271687,
+        "RecaptureAmount": 6824303
     },
     "251901": {
         "NAME": "DENVER CITY ISD",
@@ -10431,7 +10431,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.3,
         "PercentChangeCentralAdminPay": 0.09,
         "PercentChangeSupportStaffPay": -7.72,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-8.08%",
         "Enrollment": 1638.0,
         "Victories": "",
@@ -10456,7 +10455,8 @@ var DistrictsData = {
         "LocalFunding": 11888580,
         "StateFunding": 4294191,
         "FederalFunding": 2643965,
-        "OtherLocalFunding": 438176
+        "OtherLocalFunding": 438176,
+        "RecaptureAmount": 0
     },
     "223901": {
         "NAME": "BROWNFIELD ISD",
@@ -10466,7 +10466,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.61,
         "PercentChangeCentralAdminPay": 15.02,
         "PercentChangeSupportStaffPay": -14.97,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-14.82%",
         "Enrollment": 1598.0,
         "Victories": "",
@@ -10499,7 +10498,8 @@ var DistrictsData = {
         "LocalFunding": 6712018,
         "StateFunding": 10215209,
         "FederalFunding": 4494422,
-        "OtherLocalFunding": 580821
+        "OtherLocalFunding": 580821,
+        "RecaptureAmount": 0
     },
     "083901": {
         "NAME": "SEAGRAVES ISD",
@@ -10509,7 +10509,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 18.83,
         "PercentChangeCentralAdminPay": 18.64,
         "PercentChangeSupportStaffPay": 16.13,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-17.07%",
         "Enrollment": 510.0,
         "Victories": "",
@@ -10538,7 +10537,8 @@ var DistrictsData = {
         "LocalFunding": 1686430,
         "StateFunding": 3803286,
         "FederalFunding": 960824,
-        "OtherLocalFunding": 1750869
+        "OtherLocalFunding": 1750869,
+        "RecaptureAmount": 0
     },
     "232901": {
         "NAME": "KNIPPA ISD",
@@ -10548,7 +10548,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -39.75,
         "PercentChangeCentralAdminPay": 46.11,
         "PercentChangeSupportStaffPay": -16.27,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "8.31%",
         "Enrollment": 456.0,
         "Victories": "",
@@ -10573,7 +10572,8 @@ var DistrictsData = {
         "LocalFunding": 940134,
         "StateFunding": 4178744,
         "FederalFunding": 389564,
-        "OtherLocalFunding": 133294
+        "OtherLocalFunding": 133294,
+        "RecaptureAmount": 0
     },
     "069902": {
         "NAME": "NUECES CANYON CONS ISD",
@@ -10583,7 +10583,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.49,
         "PercentChangeCentralAdminPay": 17.83,
         "PercentChangeSupportStaffPay": -11.38,
-        "RecaptureAmount": "42466",
         "EnrollmentChange": "-10.96%",
         "Enrollment": 260.0,
         "Victories": "",
@@ -10612,7 +10611,8 @@ var DistrictsData = {
         "LocalFunding": 2822799,
         "StateFunding": 709259,
         "FederalFunding": 701600,
-        "OtherLocalFunding": 101892
+        "OtherLocalFunding": 101892,
+        "RecaptureAmount": 42366
     },
     "093903": {
         "NAME": "IOLA ISD",
@@ -10622,7 +10622,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -21.88,
         "PercentChangeCentralAdminPay": -20.52,
         "PercentChangeSupportStaffPay": -21.77,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "15.3%",
         "Enrollment": 535.0,
         "Victories": "",
@@ -10647,7 +10646,8 @@ var DistrictsData = {
         "LocalFunding": 3645789,
         "StateFunding": 2546711,
         "FederalFunding": 500519,
-        "OtherLocalFunding": 369967
+        "OtherLocalFunding": 369967,
+        "RecaptureAmount": 0
     },
     "093901": {
         "NAME": "ANDERSON-SHIRO CONS ISD",
@@ -10657,7 +10657,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 10.87,
         "PercentChangeCentralAdminPay": -16.95,
         "PercentChangeSupportStaffPay": -8.61,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "5.6%",
         "Enrollment": 887.0,
         "Victories": "",
@@ -10682,7 +10681,8 @@ var DistrictsData = {
         "LocalFunding": 7157549,
         "StateFunding": 2441411,
         "FederalFunding": 753528,
-        "OtherLocalFunding": 328598
+        "OtherLocalFunding": 328598,
+        "RecaptureAmount": 0
     },
     "154901": {
         "NAME": "MADISONVILLE CONS ISD",
@@ -10692,7 +10692,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.11,
         "PercentChangeCentralAdminPay": 20.82,
         "PercentChangeSupportStaffPay": 7.19,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.92%",
         "Enrollment": 2294.0,
         "Victories": "",
@@ -10721,7 +10720,8 @@ var DistrictsData = {
         "LocalFunding": 9591516,
         "StateFunding": 12735669,
         "FederalFunding": 4292882,
-        "OtherLocalFunding": 739983
+        "OtherLocalFunding": 739983,
+        "RecaptureAmount": 0
     },
     "075903": {
         "NAME": "SCHULENBURG ISD",
@@ -10731,7 +10731,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.25,
         "PercentChangeCentralAdminPay": 9.15,
         "PercentChangeSupportStaffPay": 12.0,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.56%",
         "Enrollment": 696.0,
         "Victories": "",
@@ -10756,7 +10755,8 @@ var DistrictsData = {
         "LocalFunding": 4994299,
         "StateFunding": 3103510,
         "FederalFunding": 1117044,
-        "OtherLocalFunding": 802179
+        "OtherLocalFunding": 802179,
+        "RecaptureAmount": 0
     },
     "075902": {
         "NAME": "LA GRANGE ISD",
@@ -10766,7 +10766,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -13.05,
         "PercentChangeCentralAdminPay": -7.37,
         "PercentChangeSupportStaffPay": -4.51,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-6.57%",
         "Enrollment": 1876.0,
         "Victories": "",
@@ -10791,7 +10790,8 @@ var DistrictsData = {
         "LocalFunding": 12581791,
         "StateFunding": 5169664,
         "FederalFunding": 3643957,
-        "OtherLocalFunding": 2264178
+        "OtherLocalFunding": 2264178,
+        "RecaptureAmount": 0
     },
     "075901": {
         "NAME": "FLATONIA ISD",
@@ -10801,7 +10801,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 12.26,
         "PercentChangeCentralAdminPay": 8.29,
         "PercentChangeSupportStaffPay": 12.28,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.56%",
         "Enrollment": 602.0,
         "Victories": "",
@@ -10826,7 +10825,8 @@ var DistrictsData = {
         "LocalFunding": 4989617,
         "StateFunding": 2898143,
         "FederalFunding": 594602,
-        "OtherLocalFunding": 355972
+        "OtherLocalFunding": 355972,
+        "RecaptureAmount": 0
     },
     "075906": {
         "NAME": "FAYETTEVILLE ISD",
@@ -10836,7 +10836,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.43,
         "PercentChangeCentralAdminPay": 28.9,
         "PercentChangeSupportStaffPay": -22.47,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "17.09%",
         "Enrollment": 274.0,
         "Victories": "",
@@ -10861,7 +10860,8 @@ var DistrictsData = {
         "LocalFunding": 2538637,
         "StateFunding": 599779,
         "FederalFunding": 390143,
-        "OtherLocalFunding": 235498
+        "OtherLocalFunding": 235498,
+        "RecaptureAmount": 0
     },
     "224902": {
         "NAME": "WOODSON ISD",
@@ -10871,7 +10871,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.18,
         "PercentChangeCentralAdminPay": -10.19,
         "PercentChangeSupportStaffPay": -28.92,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "13.38%",
         "Enrollment": 161.0,
         "Victories": "",
@@ -10896,7 +10895,8 @@ var DistrictsData = {
         "LocalFunding": 427011,
         "StateFunding": 2049660,
         "FederalFunding": 225158,
-        "OtherLocalFunding": 16253
+        "OtherLocalFunding": 16253,
+        "RecaptureAmount": 0
     },
     "234905": {
         "NAME": "MARTINS MILL ISD",
@@ -10906,7 +10906,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 11.63,
         "PercentChangeCentralAdminPay": -22.67,
         "PercentChangeSupportStaffPay": 11.55,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.74%",
         "Enrollment": 457.0,
         "Victories": "",
@@ -10931,7 +10930,8 @@ var DistrictsData = {
         "LocalFunding": 1274891,
         "StateFunding": 3994893,
         "FederalFunding": 569684,
-        "OtherLocalFunding": 165546
+        "OtherLocalFunding": 165546,
+        "RecaptureAmount": 0
     },
     "107905": {
         "NAME": "EUSTACE ISD",
@@ -10941,7 +10941,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.15,
         "PercentChangeCentralAdminPay": 17.34,
         "PercentChangeSupportStaffPay": 5.68,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.66%",
         "Enrollment": 1592.0,
         "Victories": "",
@@ -10978,7 +10977,8 @@ var DistrictsData = {
         "LocalFunding": 6198579,
         "StateFunding": 9690729,
         "FederalFunding": 3733963,
-        "OtherLocalFunding": 506994
+        "OtherLocalFunding": 506994,
+        "RecaptureAmount": 0
     },
     "234902": {
         "NAME": "CANTON ISD",
@@ -10988,7 +10988,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -13.39,
         "PercentChangeCentralAdminPay": 0.37,
         "PercentChangeSupportStaffPay": -10.83,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.52%",
         "Enrollment": 2134.0,
         "Victories": "",
@@ -11013,7 +11012,8 @@ var DistrictsData = {
         "LocalFunding": 8321793,
         "StateFunding": 10757939,
         "FederalFunding": 2113745,
-        "OtherLocalFunding": 1574919
+        "OtherLocalFunding": 1574919,
+        "RecaptureAmount": 0
     },
     "129905": {
         "NAME": "MABANK ISD",
@@ -11023,7 +11023,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -25.46,
         "PercentChangeCentralAdminPay": -12.44,
         "PercentChangeSupportStaffPay": -0.03,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.48%",
         "Enrollment": 3544.0,
         "Victories": "",
@@ -11060,7 +11059,8 @@ var DistrictsData = {
         "LocalFunding": 13572549,
         "StateFunding": 18041623,
         "FederalFunding": 5244921,
-        "OtherLocalFunding": 1634368
+        "OtherLocalFunding": 1634368,
+        "RecaptureAmount": 0
     },
     "161922": {
         "NAME": "ROBINSON ISD",
@@ -11070,7 +11070,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.94,
         "PercentChangeCentralAdminPay": 1.52,
         "PercentChangeSupportStaffPay": 4.91,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.85%",
         "Enrollment": 2402.0,
         "Victories": "",
@@ -11094,7 +11093,8 @@ var DistrictsData = {
         "LocalFunding": 8549888,
         "StateFunding": 14241097,
         "FederalFunding": 2409590,
-        "OtherLocalFunding": 737943
+        "OtherLocalFunding": 737943,
+        "RecaptureAmount": 0
     },
     "161912": {
         "NAME": "RIESEL ISD",
@@ -11104,7 +11104,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.54,
         "PercentChangeCentralAdminPay": -4.48,
         "PercentChangeSupportStaffPay": -13.43,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "8.18%",
         "Enrollment": 648.0,
         "Victories": "",
@@ -11128,7 +11127,8 @@ var DistrictsData = {
         "LocalFunding": 4502591,
         "StateFunding": 2144884,
         "FederalFunding": 720887,
-        "OtherLocalFunding": 302176
+        "OtherLocalFunding": 302176,
+        "RecaptureAmount": 0
     },
     "161908": {
         "NAME": "MART ISD",
@@ -11138,7 +11138,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.71,
         "PercentChangeCentralAdminPay": -2.81,
         "PercentChangeSupportStaffPay": -1.76,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "6.08%",
         "Enrollment": 541.0,
         "Victories": "",
@@ -11167,7 +11166,8 @@ var DistrictsData = {
         "LocalFunding": 1428437,
         "StateFunding": 4786468,
         "FederalFunding": 1027555,
-        "OtherLocalFunding": 425660
+        "OtherLocalFunding": 425660,
+        "RecaptureAmount": 0
     },
     "147902": {
         "NAME": "GROESBECK ISD",
@@ -11177,7 +11177,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.82,
         "PercentChangeCentralAdminPay": -8.82,
         "PercentChangeSupportStaffPay": 2.79,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-16.79%",
         "Enrollment": 1522.0,
         "Victories": "",
@@ -11206,7 +11205,8 @@ var DistrictsData = {
         "LocalFunding": 12548913,
         "StateFunding": 2385222,
         "FederalFunding": 3011047,
-        "OtherLocalFunding": 504594
+        "OtherLocalFunding": 504594,
+        "RecaptureAmount": 0
     },
     "092907": {
         "NAME": "SPRING HILL ISD",
@@ -11216,7 +11216,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.34,
         "PercentChangeCentralAdminPay": -9.22,
         "PercentChangeSupportStaffPay": 7.33,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "5.69%",
         "Enrollment": 2006.0,
         "Victories": "",
@@ -11236,7 +11235,8 @@ var DistrictsData = {
         "LocalFunding": 5359549,
         "StateFunding": 13105977,
         "FederalFunding": 2549821,
-        "OtherLocalFunding": 485209
+        "OtherLocalFunding": 485209,
+        "RecaptureAmount": 0
     },
     "092903": {
         "NAME": "LONGVIEW ISD",
@@ -11246,7 +11246,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.0,
         "PercentChangeCentralAdminPay": 14.64,
         "PercentChangeSupportStaffPay": -4.97,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.46%",
         "Enrollment": 8254.0,
         "Victories": "",
@@ -11271,7 +11270,8 @@ var DistrictsData = {
         "LocalFunding": 45917006,
         "StateFunding": 42234920,
         "FederalFunding": 26672850,
-        "OtherLocalFunding": 3420601
+        "OtherLocalFunding": 3420601,
+        "RecaptureAmount": 0
     },
     "092901": {
         "NAME": "GLADEWATER ISD",
@@ -11281,7 +11281,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.76,
         "PercentChangeCentralAdminPay": 7.85,
         "PercentChangeSupportStaffPay": -13.42,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-5.24%",
         "Enrollment": 1755.0,
         "Victories": "",
@@ -11310,7 +11309,8 @@ var DistrictsData = {
         "LocalFunding": 5818798,
         "StateFunding": 11495188,
         "FederalFunding": 1977672,
-        "OtherLocalFunding": 554322
+        "OtherLocalFunding": 554322,
+        "RecaptureAmount": 0
     },
     "148905": {
         "NAME": "DARROUZETT ISD",
@@ -11320,7 +11320,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.42,
         "PercentChangeCentralAdminPay": -11.25,
         "PercentChangeSupportStaffPay": 260.1,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "23.01%",
         "Enrollment": 139.0,
         "Victories": "",
@@ -11345,7 +11344,8 @@ var DistrictsData = {
         "LocalFunding": 519376,
         "StateFunding": 1486472,
         "FederalFunding": 247814,
-        "OtherLocalFunding": 42470
+        "OtherLocalFunding": 42470,
+        "RecaptureAmount": 0
     },
     "211901": {
         "NAME": "TEXHOMA ISD",
@@ -11355,7 +11355,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": 28.23,
         "PercentChangeSupportStaffPay": 27.94,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-13.33%",
         "Enrollment": 169.0,
         "Victories": "",
@@ -11379,7 +11378,8 @@ var DistrictsData = {
         "LocalFunding": 819958,
         "StateFunding": 808850,
         "FederalFunding": 132045,
-        "OtherLocalFunding": 59879
+        "OtherLocalFunding": 59879,
+        "RecaptureAmount": 0
     },
     "098901": {
         "NAME": "GRUVER ISD",
@@ -11389,7 +11389,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.58,
         "PercentChangeCentralAdminPay": -13.08,
         "PercentChangeSupportStaffPay": -4.93,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.88%",
         "Enrollment": 439.0,
         "Victories": "",
@@ -11418,7 +11417,8 @@ var DistrictsData = {
         "LocalFunding": 2352710,
         "StateFunding": 3174238,
         "FederalFunding": 355835,
-        "OtherLocalFunding": 297780
+        "OtherLocalFunding": 297780,
+        "RecaptureAmount": 0
     },
     "107907": {
         "NAME": "TRINIDAD ISD",
@@ -11428,7 +11428,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 7.59,
         "PercentChangeCentralAdminPay": 4.47,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.6%",
         "Enrollment": 158.0,
         "Victories": "",
@@ -11452,7 +11451,8 @@ var DistrictsData = {
         "LocalFunding": 483621,
         "StateFunding": 1659769,
         "FederalFunding": 269952,
-        "OtherLocalFunding": 37715
+        "OtherLocalFunding": 37715,
+        "RecaptureAmount": 0
     },
     "107908": {
         "NAME": "MURCHISON ISD",
@@ -11462,7 +11462,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": 39.02,
         "PercentChangeSupportStaffPay": -2.69,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-15.15%",
         "Enrollment": 168.0,
         "Victories": "",
@@ -11482,7 +11481,8 @@ var DistrictsData = {
         "LocalFunding": 401942,
         "StateFunding": 1951548,
         "FederalFunding": 399538,
-        "OtherLocalFunding": 31470
+        "OtherLocalFunding": 31470,
+        "RecaptureAmount": 0
     },
     "107906": {
         "NAME": "MALAKOFF ISD",
@@ -11492,7 +11492,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.97,
         "PercentChangeCentralAdminPay": -11.3,
         "PercentChangeSupportStaffPay": -5.38,
-        "RecaptureAmount": "1928888",
         "EnrollmentChange": "4.61%",
         "Enrollment": 1361.0,
         "Victories": "",
@@ -11521,7 +11520,8 @@ var DistrictsData = {
         "LocalFunding": 12952372,
         "StateFunding": 929190,
         "FederalFunding": 3815074,
-        "OtherLocalFunding": 543948
+        "OtherLocalFunding": 543948,
+        "RecaptureAmount": 2060467
     },
     "107904": {
         "NAME": "CROSS ROADS ISD",
@@ -11531,7 +11531,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.28,
         "PercentChangeCentralAdminPay": 79.23,
         "PercentChangeSupportStaffPay": 26.71,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-11.71%",
         "Enrollment": 528.0,
         "Victories": "",
@@ -11560,7 +11559,8 @@ var DistrictsData = {
         "LocalFunding": 2635973,
         "StateFunding": 3764385,
         "FederalFunding": 833982,
-        "OtherLocalFunding": 176136
+        "OtherLocalFunding": 176136,
+        "RecaptureAmount": 0
     },
     "125903": {
         "NAME": "ORANGE GROVE ISD",
@@ -11570,7 +11570,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.0,
         "PercentChangeCentralAdminPay": -16.61,
         "PercentChangeSupportStaffPay": 54.34,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-12.24%",
         "Enrollment": 1714.0,
         "Victories": "",
@@ -11595,7 +11594,8 @@ var DistrictsData = {
         "LocalFunding": 3634813,
         "StateFunding": 11318415,
         "FederalFunding": 4761318,
-        "OtherLocalFunding": 471715
+        "OtherLocalFunding": 471715,
+        "RecaptureAmount": 0
     },
     "125906": {
         "NAME": "LA GLORIA ISD",
@@ -11605,7 +11605,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": 8.61,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.17%",
         "Enrollment": 106.0,
         "Victories": "",
@@ -11630,7 +11629,8 @@ var DistrictsData = {
         "LocalFunding": 454768,
         "StateFunding": 949683,
         "FederalFunding": 186265,
-        "OtherLocalFunding": 7820
+        "OtherLocalFunding": 7820,
+        "RecaptureAmount": 0
     },
     "125902": {
         "NAME": "BEN BOLT-PALITO BLANCO ISD",
@@ -11640,7 +11640,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 18.59,
         "PercentChangeCentralAdminPay": 73.53,
         "PercentChangeSupportStaffPay": 37.58,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.02%",
         "Enrollment": 521.0,
         "Victories": "",
@@ -11665,7 +11664,8 @@ var DistrictsData = {
         "LocalFunding": 974267,
         "StateFunding": 5557305,
         "FederalFunding": 475417,
-        "OtherLocalFunding": 62291
+        "OtherLocalFunding": 62291,
+        "RecaptureAmount": 0
     },
     "125901": {
         "NAME": "ALICE ISD",
@@ -11675,7 +11675,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 41.92,
         "PercentChangeCentralAdminPay": 97.98,
         "PercentChangeSupportStaffPay": 28.7,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.08%",
         "Enrollment": 4676.0,
         "Victories": "",
@@ -11700,7 +11699,8 @@ var DistrictsData = {
         "LocalFunding": 11609623,
         "StateFunding": 33239617,
         "FederalFunding": 10637516,
-        "OtherLocalFunding": 985450
+        "OtherLocalFunding": 985450,
+        "RecaptureAmount": 0
     },
     "217901": {
         "NAME": "ASPERMONT ISD",
@@ -11710,7 +11710,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -15.16,
         "PercentChangeCentralAdminPay": 12.23,
         "PercentChangeSupportStaffPay": 11.05,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-11.98%",
         "Enrollment": 213.0,
         "Victories": "",
@@ -11735,7 +11734,8 @@ var DistrictsData = {
         "LocalFunding": 1528281,
         "StateFunding": 1116120,
         "FederalFunding": 379599,
-        "OtherLocalFunding": 207843
+        "OtherLocalFunding": 207843,
+        "RecaptureAmount": 0
     },
     "188904": {
         "NAME": "BUSHLAND ISD",
@@ -11745,7 +11745,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.13,
         "PercentChangeCentralAdminPay": 12.78,
         "PercentChangeSupportStaffPay": -6.04,
-        "RecaptureAmount": "1560248",
         "EnrollmentChange": "-6.16%",
         "Enrollment": 1448.0,
         "Victories": "",
@@ -11774,7 +11773,8 @@ var DistrictsData = {
         "LocalFunding": 12235945,
         "StateFunding": 1556754,
         "FederalFunding": 614445,
-        "OtherLocalFunding": 482118
+        "OtherLocalFunding": 482118,
+        "RecaptureAmount": 1561562
     },
     "188902": {
         "NAME": "RIVER ROAD ISD",
@@ -11784,7 +11784,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.01,
         "PercentChangeCentralAdminPay": 4.81,
         "PercentChangeSupportStaffPay": -6.05,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.38%",
         "Enrollment": 1272.0,
         "Victories": "",
@@ -11809,7 +11808,8 @@ var DistrictsData = {
         "LocalFunding": 3067742,
         "StateFunding": 10509787,
         "FederalFunding": 2330089,
-        "OtherLocalFunding": 449632
+        "OtherLocalFunding": 449632,
+        "RecaptureAmount": 0
     },
     "188903": {
         "NAME": "HIGHLAND PARK ISD (POTTER)",
@@ -11819,7 +11819,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.92,
         "PercentChangeCentralAdminPay": 14.16,
         "PercentChangeSupportStaffPay": -11.39,
-        "RecaptureAmount": "3927648",
         "EnrollmentChange": "3.63%",
         "Enrollment": 886.0,
         "Victories": "",
@@ -11844,7 +11843,8 @@ var DistrictsData = {
         "LocalFunding": 8999587,
         "StateFunding": 592988,
         "FederalFunding": 1678833,
-        "OtherLocalFunding": 216550
+        "OtherLocalFunding": 216550,
+        "RecaptureAmount": 3893282
     },
     "188901": {
         "NAME": "AMARILLO ISD",
@@ -11854,7 +11854,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 8.88,
         "PercentChangeCentralAdminPay": -7.62,
         "PercentChangeSupportStaffPay": -0.7,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.79%",
         "Enrollment": 31388.0,
         "Victories": "",
@@ -11883,7 +11882,8 @@ var DistrictsData = {
         "LocalFunding": 94980490,
         "StateFunding": 187207525,
         "FederalFunding": 61787594,
-        "OtherLocalFunding": 5884842
+        "OtherLocalFunding": 5884842,
+        "RecaptureAmount": 0
     },
     "247903": {
         "NAME": "LA VERNIA ISD",
@@ -11893,7 +11893,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -14.4,
         "PercentChangeCentralAdminPay": -16.72,
         "PercentChangeSupportStaffPay": -7.05,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.34%",
         "Enrollment": 3223.0,
         "Victories": "",
@@ -11918,7 +11917,8 @@ var DistrictsData = {
         "LocalFunding": 11901773,
         "StateFunding": 14771952,
         "FederalFunding": 2305357,
-        "OtherLocalFunding": 2154956
+        "OtherLocalFunding": 2154956,
+        "RecaptureAmount": 0
     },
     "183904": {
         "NAME": "GARY ISD",
@@ -11928,7 +11928,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -17.98,
         "PercentChangeCentralAdminPay": 32.14,
         "PercentChangeSupportStaffPay": -17.08,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.26%",
         "Enrollment": 472.0,
         "Victories": "",
@@ -11953,7 +11952,8 @@ var DistrictsData = {
         "LocalFunding": 1275492,
         "StateFunding": 3938829,
         "FederalFunding": 589188,
-        "OtherLocalFunding": 255988
+        "OtherLocalFunding": 255988,
+        "RecaptureAmount": 0
     },
     "183902": {
         "NAME": "CARTHAGE ISD",
@@ -11963,7 +11963,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.46,
         "PercentChangeCentralAdminPay": 10.24,
         "PercentChangeSupportStaffPay": -10.62,
-        "RecaptureAmount": "5369735",
         "EnrollmentChange": "-2.18%",
         "Enrollment": 2653.0,
         "Victories": "",
@@ -11988,7 +11987,8 @@ var DistrictsData = {
         "LocalFunding": 22310937,
         "StateFunding": 3953213,
         "FederalFunding": 5169096,
-        "OtherLocalFunding": 1408917
+        "OtherLocalFunding": 1408917,
+        "RecaptureAmount": 5824759
     },
     "183901": {
         "NAME": "BECKVILLE ISD",
@@ -11998,7 +11998,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.13,
         "PercentChangeCentralAdminPay": 30.57,
         "PercentChangeSupportStaffPay": -13.24,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.01%",
         "Enrollment": 673.0,
         "Victories": "",
@@ -12023,7 +12022,8 @@ var DistrictsData = {
         "LocalFunding": 3686726,
         "StateFunding": 3678070,
         "FederalFunding": 614364,
-        "OtherLocalFunding": 283002
+        "OtherLocalFunding": 283002,
+        "RecaptureAmount": 0
     },
     "210904": {
         "NAME": "TENAHA ISD",
@@ -12033,7 +12033,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.69,
         "PercentChangeCentralAdminPay": 11.0,
         "PercentChangeSupportStaffPay": -32.6,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-13.04%",
         "Enrollment": 500.0,
         "Victories": "",
@@ -12053,7 +12052,8 @@ var DistrictsData = {
         "LocalFunding": 1182237,
         "StateFunding": 5160140,
         "FederalFunding": 852601,
-        "OtherLocalFunding": 113787
+        "OtherLocalFunding": 113787,
+        "RecaptureAmount": 0
     },
     "210902": {
         "NAME": "JOAQUIN ISD",
@@ -12063,7 +12063,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.01,
         "PercentChangeCentralAdminPay": -1.87,
         "PercentChangeSupportStaffPay": 9.19,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.28%",
         "Enrollment": 671.0,
         "Victories": "",
@@ -12092,7 +12091,8 @@ var DistrictsData = {
         "LocalFunding": 2098947,
         "StateFunding": 6307976,
         "FederalFunding": 1290437,
-        "OtherLocalFunding": 285375
+        "OtherLocalFunding": 285375,
+        "RecaptureAmount": 0
     },
     "003904": {
         "NAME": "HUNTINGTON ISD",
@@ -12102,7 +12102,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.26,
         "PercentChangeCentralAdminPay": 21.48,
         "PercentChangeSupportStaffPay": -4.2,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.53%",
         "Enrollment": 1572.0,
         "Victories": "",
@@ -12127,7 +12126,8 @@ var DistrictsData = {
         "LocalFunding": 4085166,
         "StateFunding": 12422482,
         "FederalFunding": 2578161,
-        "OtherLocalFunding": 455889
+        "OtherLocalFunding": 455889,
+        "RecaptureAmount": 0
     },
     "003907": {
         "NAME": "CENTRAL ISD",
@@ -12137,7 +12137,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.98,
         "PercentChangeCentralAdminPay": -0.28,
         "PercentChangeSupportStaffPay": 12.18,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.72%",
         "Enrollment": 1445.0,
         "Victories": "",
@@ -12162,7 +12161,8 @@ var DistrictsData = {
         "LocalFunding": 3124740,
         "StateFunding": 11981305,
         "FederalFunding": 2091066,
-        "OtherLocalFunding": 522867
+        "OtherLocalFunding": 522867,
+        "RecaptureAmount": 0
     },
     "037909": {
         "NAME": "WELLS ISD",
@@ -12172,7 +12172,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.25,
         "PercentChangeCentralAdminPay": -25.66,
         "PercentChangeSupportStaffPay": 5.44,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.07%",
         "Enrollment": 263.0,
         "Victories": "",
@@ -12196,7 +12195,8 @@ var DistrictsData = {
         "LocalFunding": 1036713,
         "StateFunding": 2485244,
         "FederalFunding": 378446,
-        "OtherLocalFunding": 98993
+        "OtherLocalFunding": 98993,
+        "RecaptureAmount": 0
     },
     "001908": {
         "NAME": "WESTWOOD ISD",
@@ -12206,7 +12206,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.13,
         "PercentChangeCentralAdminPay": 23.71,
         "PercentChangeSupportStaffPay": 18.16,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-16.02%",
         "Enrollment": 1352.0,
         "Victories": "",
@@ -12226,7 +12225,8 @@ var DistrictsData = {
         "LocalFunding": 5549476,
         "StateFunding": 9382597,
         "FederalFunding": 2897556,
-        "OtherLocalFunding": 374406
+        "OtherLocalFunding": 374406,
+        "RecaptureAmount": 0
     },
     "001909": {
         "NAME": "SLOCUM ISD",
@@ -12236,7 +12236,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 8.19,
         "PercentChangeCentralAdminPay": -0.73,
         "PercentChangeSupportStaffPay": 7.17,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-11.81%",
         "Enrollment": 366.0,
         "Victories": "",
@@ -12256,7 +12255,8 @@ var DistrictsData = {
         "LocalFunding": 1317622,
         "StateFunding": 3308853,
         "FederalFunding": 489739,
-        "OtherLocalFunding": 48661
+        "OtherLocalFunding": 48661,
+        "RecaptureAmount": 0
     },
     "107910": {
         "NAME": "LAPOYNOR ISD",
@@ -12266,7 +12266,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.42,
         "PercentChangeCentralAdminPay": -6.33,
         "PercentChangeSupportStaffPay": 8.23,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.21%",
         "Enrollment": 474.0,
         "Victories": "",
@@ -12295,7 +12294,8 @@ var DistrictsData = {
         "LocalFunding": 2050200,
         "StateFunding": 3153771,
         "FederalFunding": 838103,
-        "OtherLocalFunding": 172972
+        "OtherLocalFunding": 172972,
+        "RecaptureAmount": 0
     },
     "001903": {
         "NAME": "ELKHART ISD",
@@ -12305,7 +12305,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.01,
         "PercentChangeCentralAdminPay": 52.22,
         "PercentChangeSupportStaffPay": 7.88,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.54%",
         "Enrollment": 1200.0,
         "Victories": "",
@@ -12334,7 +12333,8 @@ var DistrictsData = {
         "LocalFunding": 3468489,
         "StateFunding": 9649897,
         "FederalFunding": 1958299,
-        "OtherLocalFunding": 546317
+        "OtherLocalFunding": 546317,
+        "RecaptureAmount": 0
     },
     "001902": {
         "NAME": "CAYUGA ISD",
@@ -12344,7 +12344,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.97,
         "PercentChangeCentralAdminPay": 6.33,
         "PercentChangeSupportStaffPay": -15.66,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.14%",
         "Enrollment": 535.0,
         "Victories": "",
@@ -12369,7 +12368,8 @@ var DistrictsData = {
         "LocalFunding": 3081356,
         "StateFunding": 4964406,
         "FederalFunding": 1939467,
-        "OtherLocalFunding": 540342
+        "OtherLocalFunding": 540342,
+        "RecaptureAmount": 0
     },
     "107901": {
         "NAME": "ATHENS ISD",
@@ -12379,7 +12379,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -25.88,
         "PercentChangeCentralAdminPay": 8.96,
         "PercentChangeSupportStaffPay": -16.65,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.34%",
         "Enrollment": 2982.0,
         "Victories": "",
@@ -12420,7 +12419,8 @@ var DistrictsData = {
         "LocalFunding": 15154117,
         "StateFunding": 13049995,
         "FederalFunding": 4050883,
-        "OtherLocalFunding": 804748
+        "OtherLocalFunding": 804748,
+        "RecaptureAmount": 0
     },
     "062906": {
         "NAME": "MEYERSVILLE ISD",
@@ -12430,7 +12430,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 9.49,
         "PercentChangeCentralAdminPay": 9.49,
         "PercentChangeSupportStaffPay": -24.9,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "52.29%",
         "Enrollment": 166.0,
         "Victories": "",
@@ -12455,7 +12454,8 @@ var DistrictsData = {
         "LocalFunding": 745138,
         "StateFunding": 1171735,
         "FederalFunding": 162313,
-        "OtherLocalFunding": 78559
+        "OtherLocalFunding": 78559,
+        "RecaptureAmount": 0
     },
     "062904": {
         "NAME": "YORKTOWN ISD",
@@ -12465,7 +12465,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.98,
         "PercentChangeCentralAdminPay": 23.45,
         "PercentChangeSupportStaffPay": 1.69,
-        "RecaptureAmount": "16770965",
         "EnrollmentChange": "1.16%",
         "Enrollment": 524.0,
         "Victories": "",
@@ -12485,7 +12484,8 @@ var DistrictsData = {
         "LocalFunding": 6912726,
         "StateFunding": 334349,
         "FederalFunding": 468417,
-        "OtherLocalFunding": 417782
+        "OtherLocalFunding": 417782,
+        "RecaptureAmount": 16720446
     },
     "062903": {
         "NAME": "YOAKUM ISD",
@@ -12495,7 +12495,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.66,
         "PercentChangeCentralAdminPay": 16.88,
         "PercentChangeSupportStaffPay": 23.74,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.06%",
         "Enrollment": 1495.0,
         "Victories": "",
@@ -12523,7 +12522,8 @@ var DistrictsData = {
         "LocalFunding": 7441724,
         "StateFunding": 8548907,
         "FederalFunding": 4987660,
-        "OtherLocalFunding": 4001428
+        "OtherLocalFunding": 4001428,
+        "RecaptureAmount": 0
     },
     "062905": {
         "NAME": "WESTHOFF ISD",
@@ -12533,7 +12533,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": 34.68,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "6106759",
         "EnrollmentChange": "-2.94%",
         "Enrollment": 66.0,
         "Victories": "",
@@ -12558,7 +12557,8 @@ var DistrictsData = {
         "LocalFunding": 1346333,
         "StateFunding": 35317,
         "FederalFunding": 102040,
-        "OtherLocalFunding": 103431
+        "OtherLocalFunding": 103431,
+        "RecaptureAmount": 6106640
     },
     "062902": {
         "NAME": "NORDHEIM ISD",
@@ -12568,7 +12568,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 39.85,
         "PercentChangeCentralAdminPay": 26.02,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "5313289",
         "EnrollmentChange": "-9.43%",
         "Enrollment": 144.0,
         "Victories": "",
@@ -12601,7 +12600,8 @@ var DistrictsData = {
         "LocalFunding": 2332093,
         "StateFunding": 64966,
         "FederalFunding": 148970,
-        "OtherLocalFunding": 172425
+        "OtherLocalFunding": 172425,
+        "RecaptureAmount": 5270490
     },
     "062901": {
         "NAME": "CUERO ISD",
@@ -12611,7 +12611,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.7,
         "PercentChangeCentralAdminPay": -8.71,
         "PercentChangeSupportStaffPay": 25.61,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-12.06%",
         "Enrollment": 1911.0,
         "Victories": "",
@@ -12640,7 +12639,8 @@ var DistrictsData = {
         "LocalFunding": 11193415,
         "StateFunding": 9578923,
         "FederalFunding": 3458053,
-        "OtherLocalFunding": 1699324
+        "OtherLocalFunding": 1699324,
+        "RecaptureAmount": 0
     },
     "006902": {
         "NAME": "CLAUDE ISD",
@@ -12650,7 +12650,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.6,
         "PercentChangeCentralAdminPay": 29.49,
         "PercentChangeSupportStaffPay": -20.87,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.48%",
         "Enrollment": 316.0,
         "Victories": "",
@@ -12675,7 +12674,8 @@ var DistrictsData = {
         "LocalFunding": 2080901,
         "StateFunding": 1584318,
         "FederalFunding": 403647,
-        "OtherLocalFunding": 163362
+        "OtherLocalFunding": 163362,
+        "RecaptureAmount": 0
     },
     "033901": {
         "NAME": "GROOM ISD",
@@ -12685,7 +12685,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -31.04,
         "PercentChangeCentralAdminPay": -10.09,
         "PercentChangeSupportStaffPay": 26.4,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.05%",
         "Enrollment": 137.0,
         "Victories": "",
@@ -12714,7 +12713,8 @@ var DistrictsData = {
         "LocalFunding": 1106799,
         "StateFunding": 1348580,
         "FederalFunding": 199375,
-        "OtherLocalFunding": 42469
+        "OtherLocalFunding": 42469,
+        "RecaptureAmount": 0
     },
     "065901": {
         "NAME": "CLARENDON ISD",
@@ -12724,7 +12724,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.44,
         "PercentChangeCentralAdminPay": -2.73,
         "PercentChangeSupportStaffPay": -6.04,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.32%",
         "Enrollment": 441.0,
         "Victories": "",
@@ -12749,7 +12748,8 @@ var DistrictsData = {
         "LocalFunding": 2008536,
         "StateFunding": 3370359,
         "FederalFunding": 818607,
-        "OtherLocalFunding": 143985
+        "OtherLocalFunding": 143985,
+        "RecaptureAmount": 0
     },
     "219901": {
         "NAME": "HAPPY ISD",
@@ -12759,7 +12759,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.97,
         "PercentChangeCentralAdminPay": -6.98,
         "PercentChangeSupportStaffPay": 8.54,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.86%",
         "Enrollment": 269.0,
         "Victories": "",
@@ -12788,7 +12787,8 @@ var DistrictsData = {
         "LocalFunding": 867945,
         "StateFunding": 2112003,
         "FederalFunding": 346986,
-        "OtherLocalFunding": 222126
+        "OtherLocalFunding": 222126,
+        "RecaptureAmount": 0
     },
     "178908": {
         "NAME": "PORT ARANSAS ISD",
@@ -12798,7 +12798,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.65,
         "PercentChangeCentralAdminPay": 23.07,
         "PercentChangeSupportStaffPay": -19.08,
-        "RecaptureAmount": "18623086",
         "EnrollmentChange": "-7.71%",
         "Enrollment": 503.0,
         "Victories": "",
@@ -12827,7 +12826,8 @@ var DistrictsData = {
         "LocalFunding": 6251273,
         "StateFunding": 367531,
         "FederalFunding": 1645357,
-        "OtherLocalFunding": 193910
+        "OtherLocalFunding": 193910,
+        "RecaptureAmount": 18682640
     },
     "005904": {
         "NAME": "WINDTHORST ISD",
@@ -12837,7 +12837,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 16.22,
         "PercentChangeCentralAdminPay": "N/A",
         "PercentChangeSupportStaffPay": 16.49,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.59%",
         "Enrollment": 434.0,
         "Victories": "",
@@ -12862,7 +12861,8 @@ var DistrictsData = {
         "LocalFunding": 969676,
         "StateFunding": 4040538,
         "FederalFunding": 506738,
-        "OtherLocalFunding": 116597
+        "OtherLocalFunding": 116597,
+        "RecaptureAmount": 0
     },
     "119902": {
         "NAME": "JACKSBORO ISD",
@@ -12872,7 +12872,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.33,
         "PercentChangeCentralAdminPay": -0.18,
         "PercentChangeSupportStaffPay": -1.66,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "10.4%",
         "Enrollment": 1062.0,
         "Victories": "",
@@ -12905,7 +12904,8 @@ var DistrictsData = {
         "LocalFunding": 7379164,
         "StateFunding": 4032748,
         "FederalFunding": 2921174,
-        "OtherLocalFunding": 800968
+        "OtherLocalFunding": 800968,
+        "RecaptureAmount": 0
     },
     "007905": {
         "NAME": "PLEASANTON ISD",
@@ -12915,7 +12915,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.49,
         "PercentChangeCentralAdminPay": 0.66,
         "PercentChangeSupportStaffPay": 3.51,
-        "RecaptureAmount": "17898",
         "EnrollmentChange": "-2.02%",
         "Enrollment": 3437.0,
         "Victories": "",
@@ -12944,7 +12943,8 @@ var DistrictsData = {
         "LocalFunding": 23120115,
         "StateFunding": 13321923,
         "FederalFunding": 8229695,
-        "OtherLocalFunding": 2254331
+        "OtherLocalFunding": 2254331,
+        "RecaptureAmount": 0
     },
     "128901": {
         "NAME": "KARNES CITY ISD",
@@ -12954,7 +12954,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.6,
         "PercentChangeCentralAdminPay": 29.84,
         "PercentChangeSupportStaffPay": 5.82,
-        "RecaptureAmount": "36076880",
         "EnrollmentChange": "25.6%",
         "Enrollment": 1315.0,
         "Victories": "",
@@ -12983,7 +12982,8 @@ var DistrictsData = {
         "LocalFunding": 16131820,
         "StateFunding": 1185143,
         "FederalFunding": 3642624,
-        "OtherLocalFunding": 2340858
+        "OtherLocalFunding": 2340858,
+        "RecaptureAmount": 35525235
     },
     "007902": {
         "NAME": "JOURDANTON ISD",
@@ -12993,7 +12993,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.81,
         "PercentChangeCentralAdminPay": 4.12,
         "PercentChangeSupportStaffPay": 2.05,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-3.04%",
         "Enrollment": 1562.0,
         "Victories": "",
@@ -13022,7 +13021,8 @@ var DistrictsData = {
         "LocalFunding": 9946093,
         "StateFunding": 7234707,
         "FederalFunding": 2029530,
-        "OtherLocalFunding": 846986
+        "OtherLocalFunding": 846986,
+        "RecaptureAmount": 0
     },
     "045902": {
         "NAME": "COLUMBUS ISD",
@@ -13032,7 +13032,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.7,
         "PercentChangeCentralAdminPay": -3.95,
         "PercentChangeSupportStaffPay": -15.07,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-3.82%",
         "Enrollment": 1536.0,
         "Victories": "",
@@ -13057,7 +13056,8 @@ var DistrictsData = {
         "LocalFunding": 12147906,
         "StateFunding": 2836018,
         "FederalFunding": 2615879,
-        "OtherLocalFunding": 452586
+        "OtherLocalFunding": 452586,
+        "RecaptureAmount": 0
     },
     "013902": {
         "NAME": "PAWNEE ISD",
@@ -13067,7 +13067,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 15.82,
         "PercentChangeCentralAdminPay": 0.63,
         "PercentChangeSupportStaffPay": 13.1,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-8.43%",
         "Enrollment": 315.0,
         "Victories": "",
@@ -13096,7 +13095,8 @@ var DistrictsData = {
         "LocalFunding": 3408043,
         "StateFunding": 625514,
         "FederalFunding": 934685,
-        "OtherLocalFunding": 1776822
+        "OtherLocalFunding": 1776822,
+        "RecaptureAmount": 0
     },
     "149902": {
         "NAME": "THREE RIVERS ISD",
@@ -13106,7 +13106,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.25,
         "PercentChangeCentralAdminPay": 0.93,
         "PercentChangeSupportStaffPay": 32.85,
-        "RecaptureAmount": "13245915",
         "EnrollmentChange": "-18.8%",
         "Enrollment": 570.0,
         "Victories": "",
@@ -13135,7 +13134,8 @@ var DistrictsData = {
         "LocalFunding": 8463847,
         "StateFunding": 353785,
         "FederalFunding": 911535,
-        "OtherLocalFunding": 196042
+        "OtherLocalFunding": 196042,
+        "RecaptureAmount": 12437967
     },
     "013905": {
         "NAME": "SKIDMORE-TYNAN ISD",
@@ -13145,7 +13145,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -31.88,
         "PercentChangeCentralAdminPay": -6.0,
         "PercentChangeSupportStaffPay": 37.96,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.84%",
         "Enrollment": 806.0,
         "Victories": "",
@@ -13170,7 +13169,8 @@ var DistrictsData = {
         "LocalFunding": 2097439,
         "StateFunding": 7351073,
         "FederalFunding": 1145925,
-        "OtherLocalFunding": 1605841
+        "OtherLocalFunding": 1605841,
+        "RecaptureAmount": 0
     },
     "196903": {
         "NAME": "REFUGIO ISD",
@@ -13180,7 +13180,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 6.94,
         "PercentChangeCentralAdminPay": -0.56,
         "PercentChangeSupportStaffPay": -4.29,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.19%",
         "Enrollment": 682.0,
         "Victories": "",
@@ -13213,7 +13212,8 @@ var DistrictsData = {
         "LocalFunding": 3754902,
         "StateFunding": 5461497,
         "FederalFunding": 2878824,
-        "OtherLocalFunding": 257450
+        "OtherLocalFunding": 257450,
+        "RecaptureAmount": 0
     },
     "013903": {
         "NAME": "PETTUS ISD",
@@ -13223,7 +13223,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 23.61,
         "PercentChangeCentralAdminPay": 10.12,
         "PercentChangeSupportStaffPay": 32.48,
-        "RecaptureAmount": "651419",
         "EnrollmentChange": "-13.23%",
         "Enrollment": 374.0,
         "Victories": "",
@@ -13252,7 +13251,8 @@ var DistrictsData = {
         "LocalFunding": 4278360,
         "StateFunding": 243388,
         "FederalFunding": 1423806,
-        "OtherLocalFunding": 163155
+        "OtherLocalFunding": 163155,
+        "RecaptureAmount": 570639
     },
     "205904": {
         "NAME": "MATHIS ISD",
@@ -13262,7 +13262,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.61,
         "PercentChangeCentralAdminPay": -10.93,
         "PercentChangeSupportStaffPay": -2.3,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-11.11%",
         "Enrollment": 1504.0,
         "Victories": "",
@@ -13291,7 +13290,8 @@ var DistrictsData = {
         "LocalFunding": 5959944,
         "StateFunding": 11811262,
         "FederalFunding": 6207414,
-        "OtherLocalFunding": 355640
+        "OtherLocalFunding": 355640,
+        "RecaptureAmount": 0
     },
     "013901": {
         "NAME": "BEEVILLE ISD",
@@ -13301,7 +13301,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 9.67,
         "PercentChangeCentralAdminPay": 9.71,
         "PercentChangeSupportStaffPay": 1.26,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.23%",
         "Enrollment": 3157.0,
         "Victories": "",
@@ -13326,7 +13325,8 @@ var DistrictsData = {
         "LocalFunding": 8746256,
         "StateFunding": 20876647,
         "FederalFunding": 5732296,
-        "OtherLocalFunding": 1241068
+        "OtherLocalFunding": 1241068,
+        "RecaptureAmount": 0
     },
     "009901": {
         "NAME": "MULESHOE ISD",
@@ -13336,7 +13336,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.25,
         "PercentChangeCentralAdminPay": 4.87,
         "PercentChangeSupportStaffPay": -9.03,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.92%",
         "Enrollment": 1337.0,
         "Victories": "",
@@ -13361,7 +13360,8 @@ var DistrictsData = {
         "LocalFunding": 3306112,
         "StateFunding": 12317333,
         "FederalFunding": 3006573,
-        "OtherLocalFunding": 549754
+        "OtherLocalFunding": 549754,
+        "RecaptureAmount": 0
     },
     "140908": {
         "NAME": "SUDAN ISD",
@@ -13371,7 +13371,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 6.78,
         "PercentChangeCentralAdminPay": 6.4,
         "PercentChangeSupportStaffPay": 6.17,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "3.23%",
         "Enrollment": 480.0,
         "Victories": "",
@@ -13391,7 +13390,8 @@ var DistrictsData = {
         "LocalFunding": 4966345,
         "StateFunding": 606369,
         "FederalFunding": 820841,
-        "OtherLocalFunding": 580412
+        "OtherLocalFunding": 580412,
+        "RecaptureAmount": 0
     },
     "185902": {
         "NAME": "FARWELL ISD",
@@ -13401,7 +13401,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 12.93,
         "PercentChangeCentralAdminPay": 12.87,
         "PercentChangeSupportStaffPay": -9.13,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.63%",
         "Enrollment": 543.0,
         "Victories": "",
@@ -13430,7 +13429,8 @@ var DistrictsData = {
         "LocalFunding": 1850619,
         "StateFunding": 5008566,
         "FederalFunding": 569562,
-        "OtherLocalFunding": 351819
+        "OtherLocalFunding": 351819,
+        "RecaptureAmount": 0
     },
     "037901": {
         "NAME": "ALTO ISD",
@@ -13440,7 +13440,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.14,
         "PercentChangeCentralAdminPay": -25.85,
         "PercentChangeSupportStaffPay": -0.01,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-5.43%",
         "Enrollment": 609.0,
         "Victories": "",
@@ -13465,7 +13464,8 @@ var DistrictsData = {
         "LocalFunding": 1716093,
         "StateFunding": 6376559,
         "FederalFunding": 1429659,
-        "OtherLocalFunding": 84847
+        "OtherLocalFunding": 84847,
+        "RecaptureAmount": 0
     },
     "074911": {
         "NAME": "SAVOY ISD",
@@ -13475,7 +13475,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 11.68,
         "PercentChangeCentralAdminPay": -19.3,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.66%",
         "Enrollment": 303.0,
         "Victories": "",
@@ -13500,7 +13499,8 @@ var DistrictsData = {
         "LocalFunding": 1355560,
         "StateFunding": 2776709,
         "FederalFunding": 471785,
-        "OtherLocalFunding": 75796
+        "OtherLocalFunding": 75796,
+        "RecaptureAmount": 0
     },
     "123913": {
         "NAME": "SABINE PASS ISD",
@@ -13510,7 +13510,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.82,
         "PercentChangeCentralAdminPay": 19.41,
         "PercentChangeSupportStaffPay": -13.08,
-        "RecaptureAmount": "4395395",
         "EnrollmentChange": "0.52%",
         "Enrollment": 388.0,
         "Victories": "",
@@ -13535,7 +13534,8 @@ var DistrictsData = {
         "LocalFunding": 4163975,
         "StateFunding": 894367,
         "FederalFunding": 1771318,
-        "OtherLocalFunding": 407294
+        "OtherLocalFunding": 407294,
+        "RecaptureAmount": 4390229
     },
     "123908": {
         "NAME": "PORT NECHES-GROVES ISD",
@@ -13545,7 +13545,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.42,
         "PercentChangeCentralAdminPay": 11.67,
         "PercentChangeSupportStaffPay": -5.67,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.04%",
         "Enrollment": 4984.0,
         "Victories": "",
@@ -13574,7 +13573,8 @@ var DistrictsData = {
         "LocalFunding": 26649648,
         "StateFunding": 16446773,
         "FederalFunding": 6038140,
-        "OtherLocalFunding": 8365179
+        "OtherLocalFunding": 8365179,
+        "RecaptureAmount": 0
     },
     "123907": {
         "NAME": "PORT ARTHUR ISD",
@@ -13584,7 +13584,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.95,
         "PercentChangeCentralAdminPay": -13.45,
         "PercentChangeSupportStaffPay": -9.26,
-        "RecaptureAmount": "306429",
         "EnrollmentChange": "-11.31%",
         "Enrollment": 7957.0,
         "Victories": "",
@@ -13613,7 +13612,8 @@ var DistrictsData = {
         "LocalFunding": 61994631,
         "StateFunding": 18470936,
         "FederalFunding": 19012234,
-        "OtherLocalFunding": 924622
+        "OtherLocalFunding": 924622,
+        "RecaptureAmount": 308871
     },
     "123905": {
         "NAME": "NEDERLAND ISD",
@@ -13623,7 +13623,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.55,
         "PercentChangeCentralAdminPay": 3.87,
         "PercentChangeSupportStaffPay": 4.5,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.48%",
         "Enrollment": 5022.0,
         "Victories": "",
@@ -13652,7 +13651,8 @@ var DistrictsData = {
         "LocalFunding": 26656096,
         "StateFunding": 16636421,
         "FederalFunding": 7366132,
-        "OtherLocalFunding": 2751028
+        "OtherLocalFunding": 2751028,
+        "RecaptureAmount": 0
     },
     "049908": {
         "NAME": "WALNUT BEND ISD",
@@ -13662,7 +13662,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.59,
         "PercentChangeCentralAdminPay": -4.59,
         "PercentChangeSupportStaffPay": -53.58,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-30.12%",
         "Enrollment": 58.0,
         "Victories": "",
@@ -13682,7 +13681,8 @@ var DistrictsData = {
         "LocalFunding": 169683,
         "StateFunding": 887953,
         "FederalFunding": 119259,
-        "OtherLocalFunding": 118030
+        "OtherLocalFunding": 118030,
+        "RecaptureAmount": 0
     },
     "088902": {
         "NAME": "GOLIAD ISD",
@@ -13692,7 +13692,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.04,
         "PercentChangeCentralAdminPay": 5.25,
         "PercentChangeSupportStaffPay": -8.1,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-7.09%",
         "Enrollment": 1271.0,
         "Victories": "",
@@ -13717,7 +13716,8 @@ var DistrictsData = {
         "LocalFunding": 8277886,
         "StateFunding": 3826329,
         "FederalFunding": 2036038,
-        "OtherLocalFunding": 765401
+        "OtherLocalFunding": 765401,
+        "RecaptureAmount": 0
     },
     "034906": {
         "NAME": "MCLEOD ISD",
@@ -13727,7 +13727,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.77,
         "PercentChangeCentralAdminPay": -2.08,
         "PercentChangeSupportStaffPay": -2.37,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "12.18%",
         "Enrollment": 396.0,
         "Victories": "",
@@ -13752,7 +13751,8 @@ var DistrictsData = {
         "LocalFunding": 359114,
         "StateFunding": 4196995,
         "FederalFunding": 302518,
-        "OtherLocalFunding": 69646
+        "OtherLocalFunding": 69646,
+        "RecaptureAmount": 0
     },
     "034905": {
         "NAME": "LINDEN-KILDARE CONS ISD",
@@ -13762,7 +13762,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -28.54,
         "PercentChangeCentralAdminPay": -7.24,
         "PercentChangeSupportStaffPay": -8.97,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-12.2%",
         "Enrollment": 626.0,
         "Victories": "",
@@ -13787,7 +13786,8 @@ var DistrictsData = {
         "LocalFunding": 2851870,
         "StateFunding": 5242455,
         "FederalFunding": 675470,
-        "OtherLocalFunding": 153358
+        "OtherLocalFunding": 153358,
+        "RecaptureAmount": 0
     },
     "034903": {
         "NAME": "HUGHES SPRINGS ISD",
@@ -13797,7 +13797,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.42,
         "PercentChangeCentralAdminPay": 15.47,
         "PercentChangeSupportStaffPay": 15.23,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.81%",
         "Enrollment": 1121.0,
         "Victories": "",
@@ -13826,7 +13825,8 @@ var DistrictsData = {
         "LocalFunding": 2863712,
         "StateFunding": 9670674,
         "FederalFunding": 1292703,
-        "OtherLocalFunding": 389448
+        "OtherLocalFunding": 389448,
+        "RecaptureAmount": 0
     },
     "034909": {
         "NAME": "BLOOMBURG ISD",
@@ -13836,7 +13836,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.4,
         "PercentChangeCentralAdminPay": 57.58,
         "PercentChangeSupportStaffPay": 44.24,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.76%",
         "Enrollment": 250.0,
         "Victories": "",
@@ -13861,7 +13860,8 @@ var DistrictsData = {
         "LocalFunding": 521201,
         "StateFunding": 2692824,
         "FederalFunding": 201939,
-        "OtherLocalFunding": 34541
+        "OtherLocalFunding": 34541,
+        "RecaptureAmount": 0
     },
     "206903": {
         "NAME": "CHEROKEE ISD",
@@ -13871,7 +13871,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.72,
         "PercentChangeCentralAdminPay": 5.23,
         "PercentChangeSupportStaffPay": -4.61,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "19.09%",
         "Enrollment": 131.0,
         "Victories": "",
@@ -13896,7 +13895,8 @@ var DistrictsData = {
         "LocalFunding": 740208,
         "StateFunding": 1426073,
         "FederalFunding": 259713,
-        "OtherLocalFunding": 41907
+        "OtherLocalFunding": 41907,
+        "RecaptureAmount": 0
     },
     "110908": {
         "NAME": "WHITHARRAL ISD",
@@ -13906,7 +13906,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.48,
         "PercentChangeCentralAdminPay": 0.06,
         "PercentChangeSupportStaffPay": -4.06,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.83%",
         "Enrollment": 176.0,
         "Victories": "",
@@ -13926,7 +13925,8 @@ var DistrictsData = {
         "LocalFunding": 559770,
         "StateFunding": 1648514,
         "FederalFunding": 174336,
-        "OtherLocalFunding": 155786
+        "OtherLocalFunding": 155786,
+        "RecaptureAmount": 0
     },
     "110907": {
         "NAME": "SUNDOWN ISD",
@@ -13936,7 +13936,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.63,
         "PercentChangeCentralAdminPay": -35.63,
         "PercentChangeSupportStaffPay": -22.82,
-        "RecaptureAmount": "2759027",
         "EnrollmentChange": "-12.99%",
         "Enrollment": 583.0,
         "Victories": "",
@@ -13956,7 +13955,8 @@ var DistrictsData = {
         "LocalFunding": 5520304,
         "StateFunding": 2639535,
         "FederalFunding": 331764,
-        "OtherLocalFunding": 375500
+        "OtherLocalFunding": 375500,
+        "RecaptureAmount": 3036713
     },
     "110902": {
         "NAME": "LEVELLAND ISD",
@@ -13966,7 +13966,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.74,
         "PercentChangeCentralAdminPay": -9.13,
         "PercentChangeSupportStaffPay": -3.03,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.09%",
         "Enrollment": 2799.0,
         "Victories": "",
@@ -13991,7 +13990,8 @@ var DistrictsData = {
         "LocalFunding": 12578695,
         "StateFunding": 13628788,
         "FederalFunding": 7415028,
-        "OtherLocalFunding": 1385553
+        "OtherLocalFunding": 1385553,
+        "RecaptureAmount": 0
     },
     "049909": {
         "NAME": "SIVELLS BEND ISD",
@@ -14001,7 +14001,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 8.82,
         "PercentChangeCentralAdminPay": 8.82,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "513622",
         "EnrollmentChange": "-32.88%",
         "Enrollment": 49.0,
         "Victories": "",
@@ -14026,7 +14025,8 @@ var DistrictsData = {
         "LocalFunding": 1157756,
         "StateFunding": 58130,
         "FederalFunding": 101762,
-        "OtherLocalFunding": 18688
+        "OtherLocalFunding": 18688,
+        "RecaptureAmount": 515998
     },
     "244905": {
         "NAME": "NORTHSIDE ISD (WILBARGER)",
@@ -14036,7 +14036,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 25.39,
         "PercentChangeCentralAdminPay": -13.03,
         "PercentChangeSupportStaffPay": 7.51,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "16.1%",
         "Enrollment": 238.0,
         "Victories": "",
@@ -14056,7 +14055,8 @@ var DistrictsData = {
         "LocalFunding": 426264,
         "StateFunding": 2568980,
         "FederalFunding": 199853,
-        "OtherLocalFunding": 127799
+        "OtherLocalFunding": 127799,
+        "RecaptureAmount": 0
     },
     "230908": {
         "NAME": "UNION GROVE ISD",
@@ -14066,7 +14066,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.97,
         "PercentChangeCentralAdminPay": 3.76,
         "PercentChangeSupportStaffPay": 30.49,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.69%",
         "Enrollment": 721.0,
         "Victories": "",
@@ -14086,7 +14085,8 @@ var DistrictsData = {
         "LocalFunding": 1684907,
         "StateFunding": 6459918,
         "FederalFunding": 677301,
-        "OtherLocalFunding": 474367
+        "OtherLocalFunding": 474367,
+        "RecaptureAmount": 0
     },
     "230905": {
         "NAME": "HARMONY ISD",
@@ -14096,7 +14096,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 21.87,
         "PercentChangeCentralAdminPay": 6.62,
         "PercentChangeSupportStaffPay": 16.74,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.16%",
         "Enrollment": 1025.0,
         "Victories": "",
@@ -14125,7 +14124,8 @@ var DistrictsData = {
         "LocalFunding": 4811000,
         "StateFunding": 6711816,
         "FederalFunding": 1132087,
-        "OtherLocalFunding": 330583
+        "OtherLocalFunding": 330583,
+        "RecaptureAmount": 0
     },
     "230901": {
         "NAME": "BIG SANDY ISD (UPSHUR)",
@@ -14135,7 +14135,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.14,
         "PercentChangeCentralAdminPay": -2.86,
         "PercentChangeSupportStaffPay": -2.16,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.66%",
         "Enrollment": 643.0,
         "Victories": "",
@@ -14164,7 +14163,8 @@ var DistrictsData = {
         "LocalFunding": 2304550,
         "StateFunding": 5138324,
         "FederalFunding": 1321268,
-        "OtherLocalFunding": 157293
+        "OtherLocalFunding": 157293,
+        "RecaptureAmount": 0
     },
     "049902": {
         "NAME": "MUENSTER ISD",
@@ -14174,7 +14174,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.56,
         "PercentChangeCentralAdminPay": 13.72,
         "PercentChangeSupportStaffPay": -0.86,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "6.72%",
         "Enrollment": 524.0,
         "Victories": "",
@@ -14199,7 +14198,8 @@ var DistrictsData = {
         "LocalFunding": 3803645,
         "StateFunding": 1899622,
         "FederalFunding": 290404,
-        "OtherLocalFunding": 296018
+        "OtherLocalFunding": 296018,
+        "RecaptureAmount": 0
     },
     "049907": {
         "NAME": "LINDSAY ISD",
@@ -14209,7 +14209,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.31,
         "PercentChangeCentralAdminPay": 5.13,
         "PercentChangeSupportStaffPay": 10.02,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.61%",
         "Enrollment": 489.0,
         "Victories": "",
@@ -14234,7 +14233,8 @@ var DistrictsData = {
         "LocalFunding": 3256006,
         "StateFunding": 2178559,
         "FederalFunding": 175234,
-        "OtherLocalFunding": 327299
+        "OtherLocalFunding": 327299,
+        "RecaptureAmount": 0
     },
     "049901": {
         "NAME": "GAINESVILLE ISD",
@@ -14244,7 +14244,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.44,
         "PercentChangeCentralAdminPay": -3.95,
         "PercentChangeSupportStaffPay": 0.58,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "6.81%",
         "Enrollment": 3057.0,
         "Victories": "",
@@ -14269,7 +14268,8 @@ var DistrictsData = {
         "LocalFunding": 14139504,
         "StateFunding": 15612150,
         "FederalFunding": 6772758,
-        "OtherLocalFunding": 723292
+        "OtherLocalFunding": 723292,
+        "RecaptureAmount": 0
     },
     "177905": {
         "NAME": "HIGHLAND ISD",
@@ -14279,7 +14279,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.42,
         "PercentChangeCentralAdminPay": 46.83,
         "PercentChangeSupportStaffPay": 4.67,
-        "RecaptureAmount": "514799",
         "EnrollmentChange": "-5.22%",
         "Enrollment": 218.0,
         "Victories": "",
@@ -14304,7 +14303,8 @@ var DistrictsData = {
         "LocalFunding": 2598124,
         "StateFunding": 836366,
         "FederalFunding": 199110,
-        "OtherLocalFunding": 732672
+        "OtherLocalFunding": 732672,
+        "RecaptureAmount": 465782
     },
     "198906": {
         "NAME": "MUMFORD ISD",
@@ -14314,7 +14314,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -42.31,
         "PercentChangeCentralAdminPay": -28.19,
         "PercentChangeSupportStaffPay": -2.19,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.49%",
         "Enrollment": 615.0,
         "Victories": "",
@@ -14339,7 +14338,8 @@ var DistrictsData = {
         "LocalFunding": 1232277,
         "StateFunding": 6711021,
         "FederalFunding": 1086289,
-        "OtherLocalFunding": 521911
+        "OtherLocalFunding": 521911,
+        "RecaptureAmount": 0
     },
     "198905": {
         "NAME": "HEARNE ISD",
@@ -14349,7 +14349,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 10.96,
         "PercentChangeCentralAdminPay": -5.98,
         "PercentChangeSupportStaffPay": 5.59,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-19.8%",
         "Enrollment": 721.0,
         "Victories": "",
@@ -14374,7 +14373,8 @@ var DistrictsData = {
         "LocalFunding": 5349433,
         "StateFunding": 4359274,
         "FederalFunding": 3119626,
-        "OtherLocalFunding": 3814192
+        "OtherLocalFunding": 3814192,
+        "RecaptureAmount": 0
     },
     "198903": {
         "NAME": "FRANKLIN ISD",
@@ -14384,7 +14384,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 4.91,
         "PercentChangeCentralAdminPay": 43.21,
         "PercentChangeSupportStaffPay": -3.02,
-        "RecaptureAmount": "5251858",
         "EnrollmentChange": "5.63%",
         "Enrollment": 1257.0,
         "Victories": "",
@@ -14409,7 +14408,8 @@ var DistrictsData = {
         "LocalFunding": 11842606,
         "StateFunding": 694939,
         "FederalFunding": 1996412,
-        "OtherLocalFunding": 1418841
+        "OtherLocalFunding": 1418841,
+        "RecaptureAmount": 5306767
     },
     "145911": {
         "NAME": "LEON ISD",
@@ -14419,7 +14419,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.43,
         "PercentChangeCentralAdminPay": -2.17,
         "PercentChangeSupportStaffPay": -13.3,
-        "RecaptureAmount": "1152031",
         "EnrollmentChange": "-7.78%",
         "Enrollment": 735.0,
         "Victories": "",
@@ -14448,7 +14447,8 @@ var DistrictsData = {
         "LocalFunding": 7808658,
         "StateFunding": 324079,
         "FederalFunding": 888642,
-        "OtherLocalFunding": 849519
+        "OtherLocalFunding": 849519,
+        "RecaptureAmount": 979711
     },
     "247906": {
         "NAME": "STOCKDALE ISD",
@@ -14458,7 +14458,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.11,
         "PercentChangeCentralAdminPay": -1.68,
         "PercentChangeSupportStaffPay": -5.04,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.99%",
         "Enrollment": 780.0,
         "Victories": "",
@@ -14483,7 +14482,8 @@ var DistrictsData = {
         "LocalFunding": 2535499,
         "StateFunding": 6056564,
         "FederalFunding": 1041119,
-        "OtherLocalFunding": 572036
+        "OtherLocalFunding": 572036,
+        "RecaptureAmount": 0
     },
     "247904": {
         "NAME": "POTH ISD",
@@ -14493,7 +14493,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 19.43,
         "PercentChangeCentralAdminPay": -13.94,
         "PercentChangeSupportStaffPay": 23.29,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.55%",
         "Enrollment": 846.0,
         "Victories": "",
@@ -14518,7 +14517,8 @@ var DistrictsData = {
         "LocalFunding": 3433695,
         "StateFunding": 6073098,
         "FederalFunding": 752456,
-        "OtherLocalFunding": 528814
+        "OtherLocalFunding": 528814,
+        "RecaptureAmount": 0
     },
     "128904": {
         "NAME": "FALLS CITY ISD",
@@ -14528,7 +14528,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.34,
         "PercentChangeCentralAdminPay": 8.76,
         "PercentChangeSupportStaffPay": -9.97,
-        "RecaptureAmount": "3091036",
         "EnrollmentChange": "13.33%",
         "Enrollment": 408.0,
         "Victories": "",
@@ -14557,7 +14556,8 @@ var DistrictsData = {
         "LocalFunding": 4662697,
         "StateFunding": 189467,
         "FederalFunding": 480724,
-        "OtherLocalFunding": 445141
+        "OtherLocalFunding": 445141,
+        "RecaptureAmount": 3057660
     },
     "051901": {
         "NAME": "PADUCAH ISD",
@@ -14567,7 +14567,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 4.53,
         "PercentChangeCentralAdminPay": 1.45,
         "PercentChangeSupportStaffPay": 56.61,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.29%",
         "Enrollment": 183.0,
         "Victories": "",
@@ -14587,7 +14586,8 @@ var DistrictsData = {
         "LocalFunding": 1495218,
         "StateFunding": 1105946,
         "FederalFunding": 400595,
-        "OtherLocalFunding": 86354
+        "OtherLocalFunding": 86354,
+        "RecaptureAmount": 0
     },
     "029901": {
         "NAME": "CALHOUN COUNTY ISD",
@@ -14597,7 +14597,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.43,
         "PercentChangeCentralAdminPay": -7.88,
         "PercentChangeSupportStaffPay": 3.86,
-        "RecaptureAmount": "6522985",
         "EnrollmentChange": "-11.92%",
         "Enrollment": 3681.0,
         "Victories": "",
@@ -14622,7 +14621,8 @@ var DistrictsData = {
         "LocalFunding": 29034281,
         "StateFunding": 4370492,
         "FederalFunding": 5250987,
-        "OtherLocalFunding": 4598890
+        "OtherLocalFunding": 4598890,
+        "RecaptureAmount": 6404136
     },
     "149901": {
         "NAME": "GEORGE WEST ISD",
@@ -14632,7 +14632,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -18.15,
         "PercentChangeCentralAdminPay": -1.65,
         "PercentChangeSupportStaffPay": -9.5,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-4.88%",
         "Enrollment": 1033.0,
         "Victories": "",
@@ -14657,7 +14656,8 @@ var DistrictsData = {
         "LocalFunding": 7356783,
         "StateFunding": 2827249,
         "FederalFunding": 1671834,
-        "OtherLocalFunding": 427477
+        "OtherLocalFunding": 427477,
+        "RecaptureAmount": 0
     },
     "211902": {
         "NAME": "STRATFORD ISD",
@@ -14667,7 +14667,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 10.75,
         "PercentChangeCentralAdminPay": 8.8,
         "PercentChangeSupportStaffPay": -1.85,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.69%",
         "Enrollment": 576.0,
         "Victories": "",
@@ -14691,7 +14690,8 @@ var DistrictsData = {
         "LocalFunding": 4232485,
         "StateFunding": 2309075,
         "FederalFunding": 807350,
-        "OtherLocalFunding": 1785174
+        "OtherLocalFunding": 1785174,
+        "RecaptureAmount": 0
     },
     "179901": {
         "NAME": "PERRYTON ISD",
@@ -14701,7 +14701,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 15.6,
         "PercentChangeCentralAdminPay": -38.09,
         "PercentChangeSupportStaffPay": -7.04,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.89%",
         "Enrollment": 2133.0,
         "Victories": "",
@@ -14726,7 +14725,8 @@ var DistrictsData = {
         "LocalFunding": 10094316,
         "StateFunding": 8884892,
         "FederalFunding": 3634915,
-        "OtherLocalFunding": 913790
+        "OtherLocalFunding": 913790,
+        "RecaptureAmount": 0
     },
     "143904": {
         "NAME": "VYSEHRAD ISD",
@@ -14736,7 +14736,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": 23.65,
         "PercentChangeSupportStaffPay": -40.43,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.94%",
         "Enrollment": 107.0,
         "Victories": "",
@@ -14761,7 +14760,8 @@ var DistrictsData = {
         "LocalFunding": 532953,
         "StateFunding": 717338,
         "FederalFunding": 99059,
-        "OtherLocalFunding": 59435
+        "OtherLocalFunding": 59435,
+        "RecaptureAmount": 0
     },
     "091918": {
         "NAME": "TOM BEAN ISD",
@@ -14771,7 +14771,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.11,
         "PercentChangeCentralAdminPay": 17.14,
         "PercentChangeSupportStaffPay": -5.84,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.63%",
         "Enrollment": 659.0,
         "Victories": "",
@@ -14796,7 +14795,8 @@ var DistrictsData = {
         "LocalFunding": 2955545,
         "StateFunding": 5282499,
         "FederalFunding": 447500,
-        "OtherLocalFunding": 253894
+        "OtherLocalFunding": 253894,
+        "RecaptureAmount": 0
     },
     "091905": {
         "NAME": "HOWE ISD",
@@ -14806,7 +14806,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 8.2,
         "PercentChangeCentralAdminPay": 10.51,
         "PercentChangeSupportStaffPay": -3.73,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "17.81%",
         "Enrollment": 1224.0,
         "Victories": "",
@@ -14831,7 +14830,8 @@ var DistrictsData = {
         "LocalFunding": 3778748,
         "StateFunding": 9582983,
         "FederalFunding": 1276350,
-        "OtherLocalFunding": 340965
+        "OtherLocalFunding": 340965,
+        "RecaptureAmount": 0
     },
     "057916": {
         "NAME": "RICHARDSON ISD",
@@ -14841,7 +14841,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.01,
         "PercentChangeCentralAdminPay": -12.07,
         "PercentChangeSupportStaffPay": -4.27,
-        "RecaptureAmount": "1277611",
         "EnrollmentChange": "-2.45%",
         "Enrollment": 37787.0,
         "Victories": "",
@@ -14882,7 +14881,8 @@ var DistrictsData = {
         "LocalFunding": 269135596,
         "StateFunding": 86433075,
         "FederalFunding": 45865523,
-        "OtherLocalFunding": 10593493
+        "OtherLocalFunding": 10593493,
+        "RecaptureAmount": 1196543
     },
     "057914": {
         "NAME": "MESQUITE ISD",
@@ -14892,7 +14892,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 8.77,
         "PercentChangeCentralAdminPay": 0.4,
         "PercentChangeSupportStaffPay": -4.02,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-5.58%",
         "Enrollment": 38527.0,
         "Victories": "",
@@ -14933,7 +14932,8 @@ var DistrictsData = {
         "LocalFunding": 94505861,
         "StateFunding": 259234618,
         "FederalFunding": 36014470,
-        "OtherLocalFunding": 8474944
+        "OtherLocalFunding": 8474944,
+        "RecaptureAmount": 0
     },
     "129901": {
         "NAME": "CRANDALL ISD",
@@ -14943,7 +14943,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.65,
         "PercentChangeCentralAdminPay": 4.86,
         "PercentChangeSupportStaffPay": -2.35,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "40.98%",
         "Enrollment": 4868.0,
         "Victories": "",
@@ -14968,7 +14967,8 @@ var DistrictsData = {
         "LocalFunding": 11568169,
         "StateFunding": 32264791,
         "FederalFunding": 4605134,
-        "OtherLocalFunding": 2683216
+        "OtherLocalFunding": 2683216,
+        "RecaptureAmount": 0
     },
     "057919": {
         "NAME": "SUNNYVALE ISD",
@@ -14978,7 +14978,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.28,
         "PercentChangeCentralAdminPay": 11.62,
         "PercentChangeSupportStaffPay": 10.26,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "23.63%",
         "Enrollment": 2025.0,
         "Victories": "",
@@ -15007,7 +15006,8 @@ var DistrictsData = {
         "LocalFunding": 13318743,
         "StateFunding": 5189606,
         "FederalFunding": 1041606,
-        "OtherLocalFunding": 1312789
+        "OtherLocalFunding": 1312789,
+        "RecaptureAmount": 0
     },
     "176902": {
         "NAME": "NEWTON ISD",
@@ -15017,7 +15017,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.04,
         "PercentChangeCentralAdminPay": -0.2,
         "PercentChangeSupportStaffPay": -2.98,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-5.09%",
         "Enrollment": 969.0,
         "Victories": "",
@@ -15037,7 +15036,8 @@ var DistrictsData = {
         "LocalFunding": 3270909,
         "StateFunding": 9075968,
         "FederalFunding": 2523291,
-        "OtherLocalFunding": 367733
+        "OtherLocalFunding": 367733,
+        "RecaptureAmount": 0
     },
     "202903": {
         "NAME": "HEMPHILL ISD",
@@ -15047,7 +15047,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.04,
         "PercentChangeCentralAdminPay": 14.55,
         "PercentChangeSupportStaffPay": 10.9,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-4.77%",
         "Enrollment": 879.0,
         "Victories": "",
@@ -15072,7 +15071,8 @@ var DistrictsData = {
         "LocalFunding": 5437814,
         "StateFunding": 3937366,
         "FederalFunding": 1829449,
-        "OtherLocalFunding": 951165
+        "OtherLocalFunding": 951165,
+        "RecaptureAmount": 0
     },
     "176901": {
         "NAME": "BURKEVILLE ISD",
@@ -15082,7 +15082,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 24.86,
         "PercentChangeCentralAdminPay": 0.59,
         "PercentChangeSupportStaffPay": -21.05,
-        "RecaptureAmount": "12668",
         "EnrollmentChange": "-7.88%",
         "Enrollment": 269.0,
         "Victories": "",
@@ -15107,7 +15106,8 @@ var DistrictsData = {
         "LocalFunding": 2496023,
         "StateFunding": 556078,
         "FederalFunding": 517202,
-        "OtherLocalFunding": 1181955
+        "OtherLocalFunding": 1181955,
+        "RecaptureAmount": 0
     },
     "203902": {
         "NAME": "BROADDUS ISD",
@@ -15117,7 +15117,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.99,
         "PercentChangeCentralAdminPay": -10.45,
         "PercentChangeSupportStaffPay": 6.63,
-        "RecaptureAmount": "1558381",
         "EnrollmentChange": "-14.18%",
         "Enrollment": 351.0,
         "Victories": "",
@@ -15142,7 +15141,8 @@ var DistrictsData = {
         "LocalFunding": 6153828,
         "StateFunding": 197266,
         "FederalFunding": 1246159,
-        "OtherLocalFunding": 99463
+        "OtherLocalFunding": 99463,
+        "RecaptureAmount": 0
     },
     "202905": {
         "NAME": "WEST SABINE ISD",
@@ -15152,7 +15152,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.71,
         "PercentChangeCentralAdminPay": -23.44,
         "PercentChangeSupportStaffPay": 9.2,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-18.25%",
         "Enrollment": 569.0,
         "Victories": "",
@@ -15172,7 +15171,8 @@ var DistrictsData = {
         "LocalFunding": 1472182,
         "StateFunding": 5045330,
         "FederalFunding": 744155,
-        "OtherLocalFunding": 195395
+        "OtherLocalFunding": 195395,
+        "RecaptureAmount": 0
     },
     "121902": {
         "NAME": "BROOKELAND ISD",
@@ -15182,7 +15182,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 58.05,
         "PercentChangeCentralAdminPay": -31.34,
         "PercentChangeSupportStaffPay": -3.87,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-11.75%",
         "Enrollment": 368.0,
         "Victories": "",
@@ -15215,7 +15214,8 @@ var DistrictsData = {
         "LocalFunding": 3061473,
         "StateFunding": 914270,
         "FederalFunding": 1802086,
-        "OtherLocalFunding": 146544
+        "OtherLocalFunding": 146544,
+        "RecaptureAmount": 0
     },
     "174910": {
         "NAME": "ETOILE ISD",
@@ -15225,7 +15225,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -28.97,
         "PercentChangeCentralAdminPay": -4.25,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-31.58%",
         "Enrollment": 91.0,
         "Victories": "",
@@ -15250,7 +15249,8 @@ var DistrictsData = {
         "LocalFunding": 699805,
         "StateFunding": 392492,
         "FederalFunding": 397443,
-        "OtherLocalFunding": 78320
+        "OtherLocalFunding": 78320,
+        "RecaptureAmount": 0
     },
     "174901": {
         "NAME": "CHIRENO ISD",
@@ -15260,7 +15260,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": -17.65,
         "PercentChangeSupportStaffPay": 32.26,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.6%",
         "Enrollment": 394.0,
         "Victories": "",
@@ -15289,7 +15288,8 @@ var DistrictsData = {
         "LocalFunding": 2358670,
         "StateFunding": 2564883,
         "FederalFunding": 647768,
-        "OtherLocalFunding": 432821
+        "OtherLocalFunding": 432821,
+        "RecaptureAmount": 0
     },
     "203901": {
         "NAME": "SAN AUGUSTINE ISD",
@@ -15299,7 +15299,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 9.82,
         "PercentChangeCentralAdminPay": 2.23,
         "PercentChangeSupportStaffPay": -8.82,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.29%",
         "Enrollment": 687.0,
         "Victories": "",
@@ -15323,7 +15322,8 @@ var DistrictsData = {
         "LocalFunding": 4318572,
         "StateFunding": 4267196,
         "FederalFunding": 2743269,
-        "OtherLocalFunding": 351417
+        "OtherLocalFunding": 351417,
+        "RecaptureAmount": 0
     },
     "184909": {
         "NAME": "BROCK ISD",
@@ -15333,7 +15333,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.91,
         "PercentChangeCentralAdminPay": -12.47,
         "PercentChangeSupportStaffPay": 13.82,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "35.87%",
         "Enrollment": 1765.0,
         "Victories": "",
@@ -15358,7 +15357,8 @@ var DistrictsData = {
         "LocalFunding": 8632040,
         "StateFunding": 7422337,
         "FederalFunding": 362044,
-        "OtherLocalFunding": 633990
+        "OtherLocalFunding": 633990,
+        "RecaptureAmount": 0
     },
     "015906": {
         "NAME": "RANDOLPH FIELD ISD",
@@ -15368,7 +15368,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.56,
         "PercentChangeCentralAdminPay": -9.62,
         "PercentChangeSupportStaffPay": -4.49,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "6.11%",
         "Enrollment": 1441.0,
         "Victories": "",
@@ -15397,7 +15396,8 @@ var DistrictsData = {
         "LocalFunding": 0,
         "StateFunding": 12099079,
         "FederalFunding": 8883672,
-        "OtherLocalFunding": 714342
+        "OtherLocalFunding": 714342,
+        "RecaptureAmount": 0
     },
     "015917": {
         "NAME": "SOUTHSIDE ISD",
@@ -15407,7 +15407,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.99,
         "PercentChangeCentralAdminPay": 29.85,
         "PercentChangeSupportStaffPay": 1.01,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.14%",
         "Enrollment": 5595.0,
         "Victories": "",
@@ -15436,7 +15435,8 @@ var DistrictsData = {
         "LocalFunding": 18798756,
         "StateFunding": 40768539,
         "FederalFunding": 14223797,
-        "OtherLocalFunding": 1678916
+        "OtherLocalFunding": 1678916,
+        "RecaptureAmount": 0
     },
     "015904": {
         "NAME": "HARLANDALE ISD",
@@ -15446,7 +15446,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.51,
         "PercentChangeCentralAdminPay": -4.52,
         "PercentChangeSupportStaffPay": -3.64,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-17.0%",
         "Enrollment": 12522.0,
         "Victories": "",
@@ -15479,7 +15478,8 @@ var DistrictsData = {
         "LocalFunding": 20775468,
         "StateFunding": 96196026,
         "FederalFunding": 28737226,
-        "OtherLocalFunding": 2952831
+        "OtherLocalFunding": 2952831,
+        "RecaptureAmount": 0
     },
     "015911": {
         "NAME": "EAST CENTRAL ISD",
@@ -15489,7 +15489,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.25,
         "PercentChangeCentralAdminPay": -11.64,
         "PercentChangeSupportStaffPay": -7.93,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.14%",
         "Enrollment": 9770.0,
         "Victories": "",
@@ -15522,7 +15521,8 @@ var DistrictsData = {
         "LocalFunding": 42712645,
         "StateFunding": 40571537,
         "FederalFunding": 11369106,
-        "OtherLocalFunding": 2393197
+        "OtherLocalFunding": 2393197,
+        "RecaptureAmount": 0
     },
     "015914": {
         "NAME": "FORT SAM HOUSTON ISD",
@@ -15532,7 +15532,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.66,
         "PercentChangeCentralAdminPay": 5.47,
         "PercentChangeSupportStaffPay": -21.15,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-5.3%",
         "Enrollment": 1501.0,
         "Victories": "",
@@ -15557,7 +15556,8 @@ var DistrictsData = {
         "LocalFunding": 0,
         "StateFunding": 13604220,
         "FederalFunding": 14567833,
-        "OtherLocalFunding": 2099399
+        "OtherLocalFunding": 2099399,
+        "RecaptureAmount": 0
     },
     "015901": {
         "NAME": "ALAMO HEIGHTS ISD",
@@ -15567,7 +15567,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.07,
         "PercentChangeCentralAdminPay": -10.34,
         "PercentChangeSupportStaffPay": -12.17,
-        "RecaptureAmount": "33197879",
         "EnrollmentChange": "0.46%",
         "Enrollment": 4846.0,
         "Victories": "",
@@ -15604,7 +15603,8 @@ var DistrictsData = {
         "LocalFunding": 36787334,
         "StateFunding": 2401304,
         "FederalFunding": 5391045,
-        "OtherLocalFunding": 7271889
+        "OtherLocalFunding": 7271889,
+        "RecaptureAmount": 33258428
     },
     "015908": {
         "NAME": "SOUTH SAN ANTONIO ISD",
@@ -15614,7 +15614,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.79,
         "PercentChangeCentralAdminPay": 17.74,
         "PercentChangeSupportStaffPay": -7.23,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-16.11%",
         "Enrollment": 8267.0,
         "Victories": "",
@@ -15651,7 +15650,8 @@ var DistrictsData = {
         "LocalFunding": 18121570,
         "StateFunding": 54308919,
         "FederalFunding": 21444425,
-        "OtherLocalFunding": 726709
+        "OtherLocalFunding": 726709,
+        "RecaptureAmount": 0
     },
     "089905": {
         "NAME": "WAELDER ISD",
@@ -15661,7 +15661,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.23,
         "PercentChangeCentralAdminPay": 22.31,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-12.09%",
         "Enrollment": 298.0,
         "Victories": "",
@@ -15690,7 +15689,8 @@ var DistrictsData = {
         "LocalFunding": 1993142,
         "StateFunding": 1722318,
         "FederalFunding": 537079,
-        "OtherLocalFunding": 200739
+        "OtherLocalFunding": 200739,
+        "RecaptureAmount": 0
     },
     "089901": {
         "NAME": "GONZALES ISD",
@@ -15700,7 +15700,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 29.77,
         "PercentChangeCentralAdminPay": -22.41,
         "PercentChangeSupportStaffPay": -3.74,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.98%",
         "Enrollment": 2654.0,
         "Victories": "",
@@ -15729,7 +15728,8 @@ var DistrictsData = {
         "LocalFunding": 18569788,
         "StateFunding": 8111867,
         "FederalFunding": 5997469,
-        "OtherLocalFunding": 836152
+        "OtherLocalFunding": 836152,
+        "RecaptureAmount": 0
     },
     "028906": {
         "NAME": "PRAIRIE LEA ISD",
@@ -15739,7 +15739,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.58,
         "PercentChangeCentralAdminPay": 50.27,
         "PercentChangeSupportStaffPay": -11.5,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "30.77%",
         "Enrollment": 221.0,
         "Victories": "",
@@ -15768,7 +15767,8 @@ var DistrictsData = {
         "LocalFunding": 1536268,
         "StateFunding": 1130349,
         "FederalFunding": 437213,
-        "OtherLocalFunding": 28731
+        "OtherLocalFunding": 28731,
+        "RecaptureAmount": 0
     },
     "028903": {
         "NAME": "LULING ISD",
@@ -15778,7 +15778,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.95,
         "PercentChangeCentralAdminPay": 2.09,
         "PercentChangeSupportStaffPay": -3.99,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.64%",
         "Enrollment": 1418.0,
         "Victories": "",
@@ -15807,7 +15806,8 @@ var DistrictsData = {
         "LocalFunding": 5333472,
         "StateFunding": 8213991,
         "FederalFunding": 2066029,
-        "OtherLocalFunding": 192125
+        "OtherLocalFunding": 192125,
+        "RecaptureAmount": 0
     },
     "194905": {
         "NAME": "DETROIT ISD",
@@ -15817,7 +15817,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.13,
         "PercentChangeCentralAdminPay": 22.17,
         "PercentChangeSupportStaffPay": 10.95,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.73%",
         "Enrollment": 516.0,
         "Victories": "",
@@ -15842,7 +15841,8 @@ var DistrictsData = {
         "LocalFunding": 822669,
         "StateFunding": 5865572,
         "FederalFunding": 2074228,
-        "OtherLocalFunding": 669597
+        "OtherLocalFunding": 669597,
+        "RecaptureAmount": 0
     },
     "057909": {
         "NAME": "GARLAND ISD",
@@ -15852,7 +15852,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.38,
         "PercentChangeCentralAdminPay": 10.61,
         "PercentChangeSupportStaffPay": -4.12,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.25%",
         "Enrollment": 53921.0,
         "Victories": "",
@@ -15901,7 +15900,8 @@ var DistrictsData = {
         "LocalFunding": 214186323,
         "StateFunding": 264800880,
         "FederalFunding": 74784076,
-        "OtherLocalFunding": 3484447
+        "OtherLocalFunding": 3484447,
+        "RecaptureAmount": 0
     },
     "043919": {
         "NAME": "LOVEJOY ISD",
@@ -15911,7 +15911,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.89,
         "PercentChangeCentralAdminPay": 9.33,
         "PercentChangeSupportStaffPay": -3.11,
-        "RecaptureAmount": "248599",
         "EnrollmentChange": "6.59%",
         "Enrollment": 4206.0,
         "Victories": "",
@@ -15940,7 +15939,8 @@ var DistrictsData = {
         "LocalFunding": 30202208,
         "StateFunding": 6500313,
         "FederalFunding": 1377305,
-        "OtherLocalFunding": 5598542
+        "OtherLocalFunding": 5598542,
+        "RecaptureAmount": 244902
     },
     "064903": {
         "NAME": "CARRIZO SPRINGS CONS ISD",
@@ -15950,7 +15950,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.59,
         "PercentChangeCentralAdminPay": 29.69,
         "PercentChangeSupportStaffPay": -9.25,
-        "RecaptureAmount": "46678072",
         "EnrollmentChange": "-10.72%",
         "Enrollment": 2066.0,
         "Victories": "",
@@ -15975,7 +15974,8 @@ var DistrictsData = {
         "LocalFunding": 17587177,
         "StateFunding": 1407415,
         "FederalFunding": 6527045,
-        "OtherLocalFunding": 619843
+        "OtherLocalFunding": 619843,
+        "RecaptureAmount": 48070446
     },
     "159901": {
         "NAME": "EAGLE PASS ISD",
@@ -15985,7 +15985,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 24.21,
         "PercentChangeCentralAdminPay": 18.37,
         "PercentChangeSupportStaffPay": 3.87,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.06%",
         "Enrollment": 14028.0,
         "Victories": "",
@@ -16010,7 +16009,8 @@ var DistrictsData = {
         "LocalFunding": 28694363,
         "StateFunding": 112017653,
         "FederalFunding": 42657353,
-        "OtherLocalFunding": 578659
+        "OtherLocalFunding": 578659,
+        "RecaptureAmount": 0
     },
     "253901": {
         "NAME": "ZAPATA COUNTY ISD",
@@ -16020,7 +16020,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.18,
         "PercentChangeCentralAdminPay": -21.16,
         "PercentChangeSupportStaffPay": -9.2,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-5.71%",
         "Enrollment": 3486.0,
         "Victories": "",
@@ -16045,7 +16044,8 @@ var DistrictsData = {
         "LocalFunding": 8545286,
         "StateFunding": 24141131,
         "FederalFunding": 7792022,
-        "OtherLocalFunding": 368131
+        "OtherLocalFunding": 368131,
+        "RecaptureAmount": 0
     },
     "240901": {
         "NAME": "LAREDO ISD",
@@ -16055,7 +16055,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.9,
         "PercentChangeCentralAdminPay": 5.5,
         "PercentChangeSupportStaffPay": 3.48,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.92%",
         "Enrollment": 22041.0,
         "Victories": "",
@@ -16084,7 +16083,8 @@ var DistrictsData = {
         "LocalFunding": 24165480,
         "StateFunding": 186071586,
         "FederalFunding": 57232280,
-        "OtherLocalFunding": 3406112
+        "OtherLocalFunding": 3406112,
+        "RecaptureAmount": 0
     },
     "066005": {
         "NAME": "RAMIREZ CSD",
@@ -16094,7 +16094,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.83,
         "PercentChangeCentralAdminPay": "N/A",
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "29.41%",
         "Enrollment": 44.0,
         "Victories": "",
@@ -16119,7 +16118,8 @@ var DistrictsData = {
         "LocalFunding": 263244,
         "StateFunding": 533742,
         "FederalFunding": 136154,
-        "OtherLocalFunding": 30534
+        "OtherLocalFunding": 30534,
+        "RecaptureAmount": 0
     },
     "066902": {
         "NAME": "SAN DIEGO ISD",
@@ -16129,7 +16129,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.2,
         "PercentChangeCentralAdminPay": 5.03,
         "PercentChangeSupportStaffPay": -1.14,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "7.9%",
         "Enrollment": 1488.0,
         "Victories": "",
@@ -16162,7 +16161,8 @@ var DistrictsData = {
         "LocalFunding": 3048641,
         "StateFunding": 11699402,
         "FederalFunding": 3131757,
-        "OtherLocalFunding": 884991
+        "OtherLocalFunding": 884991,
+        "RecaptureAmount": 0
     },
     "125905": {
         "NAME": "PREMONT ISD",
@@ -16172,7 +16172,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -20.35,
         "PercentChangeCentralAdminPay": -2.14,
         "PercentChangeSupportStaffPay": 27.23,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "44.44%",
         "Enrollment": 702.0,
         "Victories": "",
@@ -16205,7 +16204,8 @@ var DistrictsData = {
         "LocalFunding": 1692384,
         "StateFunding": 7455566,
         "FederalFunding": 3557686,
-        "OtherLocalFunding": 225919
+        "OtherLocalFunding": 225919,
+        "RecaptureAmount": 0
     },
     "074917": {
         "NAME": "SAM RAYBURN ISD",
@@ -16215,7 +16215,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -14.44,
         "PercentChangeCentralAdminPay": 2.96,
         "PercentChangeSupportStaffPay": 4.2,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "6.75%",
         "Enrollment": 522.0,
         "Victories": "",
@@ -16240,7 +16239,8 @@ var DistrictsData = {
         "LocalFunding": 1427854,
         "StateFunding": 4633535,
         "FederalFunding": 468046,
-        "OtherLocalFunding": 206891
+        "OtherLocalFunding": 206891,
+        "RecaptureAmount": 0
     },
     "074905": {
         "NAME": "ECTOR ISD",
@@ -16250,7 +16250,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.24,
         "PercentChangeCentralAdminPay": -22.02,
         "PercentChangeSupportStaffPay": 3.11,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.39%",
         "Enrollment": 256.0,
         "Victories": "",
@@ -16275,7 +16274,8 @@ var DistrictsData = {
         "LocalFunding": 623874,
         "StateFunding": 3219529,
         "FederalFunding": 276774,
-        "OtherLocalFunding": 113895
+        "OtherLocalFunding": 113895,
+        "RecaptureAmount": 0
     },
     "074904": {
         "NAME": "DODD CITY ISD",
@@ -16285,7 +16285,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.43,
         "PercentChangeCentralAdminPay": -84.67,
         "PercentChangeSupportStaffPay": 15.17,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-13.81%",
         "Enrollment": 337.0,
         "Victories": "",
@@ -16310,7 +16309,8 @@ var DistrictsData = {
         "LocalFunding": 760038,
         "StateFunding": 3023269,
         "FederalFunding": 297383,
-        "OtherLocalFunding": 259534
+        "OtherLocalFunding": 259534,
+        "RecaptureAmount": 0
     },
     "124901": {
         "NAME": "JIM HOGG COUNTY ISD",
@@ -16320,7 +16320,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.01,
         "PercentChangeCentralAdminPay": -12.73,
         "PercentChangeSupportStaffPay": -2.49,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.21%",
         "Enrollment": 1142.0,
         "Victories": "",
@@ -16345,7 +16344,8 @@ var DistrictsData = {
         "LocalFunding": 3292620,
         "StateFunding": 8475898,
         "FederalFunding": 5082665,
-        "OtherLocalFunding": 400839
+        "OtherLocalFunding": 400839,
+        "RecaptureAmount": 0
     },
     "066903": {
         "NAME": "FREER ISD",
@@ -16355,7 +16355,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 25.77,
         "PercentChangeCentralAdminPay": -1.21,
         "PercentChangeSupportStaffPay": -12.6,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.73%",
         "Enrollment": 783.0,
         "Victories": "",
@@ -16380,7 +16379,8 @@ var DistrictsData = {
         "LocalFunding": 3568131,
         "StateFunding": 6493096,
         "FederalFunding": 5215548,
-        "OtherLocalFunding": 229505
+        "OtherLocalFunding": 229505,
+        "RecaptureAmount": 0
     },
     "142901": {
         "NAME": "COTULLA ISD",
@@ -16390,7 +16390,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 14.26,
         "PercentChangeCentralAdminPay": -4.46,
         "PercentChangeSupportStaffPay": -10.14,
-        "RecaptureAmount": "39335856",
         "EnrollmentChange": "-7.05%",
         "Enrollment": 1265.0,
         "Victories": "",
@@ -16415,7 +16414,8 @@ var DistrictsData = {
         "LocalFunding": 14873084,
         "StateFunding": 1162954,
         "FederalFunding": 2270774,
-        "OtherLocalFunding": 725693
+        "OtherLocalFunding": 725693,
+        "RecaptureAmount": 39826372
     },
     "162904": {
         "NAME": "MCMULLEN COUNTY ISD",
@@ -16425,7 +16425,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 7.75,
         "PercentChangeCentralAdminPay": -15.94,
         "PercentChangeSupportStaffPay": 1.33,
-        "RecaptureAmount": "24918545",
         "EnrollmentChange": "1.14%",
         "Enrollment": 267.0,
         "Victories": "",
@@ -16450,7 +16449,8 @@ var DistrictsData = {
         "LocalFunding": 4883182,
         "StateFunding": 645793,
         "FederalFunding": 81476,
-        "OtherLocalFunding": 475786
+        "OtherLocalFunding": 475786,
+        "RecaptureAmount": 26036951
     },
     "240904": {
         "NAME": "WEBB CONS ISD",
@@ -16460,7 +16460,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -39.68,
         "PercentChangeCentralAdminPay": 6.5,
         "PercentChangeSupportStaffPay": -20.73,
-        "RecaptureAmount": "1091343",
         "EnrollmentChange": "-18.48%",
         "Enrollment": 269.0,
         "Victories": "",
@@ -16485,7 +16484,8 @@ var DistrictsData = {
         "LocalFunding": 4411451,
         "StateFunding": 1978904,
         "FederalFunding": 858015,
-        "OtherLocalFunding": 234176
+        "OtherLocalFunding": 234176,
+        "RecaptureAmount": 1188846
     },
     "066901": {
         "NAME": "BENAVIDES ISD",
@@ -16495,7 +16495,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.25,
         "PercentChangeCentralAdminPay": 28.28,
         "PercentChangeSupportStaffPay": -2.61,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-29.36%",
         "Enrollment": 255.0,
         "Victories": "",
@@ -16520,7 +16519,8 @@ var DistrictsData = {
         "LocalFunding": 2384965,
         "StateFunding": 919367,
         "FederalFunding": 2201109,
-        "OtherLocalFunding": 399525
+        "OtherLocalFunding": 399525,
+        "RecaptureAmount": 0
     },
     "030902": {
         "NAME": "CLYDE CONS ISD",
@@ -16530,7 +16530,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.2,
         "PercentChangeCentralAdminPay": -13.75,
         "PercentChangeSupportStaffPay": -10.31,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.71%",
         "Enrollment": 1397.0,
         "Victories": "",
@@ -16563,7 +16562,8 @@ var DistrictsData = {
         "LocalFunding": 5116093,
         "StateFunding": 8021104,
         "FederalFunding": 2334182,
-        "OtherLocalFunding": 417810
+        "OtherLocalFunding": 417810,
+        "RecaptureAmount": 0
     },
     "127904": {
         "NAME": "HAWLEY ISD",
@@ -16573,7 +16573,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -15.35,
         "PercentChangeCentralAdminPay": 8.84,
         "PercentChangeSupportStaffPay": 8.24,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.04%",
         "Enrollment": 780.0,
         "Victories": "",
@@ -16598,7 +16597,8 @@ var DistrictsData = {
         "LocalFunding": 1864594,
         "StateFunding": 7534726,
         "FederalFunding": 1374910,
-        "OtherLocalFunding": 290813
+        "OtherLocalFunding": 290813,
+        "RecaptureAmount": 0
     },
     "221901": {
         "NAME": "ABILENE ISD",
@@ -16608,7 +16608,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.97,
         "PercentChangeCentralAdminPay": -21.23,
         "PercentChangeSupportStaffPay": -3.04,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.65%",
         "Enrollment": 15680.0,
         "Victories": "",
@@ -16637,7 +16636,8 @@ var DistrictsData = {
         "LocalFunding": 48297706,
         "StateFunding": 85822957,
         "FederalFunding": 41445237,
-        "OtherLocalFunding": 3457989
+        "OtherLocalFunding": 3457989,
+        "RecaptureAmount": 0
     },
     "042901": {
         "NAME": "COLEMAN ISD",
@@ -16647,7 +16647,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 15.63,
         "PercentChangeCentralAdminPay": 13.12,
         "PercentChangeSupportStaffPay": 24.5,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.28%",
         "Enrollment": 842.0,
         "Victories": "",
@@ -16676,7 +16675,8 @@ var DistrictsData = {
         "LocalFunding": 2242778,
         "StateFunding": 7450324,
         "FederalFunding": 2996306,
-        "OtherLocalFunding": 165554
+        "OtherLocalFunding": 165554,
+        "RecaptureAmount": 0
     },
     "221911": {
         "NAME": "JIM NED CONS ISD",
@@ -16686,7 +16686,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.36,
         "PercentChangeCentralAdminPay": 13.62,
         "PercentChangeSupportStaffPay": 1.66,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "22.0%",
         "Enrollment": 1414.0,
         "Victories": "",
@@ -16719,7 +16718,8 @@ var DistrictsData = {
         "LocalFunding": 6053538,
         "StateFunding": 6280850,
         "FederalFunding": 1566667,
-        "OtherLocalFunding": 2462467
+        "OtherLocalFunding": 2462467,
+        "RecaptureAmount": 0
     },
     "030903": {
         "NAME": "BAIRD ISD",
@@ -16729,7 +16729,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 27.28,
         "PercentChangeCentralAdminPay": 8.87,
         "PercentChangeSupportStaffPay": 27.32,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-16.62%",
         "Enrollment": 281.0,
         "Victories": "",
@@ -16754,7 +16753,8 @@ var DistrictsData = {
         "LocalFunding": 2585490,
         "StateFunding": 1321093,
         "FederalFunding": 718389,
-        "OtherLocalFunding": 229143
+        "OtherLocalFunding": 229143,
+        "RecaptureAmount": 0
     },
     "030906": {
         "NAME": "EULA ISD",
@@ -16764,7 +16764,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -32.61,
         "PercentChangeCentralAdminPay": -36.17,
         "PercentChangeSupportStaffPay": -23.0,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "14.36%",
         "Enrollment": 454.0,
         "Victories": "",
@@ -16797,7 +16796,8 @@ var DistrictsData = {
         "LocalFunding": 2985135,
         "StateFunding": 2693843,
         "FederalFunding": 698035,
-        "OtherLocalFunding": 44652
+        "OtherLocalFunding": 44652,
+        "RecaptureAmount": 0
     },
     "127905": {
         "NAME": "LUEDERS-AVOCA ISD",
@@ -16807,7 +16807,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.86,
         "PercentChangeCentralAdminPay": "N/A",
         "PercentChangeSupportStaffPay": -27.57,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-15.08%",
         "Enrollment": 107.0,
         "Victories": "",
@@ -16831,7 +16830,8 @@ var DistrictsData = {
         "LocalFunding": 809695,
         "StateFunding": 1323287,
         "FederalFunding": 308775,
-        "OtherLocalFunding": 86486
+        "OtherLocalFunding": 86486,
+        "RecaptureAmount": 0
     },
     "209902": {
         "NAME": "MORAN ISD",
@@ -16841,7 +16841,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": -39.68,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.81%",
         "Enrollment": 118.0,
         "Victories": "",
@@ -16866,7 +16865,8 @@ var DistrictsData = {
         "LocalFunding": 508448,
         "StateFunding": 1546628,
         "FederalFunding": 152481,
-        "OtherLocalFunding": 179550
+        "OtherLocalFunding": 179550,
+        "RecaptureAmount": 0
     },
     "209901": {
         "NAME": "ALBANY ISD",
@@ -16876,7 +16876,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 6.63,
         "PercentChangeCentralAdminPay": 36.21,
         "PercentChangeSupportStaffPay": 9.96,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.82%",
         "Enrollment": 503.0,
         "Victories": "",
@@ -16901,7 +16900,8 @@ var DistrictsData = {
         "LocalFunding": 3266775,
         "StateFunding": 2343653,
         "FederalFunding": 540887,
-        "OtherLocalFunding": 273821
+        "OtherLocalFunding": 273821,
+        "RecaptureAmount": 0
     },
     "221912": {
         "NAME": "WYLIE ISD (TAYLOR)",
@@ -16911,7 +16911,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.44,
         "PercentChangeCentralAdminPay": 9.26,
         "PercentChangeSupportStaffPay": -14.3,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "20.34%",
         "Enrollment": 4910.0,
         "Victories": "",
@@ -16931,7 +16930,8 @@ var DistrictsData = {
         "LocalFunding": 21888795,
         "StateFunding": 16986053,
         "FederalFunding": 4484313,
-        "OtherLocalFunding": 2776584
+        "OtherLocalFunding": 2776584,
+        "RecaptureAmount": 0
     },
     "100903": {
         "NAME": "KOUNTZE ISD",
@@ -16941,7 +16941,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.99,
         "PercentChangeCentralAdminPay": 14.58,
         "PercentChangeSupportStaffPay": 8.04,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.12%",
         "Enrollment": 1086.0,
         "Victories": "",
@@ -16966,7 +16965,8 @@ var DistrictsData = {
         "LocalFunding": 4504846,
         "StateFunding": 8384447,
         "FederalFunding": 2126130,
-        "OtherLocalFunding": 564554
+        "OtherLocalFunding": 564554,
+        "RecaptureAmount": 0
     },
     "100907": {
         "NAME": "LUMBERTON ISD",
@@ -16976,7 +16976,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.66,
         "PercentChangeCentralAdminPay": -20.26,
         "PercentChangeSupportStaffPay": -9.51,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "5.85%",
         "Enrollment": 4144.0,
         "Victories": "",
@@ -17001,7 +17000,8 @@ var DistrictsData = {
         "LocalFunding": 12651477,
         "StateFunding": 22515447,
         "FederalFunding": 3441678,
-        "OtherLocalFunding": 3296010
+        "OtherLocalFunding": 3296010,
+        "RecaptureAmount": 0
     },
     "036903": {
         "NAME": "EAST CHAMBERS ISD",
@@ -17011,7 +17011,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.67,
         "PercentChangeCentralAdminPay": -6.75,
         "PercentChangeSupportStaffPay": -15.58,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.57%",
         "Enrollment": 1509.0,
         "Victories": "",
@@ -17036,7 +17035,8 @@ var DistrictsData = {
         "LocalFunding": 3368821,
         "StateFunding": 12288243,
         "FederalFunding": 2921888,
-        "OtherLocalFunding": 1407801
+        "OtherLocalFunding": 1407801,
+        "RecaptureAmount": 0
     },
     "123914": {
         "NAME": "HAMSHIRE-FANNETT ISD",
@@ -17046,7 +17046,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.41,
         "PercentChangeCentralAdminPay": -0.19,
         "PercentChangeSupportStaffPay": -12.65,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.29%",
         "Enrollment": 1897.0,
         "Victories": "",
@@ -17075,7 +17074,8 @@ var DistrictsData = {
         "LocalFunding": 7600146,
         "StateFunding": 10674907,
         "FederalFunding": 1411416,
-        "OtherLocalFunding": 1606864
+        "OtherLocalFunding": 1606864,
+        "RecaptureAmount": 0
     },
     "123910": {
         "NAME": "BEAUMONT ISD",
@@ -17085,7 +17085,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -19.23,
         "PercentChangeCentralAdminPay": -25.3,
         "PercentChangeSupportStaffPay": -10.89,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-10.94%",
         "Enrollment": 17128.0,
         "Victories": "",
@@ -17114,7 +17113,8 @@ var DistrictsData = {
         "LocalFunding": 104899199,
         "StateFunding": 35896692,
         "FederalFunding": 38996014,
-        "OtherLocalFunding": 18616768
+        "OtherLocalFunding": 18616768,
+        "RecaptureAmount": 0
     },
     "144903": {
         "NAME": "DIME BOX ISD",
@@ -17124,7 +17124,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 19.15,
         "PercentChangeCentralAdminPay": 4.82,
         "PercentChangeSupportStaffPay": 95.63,
-        "RecaptureAmount": "3340",
         "EnrollmentChange": "-13.04%",
         "Enrollment": 160.0,
         "Victories": "",
@@ -17149,7 +17148,8 @@ var DistrictsData = {
         "LocalFunding": 1698039,
         "StateFunding": 607529,
         "FederalFunding": 205796,
-        "OtherLocalFunding": 23989
+        "OtherLocalFunding": 23989,
+        "RecaptureAmount": 4209
     },
     "239903": {
         "NAME": "BURTON ISD",
@@ -17159,7 +17159,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.61,
         "PercentChangeCentralAdminPay": 6.87,
         "PercentChangeSupportStaffPay": -2.54,
-        "RecaptureAmount": "1637388",
         "EnrollmentChange": "19.95%",
         "Enrollment": 481.0,
         "Victories": "",
@@ -17184,7 +17183,8 @@ var DistrictsData = {
         "LocalFunding": 5223510,
         "StateFunding": 393413,
         "FederalFunding": 732515,
-        "OtherLocalFunding": 1431772
+        "OtherLocalFunding": 1431772,
+        "RecaptureAmount": 1635134
     },
     "075908": {
         "NAME": "ROUND TOP-CARMINE ISD",
@@ -17194,7 +17194,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -19.62,
         "PercentChangeCentralAdminPay": 19.41,
         "PercentChangeSupportStaffPay": 8.31,
-        "RecaptureAmount": "1103744",
         "EnrollmentChange": "-18.06%",
         "Enrollment": 236.0,
         "Victories": "",
@@ -17219,7 +17218,8 @@ var DistrictsData = {
         "LocalFunding": 2951695,
         "StateFunding": 158832,
         "FederalFunding": 274244,
-        "OtherLocalFunding": 170527
+        "OtherLocalFunding": 170527,
+        "RecaptureAmount": 1114867
     },
     "144901": {
         "NAME": "GIDDINGS ISD",
@@ -17229,7 +17229,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -16.16,
         "PercentChangeCentralAdminPay": -1.02,
         "PercentChangeSupportStaffPay": 4.35,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.26%",
         "Enrollment": 1914.0,
         "Victories": "",
@@ -17258,7 +17257,8 @@ var DistrictsData = {
         "LocalFunding": 9396194,
         "StateFunding": 9036496,
         "FederalFunding": 3395759,
-        "OtherLocalFunding": 576716
+        "OtherLocalFunding": 576716,
+        "RecaptureAmount": 0
     },
     "008901": {
         "NAME": "BELLVILLE ISD",
@@ -17268,7 +17268,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.55,
         "PercentChangeCentralAdminPay": 7.48,
         "PercentChangeSupportStaffPay": -8.16,
-        "RecaptureAmount": "21864",
         "EnrollmentChange": "-0.77%",
         "Enrollment": 2196.0,
         "Victories": "",
@@ -17293,7 +17292,8 @@ var DistrictsData = {
         "LocalFunding": 15062610,
         "StateFunding": 6329385,
         "FederalFunding": 3233450,
-        "OtherLocalFunding": 1173690
+        "OtherLocalFunding": 1173690,
+        "RecaptureAmount": 21863
     },
     "026903": {
         "NAME": "SNOOK ISD",
@@ -17303,7 +17303,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.2,
         "PercentChangeCentralAdminPay": 15.69,
         "PercentChangeSupportStaffPay": 25.24,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.93%",
         "Enrollment": 489.0,
         "Victories": "",
@@ -17328,7 +17327,8 @@ var DistrictsData = {
         "LocalFunding": 3349946,
         "StateFunding": 3104889,
         "FederalFunding": 765600,
-        "OtherLocalFunding": 247405
+        "OtherLocalFunding": 247405,
+        "RecaptureAmount": 0
     },
     "021902": {
         "NAME": "BRYAN ISD",
@@ -17338,7 +17338,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.67,
         "PercentChangeCentralAdminPay": -7.7,
         "PercentChangeSupportStaffPay": -2.08,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.49%",
         "Enrollment": 15761.0,
         "Victories": "",
@@ -17367,7 +17366,8 @@ var DistrictsData = {
         "LocalFunding": 88214955,
         "StateFunding": 57792845,
         "FederalFunding": 35830028,
-        "OtherLocalFunding": 3326743
+        "OtherLocalFunding": 3326743,
+        "RecaptureAmount": 0
     },
     "021901": {
         "NAME": "COLLEGE STATION ISD",
@@ -17377,7 +17377,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.67,
         "PercentChangeCentralAdminPay": -1.19,
         "PercentChangeSupportStaffPay": -8.35,
-        "RecaptureAmount": "3657201",
         "EnrollmentChange": "4.94%",
         "Enrollment": 13664.0,
         "Victories": "",
@@ -17406,7 +17405,8 @@ var DistrictsData = {
         "LocalFunding": 101546718,
         "StateFunding": 12394611,
         "FederalFunding": 21726490,
-        "OtherLocalFunding": 3582762
+        "OtherLocalFunding": 3582762,
+        "RecaptureAmount": 3760394
     },
     "239901": {
         "NAME": "BRENHAM ISD",
@@ -17416,7 +17416,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.79,
         "PercentChangeCentralAdminPay": 8.07,
         "PercentChangeSupportStaffPay": -7.18,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.58%",
         "Enrollment": 4944.0,
         "Victories": "",
@@ -17441,7 +17440,8 @@ var DistrictsData = {
         "LocalFunding": 30864858,
         "StateFunding": 12965695,
         "FederalFunding": 9182180,
-        "OtherLocalFunding": 1522312
+        "OtherLocalFunding": 1522312,
+        "RecaptureAmount": 0
     },
     "091908": {
         "NAME": "VAN ALSTYNE ISD",
@@ -17451,7 +17451,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.46,
         "PercentChangeCentralAdminPay": -13.08,
         "PercentChangeSupportStaffPay": -12.99,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "26.05%",
         "Enrollment": 1868.0,
         "Victories": "",
@@ -17484,7 +17483,8 @@ var DistrictsData = {
         "LocalFunding": 8638895,
         "StateFunding": 9207408,
         "FederalFunding": 485100,
-        "OtherLocalFunding": 1033855
+        "OtherLocalFunding": 1033855,
+        "RecaptureAmount": 0
     },
     "101917": {
         "NAME": "PASADENA ISD",
@@ -17494,7 +17494,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 6.7,
         "PercentChangeCentralAdminPay": 4.69,
         "PercentChangeSupportStaffPay": 2.7,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.65%",
         "Enrollment": 50614.0,
         "Victories": "",
@@ -17543,7 +17542,8 @@ var DistrictsData = {
         "LocalFunding": 173835014,
         "StateFunding": 304793291,
         "FederalFunding": 110997730,
-        "OtherLocalFunding": 8753469
+        "OtherLocalFunding": 8753469,
+        "RecaptureAmount": 0
     },
     "101919": {
         "NAME": "SPRING ISD",
@@ -17553,7 +17553,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.89,
         "PercentChangeCentralAdminPay": 7.58,
         "PercentChangeSupportStaffPay": -0.84,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.01%",
         "Enrollment": 33567.0,
         "Victories": "<div>In 2022, Spring AFT members fought for and WON:<ul><li>5.3% pay raise for all teachers</li><li>5.5% pay raise for teachers with 5-15 years' experience and up</li><li>5.7% pay raise for teachers with 12-20 years' experience and up\n- 3% pay raise for all support staff\n- $13.50 minimum wage for paraprofessionals\n- $12 minimum wage for support staff</ul></li></div>",
@@ -17606,7 +17605,8 @@ var DistrictsData = {
         "LocalFunding": 139110149,
         "StateFunding": 156138128,
         "FederalFunding": 60193468,
-        "OtherLocalFunding": 2577090
+        "OtherLocalFunding": 2577090,
+        "RecaptureAmount": 0
     },
     "101925": {
         "NAME": "HUFFMAN ISD",
@@ -17616,7 +17616,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.49,
         "PercentChangeCentralAdminPay": 0.38,
         "PercentChangeSupportStaffPay": 1.29,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.81%",
         "Enrollment": 3439.0,
         "Victories": "",
@@ -17645,7 +17644,8 @@ var DistrictsData = {
         "LocalFunding": 13876458,
         "StateFunding": 18747182,
         "FederalFunding": 7328922,
-        "OtherLocalFunding": 1526669
+        "OtherLocalFunding": 1526669,
+        "RecaptureAmount": 0
     },
     "146901": {
         "NAME": "CLEVELAND ISD",
@@ -17655,7 +17655,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -15.45,
         "PercentChangeCentralAdminPay": -22.98,
         "PercentChangeSupportStaffPay": -0.05,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "114.69%",
         "Enrollment": 8888.0,
         "Victories": "",
@@ -17688,7 +17687,8 @@ var DistrictsData = {
         "LocalFunding": 20156053,
         "StateFunding": 69471092,
         "FederalFunding": 11720521,
-        "OtherLocalFunding": 1952223
+        "OtherLocalFunding": 1952223,
+        "RecaptureAmount": 0
     },
     "170908": {
         "NAME": "NEW CANEY ISD",
@@ -17698,7 +17698,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.51,
         "PercentChangeCentralAdminPay": 13.56,
         "PercentChangeSupportStaffPay": 12.15,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "17.79%",
         "Enrollment": 16274.0,
         "Victories": "",
@@ -17735,7 +17734,8 @@ var DistrictsData = {
         "LocalFunding": 51934404,
         "StateFunding": 105616078,
         "FederalFunding": 24719123,
-        "OtherLocalFunding": 3631651
+        "OtherLocalFunding": 3631651,
+        "RecaptureAmount": 0
     },
     "020910": {
         "NAME": "DAMON ISD",
@@ -17745,7 +17745,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": -1.17,
         "PercentChangeSupportStaffPay": 19.29,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-41.03%",
         "Enrollment": 115.0,
         "Victories": "",
@@ -17770,7 +17769,8 @@ var DistrictsData = {
         "LocalFunding": 1064306,
         "StateFunding": 1376133,
         "FederalFunding": 458649,
-        "OtherLocalFunding": 239324
+        "OtherLocalFunding": 239324,
+        "RecaptureAmount": 0
     },
     "020907": {
         "NAME": "COLUMBIA-BRAZORIA ISD",
@@ -17780,7 +17780,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.57,
         "PercentChangeCentralAdminPay": -14.32,
         "PercentChangeSupportStaffPay": -6.88,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.23%",
         "Enrollment": 2873.0,
         "Victories": "",
@@ -17809,7 +17808,8 @@ var DistrictsData = {
         "LocalFunding": 13728274,
         "StateFunding": 11445619,
         "FederalFunding": 3553966,
-        "OtherLocalFunding": 1314417
+        "OtherLocalFunding": 1314417,
+        "RecaptureAmount": 0
     },
     "020908": {
         "NAME": "PEARLAND ISD",
@@ -17819,7 +17819,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 8.04,
         "PercentChangeCentralAdminPay": -7.53,
         "PercentChangeSupportStaffPay": 5.61,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.12%",
         "Enrollment": 21067.0,
         "Victories": "",
@@ -17848,7 +17847,8 @@ var DistrictsData = {
         "LocalFunding": 77425192,
         "StateFunding": 92953793,
         "FederalFunding": 29959157,
-        "OtherLocalFunding": 4705115
+        "OtherLocalFunding": 4705115,
+        "RecaptureAmount": 0
     },
     "020904": {
         "NAME": "DANBURY ISD",
@@ -17858,7 +17858,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -17.77,
         "PercentChangeCentralAdminPay": 11.19,
         "PercentChangeSupportStaffPay": -5.22,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.94%",
         "Enrollment": 759.0,
         "Victories": "",
@@ -17887,7 +17886,8 @@ var DistrictsData = {
         "LocalFunding": 3565128,
         "StateFunding": 5990315,
         "FederalFunding": 259237,
-        "OtherLocalFunding": 635149
+        "OtherLocalFunding": 635149,
+        "RecaptureAmount": 0
     },
     "084909": {
         "NAME": "SANTA FE ISD",
@@ -17897,7 +17897,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 4.78,
         "PercentChangeCentralAdminPay": 16.54,
         "PercentChangeSupportStaffPay": 0.77,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.54%",
         "Enrollment": 4343.0,
         "Victories": "",
@@ -17926,7 +17925,8 @@ var DistrictsData = {
         "LocalFunding": 16846574,
         "StateFunding": 30335838,
         "FederalFunding": 6870153,
-        "OtherLocalFunding": 1771771
+        "OtherLocalFunding": 1771771,
+        "RecaptureAmount": 0
     },
     "084911": {
         "NAME": "FRIENDSWOOD ISD",
@@ -17936,7 +17936,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 15.57,
         "PercentChangeCentralAdminPay": -10.52,
         "PercentChangeSupportStaffPay": -5.03,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.23%",
         "Enrollment": 6119.0,
         "Victories": "",
@@ -17965,7 +17964,8 @@ var DistrictsData = {
         "LocalFunding": 34587660,
         "StateFunding": 18384277,
         "FederalFunding": 3068445,
-        "OtherLocalFunding": 4746640
+        "OtherLocalFunding": 4746640,
+        "RecaptureAmount": 0
     },
     "229904": {
         "NAME": "WARREN ISD",
@@ -17975,7 +17975,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.72,
         "PercentChangeCentralAdminPay": 23.41,
         "PercentChangeSupportStaffPay": 1.13,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.24%",
         "Enrollment": 1268.0,
         "Victories": "",
@@ -17995,7 +17994,8 @@ var DistrictsData = {
         "LocalFunding": 3538950,
         "StateFunding": 10848712,
         "FederalFunding": 1585650,
-        "OtherLocalFunding": 577737
+        "OtherLocalFunding": 577737,
+        "RecaptureAmount": 0
     },
     "187903": {
         "NAME": "GOODRICH ISD",
@@ -18005,7 +18005,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.6,
         "PercentChangeCentralAdminPay": -21.21,
         "PercentChangeSupportStaffPay": -2.2,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "8.55%",
         "Enrollment": 254.0,
         "Victories": "",
@@ -18030,7 +18029,8 @@ var DistrictsData = {
         "LocalFunding": 1445525,
         "StateFunding": 2056098,
         "FederalFunding": 571931,
-        "OtherLocalFunding": 412283
+        "OtherLocalFunding": 412283,
+        "RecaptureAmount": 0
     },
     "187901": {
         "NAME": "BIG SANDY ISD (POLK)",
@@ -18040,7 +18040,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -13.54,
         "PercentChangeCentralAdminPay": 54.45,
         "PercentChangeSupportStaffPay": -14.65,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.4%",
         "Enrollment": 496.0,
         "Victories": "",
@@ -18065,7 +18064,8 @@ var DistrictsData = {
         "LocalFunding": 2031801,
         "StateFunding": 4245429,
         "FederalFunding": 1197538,
-        "OtherLocalFunding": 239124
+        "OtherLocalFunding": 239124,
+        "RecaptureAmount": 0
     },
     "204904": {
         "NAME": "SHEPHERD ISD",
@@ -18075,7 +18075,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.65,
         "PercentChangeCentralAdminPay": 10.38,
         "PercentChangeSupportStaffPay": -7.99,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.47%",
         "Enrollment": 1930.0,
         "Victories": "",
@@ -18095,7 +18094,8 @@ var DistrictsData = {
         "LocalFunding": 5294127,
         "StateFunding": 15310918,
         "FederalFunding": 4485941,
-        "OtherLocalFunding": 297443
+        "OtherLocalFunding": 297443,
+        "RecaptureAmount": 0
     },
     "204901": {
         "NAME": "COLDSPRING-OAKHURST CONS ISD",
@@ -18105,7 +18105,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.97,
         "PercentChangeCentralAdminPay": -4.0,
         "PercentChangeSupportStaffPay": -5.03,
-        "RecaptureAmount": "395107",
         "EnrollmentChange": "2.34%",
         "Enrollment": 1533.0,
         "Victories": "",
@@ -18130,7 +18129,8 @@ var DistrictsData = {
         "LocalFunding": 13847500,
         "StateFunding": 2669263,
         "FederalFunding": 2807490,
-        "OtherLocalFunding": 190240
+        "OtherLocalFunding": 190240,
+        "RecaptureAmount": 0
     },
     "228904": {
         "NAME": "CENTERVILLE ISD (TRINITY)",
@@ -18140,7 +18140,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.03,
         "PercentChangeCentralAdminPay": 49.34,
         "PercentChangeSupportStaffPay": -58.53,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "11.2%",
         "Enrollment": 139.0,
         "Victories": "",
@@ -18165,7 +18164,8 @@ var DistrictsData = {
         "LocalFunding": 379251,
         "StateFunding": 1880135,
         "FederalFunding": 168160,
-        "OtherLocalFunding": 43655
+        "OtherLocalFunding": 43655,
+        "RecaptureAmount": 0
     },
     "228901": {
         "NAME": "GROVETON ISD",
@@ -18175,7 +18175,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.61,
         "PercentChangeCentralAdminPay": -3.95,
         "PercentChangeSupportStaffPay": 9.81,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.28%",
         "Enrollment": 762.0,
         "Victories": "",
@@ -18200,7 +18199,8 @@ var DistrictsData = {
         "LocalFunding": 3170010,
         "StateFunding": 5306666,
         "FederalFunding": 1694031,
-        "OtherLocalFunding": 703437
+        "OtherLocalFunding": 703437,
+        "RecaptureAmount": 0
     },
     "187907": {
         "NAME": "LIVINGSTON ISD",
@@ -18210,7 +18210,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.55,
         "PercentChangeCentralAdminPay": 0.68,
         "PercentChangeSupportStaffPay": 0.29,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.8%",
         "Enrollment": 3804.0,
         "Victories": "",
@@ -18235,7 +18234,8 @@ var DistrictsData = {
         "LocalFunding": 19304876,
         "StateFunding": 19134506,
         "FederalFunding": 8196252,
-        "OtherLocalFunding": 515370
+        "OtherLocalFunding": 515370,
+        "RecaptureAmount": 0
     },
     "229906": {
         "NAME": "CHESTER ISD",
@@ -18245,7 +18245,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -32.49,
         "PercentChangeCentralAdminPay": 4.1,
         "PercentChangeSupportStaffPay": -17.45,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "19.21%",
         "Enrollment": 211.0,
         "Victories": "",
@@ -18270,7 +18269,8 @@ var DistrictsData = {
         "LocalFunding": 908679,
         "StateFunding": 1877558,
         "FederalFunding": 310458,
-        "OtherLocalFunding": 39171
+        "OtherLocalFunding": 39171,
+        "RecaptureAmount": 0
     },
     "003905": {
         "NAME": "DIBOLL ISD",
@@ -18280,7 +18280,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.32,
         "PercentChangeCentralAdminPay": 12.06,
         "PercentChangeSupportStaffPay": 7.09,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.26%",
         "Enrollment": 1714.0,
         "Victories": "",
@@ -18305,7 +18304,8 @@ var DistrictsData = {
         "LocalFunding": 3246886,
         "StateFunding": 14810678,
         "FederalFunding": 4095861,
-        "OtherLocalFunding": 451400
+        "OtherLocalFunding": 451400,
+        "RecaptureAmount": 0
     },
     "187906": {
         "NAME": "LEGGETT ISD",
@@ -18315,7 +18315,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.48,
         "PercentChangeCentralAdminPay": 31.57,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "28.3%",
         "Enrollment": 204.0,
         "Victories": "",
@@ -18340,7 +18339,8 @@ var DistrictsData = {
         "LocalFunding": 906035,
         "StateFunding": 1719806,
         "FederalFunding": 413824,
-        "OtherLocalFunding": 58934
+        "OtherLocalFunding": 58934,
+        "RecaptureAmount": 0
     },
     "187904": {
         "NAME": "CORRIGAN-CAMDEN ISD",
@@ -18350,7 +18350,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.89,
         "PercentChangeCentralAdminPay": -6.92,
         "PercentChangeSupportStaffPay": -0.02,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-18.32%",
         "Enrollment": 789.0,
         "Victories": "",
@@ -18375,7 +18374,8 @@ var DistrictsData = {
         "LocalFunding": 4011762,
         "StateFunding": 5020967,
         "FederalFunding": 2296423,
-        "OtherLocalFunding": 1536331
+        "OtherLocalFunding": 1536331,
+        "RecaptureAmount": 0
     },
     "229903": {
         "NAME": "WOODVILLE ISD",
@@ -18385,7 +18385,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.04,
         "PercentChangeCentralAdminPay": 4.76,
         "PercentChangeSupportStaffPay": 4.13,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.72%",
         "Enrollment": 1236.0,
         "Victories": "",
@@ -18405,7 +18404,8 @@ var DistrictsData = {
         "LocalFunding": 5633304,
         "StateFunding": 7704295,
         "FederalFunding": 3076381,
-        "OtherLocalFunding": 2027755
+        "OtherLocalFunding": 2027755,
+        "RecaptureAmount": 0
     },
     "003906": {
         "NAME": "ZAVALLA ISD",
@@ -18415,7 +18415,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.02,
         "PercentChangeCentralAdminPay": 22.22,
         "PercentChangeSupportStaffPay": 78.83,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-28.57%",
         "Enrollment": 300.0,
         "Victories": "",
@@ -18435,7 +18434,8 @@ var DistrictsData = {
         "LocalFunding": 1201184,
         "StateFunding": 2796392,
         "FederalFunding": 664887,
-        "OtherLocalFunding": 55237
+        "OtherLocalFunding": 55237,
+        "RecaptureAmount": 0
     },
     "150901": {
         "NAME": "LLANO ISD",
@@ -18445,7 +18445,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.51,
         "PercentChangeCentralAdminPay": 0.87,
         "PercentChangeSupportStaffPay": 2.23,
-        "RecaptureAmount": "24084167",
         "EnrollmentChange": "-4.94%",
         "Enrollment": 1731.0,
         "Victories": "",
@@ -18470,7 +18469,8 @@ var DistrictsData = {
         "LocalFunding": 16176075,
         "StateFunding": 1532054,
         "FederalFunding": 4508656,
-        "OtherLocalFunding": 1006197
+        "OtherLocalFunding": 1006197,
+        "RecaptureAmount": 24171310
     },
     "246912": {
         "NAME": "THRALL ISD",
@@ -18480,7 +18480,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 6.72,
         "PercentChangeCentralAdminPay": 21.64,
         "PercentChangeSupportStaffPay": 12.69,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "19.91%",
         "Enrollment": 777.0,
         "Victories": "",
@@ -18509,7 +18508,8 @@ var DistrictsData = {
         "LocalFunding": 3011103,
         "StateFunding": 6055256,
         "FederalFunding": 636037,
-        "OtherLocalFunding": 477376
+        "OtherLocalFunding": 477376,
+        "RecaptureAmount": 0
     },
     "011905": {
         "NAME": "MCDADE ISD",
@@ -18519,7 +18519,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.69,
         "PercentChangeCentralAdminPay": -5.74,
         "PercentChangeSupportStaffPay": 2.82,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "51.13%",
         "Enrollment": 334.0,
         "Victories": "",
@@ -18544,7 +18543,8 @@ var DistrictsData = {
         "LocalFunding": 1138249,
         "StateFunding": 3025860,
         "FederalFunding": 540393,
-        "OtherLocalFunding": 59093
+        "OtherLocalFunding": 59093,
+        "RecaptureAmount": 0
     },
     "011901": {
         "NAME": "BASTROP ISD",
@@ -18554,7 +18554,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.29,
         "PercentChangeCentralAdminPay": 18.76,
         "PercentChangeSupportStaffPay": -12.13,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "10.97%",
         "Enrollment": 11405.0,
         "Victories": "",
@@ -18579,7 +18578,8 @@ var DistrictsData = {
         "LocalFunding": 43498583,
         "StateFunding": 59284755,
         "FederalFunding": 16705177,
-        "OtherLocalFunding": 1778180
+        "OtherLocalFunding": 1778180,
+        "RecaptureAmount": 0
     },
     "227910": {
         "NAME": "DEL VALLE ISD",
@@ -18589,7 +18589,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.37,
         "PercentChangeCentralAdminPay": -10.08,
         "PercentChangeSupportStaffPay": 30.75,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-7.83%",
         "Enrollment": 10654.0,
         "Victories": "",
@@ -18626,7 +18625,8 @@ var DistrictsData = {
         "LocalFunding": 73663747,
         "StateFunding": 26863327,
         "FederalFunding": 17517220,
-        "OtherLocalFunding": 2581994
+        "OtherLocalFunding": 2581994,
+        "RecaptureAmount": 0
     },
     "227907": {
         "NAME": "MANOR ISD",
@@ -18636,7 +18636,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.46,
         "PercentChangeCentralAdminPay": -2.91,
         "PercentChangeSupportStaffPay": 39.16,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.11%",
         "Enrollment": 9238.0,
         "Victories": "<div>In 2022, Manor AFT members fought for and WON:<ul><li>7% pay raise for teachers</li><li>2% pay raise for support staff</li><li>Reading Academy stipend</ul></li></div>",
@@ -18669,7 +18668,8 @@ var DistrictsData = {
         "LocalFunding": 58547011,
         "StateFunding": 29310139,
         "FederalFunding": 11509786,
-        "OtherLocalFunding": 2449672
+        "OtherLocalFunding": 2449672,
+        "RecaptureAmount": 0
     },
     "246914": {
         "NAME": "COUPLAND ISD",
@@ -18679,7 +18679,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": 42.5,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "15.33%",
         "Enrollment": 173.0,
         "Victories": "",
@@ -18716,7 +18715,8 @@ var DistrictsData = {
         "LocalFunding": 1001261,
         "StateFunding": 1243242,
         "FederalFunding": 213295,
-        "OtherLocalFunding": 103437
+        "OtherLocalFunding": 103437,
+        "RecaptureAmount": 0
     },
     "246911": {
         "NAME": "TAYLOR ISD",
@@ -18726,7 +18726,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.83,
         "PercentChangeCentralAdminPay": 3.03,
         "PercentChangeSupportStaffPay": 0.44,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.57%",
         "Enrollment": 2973.0,
         "Victories": "",
@@ -18755,7 +18754,8 @@ var DistrictsData = {
         "LocalFunding": 13654083,
         "StateFunding": 17594952,
         "FederalFunding": 4991548,
-        "OtherLocalFunding": 948248
+        "OtherLocalFunding": 948248,
+        "RecaptureAmount": 0
     },
     "011902": {
         "NAME": "ELGIN ISD",
@@ -18765,7 +18765,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 9.38,
         "PercentChangeCentralAdminPay": 2.49,
         "PercentChangeSupportStaffPay": -4.16,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "7.1%",
         "Enrollment": 4628.0,
         "Victories": "",
@@ -18798,7 +18797,8 @@ var DistrictsData = {
         "LocalFunding": 16252952,
         "StateFunding": 29841149,
         "FederalFunding": 9144943,
-        "OtherLocalFunding": 1181827
+        "OtherLocalFunding": 1181827,
+        "RecaptureAmount": 0
     },
     "227913": {
         "NAME": "LAKE TRAVIS ISD",
@@ -18808,7 +18808,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -20.28,
         "PercentChangeCentralAdminPay": -6.78,
         "PercentChangeSupportStaffPay": -8.32,
-        "RecaptureAmount": "45786221",
         "EnrollmentChange": "19.08%",
         "Enrollment": 11001.0,
         "Victories": "",
@@ -18837,7 +18836,8 @@ var DistrictsData = {
         "LocalFunding": 83469406,
         "StateFunding": 6374567,
         "FederalFunding": 5512899,
-        "OtherLocalFunding": 6277433
+        "OtherLocalFunding": 6277433,
+        "RecaptureAmount": 45815978
     },
     "227909": {
         "NAME": "EANES ISD",
@@ -18847,7 +18847,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.59,
         "PercentChangeCentralAdminPay": -31.46,
         "PercentChangeSupportStaffPay": -11.26,
-        "RecaptureAmount": "101811130",
         "EnrollmentChange": "-1.33%",
         "Enrollment": 7968.0,
         "Victories": "",
@@ -18884,7 +18883,8 @@ var DistrictsData = {
         "LocalFunding": 65693546,
         "StateFunding": 4171613,
         "FederalFunding": 3250034,
-        "OtherLocalFunding": 7828018
+        "OtherLocalFunding": 7828018,
+        "RecaptureAmount": 101773796
     },
     "227901": {
         "NAME": "AUSTIN ISD",
@@ -18894,7 +18894,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 6.32,
         "PercentChangeCentralAdminPay": 27.91,
         "PercentChangeSupportStaffPay": -6.47,
-        "RecaptureAmount": "711027768",
         "EnrollmentChange": "-10.49%",
         "Enrollment": 74871.0,
         "Victories": "<div>In 2022, Education Austin members fought for and WON:<ul><li>2% midpoint increase and $1,000 increase to base pay for teachers and librarians</li><li>$16 minimum wage for classified workers\n- $21 per hour starting pay for bus drivers</li><li>$1,000 stipend for Reading Academy completion\n- $2,000 retention stipend for all full-time employees\n- $1,000 retention stipend for all part-time employees\n- $500 retention stipend for teachers, librarians, and counselors with 5 or more years of experience\n- Maintained the 6/8 schedule for secondary teachers\n- Kept counselors and librarians out of essential areas rotation\n- Increased planning time for grade level elementary teachers\n- Improved due process policy for classified workers</ul></li></div>",
@@ -18951,7 +18950,8 @@ var DistrictsData = {
         "LocalFunding": 686100668,
         "StateFunding": 40375377,
         "FederalFunding": 122999557,
-        "OtherLocalFunding": 32202930
+        "OtherLocalFunding": 32202930,
+        "RecaptureAmount": 706687156
     },
     "105904": {
         "NAME": "DRIPPING SPRINGS ISD",
@@ -18961,7 +18961,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.83,
         "PercentChangeCentralAdminPay": 3.54,
         "PercentChangeSupportStaffPay": -9.21,
-        "RecaptureAmount": "6273157",
         "EnrollmentChange": "29.61%",
         "Enrollment": 7283.0,
         "Victories": "",
@@ -18994,7 +18993,8 @@ var DistrictsData = {
         "LocalFunding": 56941171,
         "StateFunding": 9049961,
         "FederalFunding": 2912984,
-        "OtherLocalFunding": 4418686
+        "OtherLocalFunding": 4418686,
+        "RecaptureAmount": 5882141
     },
     "027904": {
         "NAME": "MARBLE FALLS ISD",
@@ -19004,7 +19004,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.8,
         "PercentChangeCentralAdminPay": -1.33,
         "PercentChangeSupportStaffPay": -5.29,
-        "RecaptureAmount": "8126943",
         "EnrollmentChange": "-1.8%",
         "Enrollment": 4099.0,
         "Victories": "",
@@ -19037,7 +19036,8 @@ var DistrictsData = {
         "LocalFunding": 35920698,
         "StateFunding": 5036758,
         "FederalFunding": 4792637,
-        "OtherLocalFunding": 885238
+        "OtherLocalFunding": 885238,
+        "RecaptureAmount": 8220000
     },
     "246913": {
         "NAME": "LEANDER ISD",
@@ -19047,7 +19047,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.48,
         "PercentChangeCentralAdminPay": 41.03,
         "PercentChangeSupportStaffPay": 3.74,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "8.6%",
         "Enrollment": 40355.0,
         "Victories": "",
@@ -19096,7 +19095,8 @@ var DistrictsData = {
         "LocalFunding": 269813709,
         "StateFunding": 68562847,
         "FederalFunding": 24600748,
-        "OtherLocalFunding": 11926493
+        "OtherLocalFunding": 11926493,
+        "RecaptureAmount": 0
     },
     "227912": {
         "NAME": "LAGO VISTA ISD",
@@ -19106,7 +19106,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -24.77,
         "PercentChangeCentralAdminPay": -38.52,
         "PercentChangeSupportStaffPay": -17.51,
-        "RecaptureAmount": "4407927",
         "EnrollmentChange": "13.08%",
         "Enrollment": 1625.0,
         "Victories": "",
@@ -19135,7 +19134,8 @@ var DistrictsData = {
         "LocalFunding": 13759192,
         "StateFunding": 770312,
         "FederalFunding": 1488252,
-        "OtherLocalFunding": 473255
+        "OtherLocalFunding": 473255,
+        "RecaptureAmount": 4456833
     },
     "016901": {
         "NAME": "JOHNSON CITY ISD",
@@ -19145,7 +19145,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 21.22,
         "PercentChangeCentralAdminPay": 8.74,
         "PercentChangeSupportStaffPay": -9.09,
-        "RecaptureAmount": "2599694",
         "EnrollmentChange": "-12.03%",
         "Enrollment": 614.0,
         "Victories": "",
@@ -19182,7 +19181,8 @@ var DistrictsData = {
         "LocalFunding": 6626189,
         "StateFunding": 514031,
         "FederalFunding": 581050,
-        "OtherLocalFunding": 495861
+        "OtherLocalFunding": 495861,
+        "RecaptureAmount": 2709469
     },
     "201914": {
         "NAME": "WEST RUSK COUNTY CONS ISD",
@@ -19192,7 +19192,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 6.13,
         "PercentChangeCentralAdminPay": 23.71,
         "PercentChangeSupportStaffPay": -9.59,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.64%",
         "Enrollment": 1027.0,
         "Victories": "",
@@ -19212,7 +19211,8 @@ var DistrictsData = {
         "LocalFunding": 3210902,
         "StateFunding": 7460728,
         "FederalFunding": 1819302,
-        "OtherLocalFunding": 226726
+        "OtherLocalFunding": 226726,
+        "RecaptureAmount": 0
     },
     "201913": {
         "NAME": "CARLISLE ISD",
@@ -19222,7 +19222,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 9.82,
         "PercentChangeCentralAdminPay": -0.84,
         "PercentChangeSupportStaffPay": -9.47,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.38%",
         "Enrollment": 612.0,
         "Victories": "",
@@ -19251,7 +19250,8 @@ var DistrictsData = {
         "LocalFunding": 1380948,
         "StateFunding": 6631000,
         "FederalFunding": 667166,
-        "OtherLocalFunding": 754760
+        "OtherLocalFunding": 754760,
+        "RecaptureAmount": 0
     },
     "212901": {
         "NAME": "ARP ISD",
@@ -19261,7 +19261,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.12,
         "PercentChangeCentralAdminPay": 2.03,
         "PercentChangeSupportStaffPay": -3.63,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.41%",
         "Enrollment": 876.0,
         "Victories": "",
@@ -19290,7 +19289,8 @@ var DistrictsData = {
         "LocalFunding": 3991239,
         "StateFunding": 5833826,
         "FederalFunding": 1624140,
-        "OtherLocalFunding": 838443
+        "OtherLocalFunding": 838443,
+        "RecaptureAmount": 0
     },
     "037908": {
         "NAME": "NEW SUMMERFIELD ISD",
@@ -19300,7 +19300,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 18.75,
         "PercentChangeCentralAdminPay": -15.57,
         "PercentChangeSupportStaffPay": 2.45,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.29%",
         "Enrollment": 529.0,
         "Victories": "",
@@ -19320,7 +19319,8 @@ var DistrictsData = {
         "LocalFunding": 827945,
         "StateFunding": 5980818,
         "FederalFunding": 1655617,
-        "OtherLocalFunding": 70198
+        "OtherLocalFunding": 70198,
+        "RecaptureAmount": 0
     },
     "212902": {
         "NAME": "BULLARD ISD",
@@ -19330,7 +19330,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.14,
         "PercentChangeCentralAdminPay": -9.46,
         "PercentChangeSupportStaffPay": -11.29,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "7.56%",
         "Enrollment": 2675.0,
         "Victories": "",
@@ -19367,7 +19366,8 @@ var DistrictsData = {
         "LocalFunding": 12779571,
         "StateFunding": 12182886,
         "FederalFunding": 2180554,
-        "OtherLocalFunding": 2267562
+        "OtherLocalFunding": 2267562,
+        "RecaptureAmount": 0
     },
     "212906": {
         "NAME": "WHITEHOUSE ISD",
@@ -19377,7 +19377,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.72,
         "PercentChangeCentralAdminPay": -8.13,
         "PercentChangeSupportStaffPay": -4.88,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.18%",
         "Enrollment": 4818.0,
         "Victories": "",
@@ -19401,7 +19400,8 @@ var DistrictsData = {
         "LocalFunding": 22574882,
         "StateFunding": 19121822,
         "FederalFunding": 4805533,
-        "OtherLocalFunding": 904219
+        "OtherLocalFunding": 904219,
+        "RecaptureAmount": 0
     },
     "107902": {
         "NAME": "BROWNSBORO ISD",
@@ -19411,7 +19411,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.12,
         "PercentChangeCentralAdminPay": 4.03,
         "PercentChangeSupportStaffPay": -7.52,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.56%",
         "Enrollment": 2593.0,
         "Victories": "",
@@ -19444,7 +19443,8 @@ var DistrictsData = {
         "LocalFunding": 7997841,
         "StateFunding": 16958797,
         "FederalFunding": 4682363,
-        "OtherLocalFunding": 556172
+        "OtherLocalFunding": 556172,
+        "RecaptureAmount": 0
     },
     "001904": {
         "NAME": "FRANKSTON ISD",
@@ -19454,7 +19454,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.33,
         "PercentChangeCentralAdminPay": -15.85,
         "PercentChangeSupportStaffPay": -16.77,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.67%",
         "Enrollment": 769.0,
         "Victories": "",
@@ -19483,7 +19482,8 @@ var DistrictsData = {
         "LocalFunding": 2891369,
         "StateFunding": 5715571,
         "FederalFunding": 1105376,
-        "OtherLocalFunding": 103259
+        "OtherLocalFunding": 103259,
+        "RecaptureAmount": 0
     },
     "212904": {
         "NAME": "TROUP ISD",
@@ -19493,7 +19493,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 16.45,
         "PercentChangeCentralAdminPay": 12.55,
         "PercentChangeSupportStaffPay": 4.68,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.83%",
         "Enrollment": 1023.0,
         "Victories": "",
@@ -19517,7 +19516,8 @@ var DistrictsData = {
         "LocalFunding": 4457330,
         "StateFunding": 7025584,
         "FederalFunding": 1572643,
-        "OtherLocalFunding": 309625
+        "OtherLocalFunding": 309625,
+        "RecaptureAmount": 0
     },
     "037904": {
         "NAME": "JACKSONVILLE ISD",
@@ -19527,7 +19527,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.73,
         "PercentChangeCentralAdminPay": 10.6,
         "PercentChangeSupportStaffPay": -1.16,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.28%",
         "Enrollment": 4668.0,
         "Victories": "",
@@ -19552,7 +19551,8 @@ var DistrictsData = {
         "LocalFunding": 13230499,
         "StateFunding": 30819160,
         "FederalFunding": 13098269,
-        "OtherLocalFunding": 1076893
+        "OtherLocalFunding": 1076893,
+        "RecaptureAmount": 0
     },
     "146905": {
         "NAME": "HULL-DAISETTA ISD",
@@ -19562,7 +19562,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -13.87,
         "PercentChangeCentralAdminPay": -6.12,
         "PercentChangeSupportStaffPay": -15.86,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.44%",
         "Enrollment": 461.0,
         "Victories": "",
@@ -19587,7 +19586,8 @@ var DistrictsData = {
         "LocalFunding": 2853895,
         "StateFunding": 4158017,
         "FederalFunding": 1540254,
-        "OtherLocalFunding": 149914
+        "OtherLocalFunding": 149914,
+        "RecaptureAmount": 0
     },
     "146906": {
         "NAME": "LIBERTY ISD",
@@ -19597,7 +19597,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 10.77,
         "PercentChangeCentralAdminPay": 10.97,
         "PercentChangeSupportStaffPay": -0.34,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.86%",
         "Enrollment": 2227.0,
         "Victories": "",
@@ -19622,7 +19621,8 @@ var DistrictsData = {
         "LocalFunding": 10941410,
         "StateFunding": 12104491,
         "FederalFunding": 4797841,
-        "OtherLocalFunding": 2335166
+        "OtherLocalFunding": 2335166,
+        "RecaptureAmount": 0
     },
     "146904": {
         "NAME": "HARDIN ISD",
@@ -19632,7 +19632,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.42,
         "PercentChangeCentralAdminPay": 16.08,
         "PercentChangeSupportStaffPay": -7.21,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-12.44%",
         "Enrollment": 1225.0,
         "Victories": "",
@@ -19657,7 +19656,8 @@ var DistrictsData = {
         "LocalFunding": 4607366,
         "StateFunding": 7194677,
         "FederalFunding": 1727911,
-        "OtherLocalFunding": 148365
+        "OtherLocalFunding": 148365,
+        "RecaptureAmount": 0
     },
     "146903": {
         "NAME": "DEVERS ISD",
@@ -19667,7 +19667,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 9.23,
         "PercentChangeCentralAdminPay": 9.23,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "0",
         "EnrollmentChange": "8.47%",
         "Enrollment": 205.0,
         "Victories": "",
@@ -19692,7 +19691,8 @@ var DistrictsData = {
         "LocalFunding": 2025687,
         "StateFunding": 791155,
         "FederalFunding": 214405,
-        "OtherLocalFunding": 67932
+        "OtherLocalFunding": 67932,
+        "RecaptureAmount": 0
     },
     "100908": {
         "NAME": "WEST HARDIN COUNTY CONS ISD",
@@ -19702,7 +19702,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 11.38,
         "PercentChangeCentralAdminPay": 28.2,
         "PercentChangeSupportStaffPay": 2.0,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.55%",
         "Enrollment": 535.0,
         "Victories": "",
@@ -19722,7 +19721,8 @@ var DistrictsData = {
         "LocalFunding": 2640575,
         "StateFunding": 4359491,
         "FederalFunding": 518364,
-        "OtherLocalFunding": 173413
+        "OtherLocalFunding": 173413,
+        "RecaptureAmount": 0
     },
     "100905": {
         "NAME": "HARDIN-JEFFERSON ISD",
@@ -19732,7 +19732,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.54,
         "PercentChangeCentralAdminPay": -4.52,
         "PercentChangeSupportStaffPay": 6.66,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "10.07%",
         "Enrollment": 2481.0,
         "Victories": "",
@@ -19769,7 +19768,8 @@ var DistrictsData = {
         "LocalFunding": 9719683,
         "StateFunding": 11203979,
         "FederalFunding": 1971225,
-        "OtherLocalFunding": 1000650
+        "OtherLocalFunding": 1000650,
+        "RecaptureAmount": 0
     },
     "161920": {
         "NAME": "CHINA SPRING ISD",
@@ -19779,7 +19779,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.89,
         "PercentChangeCentralAdminPay": 9.5,
         "PercentChangeSupportStaffPay": 4.25,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "10.22%",
         "Enrollment": 2870.0,
         "Victories": "",
@@ -19808,7 +19807,8 @@ var DistrictsData = {
         "LocalFunding": 10381056,
         "StateFunding": 15453200,
         "FederalFunding": 1763658,
-        "OtherLocalFunding": 1197614
+        "OtherLocalFunding": 1197614,
+        "RecaptureAmount": 0
     },
     "126907": {
         "NAME": "RIO VISTA ISD",
@@ -19818,7 +19818,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -14.56,
         "PercentChangeCentralAdminPay": -2.77,
         "PercentChangeSupportStaffPay": 3.72,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "5.91%",
         "Enrollment": 770.0,
         "Victories": "",
@@ -19842,7 +19841,8 @@ var DistrictsData = {
         "LocalFunding": 3521943,
         "StateFunding": 5553179,
         "FederalFunding": 1019561,
-        "OtherLocalFunding": 447577
+        "OtherLocalFunding": 447577,
+        "RecaptureAmount": 0
     },
     "070907": {
         "NAME": "ITALY ISD",
@@ -19852,7 +19852,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -18.05,
         "PercentChangeCentralAdminPay": -17.85,
         "PercentChangeSupportStaffPay": -12.08,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "8.19%",
         "Enrollment": 621.0,
         "Victories": "",
@@ -19877,7 +19876,8 @@ var DistrictsData = {
         "LocalFunding": 1664605,
         "StateFunding": 7419532,
         "FederalFunding": 860591,
-        "OtherLocalFunding": 183701
+        "OtherLocalFunding": 183701,
+        "RecaptureAmount": 0
     },
     "070901": {
         "NAME": "AVALON ISD",
@@ -19887,7 +19887,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -29.3,
         "PercentChangeCentralAdminPay": -9.47,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-12.4%",
         "Enrollment": 332.0,
         "Victories": "",
@@ -19912,7 +19911,8 @@ var DistrictsData = {
         "LocalFunding": 525881,
         "StateFunding": 3888140,
         "FederalFunding": 287648,
-        "OtherLocalFunding": 99885
+        "OtherLocalFunding": 99885,
+        "RecaptureAmount": 0
     },
     "175902": {
         "NAME": "BLOOMING GROVE ISD",
@@ -19922,7 +19922,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -15.69,
         "PercentChangeCentralAdminPay": -5.55,
         "PercentChangeSupportStaffPay": -6.31,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.22%",
         "Enrollment": 897.0,
         "Victories": "",
@@ -19947,7 +19946,8 @@ var DistrictsData = {
         "LocalFunding": 2581396,
         "StateFunding": 7328868,
         "FederalFunding": 975400,
-        "OtherLocalFunding": 254259
+        "OtherLocalFunding": 254259,
+        "RecaptureAmount": 0
     },
     "175905": {
         "NAME": "FROST ISD",
@@ -19957,7 +19957,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -19.17,
         "PercentChangeCentralAdminPay": -6.58,
         "PercentChangeSupportStaffPay": -17.39,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.17%",
         "Enrollment": 434.0,
         "Victories": "",
@@ -19986,7 +19985,8 @@ var DistrictsData = {
         "LocalFunding": 2057384,
         "StateFunding": 3152192,
         "FederalFunding": 458867,
-        "OtherLocalFunding": 84287
+        "OtherLocalFunding": 84287,
+        "RecaptureAmount": 0
     },
     "109907": {
         "NAME": "ITASCA ISD",
@@ -19996,7 +19996,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -15.31,
         "PercentChangeCentralAdminPay": 9.37,
         "PercentChangeSupportStaffPay": -13.46,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.68%",
         "Enrollment": 616.0,
         "Victories": "",
@@ -20021,7 +20020,8 @@ var DistrictsData = {
         "LocalFunding": 2530644,
         "StateFunding": 5334430,
         "FederalFunding": 1239099,
-        "OtherLocalFunding": 174415
+        "OtherLocalFunding": 174415,
+        "RecaptureAmount": 0
     },
     "070909": {
         "NAME": "MILFORD ISD",
@@ -20031,7 +20031,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -13.08,
         "PercentChangeCentralAdminPay": -8.43,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.92%",
         "Enrollment": 245.0,
         "Victories": "",
@@ -20060,7 +20059,8 @@ var DistrictsData = {
         "LocalFunding": 1112563,
         "StateFunding": 2116449,
         "FederalFunding": 407799,
-        "OtherLocalFunding": 39693
+        "OtherLocalFunding": 39693,
+        "RecaptureAmount": 0
     },
     "070915": {
         "NAME": "MAYPEARL ISD",
@@ -20070,7 +20070,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.17,
         "PercentChangeCentralAdminPay": 0.6,
         "PercentChangeSupportStaffPay": -3.95,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "9.22%",
         "Enrollment": 1161.0,
         "Victories": "",
@@ -20095,7 +20094,8 @@ var DistrictsData = {
         "LocalFunding": 4044991,
         "StateFunding": 7369962,
         "FederalFunding": 1230426,
-        "OtherLocalFunding": 333378
+        "OtherLocalFunding": 333378,
+        "RecaptureAmount": 0
     },
     "109903": {
         "NAME": "COVINGTON ISD",
@@ -20105,7 +20105,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 18.48,
         "PercentChangeCentralAdminPay": -3.19,
         "PercentChangeSupportStaffPay": -10.34,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-12.93%",
         "Enrollment": 276.0,
         "Victories": "",
@@ -20130,7 +20129,8 @@ var DistrictsData = {
         "LocalFunding": 1067604,
         "StateFunding": 2729630,
         "FederalFunding": 1229503,
-        "OtherLocalFunding": 3042062
+        "OtherLocalFunding": 3042062,
+        "RecaptureAmount": 0
     },
     "109911": {
         "NAME": "WHITNEY ISD",
@@ -20140,7 +20140,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.08,
         "PercentChangeCentralAdminPay": -11.4,
         "PercentChangeSupportStaffPay": 15.18,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.5%",
         "Enrollment": 1443.0,
         "Victories": "",
@@ -20160,7 +20159,8 @@ var DistrictsData = {
         "LocalFunding": 7436042,
         "StateFunding": 7642675,
         "FederalFunding": 1985804,
-        "OtherLocalFunding": 808122
+        "OtherLocalFunding": 808122,
+        "RecaptureAmount": 0
     },
     "109913": {
         "NAME": "BLUM ISD",
@@ -20170,7 +20170,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.42,
         "PercentChangeCentralAdminPay": 5.35,
         "PercentChangeSupportStaffPay": 23.41,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.67%",
         "Enrollment": 365.0,
         "Victories": "",
@@ -20195,7 +20194,8 @@ var DistrictsData = {
         "LocalFunding": 2180661,
         "StateFunding": 2786107,
         "FederalFunding": 689406,
-        "OtherLocalFunding": 80064
+        "OtherLocalFunding": 80064,
+        "RecaptureAmount": 0
     },
     "018903": {
         "NAME": "MORGAN ISD",
@@ -20205,7 +20205,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": -14.2,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.74%",
         "Enrollment": 136.0,
         "Victories": "",
@@ -20230,7 +20229,8 @@ var DistrictsData = {
         "LocalFunding": 692789,
         "StateFunding": 1301333,
         "FederalFunding": 334352,
-        "OtherLocalFunding": 71228
+        "OtherLocalFunding": 71228,
+        "RecaptureAmount": 0
     },
     "018902": {
         "NAME": "MERIDIAN ISD",
@@ -20240,7 +20240,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -17.55,
         "PercentChangeCentralAdminPay": -16.55,
         "PercentChangeSupportStaffPay": -1.58,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-12.18%",
         "Enrollment": 418.0,
         "Victories": "",
@@ -20265,7 +20264,8 @@ var DistrictsData = {
         "LocalFunding": 2054553,
         "StateFunding": 3107235,
         "FederalFunding": 1230571,
-        "OtherLocalFunding": 938081
+        "OtherLocalFunding": 938081,
+        "RecaptureAmount": 0
     },
     "175904": {
         "NAME": "DAWSON ISD (NAVARRO)",
@@ -20275,7 +20275,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.56,
         "PercentChangeCentralAdminPay": -40.13,
         "PercentChangeSupportStaffPay": -2.7,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.3%",
         "Enrollment": 509.0,
         "Victories": "",
@@ -20300,7 +20299,8 @@ var DistrictsData = {
         "LocalFunding": 1893303,
         "StateFunding": 4478381,
         "FederalFunding": 1133767,
-        "OtherLocalFunding": 697971
+        "OtherLocalFunding": 697971,
+        "RecaptureAmount": 0
     },
     "109908": {
         "NAME": "MALONE ISD",
@@ -20310,7 +20310,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 38.72,
         "PercentChangeCentralAdminPay": 68.2,
         "PercentChangeSupportStaffPay": 60.88,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "46.02%",
         "Enrollment": 165.0,
         "Victories": "",
@@ -20335,7 +20334,8 @@ var DistrictsData = {
         "LocalFunding": 584512,
         "StateFunding": 1760510,
         "FederalFunding": 302361,
-        "OtherLocalFunding": 67947
+        "OtherLocalFunding": 67947,
+        "RecaptureAmount": 0
     },
     "147901": {
         "NAME": "COOLIDGE ISD",
@@ -20345,7 +20345,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -14.38,
         "PercentChangeCentralAdminPay": -13.57,
         "PercentChangeSupportStaffPay": 20.85,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.31%",
         "Enrollment": 309.0,
         "Victories": "",
@@ -20370,7 +20369,8 @@ var DistrictsData = {
         "LocalFunding": 579772,
         "StateFunding": 3693043,
         "FederalFunding": 1003292,
-        "OtherLocalFunding": 184268
+        "OtherLocalFunding": 184268,
+        "RecaptureAmount": 0
     },
     "109905": {
         "NAME": "HUBBARD ISD (HILL)",
@@ -20380,7 +20380,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.09,
         "PercentChangeCentralAdminPay": 3.55,
         "PercentChangeSupportStaffPay": -10.92,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "13.04%",
         "Enrollment": 416.0,
         "Victories": "",
@@ -20413,7 +20412,8 @@ var DistrictsData = {
         "LocalFunding": 1125146,
         "StateFunding": 4064636,
         "FederalFunding": 646250,
-        "OtherLocalFunding": 262831
+        "OtherLocalFunding": 262831,
+        "RecaptureAmount": 0
     },
     "109902": {
         "NAME": "BYNUM ISD",
@@ -20423,7 +20423,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 28.47,
         "PercentChangeCentralAdminPay": 15.22,
         "PercentChangeSupportStaffPay": 36.02,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.02%",
         "Enrollment": 195.0,
         "Victories": "",
@@ -20448,7 +20447,8 @@ var DistrictsData = {
         "LocalFunding": 1056780,
         "StateFunding": 1905161,
         "FederalFunding": 222719,
-        "OtherLocalFunding": 87891
+        "OtherLocalFunding": 87891,
+        "RecaptureAmount": 0
     },
     "109904": {
         "NAME": "HILLSBORO ISD",
@@ -20458,7 +20458,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.38,
         "PercentChangeCentralAdminPay": -1.96,
         "PercentChangeSupportStaffPay": -0.99,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.15%",
         "Enrollment": 1876.0,
         "Victories": "",
@@ -20483,7 +20482,8 @@ var DistrictsData = {
         "LocalFunding": 7975987,
         "StateFunding": 11569407,
         "FederalFunding": 2905152,
-        "OtherLocalFunding": 870648
+        "OtherLocalFunding": 870648,
+        "RecaptureAmount": 0
     },
     "069901": {
         "NAME": "ROCKSPRINGS ISD",
@@ -20493,7 +20493,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.33,
         "PercentChangeCentralAdminPay": 8.57,
         "PercentChangeSupportStaffPay": 55.77,
-        "RecaptureAmount": "1953545",
         "EnrollmentChange": "1.5%",
         "Enrollment": 270.0,
         "Victories": "",
@@ -20522,7 +20521,8 @@ var DistrictsData = {
         "LocalFunding": 3430577,
         "StateFunding": 1406728,
         "FederalFunding": 581697,
-        "OtherLocalFunding": 194728
+        "OtherLocalFunding": 194728,
+        "RecaptureAmount": 2039992
     },
     "193902": {
         "NAME": "LEAKEY ISD",
@@ -20532,7 +20532,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 9.54,
         "PercentChangeCentralAdminPay": -11.38,
         "PercentChangeSupportStaffPay": -23.73,
-        "RecaptureAmount": "655936",
         "EnrollmentChange": "6.32%",
         "Enrollment": 286.0,
         "Victories": "",
@@ -20561,7 +20560,8 @@ var DistrictsData = {
         "LocalFunding": 3518649,
         "StateFunding": 226797,
         "FederalFunding": 412922,
-        "OtherLocalFunding": 254695
+        "OtherLocalFunding": 254695,
+        "RecaptureAmount": 699467
     },
     "086024": {
         "NAME": "DOSS CONS CSD",
@@ -20571,7 +20571,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 92.08,
         "PercentChangeCentralAdminPay": "N/A",
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "((<20 + <10 - 12.0) / (12.0))%",
         "Enrollment": "<20 + <10",
         "Victories": "",
@@ -20604,7 +20603,8 @@ var DistrictsData = {
         "LocalFunding": 552374,
         "StateFunding": 254522,
         "FederalFunding": 21731,
-        "OtherLocalFunding": 37087
+        "OtherLocalFunding": 37087,
+        "RecaptureAmount": 0
     },
     "134901": {
         "NAME": "JUNCTION ISD",
@@ -20614,7 +20614,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -14.91,
         "PercentChangeCentralAdminPay": 27.59,
         "PercentChangeSupportStaffPay": 8.5,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.99%",
         "Enrollment": 599.0,
         "Victories": "",
@@ -20639,7 +20638,8 @@ var DistrictsData = {
         "LocalFunding": 4697450,
         "StateFunding": 2784973,
         "FederalFunding": 1336582,
-        "OtherLocalFunding": 571344
+        "OtherLocalFunding": 571344,
+        "RecaptureAmount": 0
     },
     "133905": {
         "NAME": "DIVIDE ISD",
@@ -20649,7 +20649,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": 32.19,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "61864",
         "EnrollmentChange": "15.79%",
         "Enrollment": 22.0,
         "Victories": "",
@@ -20674,7 +20673,8 @@ var DistrictsData = {
         "LocalFunding": 574774,
         "StateFunding": 15159,
         "FederalFunding": 0,
-        "OtherLocalFunding": 52848
+        "OtherLocalFunding": 52848,
+        "RecaptureAmount": 101118
     },
     "133903": {
         "NAME": "KERRVILLE ISD",
@@ -20684,7 +20684,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.32,
         "PercentChangeCentralAdminPay": -28.85,
         "PercentChangeSupportStaffPay": -15.04,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.84%",
         "Enrollment": 4781.0,
         "Victories": "",
@@ -20709,7 +20708,8 @@ var DistrictsData = {
         "LocalFunding": 28645650,
         "StateFunding": 11985398,
         "FederalFunding": 8709256,
-        "OtherLocalFunding": 2098364
+        "OtherLocalFunding": 2098364,
+        "RecaptureAmount": 0
     },
     "086902": {
         "NAME": "HARPER ISD",
@@ -20719,7 +20719,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.35,
         "PercentChangeCentralAdminPay": -32.28,
         "PercentChangeSupportStaffPay": 8.82,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-10.65%",
         "Enrollment": 554.0,
         "Victories": "",
@@ -20752,7 +20751,8 @@ var DistrictsData = {
         "LocalFunding": 4943327,
         "StateFunding": 1449531,
         "FederalFunding": 405530,
-        "OtherLocalFunding": 235593
+        "OtherLocalFunding": 235593,
+        "RecaptureAmount": 0
     },
     "086901": {
         "NAME": "FREDERICKSBURG ISD",
@@ -20762,7 +20762,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.01,
         "PercentChangeCentralAdminPay": 10.92,
         "PercentChangeSupportStaffPay": 2.97,
-        "RecaptureAmount": "16004679",
         "EnrollmentChange": "-1.18%",
         "Enrollment": 3101.0,
         "Victories": "",
@@ -20795,7 +20794,8 @@ var DistrictsData = {
         "LocalFunding": 25691509,
         "StateFunding": 4237504,
         "FederalFunding": 6226122,
-        "OtherLocalFunding": 2876757
+        "OtherLocalFunding": 2876757,
+        "RecaptureAmount": 16004619
     },
     "133904": {
         "NAME": "INGRAM ISD",
@@ -20805,7 +20805,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.61,
         "PercentChangeCentralAdminPay": 46.17,
         "PercentChangeSupportStaffPay": 9.02,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.13%",
         "Enrollment": 1102.0,
         "Victories": "",
@@ -20830,7 +20829,8 @@ var DistrictsData = {
         "LocalFunding": 6026325,
         "StateFunding": 6189218,
         "FederalFunding": 2811811,
-        "OtherLocalFunding": 547156
+        "OtherLocalFunding": 547156,
+        "RecaptureAmount": 0
     },
     "133902": {
         "NAME": "HUNT ISD",
@@ -20840,7 +20840,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.31,
         "PercentChangeCentralAdminPay": 27.48,
         "PercentChangeSupportStaffPay": 9.64,
-        "RecaptureAmount": "2127870",
         "EnrollmentChange": "16.46%",
         "Enrollment": 184.0,
         "Victories": "",
@@ -20865,7 +20864,8 @@ var DistrictsData = {
         "LocalFunding": 2313101,
         "StateFunding": 109769,
         "FederalFunding": 261306,
-        "OtherLocalFunding": 169508
+        "OtherLocalFunding": 169508,
+        "RecaptureAmount": 2182129
     },
     "130902": {
         "NAME": "COMFORT ISD",
@@ -20875,7 +20875,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.25,
         "PercentChangeCentralAdminPay": 22.41,
         "PercentChangeSupportStaffPay": 3.64,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-4.49%",
         "Enrollment": 1064.0,
         "Victories": "",
@@ -20908,7 +20907,8 @@ var DistrictsData = {
         "LocalFunding": 9005426,
         "StateFunding": 2780228,
         "FederalFunding": 1291038,
-        "OtherLocalFunding": 438633
+        "OtherLocalFunding": 438633,
+        "RecaptureAmount": 0
     },
     "133901": {
         "NAME": "CENTER POINT ISD",
@@ -20918,7 +20918,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -17.57,
         "PercentChangeCentralAdminPay": 16.97,
         "PercentChangeSupportStaffPay": -12.81,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.15%",
         "Enrollment": 534.0,
         "Victories": "",
@@ -20943,7 +20942,8 @@ var DistrictsData = {
         "LocalFunding": 3585664,
         "StateFunding": 2988959,
         "FederalFunding": 1506467,
-        "OtherLocalFunding": 145941
+        "OtherLocalFunding": 145941,
+        "RecaptureAmount": 0
     },
     "140905": {
         "NAME": "OLTON ISD",
@@ -20953,7 +20953,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 11.17,
         "PercentChangeCentralAdminPay": 14.13,
         "PercentChangeSupportStaffPay": -3.09,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-5.1%",
         "Enrollment": 596.0,
         "Victories": "",
@@ -20973,7 +20972,8 @@ var DistrictsData = {
         "LocalFunding": 1429007,
         "StateFunding": 5807693,
         "FederalFunding": 1424791,
-        "OtherLocalFunding": 229240
+        "OtherLocalFunding": 229240,
+        "RecaptureAmount": 0
     },
     "095903": {
         "NAME": "HALE CENTER ISD",
@@ -20983,7 +20983,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.48,
         "PercentChangeCentralAdminPay": 29.09,
         "PercentChangeSupportStaffPay": 13.41,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.8%",
         "Enrollment": 618.0,
         "Victories": "",
@@ -21008,7 +21007,8 @@ var DistrictsData = {
         "LocalFunding": 1043449,
         "StateFunding": 6369029,
         "FederalFunding": 1265263,
-        "OtherLocalFunding": 190388
+        "OtherLocalFunding": 190388,
+        "RecaptureAmount": 0
     },
     "095902": {
         "NAME": "COTTON CENTER ISD",
@@ -21018,7 +21018,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.1,
         "PercentChangeCentralAdminPay": -2.31,
         "PercentChangeSupportStaffPay": 15.07,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.43%",
         "Enrollment": 96.0,
         "Victories": "",
@@ -21043,7 +21042,8 @@ var DistrictsData = {
         "LocalFunding": 413465,
         "StateFunding": 1012110,
         "FederalFunding": 221197,
-        "OtherLocalFunding": 61191
+        "OtherLocalFunding": 61191,
+        "RecaptureAmount": 0
     },
     "110901": {
         "NAME": "ANTON ISD",
@@ -21053,7 +21053,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.67,
         "PercentChangeCentralAdminPay": -5.24,
         "PercentChangeSupportStaffPay": 28.55,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-23.97%",
         "Enrollment": 184.0,
         "Victories": "",
@@ -21078,7 +21077,8 @@ var DistrictsData = {
         "LocalFunding": 704723,
         "StateFunding": 1715100,
         "FederalFunding": 484311,
-        "OtherLocalFunding": 53276
+        "OtherLocalFunding": 53276,
+        "RecaptureAmount": 0
     },
     "110905": {
         "NAME": "ROPES ISD",
@@ -21088,7 +21088,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.1,
         "PercentChangeCentralAdminPay": 54.0,
         "PercentChangeSupportStaffPay": -4.4,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "38.08%",
         "Enrollment": 475.0,
         "Victories": "",
@@ -21112,7 +21111,8 @@ var DistrictsData = {
         "LocalFunding": 1212696,
         "StateFunding": 4500549,
         "FederalFunding": 461326,
-        "OtherLocalFunding": 232151
+        "OtherLocalFunding": 232151,
+        "RecaptureAmount": 0
     },
     "095901": {
         "NAME": "ABERNATHY ISD",
@@ -21122,7 +21122,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.24,
         "PercentChangeCentralAdminPay": 15.95,
         "PercentChangeSupportStaffPay": 9.79,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.85%",
         "Enrollment": 810.0,
         "Victories": "",
@@ -21151,7 +21150,8 @@ var DistrictsData = {
         "LocalFunding": 5470486,
         "StateFunding": 3910121,
         "FederalFunding": 888895,
-        "OtherLocalFunding": 324947
+        "OtherLocalFunding": 324947,
+        "RecaptureAmount": 0
     },
     "095904": {
         "NAME": "PETERSBURG ISD",
@@ -21161,7 +21161,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.16,
         "PercentChangeCentralAdminPay": -11.39,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "10.23%",
         "Enrollment": 291.0,
         "Victories": "",
@@ -21185,7 +21184,8 @@ var DistrictsData = {
         "LocalFunding": 1057833,
         "StateFunding": 2948964,
         "FederalFunding": 637917,
-        "OtherLocalFunding": 58729
+        "OtherLocalFunding": 58729,
+        "RecaptureAmount": 0
     },
     "153905": {
         "NAME": "NEW HOME ISD",
@@ -21195,7 +21195,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.61,
         "PercentChangeCentralAdminPay": 14.23,
         "PercentChangeSupportStaffPay": 24.81,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "53.74%",
         "Enrollment": 575.0,
         "Victories": "",
@@ -21215,7 +21214,8 @@ var DistrictsData = {
         "LocalFunding": 1302474,
         "StateFunding": 4833293,
         "FederalFunding": 259961,
-        "OtherLocalFunding": 236225
+        "OtherLocalFunding": 236225,
+        "RecaptureAmount": 0
     },
     "152909": {
         "NAME": "SHALLOWATER ISD",
@@ -21225,7 +21225,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.77,
         "PercentChangeCentralAdminPay": -3.93,
         "PercentChangeSupportStaffPay": -8.48,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.7%",
         "Enrollment": 1682.0,
         "Victories": "",
@@ -21245,7 +21244,8 @@ var DistrictsData = {
         "LocalFunding": 4001934,
         "StateFunding": 11385764,
         "FederalFunding": 2840985,
-        "OtherLocalFunding": 2193684
+        "OtherLocalFunding": 2193684,
+        "RecaptureAmount": 0
     },
     "152902": {
         "NAME": "NEW DEAL ISD",
@@ -21255,7 +21255,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.33,
         "PercentChangeCentralAdminPay": 33.04,
         "PercentChangeSupportStaffPay": -7.9,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "5.16%",
         "Enrollment": 754.0,
         "Victories": "",
@@ -21275,7 +21274,8 @@ var DistrictsData = {
         "LocalFunding": 4189629,
         "StateFunding": 4680309,
         "FederalFunding": 1417199,
-        "OtherLocalFunding": 108145
+        "OtherLocalFunding": 108145,
+        "RecaptureAmount": 0
     },
     "152907": {
         "NAME": "FRENSHIP ISD",
@@ -21285,7 +21285,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.98,
         "PercentChangeCentralAdminPay": -18.22,
         "PercentChangeSupportStaffPay": 4.1,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "12.86%",
         "Enrollment": 10353.0,
         "Victories": "",
@@ -21318,7 +21317,8 @@ var DistrictsData = {
         "LocalFunding": 45137539,
         "StateFunding": 43100620,
         "FederalFunding": 7827372,
-        "OtherLocalFunding": 3471581
+        "OtherLocalFunding": 3471581,
+        "RecaptureAmount": 0
     },
     "152901": {
         "NAME": "LUBBOCK ISD",
@@ -21328,7 +21328,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.56,
         "PercentChangeCentralAdminPay": -17.99,
         "PercentChangeSupportStaffPay": -10.34,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.54%",
         "Enrollment": 26451.0,
         "Victories": "",
@@ -21352,7 +21351,8 @@ var DistrictsData = {
         "LocalFunding": 114437415,
         "StateFunding": 130190209,
         "FederalFunding": 60361414,
-        "OtherLocalFunding": 17028534
+        "OtherLocalFunding": 17028534,
+        "RecaptureAmount": 0
     },
     "152910": {
         "NAME": "IDALOU ISD",
@@ -21362,7 +21362,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.75,
         "PercentChangeCentralAdminPay": 12.22,
         "PercentChangeSupportStaffPay": -6.88,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.28%",
         "Enrollment": 961.0,
         "Victories": "",
@@ -21387,7 +21386,8 @@ var DistrictsData = {
         "LocalFunding": 3284217,
         "StateFunding": 7363588,
         "FederalFunding": 693710,
-        "OtherLocalFunding": 499706
+        "OtherLocalFunding": 499706,
+        "RecaptureAmount": 0
     },
     "085903": {
         "NAME": "SOUTHLAND ISD",
@@ -21397,7 +21397,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -19.15,
         "PercentChangeCentralAdminPay": -0.96,
         "PercentChangeSupportStaffPay": -33.38,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-25.0%",
         "Enrollment": 117.0,
         "Victories": "",
@@ -21421,7 +21420,8 @@ var DistrictsData = {
         "LocalFunding": 2153255,
         "StateFunding": 1337978,
         "FederalFunding": 198682,
-        "OtherLocalFunding": 134405
+        "OtherLocalFunding": 134405,
+        "RecaptureAmount": 0
     },
     "152908": {
         "NAME": "ROOSEVELT ISD",
@@ -21431,7 +21431,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.98,
         "PercentChangeCentralAdminPay": -4.08,
         "PercentChangeSupportStaffPay": 10.68,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.54%",
         "Enrollment": 1014.0,
         "Victories": "",
@@ -21455,7 +21454,8 @@ var DistrictsData = {
         "LocalFunding": 2775415,
         "StateFunding": 8690583,
         "FederalFunding": 3690350,
-        "OtherLocalFunding": 573432
+        "OtherLocalFunding": 573432,
+        "RecaptureAmount": 0
     },
     "054902": {
         "NAME": "LORENZO ISD",
@@ -21465,7 +21465,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.48,
         "PercentChangeCentralAdminPay": -10.73,
         "PercentChangeSupportStaffPay": 30.8,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-23.15%",
         "Enrollment": 229.0,
         "Victories": "",
@@ -21489,7 +21488,8 @@ var DistrictsData = {
         "LocalFunding": 1818209,
         "StateFunding": 928010,
         "FederalFunding": 1190924,
-        "OtherLocalFunding": 871746
+        "OtherLocalFunding": 871746,
+        "RecaptureAmount": 0
     },
     "152906": {
         "NAME": "LUBBOCK-COOPER ISD",
@@ -21499,7 +21499,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.66,
         "PercentChangeCentralAdminPay": 11.66,
         "PercentChangeSupportStaffPay": -2.85,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "22.29%",
         "Enrollment": 7115.0,
         "Victories": "",
@@ -21523,7 +21522,8 @@ var DistrictsData = {
         "LocalFunding": 34889825,
         "StateFunding": 25239254,
         "FederalFunding": 5674967,
-        "OtherLocalFunding": 3163922
+        "OtherLocalFunding": 3163922,
+        "RecaptureAmount": 0
     },
     "024901": {
         "NAME": "BROOKS COUNTY ISD",
@@ -21533,7 +21533,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.84,
         "PercentChangeCentralAdminPay": 11.91,
         "PercentChangeSupportStaffPay": 6.79,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.74%",
         "Enrollment": 1438.0,
         "Victories": "",
@@ -21558,7 +21557,8 @@ var DistrictsData = {
         "LocalFunding": 5416447,
         "StateFunding": 10748518,
         "FederalFunding": 8337765,
-        "OtherLocalFunding": 375884
+        "OtherLocalFunding": 375884,
+        "RecaptureAmount": 0
     },
     "214902": {
         "NAME": "SAN ISIDRO ISD",
@@ -21568,7 +21568,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -17.85,
         "PercentChangeCentralAdminPay": -14.31,
         "PercentChangeSupportStaffPay": -16.62,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-20.88%",
         "Enrollment": 197.0,
         "Victories": "",
@@ -21593,7 +21592,8 @@ var DistrictsData = {
         "LocalFunding": 1631306,
         "StateFunding": 1367530,
         "FederalFunding": 564066,
-        "OtherLocalFunding": 118065
+        "OtherLocalFunding": 118065,
+        "RecaptureAmount": 0
     },
     "108908": {
         "NAME": "MISSION CONS ISD",
@@ -21603,7 +21603,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.61,
         "PercentChangeCentralAdminPay": 1.43,
         "PercentChangeSupportStaffPay": -3.26,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.57%",
         "Enrollment": 15044.0,
         "Victories": "",
@@ -21636,7 +21635,8 @@ var DistrictsData = {
         "LocalFunding": 24940535,
         "StateFunding": 124411785,
         "FederalFunding": 34114605,
-        "OtherLocalFunding": 1033998
+        "OtherLocalFunding": 1033998,
+        "RecaptureAmount": 0
     },
     "108906": {
         "NAME": "MCALLEN ISD",
@@ -21646,7 +21646,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.01,
         "PercentChangeCentralAdminPay": 4.58,
         "PercentChangeSupportStaffPay": -5.41,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-11.21%",
         "Enrollment": 21602.0,
         "Victories": "",
@@ -21683,7 +21682,8 @@ var DistrictsData = {
         "LocalFunding": 82428876,
         "StateFunding": 130142563,
         "FederalFunding": 47140265,
-        "OtherLocalFunding": 4275930
+        "OtherLocalFunding": 4275930,
+        "RecaptureAmount": 0
     },
     "108916": {
         "NAME": "VALLEY VIEW ISD (HIDALGO)",
@@ -21693,7 +21693,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.95,
         "PercentChangeCentralAdminPay": 19.62,
         "PercentChangeSupportStaffPay": 2.44,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.66%",
         "Enrollment": 4132.0,
         "Victories": "",
@@ -21726,7 +21725,8 @@ var DistrictsData = {
         "LocalFunding": 7631838,
         "StateFunding": 35828343,
         "FederalFunding": 9924902,
-        "OtherLocalFunding": 124938
+        "OtherLocalFunding": 124938,
+        "RecaptureAmount": 0
     },
     "108911": {
         "NAME": "SHARYLAND ISD",
@@ -21736,7 +21736,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -16.4,
         "PercentChangeCentralAdminPay": -11.75,
         "PercentChangeSupportStaffPay": -1.61,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.87%",
         "Enrollment": 9765.0,
         "Victories": "",
@@ -21773,7 +21772,8 @@ var DistrictsData = {
         "LocalFunding": 37196406,
         "StateFunding": 57651934,
         "FederalFunding": 18469254,
-        "OtherLocalFunding": 1343729
+        "OtherLocalFunding": 1343729,
+        "RecaptureAmount": 0
     },
     "108909": {
         "NAME": "PHARR-SAN JUAN-ALAMO ISD",
@@ -21783,7 +21783,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.72,
         "PercentChangeCentralAdminPay": 13.73,
         "PercentChangeSupportStaffPay": 1.36,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.23%",
         "Enrollment": 31234.0,
         "Victories": "<div>In 2022, PSJA AFT members fought for and WON:<ul><li>3% pay raise for all employees</li><li>$4,500 retention stipend for all employees</ul></li></div>",
@@ -21824,7 +21823,8 @@ var DistrictsData = {
         "LocalFunding": 55400591,
         "StateFunding": 264549180,
         "FederalFunding": 110472734,
-        "OtherLocalFunding": 1843086
+        "OtherLocalFunding": 1843086,
+        "RecaptureAmount": 0
     },
     "108905": {
         "NAME": "HIDALGO ISD",
@@ -21834,7 +21834,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.59,
         "PercentChangeCentralAdminPay": -8.04,
         "PercentChangeSupportStaffPay": -11.95,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.32%",
         "Enrollment": 2996.0,
         "Victories": "",
@@ -21867,7 +21866,8 @@ var DistrictsData = {
         "LocalFunding": 6109130,
         "StateFunding": 27091942,
         "FederalFunding": 10754096,
-        "OtherLocalFunding": 162097
+        "OtherLocalFunding": 162097,
+        "RecaptureAmount": 0
     },
     "108904": {
         "NAME": "EDINBURG CONS ISD",
@@ -21877,7 +21877,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.01,
         "PercentChangeCentralAdminPay": -7.75,
         "PercentChangeSupportStaffPay": -0.82,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-5.13%",
         "Enrollment": 32797.0,
         "Victories": "<div>In 2022, Edinburg AFT members fought for and WON:<ul><li>4.1% pay raise for teachers\n- 4% pay raise for all other staff</ul></li></div>",
@@ -21914,7 +21913,8 @@ var DistrictsData = {
         "LocalFunding": 79137616,
         "StateFunding": 255571724,
         "FederalFunding": 69035726,
-        "OtherLocalFunding": 3276566
+        "OtherLocalFunding": 3276566,
+        "RecaptureAmount": 0
     },
     "108903": {
         "NAME": "EDCOUCH-ELSA ISD",
@@ -21924,7 +21924,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.78,
         "PercentChangeCentralAdminPay": -14.93,
         "PercentChangeSupportStaffPay": -5.44,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-11.63%",
         "Enrollment": 4538.0,
         "Victories": "",
@@ -21953,7 +21952,8 @@ var DistrictsData = {
         "LocalFunding": 4206840,
         "StateFunding": 42250482,
         "FederalFunding": 16427484,
-        "OtherLocalFunding": 2777179
+        "OtherLocalFunding": 2777179,
+        "RecaptureAmount": 0
     },
     "108910": {
         "NAME": "PROGRESO ISD",
@@ -21963,7 +21963,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.43,
         "PercentChangeCentralAdminPay": -26.69,
         "PercentChangeSupportStaffPay": -1.3,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-22.5%",
         "Enrollment": 1533.0,
         "Victories": "",
@@ -21988,7 +21987,8 @@ var DistrictsData = {
         "LocalFunding": 1817329,
         "StateFunding": 14123608,
         "FederalFunding": 5067133,
-        "OtherLocalFunding": 107611
+        "OtherLocalFunding": 107611,
+        "RecaptureAmount": 0
     },
     "108913": {
         "NAME": "WESLACO ISD",
@@ -21998,7 +21998,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.08,
         "PercentChangeCentralAdminPay": -2.36,
         "PercentChangeSupportStaffPay": -4.09,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.94%",
         "Enrollment": 16571.0,
         "Victories": "",
@@ -22031,7 +22030,8 @@ var DistrictsData = {
         "LocalFunding": 26534476,
         "StateFunding": 134877890,
         "FederalFunding": 37566359,
-        "OtherLocalFunding": 498064
+        "OtherLocalFunding": 498064,
+        "RecaptureAmount": 0
     },
     "108902": {
         "NAME": "DONNA ISD",
@@ -22041,7 +22041,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.2,
         "PercentChangeCentralAdminPay": -2.31,
         "PercentChangeSupportStaffPay": -8.23,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.66%",
         "Enrollment": 13853.0,
         "Victories": "",
@@ -22070,7 +22069,8 @@ var DistrictsData = {
         "LocalFunding": 17623780,
         "StateFunding": 132079878,
         "FederalFunding": 39186659,
-        "OtherLocalFunding": 1755249
+        "OtherLocalFunding": 1755249,
+        "RecaptureAmount": 0
     },
     "205906": {
         "NAME": "SINTON ISD",
@@ -22080,7 +22080,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.61,
         "PercentChangeCentralAdminPay": -5.26,
         "PercentChangeSupportStaffPay": 17.64,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.34%",
         "Enrollment": 2074.0,
         "Victories": "",
@@ -22105,7 +22104,8 @@ var DistrictsData = {
         "LocalFunding": 8023724,
         "StateFunding": 15914810,
         "FederalFunding": 4867329,
-        "OtherLocalFunding": 500848
+        "OtherLocalFunding": 500848,
+        "RecaptureAmount": 0
     },
     "109910": {
         "NAME": "MOUNT CALM ISD",
@@ -22115,7 +22115,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 99.86,
         "PercentChangeCentralAdminPay": 19.54,
         "PercentChangeSupportStaffPay": -1803310.75,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.22%",
         "Enrollment": 184.0,
         "Victories": "",
@@ -22148,7 +22147,8 @@ var DistrictsData = {
         "LocalFunding": 408644,
         "StateFunding": 2235073,
         "FederalFunding": 372634,
-        "OtherLocalFunding": 93600
+        "OtherLocalFunding": 93600,
+        "RecaptureAmount": 0
     },
     "161918": {
         "NAME": "AXTELL ISD",
@@ -22158,7 +22158,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 29.46,
         "PercentChangeCentralAdminPay": -10.88,
         "PercentChangeSupportStaffPay": -14.25,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.65%",
         "Enrollment": 772.0,
         "Victories": "",
@@ -22191,7 +22190,8 @@ var DistrictsData = {
         "LocalFunding": 1761553,
         "StateFunding": 8052151,
         "FederalFunding": 1334264,
-        "OtherLocalFunding": 242525
+        "OtherLocalFunding": 242525,
+        "RecaptureAmount": 0
     },
     "161906": {
         "NAME": "LA VEGA ISD",
@@ -22201,7 +22201,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.33,
         "PercentChangeCentralAdminPay": 9.53,
         "PercentChangeSupportStaffPay": 0.9,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.19%",
         "Enrollment": 3069.0,
         "Victories": "",
@@ -22230,7 +22229,8 @@ var DistrictsData = {
         "LocalFunding": 10862097,
         "StateFunding": 19851922,
         "FederalFunding": 4479816,
-        "OtherLocalFunding": 656418
+        "OtherLocalFunding": 656418,
+        "RecaptureAmount": 0
     },
     "161921": {
         "NAME": "CONNALLY ISD",
@@ -22240,7 +22240,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 23.43,
         "PercentChangeCentralAdminPay": 60.8,
         "PercentChangeSupportStaffPay": 8.75,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.47%",
         "Enrollment": 2342.0,
         "Victories": "",
@@ -22269,7 +22268,8 @@ var DistrictsData = {
         "LocalFunding": 8660802,
         "StateFunding": 15136462,
         "FederalFunding": 4362593,
-        "OtherLocalFunding": 549714
+        "OtherLocalFunding": 549714,
+        "RecaptureAmount": 0
     },
     "109914": {
         "NAME": "PENELOPE ISD",
@@ -22279,7 +22279,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 13.68,
         "PercentChangeCentralAdminPay": 7.29,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "12.83%",
         "Enrollment": 211.0,
         "Victories": "",
@@ -22304,7 +22303,8 @@ var DistrictsData = {
         "LocalFunding": 388511,
         "StateFunding": 2371500,
         "FederalFunding": 203602,
-        "OtherLocalFunding": 115747
+        "OtherLocalFunding": 115747,
+        "RecaptureAmount": 0
     },
     "109901": {
         "NAME": "ABBOTT ISD",
@@ -22314,7 +22314,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.69,
         "PercentChangeCentralAdminPay": -2.96,
         "PercentChangeSupportStaffPay": -30.94,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.48%",
         "Enrollment": 274.0,
         "Victories": "",
@@ -22339,7 +22338,8 @@ var DistrictsData = {
         "LocalFunding": 1057494,
         "StateFunding": 2345211,
         "FederalFunding": 172951,
-        "OtherLocalFunding": 238182
+        "OtherLocalFunding": 238182,
+        "RecaptureAmount": 0
     },
     "161925": {
         "NAME": "GHOLSON ISD",
@@ -22349,7 +22349,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -24.47,
         "PercentChangeCentralAdminPay": -28.19,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-11.74%",
         "Enrollment": 218.0,
         "Victories": "",
@@ -22374,7 +22373,8 @@ var DistrictsData = {
         "LocalFunding": 640067,
         "StateFunding": 2203861,
         "FederalFunding": 263038,
-        "OtherLocalFunding": 49425
+        "OtherLocalFunding": 49425,
+        "RecaptureAmount": 0
     },
     "225907": {
         "NAME": "HARTS BLUFF ISD",
@@ -22384,7 +22384,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.09,
         "PercentChangeCentralAdminPay": 40.83,
         "PercentChangeSupportStaffPay": 35.5,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "23.02%",
         "Enrollment": 700.0,
         "Victories": "",
@@ -22409,7 +22408,8 @@ var DistrictsData = {
         "LocalFunding": 1763270,
         "StateFunding": 6480562,
         "FederalFunding": 1399859,
-        "OtherLocalFunding": 102133
+        "OtherLocalFunding": 102133,
+        "RecaptureAmount": 0
     },
     "194903": {
         "NAME": "RIVERCREST ISD",
@@ -22419,7 +22419,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.02,
         "PercentChangeCentralAdminPay": 20.95,
         "PercentChangeSupportStaffPay": 8.54,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.15%",
         "Enrollment": 657.0,
         "Victories": "",
@@ -22443,7 +22442,8 @@ var DistrictsData = {
         "LocalFunding": 2629998,
         "StateFunding": 5970749,
         "FederalFunding": 800232,
-        "OtherLocalFunding": 222688
+        "OtherLocalFunding": 222688,
+        "RecaptureAmount": 0
     },
     "194904": {
         "NAME": "CLARKSVILLE ISD",
@@ -22453,7 +22453,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.98,
         "PercentChangeCentralAdminPay": -13.86,
         "PercentChangeSupportStaffPay": -8.05,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.9%",
         "Enrollment": 481.0,
         "Victories": "",
@@ -22478,7 +22477,8 @@ var DistrictsData = {
         "LocalFunding": 2552682,
         "StateFunding": 3934803,
         "FederalFunding": 1343263,
-        "OtherLocalFunding": 93567
+        "OtherLocalFunding": 93567,
+        "RecaptureAmount": 0
     },
     "057912": {
         "NAME": "IRVING ISD",
@@ -22488,7 +22488,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.47,
         "PercentChangeCentralAdminPay": -11.81,
         "PercentChangeSupportStaffPay": -5.12,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.43%",
         "Enrollment": 32682.0,
         "Victories": "",
@@ -22537,7 +22536,8 @@ var DistrictsData = {
         "LocalFunding": 157112022,
         "StateFunding": 154619846,
         "FederalFunding": 58542885,
-        "OtherLocalFunding": 3904264
+        "OtherLocalFunding": 3904264,
+        "RecaptureAmount": 0
     },
     "057905": {
         "NAME": "DALLAS ISD",
@@ -22547,7 +22547,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -14.61,
         "PercentChangeCentralAdminPay": -0.04,
         "PercentChangeSupportStaffPay": -4.73,
-        "RecaptureAmount": "83820079",
         "EnrollmentChange": "-8.51%",
         "Enrollment": 145113.0,
         "Victories": "<div>In 2022, Alliance-AFT members fought for and WON:<ul><li>Retention incentives for staff from $2,500-$3,500</li><li>$15 minimum wage</li><li>Double-digit pay increases for transportation, custodial, and food service employees</ul></li></div>",
@@ -22636,7 +22635,8 @@ var DistrictsData = {
         "LocalFunding": 1325366830,
         "StateFunding": 143352797,
         "FederalFunding": 337834923,
-        "OtherLocalFunding": 18478139
+        "OtherLocalFunding": 18478139,
+        "RecaptureAmount": 85377533
     },
     "091907": {
         "NAME": "TIOGA ISD",
@@ -22646,7 +22646,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 20.17,
         "PercentChangeCentralAdminPay": 56.08,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "55.16%",
         "Enrollment": 737.0,
         "Victories": "",
@@ -22671,7 +22670,8 @@ var DistrictsData = {
         "LocalFunding": 1410788,
         "StateFunding": 7441120,
         "FederalFunding": 350883,
-        "OtherLocalFunding": 632955
+        "OtherLocalFunding": 632955,
+        "RecaptureAmount": 0
     },
     "049905": {
         "NAME": "CALLISBURG ISD",
@@ -22681,7 +22681,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.78,
         "PercentChangeCentralAdminPay": -9.95,
         "PercentChangeSupportStaffPay": 6.76,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-0.44%",
         "Enrollment": 1131.0,
         "Victories": "",
@@ -22706,7 +22705,8 @@ var DistrictsData = {
         "LocalFunding": 8232619,
         "StateFunding": 3657781,
         "FederalFunding": 956024,
-        "OtherLocalFunding": 247764
+        "OtherLocalFunding": 247764,
+        "RecaptureAmount": 0
     },
     "091917": {
         "NAME": "GUNTER ISD",
@@ -22716,7 +22716,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -25.57,
         "PercentChangeCentralAdminPay": -23.43,
         "PercentChangeSupportStaffPay": -9.13,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "24.57%",
         "Enrollment": 1024.0,
         "Victories": "",
@@ -22745,7 +22744,8 @@ var DistrictsData = {
         "LocalFunding": 4637676,
         "StateFunding": 6513368,
         "FederalFunding": 1389522,
-        "OtherLocalFunding": 5499811
+        "OtherLocalFunding": 5499811,
+        "RecaptureAmount": 0
     },
     "043903": {
         "NAME": "CELINA ISD",
@@ -22755,7 +22755,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 4.2,
         "PercentChangeCentralAdminPay": -3.53,
         "PercentChangeSupportStaffPay": 9.67,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "25.88%",
         "Enrollment": 2962.0,
         "Victories": "",
@@ -22796,7 +22795,8 @@ var DistrictsData = {
         "LocalFunding": 17686280,
         "StateFunding": 11134037,
         "FederalFunding": 646547,
-        "OtherLocalFunding": 2919741
+        "OtherLocalFunding": 2919741,
+        "RecaptureAmount": 0
     },
     "043901": {
         "NAME": "ALLEN ISD",
@@ -22806,7 +22806,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.66,
         "PercentChangeCentralAdminPay": -5.48,
         "PercentChangeSupportStaffPay": -2.75,
-        "RecaptureAmount": "1195984",
         "EnrollmentChange": "3.82%",
         "Enrollment": 21617.0,
         "Victories": "",
@@ -22843,7 +22842,8 @@ var DistrictsData = {
         "LocalFunding": 156917155,
         "StateFunding": 32485065,
         "FederalFunding": 15823984,
-        "OtherLocalFunding": 5825794
+        "OtherLocalFunding": 5825794,
+        "RecaptureAmount": 1098100
     },
     "169910": {
         "NAME": "FORESTBURG ISD",
@@ -22853,7 +22853,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.55,
         "PercentChangeCentralAdminPay": "N/A",
         "PercentChangeSupportStaffPay": 30.8,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-9.94%",
         "Enrollment": 163.0,
         "Victories": "",
@@ -22878,7 +22877,8 @@ var DistrictsData = {
         "LocalFunding": 1868054,
         "StateFunding": 184205,
         "FederalFunding": 358691,
-        "OtherLocalFunding": 64686
+        "OtherLocalFunding": 64686,
+        "RecaptureAmount": 0
     },
     "249901": {
         "NAME": "ALVORD ISD",
@@ -22888,7 +22888,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.8,
         "PercentChangeCentralAdminPay": 24.12,
         "PercentChangeSupportStaffPay": 0.77,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.56%",
         "Enrollment": 709.0,
         "Victories": "",
@@ -22917,7 +22916,8 @@ var DistrictsData = {
         "LocalFunding": 4494991,
         "StateFunding": 4677029,
         "FederalFunding": 716525,
-        "OtherLocalFunding": 219568
+        "OtherLocalFunding": 219568,
+        "RecaptureAmount": 0
     },
     "057922": {
         "NAME": "COPPELL ISD",
@@ -22927,7 +22927,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.71,
         "PercentChangeCentralAdminPay": -1.4,
         "PercentChangeSupportStaffPay": -4.44,
-        "RecaptureAmount": "40288779",
         "EnrollmentChange": "9.86%",
         "Enrollment": 13052.0,
         "Victories": "",
@@ -22952,7 +22951,8 @@ var DistrictsData = {
         "LocalFunding": 104667466,
         "StateFunding": 10789354,
         "FederalFunding": 6170801,
-        "OtherLocalFunding": 4880933
+        "OtherLocalFunding": 4880933,
+        "RecaptureAmount": 40207086
     },
     "057903": {
         "NAME": "CARROLLTON-FARMERS BRANCH ISD",
@@ -22962,7 +22962,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.61,
         "PercentChangeCentralAdminPay": -6.22,
         "PercentChangeSupportStaffPay": -5.48,
-        "RecaptureAmount": "42392964",
         "EnrollmentChange": "-3.64%",
         "Enrollment": 24858.0,
         "Victories": "",
@@ -23007,7 +23006,8 @@ var DistrictsData = {
         "LocalFunding": 218887345,
         "StateFunding": 41827701,
         "FederalFunding": 40832005,
-        "OtherLocalFunding": 2694999
+        "OtherLocalFunding": 2694999,
+        "RecaptureAmount": 40598460
     },
     "043910": {
         "NAME": "PLANO ISD",
@@ -23017,7 +23017,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.15,
         "PercentChangeCentralAdminPay": 0.48,
         "PercentChangeSupportStaffPay": -6.54,
-        "RecaptureAmount": "191939410",
         "EnrollmentChange": "-8.09%",
         "Enrollment": 50154.0,
         "Victories": "",
@@ -23050,7 +23049,8 @@ var DistrictsData = {
         "LocalFunding": 420996097,
         "StateFunding": 44075416,
         "FederalFunding": 44223847,
-        "OtherLocalFunding": 7328753
+        "OtherLocalFunding": 7328753,
+        "RecaptureAmount": 192058699
     },
     "220919": {
         "NAME": "CARROLL ISD",
@@ -23060,7 +23060,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.73,
         "PercentChangeCentralAdminPay": -7.06,
         "PercentChangeSupportStaffPay": -1.17,
-        "RecaptureAmount": "29304991",
         "EnrollmentChange": "3.17%",
         "Enrollment": 8324.0,
         "Victories": "",
@@ -23093,7 +23092,8 @@ var DistrictsData = {
         "LocalFunding": 62247454,
         "StateFunding": 12663160,
         "FederalFunding": 3775387,
-        "OtherLocalFunding": 13081364
+        "OtherLocalFunding": 13081364,
+        "RecaptureAmount": 29424127
     },
     "220906": {
         "NAME": "GRAPEVINE-COLLEYVILLE ISD",
@@ -23103,7 +23103,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.31,
         "PercentChangeCentralAdminPay": 25.78,
         "PercentChangeSupportStaffPay": -4.19,
-        "RecaptureAmount": "56564952",
         "EnrollmentChange": "0.85%",
         "Enrollment": 13935.0,
         "Victories": "",
@@ -23148,7 +23147,8 @@ var DistrictsData = {
         "LocalFunding": 101676490,
         "StateFunding": 12700884,
         "FederalFunding": 15691701,
-        "OtherLocalFunding": 16642552
+        "OtherLocalFunding": 16642552,
+        "RecaptureAmount": 56502582
     },
     "061912": {
         "NAME": "LAKE DALLAS ISD",
@@ -23158,7 +23158,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.28,
         "PercentChangeCentralAdminPay": 14.31,
         "PercentChangeSupportStaffPay": 1.29,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.71%",
         "Enrollment": 3871.0,
         "Victories": "",
@@ -23191,7 +23190,8 @@ var DistrictsData = {
         "LocalFunding": 23275660,
         "StateFunding": 12794468,
         "FederalFunding": 5275272,
-        "OtherLocalFunding": 493677
+        "OtherLocalFunding": 493677,
+        "RecaptureAmount": 0
     },
     "061910": {
         "NAME": "ARGYLE ISD",
@@ -23201,7 +23201,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.67,
         "PercentChangeCentralAdminPay": 5.63,
         "PercentChangeSupportStaffPay": 17.74,
-        "RecaptureAmount": "62130",
         "EnrollmentChange": "69.19%",
         "Enrollment": 3795.0,
         "Victories": "",
@@ -23230,7 +23229,8 @@ var DistrictsData = {
         "LocalFunding": 25770880,
         "StateFunding": 10832075,
         "FederalFunding": 637246,
-        "OtherLocalFunding": 2204724
+        "OtherLocalFunding": 2204724,
+        "RecaptureAmount": 68429
     },
     "061907": {
         "NAME": "AUBREY ISD",
@@ -23240,7 +23240,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.12,
         "PercentChangeCentralAdminPay": 42.41,
         "PercentChangeSupportStaffPay": 7.3,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "14.16%",
         "Enrollment": 2644.0,
         "Victories": "",
@@ -23273,7 +23272,8 @@ var DistrictsData = {
         "LocalFunding": 13244083,
         "StateFunding": 12152923,
         "FederalFunding": 1206996,
-        "OtherLocalFunding": 1595606
+        "OtherLocalFunding": 1595606,
+        "RecaptureAmount": 0
     },
     "061914": {
         "NAME": "LITTLE ELM ISD",
@@ -23283,7 +23283,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.11,
         "PercentChangeCentralAdminPay": 14.57,
         "PercentChangeSupportStaffPay": 17.68,
-        "RecaptureAmount": "290665",
         "EnrollmentChange": "12.71%",
         "Enrollment": 8108.0,
         "Victories": "",
@@ -23312,7 +23311,8 @@ var DistrictsData = {
         "LocalFunding": 56166337,
         "StateFunding": 21759892,
         "FederalFunding": 7726635,
-        "OtherLocalFunding": 1889433
+        "OtherLocalFunding": 1889433,
+        "RecaptureAmount": 326918
     },
     "061902": {
         "NAME": "LEWISVILLE ISD",
@@ -23322,7 +23322,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.83,
         "PercentChangeCentralAdminPay": -8.39,
         "PercentChangeSupportStaffPay": -3.49,
-        "RecaptureAmount": "51287027",
         "EnrollmentChange": "-7.72%",
         "Enrollment": 49361.0,
         "Victories": "",
@@ -23363,7 +23362,8 @@ var DistrictsData = {
         "LocalFunding": 374800774,
         "StateFunding": 46804225,
         "FederalFunding": 69695853,
-        "OtherLocalFunding": 13443604
+        "OtherLocalFunding": 13443604,
+        "RecaptureAmount": 50745313
     },
     "043912": {
         "NAME": "PROSPER ISD",
@@ -23373,7 +23373,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 16.51,
         "PercentChangeCentralAdminPay": 8.14,
         "PercentChangeSupportStaffPay": 10.71,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "130.69%",
         "Enrollment": 19138.0,
         "Victories": "",
@@ -23406,7 +23405,8 @@ var DistrictsData = {
         "LocalFunding": 109787749,
         "StateFunding": 68841894,
         "FederalFunding": 4706790,
-        "OtherLocalFunding": 14801198
+        "OtherLocalFunding": 14801198,
+        "RecaptureAmount": 6144
     },
     "043905": {
         "NAME": "FRISCO ISD",
@@ -23416,7 +23416,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.91,
         "PercentChangeCentralAdminPay": -1.45,
         "PercentChangeSupportStaffPay": -3.98,
-        "RecaptureAmount": "4131499",
         "EnrollmentChange": "19.12%",
         "Enrollment": 63493.0,
         "Victories": "",
@@ -23461,7 +23460,8 @@ var DistrictsData = {
         "LocalFunding": 450968616,
         "StateFunding": 108749020,
         "FederalFunding": 29429142,
-        "OtherLocalFunding": 34091065
+        "OtherLocalFunding": 34091065,
+        "RecaptureAmount": 4177231
     },
     "061908": {
         "NAME": "SANGER ISD",
@@ -23471,7 +23471,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.14,
         "PercentChangeCentralAdminPay": -17.59,
         "PercentChangeSupportStaffPay": -4.53,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.71%",
         "Enrollment": 2569.0,
         "Victories": "",
@@ -23500,7 +23499,8 @@ var DistrictsData = {
         "LocalFunding": 13180733,
         "StateFunding": 12568172,
         "FederalFunding": 4855949,
-        "OtherLocalFunding": 6133161
+        "OtherLocalFunding": 6133161,
+        "RecaptureAmount": 0
     },
     "249908": {
         "NAME": "SLIDELL ISD",
@@ -23510,7 +23510,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -25.69,
         "PercentChangeCentralAdminPay": -16.11,
         "PercentChangeSupportStaffPay": -19.13,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "27.88%",
         "Enrollment": 344.0,
         "Victories": "",
@@ -23543,7 +23542,8 @@ var DistrictsData = {
         "LocalFunding": 2581012,
         "StateFunding": 1327738,
         "FederalFunding": 334872,
-        "OtherLocalFunding": 196864
+        "OtherLocalFunding": 196864,
+        "RecaptureAmount": 0
     },
     "049903": {
         "NAME": "VALLEY VIEW ISD (COOKE)",
@@ -23553,7 +23553,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.03,
         "PercentChangeCentralAdminPay": 96.18,
         "PercentChangeSupportStaffPay": 0.29,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "14.18%",
         "Enrollment": 886.0,
         "Victories": "",
@@ -23573,7 +23572,8 @@ var DistrictsData = {
         "LocalFunding": 3515793,
         "StateFunding": 8114687,
         "FederalFunding": 2073760,
-        "OtherLocalFunding": 194182
+        "OtherLocalFunding": 194182,
+        "RecaptureAmount": 0
     },
     "049906": {
         "NAME": "ERA ISD",
@@ -23583,7 +23583,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 21.02,
         "PercentChangeCentralAdminPay": 37.95,
         "PercentChangeSupportStaffPay": 19.92,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.28%",
         "Enrollment": 472.0,
         "Victories": "",
@@ -23612,7 +23611,8 @@ var DistrictsData = {
         "LocalFunding": 1956721,
         "StateFunding": 3743281,
         "FederalFunding": 370402,
-        "OtherLocalFunding": 913731
+        "OtherLocalFunding": 913731,
+        "RecaptureAmount": 0
     },
     "061903": {
         "NAME": "PILOT POINT ISD",
@@ -23622,7 +23622,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -15.71,
         "PercentChangeCentralAdminPay": -17.3,
         "PercentChangeSupportStaffPay": -6.49,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.3%",
         "Enrollment": 1362.0,
         "Victories": "",
@@ -23650,7 +23649,8 @@ var DistrictsData = {
         "LocalFunding": 9534749,
         "StateFunding": 4662773,
         "FederalFunding": 1407854,
-        "OtherLocalFunding": 835968
+        "OtherLocalFunding": 835968,
+        "RecaptureAmount": 0
     },
     "061906": {
         "NAME": "PONDER ISD",
@@ -23660,7 +23660,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.92,
         "PercentChangeCentralAdminPay": -12.53,
         "PercentChangeSupportStaffPay": -14.13,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "24.41%",
         "Enrollment": 1585.0,
         "Victories": "",
@@ -23689,7 +23688,8 @@ var DistrictsData = {
         "LocalFunding": 7010867,
         "StateFunding": 6836897,
         "FederalFunding": 1648705,
-        "OtherLocalFunding": 1383391
+        "OtherLocalFunding": 1383391,
+        "RecaptureAmount": 0
     },
     "249905": {
         "NAME": "DECATUR ISD",
@@ -23699,7 +23699,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.15,
         "PercentChangeCentralAdminPay": -8.53,
         "PercentChangeSupportStaffPay": 2.49,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "14.49%",
         "Enrollment": 3429.0,
         "Victories": "",
@@ -23724,7 +23723,8 @@ var DistrictsData = {
         "LocalFunding": 24007785,
         "StateFunding": 7778856,
         "FederalFunding": 4379643,
-        "OtherLocalFunding": 2199846
+        "OtherLocalFunding": 2199846,
+        "RecaptureAmount": 0
     },
     "061905": {
         "NAME": "KRUM ISD",
@@ -23734,7 +23734,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 4.05,
         "PercentChangeCentralAdminPay": -11.42,
         "PercentChangeSupportStaffPay": -1.64,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.19%",
         "Enrollment": 2101.0,
         "Victories": "",
@@ -23771,7 +23770,8 @@ var DistrictsData = {
         "LocalFunding": 10074666,
         "StateFunding": 10415961,
         "FederalFunding": 1323064,
-        "OtherLocalFunding": 696975
+        "OtherLocalFunding": 696975,
+        "RecaptureAmount": 0
     },
     "061901": {
         "NAME": "DENTON ISD",
@@ -23781,7 +23781,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.22,
         "PercentChangeCentralAdminPay": 19.53,
         "PercentChangeSupportStaffPay": 1.74,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "9.83%",
         "Enrollment": 30267.0,
         "Victories": "",
@@ -23818,7 +23817,8 @@ var DistrictsData = {
         "LocalFunding": 196237460,
         "StateFunding": 85585232,
         "FederalFunding": 41747335,
-        "OtherLocalFunding": 6947965
+        "OtherLocalFunding": 6947965,
+        "RecaptureAmount": 0
     },
     "025908": {
         "NAME": "BROOKESMITH ISD",
@@ -23828,7 +23828,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.83,
         "PercentChangeCentralAdminPay": -17.17,
         "PercentChangeSupportStaffPay": 21.55,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.6%",
         "Enrollment": 158.0,
         "Victories": "",
@@ -23857,7 +23856,8 @@ var DistrictsData = {
         "LocalFunding": 1276656,
         "StateFunding": 952552,
         "FederalFunding": 393970,
-        "OtherLocalFunding": 207980
+        "OtherLocalFunding": 207980,
+        "RecaptureAmount": 0
     },
     "042903": {
         "NAME": "SANTA ANNA ISD",
@@ -23867,7 +23867,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.74,
         "PercentChangeCentralAdminPay": -7.15,
         "PercentChangeSupportStaffPay": 23.25,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.52%",
         "Enrollment": 265.0,
         "Victories": "",
@@ -23887,7 +23886,8 @@ var DistrictsData = {
         "LocalFunding": 1038208,
         "StateFunding": 2426022,
         "FederalFunding": 721285,
-        "OtherLocalFunding": 167711
+        "OtherLocalFunding": 167711,
+        "RecaptureAmount": 0
     },
     "160901": {
         "NAME": "BRADY ISD",
@@ -23897,7 +23897,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.52,
         "PercentChangeCentralAdminPay": 24.77,
         "PercentChangeSupportStaffPay": 15.96,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-22.46%",
         "Enrollment": 991.0,
         "Victories": "",
@@ -23926,7 +23925,8 @@ var DistrictsData = {
         "LocalFunding": 3838421,
         "StateFunding": 6815237,
         "FederalFunding": 2881550,
-        "OtherLocalFunding": 1908411
+        "OtherLocalFunding": 1908411,
+        "RecaptureAmount": 0
     },
     "042905": {
         "NAME": "PANTHER CREEK CONS ISD",
@@ -23936,7 +23936,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 70.02,
         "PercentChangeCentralAdminPay": 104.48,
         "PercentChangeSupportStaffPay": -3.48,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "4.0%",
         "Enrollment": 156.0,
         "Victories": "",
@@ -23960,7 +23959,8 @@ var DistrictsData = {
         "LocalFunding": 1360685,
         "StateFunding": 1044512,
         "FederalFunding": 431349,
-        "OtherLocalFunding": 44826
+        "OtherLocalFunding": 44826,
+        "RecaptureAmount": 0
     },
     "164901": {
         "NAME": "MENARD ISD",
@@ -23970,7 +23970,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 13.55,
         "PercentChangeCentralAdminPay": 0.61,
         "PercentChangeSupportStaffPay": 8.59,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.45%",
         "Enrollment": 279.0,
         "Victories": "",
@@ -23990,7 +23989,8 @@ var DistrictsData = {
         "LocalFunding": 1904807,
         "StateFunding": 1467027,
         "FederalFunding": 1478273,
-        "OtherLocalFunding": 660122
+        "OtherLocalFunding": 660122,
+        "RecaptureAmount": 0
     },
     "157901": {
         "NAME": "MASON ISD",
@@ -24000,7 +24000,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 7.81,
         "PercentChangeCentralAdminPay": -26.78,
         "PercentChangeSupportStaffPay": 6.03,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "6.87%",
         "Enrollment": 716.0,
         "Victories": "",
@@ -24029,7 +24028,8 @@ var DistrictsData = {
         "LocalFunding": 4798427,
         "StateFunding": 3726388,
         "FederalFunding": 837917,
-        "OtherLocalFunding": 285354
+        "OtherLocalFunding": 285354,
+        "RecaptureAmount": 0
     },
     "048901": {
         "NAME": "EDEN CONS ISD",
@@ -24039,7 +24039,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 17.55,
         "PercentChangeCentralAdminPay": -31.12,
         "PercentChangeSupportStaffPay": 15.2,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-5.31%",
         "Enrollment": 232.0,
         "Victories": "",
@@ -24068,7 +24067,8 @@ var DistrictsData = {
         "LocalFunding": 1970953,
         "StateFunding": 1710158,
         "FederalFunding": 210540,
-        "OtherLocalFunding": 559123
+        "OtherLocalFunding": 559123,
+        "RecaptureAmount": 0
     },
     "160904": {
         "NAME": "ROCHELLE ISD",
@@ -24078,7 +24078,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 4.39,
         "PercentChangeCentralAdminPay": -13.43,
         "PercentChangeSupportStaffPay": 27.81,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.56%",
         "Enrollment": 195.0,
         "Victories": "",
@@ -24098,7 +24097,8 @@ var DistrictsData = {
         "LocalFunding": 954176,
         "StateFunding": 1657584,
         "FederalFunding": 260932,
-        "OtherLocalFunding": 41792
+        "OtherLocalFunding": 41792,
+        "RecaptureAmount": 0
     },
     "160905": {
         "NAME": "LOHN ISD",
@@ -24108,7 +24108,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.8,
         "PercentChangeCentralAdminPay": -47.43,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "10.87%",
         "Enrollment": 102.0,
         "Victories": "",
@@ -24133,7 +24132,8 @@ var DistrictsData = {
         "LocalFunding": 809718,
         "StateFunding": 1226386,
         "FederalFunding": 206106,
-        "OtherLocalFunding": 126865
+        "OtherLocalFunding": 126865,
+        "RecaptureAmount": 0
     },
     "206902": {
         "NAME": "RICHLAND SPRINGS ISD",
@@ -24143,7 +24143,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.06,
         "PercentChangeCentralAdminPay": 16.62,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.67%",
         "Enrollment": 112.0,
         "Victories": "",
@@ -24163,7 +24162,8 @@ var DistrictsData = {
         "LocalFunding": 1001488,
         "StateFunding": 1108697,
         "FederalFunding": 162685,
-        "OtherLocalFunding": 73051
+        "OtherLocalFunding": 73051,
+        "RecaptureAmount": 0
     },
     "048903": {
         "NAME": "PAINT ROCK ISD",
@@ -24173,7 +24173,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 14.82,
         "PercentChangeCentralAdminPay": 19.1,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.32%",
         "Enrollment": 237.0,
         "Victories": "",
@@ -24193,7 +24192,8 @@ var DistrictsData = {
         "LocalFunding": 1042427,
         "StateFunding": 2726339,
         "FederalFunding": 369541,
-        "OtherLocalFunding": 170577
+        "OtherLocalFunding": 170577,
+        "RecaptureAmount": 0
     },
     "094903": {
         "NAME": "NAVARRO ISD",
@@ -24203,7 +24203,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.85,
         "PercentChangeCentralAdminPay": 10.44,
         "PercentChangeSupportStaffPay": -9.97,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.04%",
         "Enrollment": 1849.0,
         "Victories": "",
@@ -24232,7 +24231,8 @@ var DistrictsData = {
         "LocalFunding": 11215449,
         "StateFunding": 5821112,
         "FederalFunding": 1907452,
-        "OtherLocalFunding": 865180
+        "OtherLocalFunding": 865180,
+        "RecaptureAmount": 0
     },
     "016902": {
         "NAME": "BLANCO ISD",
@@ -24242,7 +24242,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.66,
         "PercentChangeCentralAdminPay": 1.51,
         "PercentChangeSupportStaffPay": -10.19,
-        "RecaptureAmount": "35279",
         "EnrollmentChange": "1.71%",
         "Enrollment": 1011.0,
         "Victories": "",
@@ -24275,7 +24274,8 @@ var DistrictsData = {
         "LocalFunding": 10532280,
         "StateFunding": 1904947,
         "FederalFunding": 1454500,
-        "OtherLocalFunding": 540055
+        "OtherLocalFunding": 540055,
+        "RecaptureAmount": 0
     },
     "046901": {
         "NAME": "NEW BRAUNFELS ISD",
@@ -24285,7 +24285,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.55,
         "PercentChangeCentralAdminPay": -4.67,
         "PercentChangeSupportStaffPay": -6.44,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "9.73%",
         "Enrollment": 9282.0,
         "Victories": "",
@@ -24314,7 +24313,8 @@ var DistrictsData = {
         "LocalFunding": 57172306,
         "StateFunding": 22424832,
         "FederalFunding": 8538412,
-        "OtherLocalFunding": 2043062
+        "OtherLocalFunding": 2043062,
+        "RecaptureAmount": 0
     },
     "094901": {
         "NAME": "SEGUIN ISD",
@@ -24324,7 +24324,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.66,
         "PercentChangeCentralAdminPay": 13.85,
         "PercentChangeSupportStaffPay": -1.68,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.92%",
         "Enrollment": 6899.0,
         "Victories": "",
@@ -24353,7 +24352,8 @@ var DistrictsData = {
         "LocalFunding": 35779535,
         "StateFunding": 25664399,
         "FederalFunding": 13613390,
-        "OtherLocalFunding": 989752
+        "OtherLocalFunding": 989752,
+        "RecaptureAmount": 0
     },
     "094904": {
         "NAME": "MARION ISD",
@@ -24363,7 +24363,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.79,
         "PercentChangeCentralAdminPay": 7.92,
         "PercentChangeSupportStaffPay": -7.63,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.56%",
         "Enrollment": 1483.0,
         "Victories": "",
@@ -24392,7 +24391,8 @@ var DistrictsData = {
         "LocalFunding": 7838814,
         "StateFunding": 7723762,
         "FederalFunding": 1804492,
-        "OtherLocalFunding": 304489
+        "OtherLocalFunding": 304489,
+        "RecaptureAmount": 0
     },
     "071904": {
         "NAME": "SAN ELIZARIO ISD",
@@ -24402,7 +24402,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.56,
         "PercentChangeCentralAdminPay": -16.23,
         "PercentChangeSupportStaffPay": -7.65,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-19.38%",
         "Enrollment": 3191.0,
         "Victories": "",
@@ -24427,7 +24426,8 @@ var DistrictsData = {
         "LocalFunding": 2687737,
         "StateFunding": 31363949,
         "FederalFunding": 8279553,
-        "OtherLocalFunding": 85538
+        "OtherLocalFunding": 85538,
+        "RecaptureAmount": 0
     },
     "071901": {
         "NAME": "CLINT ISD",
@@ -24437,7 +24437,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.37,
         "PercentChangeCentralAdminPay": -22.28,
         "PercentChangeSupportStaffPay": -0.47,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.96%",
         "Enrollment": 10663.0,
         "Victories": "",
@@ -24466,7 +24465,8 @@ var DistrictsData = {
         "LocalFunding": 16310370,
         "StateFunding": 90415183,
         "FederalFunding": 36077346,
-        "OtherLocalFunding": 2239793
+        "OtherLocalFunding": 2239793,
+        "RecaptureAmount": 0
     },
     "139909": {
         "NAME": "PARIS ISD",
@@ -24476,7 +24476,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.03,
         "PercentChangeCentralAdminPay": -11.19,
         "PercentChangeSupportStaffPay": 5.17,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.16%",
         "Enrollment": 3857.0,
         "Victories": "",
@@ -24501,7 +24500,8 @@ var DistrictsData = {
         "LocalFunding": 10115880,
         "StateFunding": 26798455,
         "FederalFunding": 9049693,
-        "OtherLocalFunding": 755656
+        "OtherLocalFunding": 755656,
+        "RecaptureAmount": 0
     },
     "139911": {
         "NAME": "NORTH LAMAR ISD",
@@ -24511,7 +24511,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.98,
         "PercentChangeCentralAdminPay": -12.24,
         "PercentChangeSupportStaffPay": -6.86,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-13.04%",
         "Enrollment": 2361.0,
         "Victories": "",
@@ -24544,7 +24543,8 @@ var DistrictsData = {
         "LocalFunding": 13358090,
         "StateFunding": 7776782,
         "FederalFunding": 3327401,
-        "OtherLocalFunding": 3729155
+        "OtherLocalFunding": 3729155,
+        "RecaptureAmount": 0
     },
     "112910": {
         "NAME": "SULPHUR BLUFF ISD",
@@ -24554,7 +24554,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 6.3,
         "PercentChangeCentralAdminPay": 8.43,
         "PercentChangeSupportStaffPay": 21.17,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "5.31%",
         "Enrollment": 218.0,
         "Victories": "",
@@ -24583,7 +24582,8 @@ var DistrictsData = {
         "LocalFunding": 1191702,
         "StateFunding": 1673114,
         "FederalFunding": 279063,
-        "OtherLocalFunding": 183345
+        "OtherLocalFunding": 183345,
+        "RecaptureAmount": 0
     },
     "139912": {
         "NAME": "PRAIRILAND ISD",
@@ -24593,7 +24593,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.05,
         "PercentChangeCentralAdminPay": -19.6,
         "PercentChangeSupportStaffPay": -21.08,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.5%",
         "Enrollment": 1036.0,
         "Victories": "",
@@ -24618,7 +24617,8 @@ var DistrictsData = {
         "LocalFunding": 3257415,
         "StateFunding": 7480746,
         "FederalFunding": 1385810,
-        "OtherLocalFunding": 174682
+        "OtherLocalFunding": 174682,
+        "RecaptureAmount": 0
     },
     "139905": {
         "NAME": "CHISUM ISD",
@@ -24628,7 +24628,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.2,
         "PercentChangeCentralAdminPay": 60.62,
         "PercentChangeSupportStaffPay": 2.35,
-        "RecaptureAmount": "521310",
         "EnrollmentChange": "11.79%",
         "Enrollment": 1062.0,
         "Victories": "",
@@ -24661,7 +24660,8 @@ var DistrictsData = {
         "LocalFunding": 10357108,
         "StateFunding": 1384650,
         "FederalFunding": 1707252,
-        "OtherLocalFunding": 452308
+        "OtherLocalFunding": 452308,
+        "RecaptureAmount": 513044
     },
     "074907": {
         "NAME": "HONEY GROVE ISD",
@@ -24671,7 +24671,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -24.69,
         "PercentChangeCentralAdminPay": 26.2,
         "PercentChangeSupportStaffPay": -2.89,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "7.41%",
         "Enrollment": 623.0,
         "Victories": "",
@@ -24704,7 +24703,8 @@ var DistrictsData = {
         "LocalFunding": 2242593,
         "StateFunding": 5195798,
         "FederalFunding": 1358850,
-        "OtherLocalFunding": 274258
+        "OtherLocalFunding": 274258,
+        "RecaptureAmount": 0
     },
     "234904": {
         "NAME": "GRAND SALINE ISD",
@@ -24714,7 +24714,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 4.49,
         "PercentChangeCentralAdminPay": 42.92,
         "PercentChangeSupportStaffPay": 4.91,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.09%",
         "Enrollment": 1115.0,
         "Victories": "",
@@ -24739,7 +24738,8 @@ var DistrictsData = {
         "LocalFunding": 3190807,
         "StateFunding": 9246431,
         "FederalFunding": 3035786,
-        "OtherLocalFunding": 477266
+        "OtherLocalFunding": 477266,
+        "RecaptureAmount": 0
     },
     "234909": {
         "NAME": "FRUITVALE ISD",
@@ -24749,7 +24749,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 4.58,
         "PercentChangeCentralAdminPay": -14.65,
         "PercentChangeSupportStaffPay": -5.11,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "14.97%",
         "Enrollment": 430.0,
         "Victories": "",
@@ -24774,7 +24773,8 @@ var DistrictsData = {
         "LocalFunding": 564275,
         "StateFunding": 5017339,
         "FederalFunding": 927370,
-        "OtherLocalFunding": 143240
+        "OtherLocalFunding": 143240,
+        "RecaptureAmount": 0
     },
     "234903": {
         "NAME": "EDGEWOOD ISD (VAN ZANDT)",
@@ -24784,7 +24784,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -19.0,
         "PercentChangeCentralAdminPay": -9.61,
         "PercentChangeSupportStaffPay": -1.76,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.44%",
         "Enrollment": 963.0,
         "Victories": "",
@@ -24809,7 +24808,8 @@ var DistrictsData = {
         "LocalFunding": 3053353,
         "StateFunding": 8367232,
         "FederalFunding": 1242759,
-        "OtherLocalFunding": 490190
+        "OtherLocalFunding": 490190,
+        "RecaptureAmount": 0
     },
     "043914": {
         "NAME": "WYLIE ISD (COLLIN)",
@@ -24819,7 +24819,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.36,
         "PercentChangeCentralAdminPay": 43.08,
         "PercentChangeSupportStaffPay": 7.17,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "19.62%",
         "Enrollment": 17482.0,
         "Victories": "",
@@ -24848,7 +24847,8 @@ var DistrictsData = {
         "LocalFunding": 77251476,
         "StateFunding": 81513545,
         "FederalFunding": 11130273,
-        "OtherLocalFunding": 4410643
+        "OtherLocalFunding": 4410643,
+        "RecaptureAmount": 0
     },
     "071906": {
         "NAME": "ANTHONY ISD",
@@ -24858,7 +24858,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.6,
         "PercentChangeCentralAdminPay": -7.6,
         "PercentChangeSupportStaffPay": 10.69,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.09%",
         "Enrollment": 787.0,
         "Victories": "",
@@ -24883,7 +24882,8 @@ var DistrictsData = {
         "LocalFunding": 1931944,
         "StateFunding": 6907761,
         "FederalFunding": 1434161,
-        "OtherLocalFunding": 59917
+        "OtherLocalFunding": 59917,
+        "RecaptureAmount": 0
     },
     "071902": {
         "NAME": "EL PASO ISD",
@@ -24893,7 +24893,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -13.55,
         "PercentChangeCentralAdminPay": -24.16,
         "PercentChangeSupportStaffPay": -11.42,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-15.63%",
         "Enrollment": 50661.0,
         "Victories": "<div>In 2022, El Paso AFT members fought for and WON:<ul><li>7% pay raise of scale for teachers, librarians, and nurses \n- 7% pay raise of midpoint for counselors\n- 5% pay raise of midpoint for hourly employees\n- 4% pay raise of midpoint for professional staff (e.g., diagnosticians)</li><li>Two retention stipends totaling $2,500</li><li>10 days of paid parental leave</ul></li></div>",
@@ -24930,7 +24929,8 @@ var DistrictsData = {
         "LocalFunding": 182837972,
         "StateFunding": 309220974,
         "FederalFunding": 112375089,
-        "OtherLocalFunding": 2785585
+        "OtherLocalFunding": 2785585,
+        "RecaptureAmount": 0
     },
     "071907": {
         "NAME": "CANUTILLO ISD",
@@ -24940,7 +24940,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -16.31,
         "PercentChangeCentralAdminPay": 20.82,
         "PercentChangeSupportStaffPay": -6.5,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.38%",
         "Enrollment": 6035.0,
         "Victories": "",
@@ -24965,7 +24964,8 @@ var DistrictsData = {
         "LocalFunding": 26950431,
         "StateFunding": 31297456,
         "FederalFunding": 12610337,
-        "OtherLocalFunding": 418904
+        "OtherLocalFunding": 418904,
+        "RecaptureAmount": 0
     },
     "071905": {
         "NAME": "YSLETA ISD",
@@ -24975,7 +24975,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.12,
         "PercentChangeCentralAdminPay": -24.02,
         "PercentChangeSupportStaffPay": -9.54,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.17%",
         "Enrollment": 38390.0,
         "Victories": "",
@@ -25016,7 +25015,8 @@ var DistrictsData = {
         "LocalFunding": 76020056,
         "StateFunding": 305457900,
         "FederalFunding": 73205743,
-        "OtherLocalFunding": 2703453
+        "OtherLocalFunding": 2703453,
+        "RecaptureAmount": 0
     },
     "071909": {
         "NAME": "SOCORRO ISD",
@@ -25026,7 +25026,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.64,
         "PercentChangeCentralAdminPay": 21.22,
         "PercentChangeSupportStaffPay": -3.65,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.96%",
         "Enrollment": 47061.0,
         "Victories": "<div>In 2022, Socorro AFT members fought for and WON:<ul><li>6% pay raise for teachers and support staff</li><li>$2,500 retention stipend</li><li>$15 minimum starting wage\n- $1.5 million in backpay for an unfair COVID-19 leave policy</ul></li></div>",
@@ -25059,7 +25058,8 @@ var DistrictsData = {
         "LocalFunding": 108525920,
         "StateFunding": 301133226,
         "FederalFunding": 72603021,
-        "OtherLocalFunding": 1436408
+        "OtherLocalFunding": 1436408,
+        "RecaptureAmount": 0
     },
     "232902": {
         "NAME": "SABINAL ISD",
@@ -25069,7 +25069,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.41,
         "PercentChangeCentralAdminPay": -10.55,
         "PercentChangeSupportStaffPay": -13.54,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-16.47%",
         "Enrollment": 426.0,
         "Victories": "",
@@ -25094,7 +25093,8 @@ var DistrictsData = {
         "LocalFunding": 4061405,
         "StateFunding": 2372019,
         "FederalFunding": 1382004,
-        "OtherLocalFunding": 195873
+        "OtherLocalFunding": 195873,
+        "RecaptureAmount": 0
     },
     "232903": {
         "NAME": "UVALDE CONS ISD",
@@ -25104,7 +25104,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.56,
         "PercentChangeCentralAdminPay": 5.66,
         "PercentChangeSupportStaffPay": -1.95,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-13.02%",
         "Enrollment": 4150.0,
         "Victories": "",
@@ -25133,7 +25132,8 @@ var DistrictsData = {
         "LocalFunding": 13282335,
         "StateFunding": 24908722,
         "FederalFunding": 12412122,
-        "OtherLocalFunding": 948463
+        "OtherLocalFunding": 948463,
+        "RecaptureAmount": 0
     },
     "232904": {
         "NAME": "UTOPIA ISD",
@@ -25143,7 +25143,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -28.1,
         "PercentChangeCentralAdminPay": -19.69,
         "PercentChangeSupportStaffPay": 2.82,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "5.1%",
         "Enrollment": 206.0,
         "Victories": "",
@@ -25172,7 +25171,8 @@ var DistrictsData = {
         "LocalFunding": 2138552,
         "StateFunding": 471488,
         "FederalFunding": 265421,
-        "OtherLocalFunding": 114347
+        "OtherLocalFunding": 114347,
+        "RecaptureAmount": 0
     },
     "010901": {
         "NAME": "MEDINA ISD",
@@ -25182,7 +25182,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -16.02,
         "PercentChangeCentralAdminPay": -1.16,
         "PercentChangeSupportStaffPay": -19.58,
-        "RecaptureAmount": "6618",
         "EnrollmentChange": "-5.19%",
         "Enrollment": 274.0,
         "Victories": "",
@@ -25207,7 +25206,8 @@ var DistrictsData = {
         "LocalFunding": 2766060,
         "StateFunding": 1327674,
         "FederalFunding": 1520525,
-        "OtherLocalFunding": 165501
+        "OtherLocalFunding": 165501,
+        "RecaptureAmount": 0
     },
     "249902": {
         "NAME": "BOYD ISD",
@@ -25217,7 +25217,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.3,
         "PercentChangeCentralAdminPay": 0.7,
         "PercentChangeSupportStaffPay": 6.66,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "7.65%",
         "Enrollment": 1267.0,
         "Victories": "",
@@ -25242,7 +25241,8 @@ var DistrictsData = {
         "LocalFunding": 7000160,
         "StateFunding": 5533453,
         "FederalFunding": 1440676,
-        "OtherLocalFunding": 322887
+        "OtherLocalFunding": 322887,
+        "RecaptureAmount": 0
     },
     "184902": {
         "NAME": "SPRINGTOWN ISD",
@@ -25252,7 +25252,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.5,
         "PercentChangeCentralAdminPay": -20.55,
         "PercentChangeSupportStaffPay": -8.24,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "6.25%",
         "Enrollment": 3619.0,
         "Victories": "",
@@ -25277,7 +25276,8 @@ var DistrictsData = {
         "LocalFunding": 16186598,
         "StateFunding": 19564306,
         "FederalFunding": 3946024,
-        "OtherLocalFunding": 1158696
+        "OtherLocalFunding": 1158696,
+        "RecaptureAmount": 0
     },
     "184903": {
         "NAME": "WEATHERFORD ISD",
@@ -25287,7 +25287,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.86,
         "PercentChangeCentralAdminPay": -10.36,
         "PercentChangeSupportStaffPay": -3.89,
-        "RecaptureAmount": "257101",
         "EnrollmentChange": "2.07%",
         "Enrollment": 8024.0,
         "Victories": "",
@@ -25312,7 +25311,8 @@ var DistrictsData = {
         "LocalFunding": 54479685,
         "StateFunding": 20582529,
         "FederalFunding": 13362436,
-        "OtherLocalFunding": 3659393
+        "OtherLocalFunding": 3659393,
+        "RecaptureAmount": 257065
     },
     "220907": {
         "NAME": "KELLER ISD",
@@ -25322,7 +25322,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.77,
         "PercentChangeCentralAdminPay": 4.49,
         "PercentChangeSupportStaffPay": 8.97,
-        "RecaptureAmount": "244129",
         "EnrollmentChange": "0.41%",
         "Enrollment": 34319.0,
         "Victories": "",
@@ -25367,7 +25366,8 @@ var DistrictsData = {
         "LocalFunding": 212968931,
         "StateFunding": 93677159,
         "FederalFunding": 37189556,
-        "OtherLocalFunding": 7254790
+        "OtherLocalFunding": 7254790,
+        "RecaptureAmount": 0
     },
     "061911": {
         "NAME": "NORTHWEST ISD",
@@ -25377,7 +25377,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.64,
         "PercentChangeCentralAdminPay": -19.63,
         "PercentChangeSupportStaffPay": -6.19,
-        "RecaptureAmount": "13458469",
         "EnrollmentChange": "21.01%",
         "Enrollment": 25383.0,
         "Victories": "",
@@ -25426,7 +25425,8 @@ var DistrictsData = {
         "LocalFunding": 190112071,
         "StateFunding": 28860722,
         "FederalFunding": 14890868,
-        "OtherLocalFunding": 10722019
+        "OtherLocalFunding": 10722019,
+        "RecaptureAmount": 14340703
     },
     "015909": {
         "NAME": "SOMERSET ISD",
@@ -25436,7 +25436,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 11.22,
         "PercentChangeCentralAdminPay": 25.35,
         "PercentChangeSupportStaffPay": -1.75,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.68%",
         "Enrollment": 4021.0,
         "Victories": "",
@@ -25469,7 +25468,8 @@ var DistrictsData = {
         "LocalFunding": 6379809,
         "StateFunding": 35863758,
         "FederalFunding": 7798487,
-        "OtherLocalFunding": 727872
+        "OtherLocalFunding": 727872,
+        "RecaptureAmount": 0
     },
     "163902": {
         "NAME": "D'HANIS ISD",
@@ -25479,7 +25479,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 15.4,
         "PercentChangeCentralAdminPay": 29.13,
         "PercentChangeSupportStaffPay": 12.93,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-13.46%",
         "Enrollment": 315.0,
         "Victories": "",
@@ -25504,7 +25503,8 @@ var DistrictsData = {
         "LocalFunding": 2045901,
         "StateFunding": 2133288,
         "FederalFunding": 404827,
-        "OtherLocalFunding": 131455
+        "OtherLocalFunding": 131455,
+        "RecaptureAmount": 0
     },
     "007901": {
         "NAME": "CHARLOTTE ISD",
@@ -25514,7 +25514,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 8.46,
         "PercentChangeCentralAdminPay": 20.48,
         "PercentChangeSupportStaffPay": -6.17,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-16.03%",
         "Enrollment": 419.0,
         "Victories": "",
@@ -25547,7 +25546,8 @@ var DistrictsData = {
         "LocalFunding": 3599130,
         "StateFunding": 2455218,
         "FederalFunding": 861808,
-        "OtherLocalFunding": 216244
+        "OtherLocalFunding": 216244,
+        "RecaptureAmount": 0
     },
     "163904": {
         "NAME": "HONDO ISD",
@@ -25557,7 +25557,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -14.44,
         "PercentChangeCentralAdminPay": -1.79,
         "PercentChangeSupportStaffPay": -10.22,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-11.68%",
         "Enrollment": 1823.0,
         "Victories": "",
@@ -25586,7 +25585,8 @@ var DistrictsData = {
         "LocalFunding": 7695592,
         "StateFunding": 9121838,
         "FederalFunding": 2214189,
-        "OtherLocalFunding": 560425
+        "OtherLocalFunding": 560425,
+        "RecaptureAmount": 0
     },
     "015915": {
         "NAME": "NORTHSIDE ISD (BEXAR)",
@@ -25596,7 +25596,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.0,
         "PercentChangeCentralAdminPay": 4.99,
         "PercentChangeSupportStaffPay": -9.29,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.86%",
         "Enrollment": 103151.0,
         "Victories": "",
@@ -25653,7 +25652,8 @@ var DistrictsData = {
         "LocalFunding": 577684110,
         "StateFunding": 260766668,
         "FederalFunding": 117691148,
-        "OtherLocalFunding": 22351116
+        "OtherLocalFunding": 22351116,
+        "RecaptureAmount": 0
     },
     "015912": {
         "NAME": "SOUTHWEST ISD",
@@ -25663,7 +25663,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -14.72,
         "PercentChangeCentralAdminPay": 1.21,
         "PercentChangeSupportStaffPay": -9.14,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.59%",
         "Enrollment": 13474.0,
         "Victories": "",
@@ -25700,7 +25699,8 @@ var DistrictsData = {
         "LocalFunding": 40329802,
         "StateFunding": 94854111,
         "FederalFunding": 26569910,
-        "OtherLocalFunding": 2397628
+        "OtherLocalFunding": 2397628,
+        "RecaptureAmount": 0
     },
     "010902": {
         "NAME": "BANDERA ISD",
@@ -25710,7 +25710,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.45,
         "PercentChangeCentralAdminPay": 3.9,
         "PercentChangeSupportStaffPay": -12.92,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "0.23%",
         "Enrollment": 2218.0,
         "Victories": "",
@@ -25735,7 +25734,8 @@ var DistrictsData = {
         "LocalFunding": 16425229,
         "StateFunding": 3698091,
         "FederalFunding": 3321525,
-        "OtherLocalFunding": 987596
+        "OtherLocalFunding": 987596,
+        "RecaptureAmount": 0
     },
     "130901": {
         "NAME": "BOERNE ISD",
@@ -25745,7 +25745,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.66,
         "PercentChangeCentralAdminPay": 17.47,
         "PercentChangeSupportStaffPay": -6.98,
-        "RecaptureAmount": "2093576",
         "EnrollmentChange": "21.7%",
         "Enrollment": 9617.0,
         "Victories": "",
@@ -25778,7 +25777,8 @@ var DistrictsData = {
         "LocalFunding": 71977880,
         "StateFunding": 6621171,
         "FederalFunding": 5115327,
-        "OtherLocalFunding": 3881268
+        "OtherLocalFunding": 3881268,
+        "RecaptureAmount": 2176662
     },
     "015910": {
         "NAME": "NORTH EAST ISD",
@@ -25788,7 +25788,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -15.7,
         "PercentChangeCentralAdminPay": -43.51,
         "PercentChangeSupportStaffPay": -17.44,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-10.76%",
         "Enrollment": 60483.0,
         "Victories": "",
@@ -25841,7 +25840,8 @@ var DistrictsData = {
         "LocalFunding": 415159842,
         "StateFunding": 102699512,
         "FederalFunding": 84909642,
-        "OtherLocalFunding": 12240184
+        "OtherLocalFunding": 12240184,
+        "RecaptureAmount": 0
     },
     "015905": {
         "NAME": "EDGEWOOD ISD (BEXAR)",
@@ -25851,7 +25851,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -13.44,
         "PercentChangeCentralAdminPay": -11.36,
         "PercentChangeSupportStaffPay": -6.23,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-18.96%",
         "Enrollment": 9152.0,
         "Victories": "",
@@ -25892,7 +25891,8 @@ var DistrictsData = {
         "LocalFunding": 18016106,
         "StateFunding": 73150907,
         "FederalFunding": 33791574,
-        "OtherLocalFunding": 1525647
+        "OtherLocalFunding": 1525647,
+        "RecaptureAmount": 0
     },
     "015907": {
         "NAME": "SAN ANTONIO ISD",
@@ -25902,7 +25902,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.92,
         "PercentChangeCentralAdminPay": 4.05,
         "PercentChangeSupportStaffPay": -12.23,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-13.69%",
         "Enrollment": 45802.0,
         "Victories": "<div>In 2022, San Antonio Alliance members fought for and WON:<ul><li>3% pay raise for teachers and support staff</ul></li></div>",
@@ -25967,7 +25966,8 @@ var DistrictsData = {
         "LocalFunding": 215802756,
         "StateFunding": 227209273,
         "FederalFunding": 142268969,
-        "OtherLocalFunding": 11418397
+        "OtherLocalFunding": 11418397,
+        "RecaptureAmount": 0
     },
     "015913": {
         "NAME": "LACKLAND ISD",
@@ -25977,7 +25977,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.06,
         "PercentChangeCentralAdminPay": -24.75,
         "PercentChangeSupportStaffPay": -8.83,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.77%",
         "Enrollment": 890.0,
         "Victories": "",
@@ -26002,7 +26001,8 @@ var DistrictsData = {
         "LocalFunding": 0,
         "StateFunding": 9819389,
         "FederalFunding": 10669717,
-        "OtherLocalFunding": 1300381
+        "OtherLocalFunding": 1300381,
+        "RecaptureAmount": 0
     },
     "163903": {
         "NAME": "NATALIA ISD",
@@ -26012,7 +26012,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.94,
         "PercentChangeCentralAdminPay": 10.39,
         "PercentChangeSupportStaffPay": -4.59,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.48%",
         "Enrollment": 1024.0,
         "Victories": "",
@@ -26037,7 +26036,8 @@ var DistrictsData = {
         "LocalFunding": 2669748,
         "StateFunding": 9171004,
         "FederalFunding": 1911261,
-        "OtherLocalFunding": 179307
+        "OtherLocalFunding": 179307,
+        "RecaptureAmount": 0
     },
     "007906": {
         "NAME": "POTEET ISD",
@@ -26047,7 +26047,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.26,
         "PercentChangeCentralAdminPay": -4.51,
         "PercentChangeSupportStaffPay": -5.9,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.35%",
         "Enrollment": 1603.0,
         "Victories": "",
@@ -26072,7 +26071,8 @@ var DistrictsData = {
         "LocalFunding": 4356000,
         "StateFunding": 11272562,
         "FederalFunding": 2842612,
-        "OtherLocalFunding": 154058
+        "OtherLocalFunding": 154058,
+        "RecaptureAmount": 0
     },
     "007904": {
         "NAME": "LYTLE ISD",
@@ -26082,7 +26082,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 36.91,
         "PercentChangeCentralAdminPay": -3.36,
         "PercentChangeSupportStaffPay": 3.83,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "5.07%",
         "Enrollment": 1760.0,
         "Victories": "",
@@ -26111,7 +26110,8 @@ var DistrictsData = {
         "LocalFunding": 4093759,
         "StateFunding": 12811263,
         "FederalFunding": 3725997,
-        "OtherLocalFunding": 210285
+        "OtherLocalFunding": 210285,
+        "RecaptureAmount": 0
     },
     "163901": {
         "NAME": "DEVINE ISD",
@@ -26121,7 +26121,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.78,
         "PercentChangeCentralAdminPay": 9.46,
         "PercentChangeSupportStaffPay": -2.08,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.7%",
         "Enrollment": 1984.0,
         "Victories": "",
@@ -26150,7 +26149,8 @@ var DistrictsData = {
         "LocalFunding": 5420119,
         "StateFunding": 13850112,
         "FederalFunding": 2331617,
-        "OtherLocalFunding": 284796
+        "OtherLocalFunding": 284796,
+        "RecaptureAmount": 0
     },
     "163908": {
         "NAME": "MEDINA VALLEY ISD",
@@ -26160,7 +26160,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.11,
         "PercentChangeCentralAdminPay": -9.66,
         "PercentChangeSupportStaffPay": -3.66,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "37.13%",
         "Enrollment": 6134.0,
         "Victories": "",
@@ -26193,7 +26192,8 @@ var DistrictsData = {
         "LocalFunding": 22321947,
         "StateFunding": 31400787,
         "FederalFunding": 7619890,
-        "OtherLocalFunding": 743828
+        "OtherLocalFunding": 743828,
+        "RecaptureAmount": 0
     },
     "220920": {
         "NAME": "WHITE SETTLEMENT ISD",
@@ -26203,7 +26203,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.34,
         "PercentChangeCentralAdminPay": 4.34,
         "PercentChangeSupportStaffPay": -1.33,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.1%",
         "Enrollment": 6701.0,
         "Victories": "",
@@ -26236,7 +26235,8 @@ var DistrictsData = {
         "LocalFunding": 23723921,
         "StateFunding": 31309687,
         "FederalFunding": 10940956,
-        "OtherLocalFunding": 1969864
+        "OtherLocalFunding": 1969864,
+        "RecaptureAmount": 0
     },
     "220910": {
         "NAME": "LAKE WORTH ISD",
@@ -26246,7 +26246,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 7.64,
         "PercentChangeCentralAdminPay": -3.13,
         "PercentChangeSupportStaffPay": -2.05,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.3%",
         "Enrollment": 3311.0,
         "Victories": "",
@@ -26279,7 +26278,8 @@ var DistrictsData = {
         "LocalFunding": 12089876,
         "StateFunding": 23270272,
         "FederalFunding": 9600877,
-        "OtherLocalFunding": 681181
+        "OtherLocalFunding": 681181,
+        "RecaptureAmount": 0
     },
     "220916": {
         "NAME": "HURST-EULESS-BEDFORD ISD",
@@ -26289,7 +26289,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.37,
         "PercentChangeCentralAdminPay": -3.6,
         "PercentChangeSupportStaffPay": -9.18,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "0.56%",
         "Enrollment": 22962.0,
         "Victories": "",
@@ -26330,7 +26329,8 @@ var DistrictsData = {
         "LocalFunding": 152609301,
         "StateFunding": 46207181,
         "FederalFunding": 29468254,
-        "OtherLocalFunding": 4954353
+        "OtherLocalFunding": 4954353,
+        "RecaptureAmount": 0
     },
     "220918": {
         "NAME": "EAGLE MOUNTAIN-SAGINAW ISD",
@@ -26340,7 +26340,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.27,
         "PercentChangeCentralAdminPay": 32.57,
         "PercentChangeSupportStaffPay": 1.64,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "10.63%",
         "Enrollment": 21245.0,
         "Victories": "",
@@ -26385,7 +26384,8 @@ var DistrictsData = {
         "LocalFunding": 117858539,
         "StateFunding": 78301537,
         "FederalFunding": 25126628,
-        "OtherLocalFunding": 3058433
+        "OtherLocalFunding": 3058433,
+        "RecaptureAmount": 0
     },
     "220917": {
         "NAME": "CASTLEBERRY ISD",
@@ -26395,7 +26395,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.34,
         "PercentChangeCentralAdminPay": 23.53,
         "PercentChangeSupportStaffPay": 6.01,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.6%",
         "Enrollment": 3617.0,
         "Victories": "",
@@ -26428,7 +26427,8 @@ var DistrictsData = {
         "LocalFunding": 9721034,
         "StateFunding": 27943487,
         "FederalFunding": 6910500,
-        "OtherLocalFunding": 579815
+        "OtherLocalFunding": 579815,
+        "RecaptureAmount": 0
     },
     "220902": {
         "NAME": "BIRDVILLE ISD",
@@ -26438,7 +26438,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.2,
         "PercentChangeCentralAdminPay": -12.98,
         "PercentChangeSupportStaffPay": -12.94,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.54%",
         "Enrollment": 22736.0,
         "Victories": "",
@@ -26479,7 +26478,8 @@ var DistrictsData = {
         "LocalFunding": 111193672,
         "StateFunding": 86912155,
         "FederalFunding": 33540024,
-        "OtherLocalFunding": 4702289
+        "OtherLocalFunding": 4702289,
+        "RecaptureAmount": 0
     },
     "220915": {
         "NAME": "AZLE ISD",
@@ -26489,7 +26489,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.07,
         "PercentChangeCentralAdminPay": 3.36,
         "PercentChangeSupportStaffPay": -3.38,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "7.1%",
         "Enrollment": 6685.0,
         "Victories": "",
@@ -26522,7 +26521,8 @@ var DistrictsData = {
         "LocalFunding": 34982103,
         "StateFunding": 26483826,
         "FederalFunding": 6782676,
-        "OtherLocalFunding": 1047798
+        "OtherLocalFunding": 1047798,
+        "RecaptureAmount": 0
     },
     "184907": {
         "NAME": "ALEDO ISD",
@@ -26532,7 +26532,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.05,
         "PercentChangeCentralAdminPay": -8.98,
         "PercentChangeSupportStaffPay": 10.95,
-        "RecaptureAmount": "251302",
         "EnrollmentChange": "28.08%",
         "Enrollment": 6723.0,
         "Victories": "",
@@ -26565,7 +26564,8 @@ var DistrictsData = {
         "LocalFunding": 44212105,
         "StateFunding": 15602744,
         "FederalFunding": 3618775,
-        "OtherLocalFunding": 2463398
+        "OtherLocalFunding": 2463398,
+        "RecaptureAmount": 251135
     },
     "220912": {
         "NAME": "CROWLEY ISD",
@@ -26575,7 +26575,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.76,
         "PercentChangeCentralAdminPay": 13.21,
         "PercentChangeSupportStaffPay": -1.84,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.2%",
         "Enrollment": 15731.0,
         "Victories": "",
@@ -26616,7 +26615,8 @@ var DistrictsData = {
         "LocalFunding": 80195436,
         "StateFunding": 71934625,
         "FederalFunding": 22749918,
-        "OtherLocalFunding": 3465616
+        "OtherLocalFunding": 3465616,
+        "RecaptureAmount": 0
     },
     "220905": {
         "NAME": "FORT WORTH ISD",
@@ -26626,7 +26626,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.1,
         "PercentChangeCentralAdminPay": 52.54,
         "PercentChangeSupportStaffPay": -1.77,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-11.74%",
         "Enrollment": 76858.0,
         "Victories": "",
@@ -26687,7 +26686,8 @@ var DistrictsData = {
         "LocalFunding": 454710798,
         "StateFunding": 302825144,
         "FederalFunding": 163194996,
-        "OtherLocalFunding": 11969687
+        "OtherLocalFunding": 11969687,
+        "RecaptureAmount": 0
     },
     "126911": {
         "NAME": "GODLEY ISD",
@@ -26697,7 +26697,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -17.85,
         "PercentChangeCentralAdminPay": -7.25,
         "PercentChangeSupportStaffPay": -11.44,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "37.4%",
         "Enrollment": 2443.0,
         "Victories": "",
@@ -26734,7 +26733,8 @@ var DistrictsData = {
         "LocalFunding": 9957609,
         "StateFunding": 12761736,
         "FederalFunding": 6118356,
-        "OtherLocalFunding": 3583443
+        "OtherLocalFunding": 3583443,
+        "RecaptureAmount": 0
     },
     "126906": {
         "NAME": "KEENE ISD",
@@ -26744,7 +26744,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -15.33,
         "PercentChangeCentralAdminPay": 7.79,
         "PercentChangeSupportStaffPay": -22.51,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "5.87%",
         "Enrollment": 1082.0,
         "Victories": "",
@@ -26769,7 +26768,8 @@ var DistrictsData = {
         "LocalFunding": 2094792,
         "StateFunding": 10466272,
         "FederalFunding": 1729808,
-        "OtherLocalFunding": 312192
+        "OtherLocalFunding": 312192,
+        "RecaptureAmount": 0
     },
     "126905": {
         "NAME": "JOSHUA ISD",
@@ -26779,7 +26779,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.7,
         "PercentChangeCentralAdminPay": -9.79,
         "PercentChangeSupportStaffPay": 1.74,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "6.73%",
         "Enrollment": 5490.0,
         "Victories": "",
@@ -26804,7 +26803,8 @@ var DistrictsData = {
         "LocalFunding": 18627900,
         "StateFunding": 32156331,
         "FederalFunding": 7836005,
-        "OtherLocalFunding": 1213792
+        "OtherLocalFunding": 1213792,
+        "RecaptureAmount": 0
     },
     "126904": {
         "NAME": "GRANDVIEW ISD",
@@ -26814,7 +26814,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.1,
         "PercentChangeCentralAdminPay": 12.14,
         "PercentChangeSupportStaffPay": 9.68,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "18.24%",
         "Enrollment": 1342.0,
         "Victories": "",
@@ -26843,7 +26842,8 @@ var DistrictsData = {
         "LocalFunding": 3488946,
         "StateFunding": 9490441,
         "FederalFunding": 1089876,
-        "OtherLocalFunding": 2921922
+        "OtherLocalFunding": 2921922,
+        "RecaptureAmount": 0
     },
     "220908": {
         "NAME": "MANSFIELD ISD",
@@ -26853,7 +26853,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.7,
         "PercentChangeCentralAdminPay": -20.33,
         "PercentChangeSupportStaffPay": -0.49,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.9%",
         "Enrollment": 35127.0,
         "Victories": "",
@@ -26894,7 +26893,8 @@ var DistrictsData = {
         "LocalFunding": 153000644,
         "StateFunding": 138216969,
         "FederalFunding": 39437582,
-        "OtherLocalFunding": 7010662
+        "OtherLocalFunding": 7010662,
+        "RecaptureAmount": 0
     },
     "070908": {
         "NAME": "MIDLOTHIAN ISD",
@@ -26904,7 +26904,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.89,
         "PercentChangeCentralAdminPay": -5.02,
         "PercentChangeSupportStaffPay": 0.02,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "20.77%",
         "Enrollment": 9838.0,
         "Victories": "",
@@ -26929,7 +26928,8 @@ var DistrictsData = {
         "LocalFunding": 44652200,
         "StateFunding": 40151631,
         "FederalFunding": 8695861,
-        "OtherLocalFunding": 12470183
+        "OtherLocalFunding": 12470183,
+        "RecaptureAmount": 0
     },
     "220914": {
         "NAME": "KENNEDALE ISD",
@@ -26939,7 +26939,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -14.15,
         "PercentChangeCentralAdminPay": -3.98,
         "PercentChangeSupportStaffPay": -4.9,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.27%",
         "Enrollment": 2885.0,
         "Victories": "",
@@ -26972,7 +26971,8 @@ var DistrictsData = {
         "LocalFunding": 17567587,
         "StateFunding": 10365855,
         "FederalFunding": 2813168,
-        "OtherLocalFunding": 3779706
+        "OtherLocalFunding": 3779706,
+        "RecaptureAmount": 0
     },
     "220904": {
         "NAME": "EVERMAN ISD",
@@ -26982,7 +26982,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.59,
         "PercentChangeCentralAdminPay": 17.84,
         "PercentChangeSupportStaffPay": -3.05,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.48%",
         "Enrollment": 5648.0,
         "Victories": "",
@@ -27015,7 +27014,8 @@ var DistrictsData = {
         "LocalFunding": 16803178,
         "StateFunding": 43130269,
         "FederalFunding": 10852187,
-        "OtherLocalFunding": 331358
+        "OtherLocalFunding": 331358,
+        "RecaptureAmount": 0
     },
     "220901": {
         "NAME": "ARLINGTON ISD",
@@ -27025,7 +27025,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.87,
         "PercentChangeCentralAdminPay": 7.22,
         "PercentChangeSupportStaffPay": 0.64,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.08%",
         "Enrollment": 56840.0,
         "Victories": "",
@@ -27078,7 +27077,8 @@ var DistrictsData = {
         "LocalFunding": 347696109,
         "StateFunding": 194088682,
         "FederalFunding": 65237873,
-        "OtherLocalFunding": 5087303
+        "OtherLocalFunding": 5087303,
+        "RecaptureAmount": 0
     },
     "057910": {
         "NAME": "GRAND PRAIRIE ISD",
@@ -27088,7 +27088,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.12,
         "PercentChangeCentralAdminPay": -2.37,
         "PercentChangeSupportStaffPay": -7.17,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.78%",
         "Enrollment": 28230.0,
         "Victories": "",
@@ -27129,7 +27128,8 @@ var DistrictsData = {
         "LocalFunding": 94411384,
         "StateFunding": 184508299,
         "FederalFunding": 41595148,
-        "OtherLocalFunding": 6642626
+        "OtherLocalFunding": 6642626,
+        "RecaptureAmount": 0
     },
     "126908": {
         "NAME": "VENUS ISD",
@@ -27139,7 +27139,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -15.52,
         "PercentChangeCentralAdminPay": 1.44,
         "PercentChangeSupportStaffPay": -6.71,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "10.29%",
         "Enrollment": 2197.0,
         "Victories": "",
@@ -27159,7 +27158,8 @@ var DistrictsData = {
         "LocalFunding": 4050991,
         "StateFunding": 18950360,
         "FederalFunding": 2575797,
-        "OtherLocalFunding": 1056173
+        "OtherLocalFunding": 1056173,
+        "RecaptureAmount": 0
     },
     "126902": {
         "NAME": "BURLESON ISD",
@@ -27169,7 +27169,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 21.12,
         "PercentChangeCentralAdminPay": 22.4,
         "PercentChangeSupportStaffPay": 8.3,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "10.21%",
         "Enrollment": 12547.0,
         "Victories": "",
@@ -27206,7 +27205,8 @@ var DistrictsData = {
         "LocalFunding": 56123934,
         "StateFunding": 56228481,
         "FederalFunding": 14331163,
-        "OtherLocalFunding": 2387734
+        "OtherLocalFunding": 2387734,
+        "RecaptureAmount": 0
     },
     "126901": {
         "NAME": "ALVARADO ISD",
@@ -27216,7 +27216,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.05,
         "PercentChangeCentralAdminPay": -3.03,
         "PercentChangeSupportStaffPay": -0.34,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.86%",
         "Enrollment": 3565.0,
         "Victories": "",
@@ -27241,7 +27240,8 @@ var DistrictsData = {
         "LocalFunding": 14331736,
         "StateFunding": 17425052,
         "FederalFunding": 4885313,
-        "OtherLocalFunding": 1048869
+        "OtherLocalFunding": 1048869,
+        "RecaptureAmount": 0
     },
     "112905": {
         "NAME": "CUMBY ISD",
@@ -27251,7 +27251,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 17.18,
         "PercentChangeCentralAdminPay": 12.35,
         "PercentChangeSupportStaffPay": -25.85,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "19.32%",
         "Enrollment": 420.0,
         "Victories": "",
@@ -27276,7 +27275,8 @@ var DistrictsData = {
         "LocalFunding": 920049,
         "StateFunding": 4473116,
         "FederalFunding": 478468,
-        "OtherLocalFunding": 162262
+        "OtherLocalFunding": 162262,
+        "RecaptureAmount": 0
     },
     "112906": {
         "NAME": "NORTH HOPKINS ISD",
@@ -27286,7 +27286,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 6.92,
         "PercentChangeCentralAdminPay": 6.62,
         "PercentChangeSupportStaffPay": 25.9,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.13%",
         "Enrollment": 555.0,
         "Victories": "",
@@ -27311,7 +27310,8 @@ var DistrictsData = {
         "LocalFunding": 1077099,
         "StateFunding": 6140050,
         "FederalFunding": 797359,
-        "OtherLocalFunding": 360668
+        "OtherLocalFunding": 360668,
+        "RecaptureAmount": 0
     },
     "116910": {
         "NAME": "CAMPBELL ISD",
@@ -27321,7 +27321,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -25.36,
         "PercentChangeCentralAdminPay": -35.75,
         "PercentChangeSupportStaffPay": 23.73,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-18.93%",
         "Enrollment": 287.0,
         "Victories": "",
@@ -27346,7 +27345,8 @@ var DistrictsData = {
         "LocalFunding": 1157693,
         "StateFunding": 2593714,
         "FederalFunding": 600558,
-        "OtherLocalFunding": 73323
+        "OtherLocalFunding": 73323,
+        "RecaptureAmount": 0
     },
     "060902": {
         "NAME": "COOPER ISD",
@@ -27356,7 +27356,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.07,
         "PercentChangeCentralAdminPay": 25.72,
         "PercentChangeSupportStaffPay": -15.07,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.5%",
         "Enrollment": 806.0,
         "Victories": "",
@@ -27385,7 +27384,8 @@ var DistrictsData = {
         "LocalFunding": 2603585,
         "StateFunding": 7343175,
         "FederalFunding": 1319970,
-        "OtherLocalFunding": 239348
+        "OtherLocalFunding": 239348,
+        "RecaptureAmount": 0
     },
     "112907": {
         "NAME": "MILLER GROVE ISD",
@@ -27395,7 +27395,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.17,
         "PercentChangeCentralAdminPay": 13.48,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "6.99%",
         "Enrollment": 306.0,
         "Victories": "",
@@ -27424,7 +27423,8 @@ var DistrictsData = {
         "LocalFunding": 751769,
         "StateFunding": 3481262,
         "FederalFunding": 364024,
-        "OtherLocalFunding": 93098
+        "OtherLocalFunding": 93098,
+        "RecaptureAmount": 0
     },
     "116916": {
         "NAME": "BOLES ISD",
@@ -27434,7 +27434,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 14.87,
         "PercentChangeCentralAdminPay": -9.38,
         "PercentChangeSupportStaffPay": 10.82,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.68%",
         "Enrollment": 497.0,
         "Victories": "",
@@ -27459,7 +27458,8 @@ var DistrictsData = {
         "LocalFunding": 244054,
         "StateFunding": 6132043,
         "FederalFunding": 2250974,
-        "OtherLocalFunding": 156129
+        "OtherLocalFunding": 156129,
+        "RecaptureAmount": 0
     },
     "116906": {
         "NAME": "LONE OAK ISD",
@@ -27469,7 +27469,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.24,
         "PercentChangeCentralAdminPay": -16.76,
         "PercentChangeSupportStaffPay": 8.88,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.32%",
         "Enrollment": 967.0,
         "Victories": "",
@@ -27498,7 +27497,8 @@ var DistrictsData = {
         "LocalFunding": 2881294,
         "StateFunding": 6147647,
         "FederalFunding": 1304796,
-        "OtherLocalFunding": 502611
+        "OtherLocalFunding": 502611,
+        "RecaptureAmount": 0
     },
     "129906": {
         "NAME": "TERRELL ISD",
@@ -27508,7 +27508,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.92,
         "PercentChangeCentralAdminPay": 7.46,
         "PercentChangeSupportStaffPay": 0.94,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "10.99%",
         "Enrollment": 4728.0,
         "Victories": "",
@@ -27537,7 +27536,8 @@ var DistrictsData = {
         "LocalFunding": 22300414,
         "StateFunding": 26714885,
         "FederalFunding": 8485104,
-        "OtherLocalFunding": 984173
+        "OtherLocalFunding": 984173,
+        "RecaptureAmount": 0
     },
     "129903": {
         "NAME": "KAUFMAN ISD",
@@ -27547,7 +27547,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -18.77,
         "PercentChangeCentralAdminPay": 9.46,
         "PercentChangeSupportStaffPay": 7.62,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.93%",
         "Enrollment": 4025.0,
         "Victories": "",
@@ -27572,7 +27571,8 @@ var DistrictsData = {
         "LocalFunding": 10707949,
         "StateFunding": 28404504,
         "FederalFunding": 5725467,
-        "OtherLocalFunding": 1159261
+        "OtherLocalFunding": 1159261,
+        "RecaptureAmount": 0
     },
     "116908": {
         "NAME": "QUINLAN ISD",
@@ -27582,7 +27582,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.01,
         "PercentChangeCentralAdminPay": -18.78,
         "PercentChangeSupportStaffPay": -2.4,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.74%",
         "Enrollment": 2592.0,
         "Victories": "",
@@ -27611,7 +27610,8 @@ var DistrictsData = {
         "LocalFunding": 10643849,
         "StateFunding": 14677973,
         "FederalFunding": 5547464,
-        "OtherLocalFunding": 590380
+        "OtherLocalFunding": 590380,
+        "RecaptureAmount": 0
     },
     "234907": {
         "NAME": "WILLS POINT ISD",
@@ -27621,7 +27621,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.47,
         "PercentChangeCentralAdminPay": -8.36,
         "PercentChangeSupportStaffPay": -6.5,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.28%",
         "Enrollment": 2467.0,
         "Victories": "",
@@ -27650,7 +27649,8 @@ var DistrictsData = {
         "LocalFunding": 8683719,
         "StateFunding": 16409238,
         "FederalFunding": 3268581,
-        "OtherLocalFunding": 452386
+        "OtherLocalFunding": 452386,
+        "RecaptureAmount": 0
     },
     "129902": {
         "NAME": "FORNEY ISD",
@@ -27660,7 +27660,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.23,
         "PercentChangeCentralAdminPay": -5.45,
         "PercentChangeSupportStaffPay": -5.09,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "36.0%",
         "Enrollment": 12765.0,
         "Victories": "",
@@ -27685,7 +27684,8 @@ var DistrictsData = {
         "LocalFunding": 48721938,
         "StateFunding": 57619338,
         "FederalFunding": 7729044,
-        "OtherLocalFunding": 2349635
+        "OtherLocalFunding": 2349635,
+        "RecaptureAmount": 0
     },
     "199902": {
         "NAME": "ROYSE CITY ISD",
@@ -27695,7 +27695,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.82,
         "PercentChangeCentralAdminPay": -21.28,
         "PercentChangeSupportStaffPay": -0.81,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "31.92%",
         "Enrollment": 6886.0,
         "Victories": "",
@@ -27728,7 +27727,8 @@ var DistrictsData = {
         "LocalFunding": 25442019,
         "StateFunding": 37038800,
         "FederalFunding": 5137679,
-        "OtherLocalFunding": 2505195
+        "OtherLocalFunding": 2505195,
+        "RecaptureAmount": 0
     },
     "199901": {
         "NAME": "ROCKWALL ISD",
@@ -27738,7 +27738,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.78,
         "PercentChangeCentralAdminPay": 6.64,
         "PercentChangeSupportStaffPay": -5.54,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "9.86%",
         "Enrollment": 16987.0,
         "Victories": "",
@@ -27771,7 +27770,8 @@ var DistrictsData = {
         "LocalFunding": 105419460,
         "StateFunding": 33878316,
         "FederalFunding": 11763677,
-        "OtherLocalFunding": 4355871
+        "OtherLocalFunding": 4355871,
+        "RecaptureAmount": 0
     },
     "060914": {
         "NAME": "FANNINDEL ISD",
@@ -27781,7 +27781,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.14,
         "PercentChangeCentralAdminPay": -56.75,
         "PercentChangeSupportStaffPay": -28.56,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.56%",
         "Enrollment": 159.0,
         "Victories": "",
@@ -27818,7 +27817,8 @@ var DistrictsData = {
         "LocalFunding": 824836,
         "StateFunding": 1743124,
         "FederalFunding": 246230,
-        "OtherLocalFunding": 165404
+        "OtherLocalFunding": 165404,
+        "RecaptureAmount": 0
     },
     "116903": {
         "NAME": "COMMERCE ISD",
@@ -27828,7 +27828,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -17.93,
         "PercentChangeCentralAdminPay": -21.23,
         "PercentChangeSupportStaffPay": -0.4,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.85%",
         "Enrollment": 1462.0,
         "Victories": "",
@@ -27857,7 +27856,8 @@ var DistrictsData = {
         "LocalFunding": 5726091,
         "StateFunding": 10214233,
         "FederalFunding": 4137688,
-        "OtherLocalFunding": 1081742
+        "OtherLocalFunding": 1081742,
+        "RecaptureAmount": 0
     },
     "116901": {
         "NAME": "CADDO MILLS ISD",
@@ -27867,7 +27867,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.0,
         "PercentChangeCentralAdminPay": 2.25,
         "PercentChangeSupportStaffPay": -1.12,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "18.5%",
         "Enrollment": 1992.0,
         "Victories": "",
@@ -27892,7 +27891,8 @@ var DistrictsData = {
         "LocalFunding": 6698508,
         "StateFunding": 12854383,
         "FederalFunding": 729706,
-        "OtherLocalFunding": 975130
+        "OtherLocalFunding": 975130,
+        "RecaptureAmount": 0
     },
     "043918": {
         "NAME": "COMMUNITY ISD",
@@ -27902,7 +27902,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.72,
         "PercentChangeCentralAdminPay": 2.73,
         "PercentChangeSupportStaffPay": 3.56,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "43.67%",
         "Enrollment": 2757.0,
         "Victories": "",
@@ -27939,7 +27938,8 @@ var DistrictsData = {
         "LocalFunding": 11841993,
         "StateFunding": 15731159,
         "FederalFunding": 1985565,
-        "OtherLocalFunding": 628363
+        "OtherLocalFunding": 628363,
+        "RecaptureAmount": 0
     },
     "116905": {
         "NAME": "GREENVILLE ISD",
@@ -27949,7 +27949,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.18,
         "PercentChangeCentralAdminPay": 11.12,
         "PercentChangeSupportStaffPay": 0.15,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.09%",
         "Enrollment": 5277.0,
         "Victories": "",
@@ -27974,7 +27973,8 @@ var DistrictsData = {
         "LocalFunding": 25128149,
         "StateFunding": 23998408,
         "FederalFunding": 9348722,
-        "OtherLocalFunding": 1913953
+        "OtherLocalFunding": 1913953,
+        "RecaptureAmount": 0
     },
     "036902": {
         "NAME": "BARBERS HILL ISD",
@@ -27984,7 +27984,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.72,
         "PercentChangeCentralAdminPay": 32.03,
         "PercentChangeSupportStaffPay": 9.78,
-        "RecaptureAmount": "11916523",
         "EnrollmentChange": "26.33%",
         "Enrollment": 6424.0,
         "Victories": "",
@@ -28009,7 +28008,8 @@ var DistrictsData = {
         "LocalFunding": 74510615,
         "StateFunding": 15516450,
         "FederalFunding": 3248627,
-        "OtherLocalFunding": 12497056
+        "OtherLocalFunding": 12497056,
+        "RecaptureAmount": 11951718
     },
     "146902": {
         "NAME": "DAYTON ISD",
@@ -28019,7 +28019,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.1,
         "PercentChangeCentralAdminPay": 1.38,
         "PercentChangeSupportStaffPay": 3.32,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.97%",
         "Enrollment": 5480.0,
         "Victories": "",
@@ -28052,7 +28051,8 @@ var DistrictsData = {
         "LocalFunding": 21198175,
         "StateFunding": 25972086,
         "FederalFunding": 7417409,
-        "OtherLocalFunding": 1126479
+        "OtherLocalFunding": 1126479,
+        "RecaptureAmount": 0
     },
     "084910": {
         "NAME": "CLEAR CREEK ISD",
@@ -28062,7 +28062,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.12,
         "PercentChangeCentralAdminPay": 4.21,
         "PercentChangeSupportStaffPay": 23.19,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-1.19%",
         "Enrollment": 40737.0,
         "Victories": "",
@@ -28099,7 +28098,8 @@ var DistrictsData = {
         "LocalFunding": 239024847,
         "StateFunding": 92497378,
         "FederalFunding": 34607191,
-        "OtherLocalFunding": 16234658
+        "OtherLocalFunding": 16234658,
+        "RecaptureAmount": 0
     },
     "108915": {
         "NAME": "MONTE ALTO ISD",
@@ -28109,7 +28109,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.51,
         "PercentChangeCentralAdminPay": 22.27,
         "PercentChangeSupportStaffPay": 3.67,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-16.1%",
         "Enrollment": 891.0,
         "Victories": "",
@@ -28142,7 +28141,8 @@ var DistrictsData = {
         "LocalFunding": 1423636,
         "StateFunding": 9070068,
         "FederalFunding": 2489165,
-        "OtherLocalFunding": 118194
+        "OtherLocalFunding": 118194,
+        "RecaptureAmount": 0
     },
     "245901": {
         "NAME": "LASARA ISD",
@@ -28152,7 +28152,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.92,
         "PercentChangeCentralAdminPay": 25.59,
         "PercentChangeSupportStaffPay": 4.19,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-31.81%",
         "Enrollment": 313.0,
         "Victories": "",
@@ -28177,7 +28176,8 @@ var DistrictsData = {
         "LocalFunding": 403842,
         "StateFunding": 3457422,
         "FederalFunding": 1387802,
-        "OtherLocalFunding": 23655
+        "OtherLocalFunding": 23655,
+        "RecaptureAmount": 0
     },
     "108914": {
         "NAME": "LA VILLA ISD",
@@ -28187,7 +28187,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -16.3,
         "PercentChangeCentralAdminPay": -12.71,
         "PercentChangeSupportStaffPay": -1.05,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.02%",
         "Enrollment": 597.0,
         "Victories": "",
@@ -28212,7 +28211,8 @@ var DistrictsData = {
         "LocalFunding": 1226669,
         "StateFunding": 6543901,
         "FederalFunding": 1461911,
-        "OtherLocalFunding": 82892
+        "OtherLocalFunding": 82892,
+        "RecaptureAmount": 0
     },
     "108907": {
         "NAME": "MERCEDES ISD",
@@ -28222,7 +28222,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.06,
         "PercentChangeCentralAdminPay": -15.86,
         "PercentChangeSupportStaffPay": -10.31,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-17.36%",
         "Enrollment": 4681.0,
         "Victories": "",
@@ -28251,7 +28250,8 @@ var DistrictsData = {
         "LocalFunding": 6457415,
         "StateFunding": 38872186,
         "FederalFunding": 20491659,
-        "OtherLocalFunding": 1267156
+        "OtherLocalFunding": 1267156,
+        "RecaptureAmount": 0
     },
     "031914": {
         "NAME": "SANTA ROSA ISD",
@@ -28261,7 +28261,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.27,
         "PercentChangeCentralAdminPay": -3.74,
         "PercentChangeSupportStaffPay": 7.62,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-17.91%",
         "Enrollment": 935.0,
         "Victories": "",
@@ -28286,7 +28285,8 @@ var DistrictsData = {
         "LocalFunding": 1130698,
         "StateFunding": 11160280,
         "FederalFunding": 3844590,
-        "OtherLocalFunding": 157666
+        "OtherLocalFunding": 157666,
+        "RecaptureAmount": 0
     },
     "031905": {
         "NAME": "LA FERIA ISD",
@@ -28296,7 +28296,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.19,
         "PercentChangeCentralAdminPay": -1.09,
         "PercentChangeSupportStaffPay": -6.76,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-15.16%",
         "Enrollment": 3094.0,
         "Victories": "",
@@ -28321,7 +28320,8 @@ var DistrictsData = {
         "LocalFunding": 4964522,
         "StateFunding": 27769362,
         "FederalFunding": 5746752,
-        "OtherLocalFunding": 380157
+        "OtherLocalFunding": 380157,
+        "RecaptureAmount": 0
     },
     "031913": {
         "NAME": "SANTA MARIA ISD",
@@ -28331,7 +28331,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.22,
         "PercentChangeCentralAdminPay": 16.71,
         "PercentChangeSupportStaffPay": -13.03,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-12.72%",
         "Enrollment": 604.0,
         "Victories": "",
@@ -28356,7 +28355,8 @@ var DistrictsData = {
         "LocalFunding": 765365,
         "StateFunding": 7415210,
         "FederalFunding": 2706064,
-        "OtherLocalFunding": 44507
+        "OtherLocalFunding": 44507,
+        "RecaptureAmount": 0
     },
     "031911": {
         "NAME": "RIO HONDO ISD",
@@ -28366,7 +28366,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.67,
         "PercentChangeCentralAdminPay": -16.49,
         "PercentChangeSupportStaffPay": -11.28,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-19.11%",
         "Enrollment": 1731.0,
         "Victories": "",
@@ -28399,7 +28398,8 @@ var DistrictsData = {
         "LocalFunding": 3545008,
         "StateFunding": 15356387,
         "FederalFunding": 3338363,
-        "OtherLocalFunding": 285943
+        "OtherLocalFunding": 285943,
+        "RecaptureAmount": 0
     },
     "245902": {
         "NAME": "LYFORD CONS ISD",
@@ -28409,7 +28409,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.25,
         "PercentChangeCentralAdminPay": -15.79,
         "PercentChangeSupportStaffPay": -15.82,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.03%",
         "Enrollment": 1449.0,
         "Victories": "",
@@ -28438,7 +28437,8 @@ var DistrictsData = {
         "LocalFunding": 2626402,
         "StateFunding": 12692842,
         "FederalFunding": 4494478,
-        "OtherLocalFunding": 1223423
+        "OtherLocalFunding": 1223423,
+        "RecaptureAmount": 0
     },
     "031903": {
         "NAME": "HARLINGEN CONS ISD",
@@ -28448,7 +28448,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.55,
         "PercentChangeCentralAdminPay": -17.82,
         "PercentChangeSupportStaffPay": -3.19,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.48%",
         "Enrollment": 17882.0,
         "Victories": "",
@@ -28477,7 +28476,8 @@ var DistrictsData = {
         "LocalFunding": 42395802,
         "StateFunding": 133709649,
         "FederalFunding": 40343017,
-        "OtherLocalFunding": 2792647
+        "OtherLocalFunding": 2792647,
+        "RecaptureAmount": 0
     },
     "031901": {
         "NAME": "BROWNSVILLE ISD",
@@ -28487,7 +28487,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 15.24,
         "PercentChangeCentralAdminPay": 18.88,
         "PercentChangeSupportStaffPay": 4.19,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-14.63%",
         "Enrollment": 40765.0,
         "Victories": "<div>In 2022, BEST AFT members fought for and WON:<ul><li>$4,000 across-the-board raise for certified staff</li><li>$1 across-the-board raise for support staff</li><li>$15 minimum wage for all employees</ul></li></div>",
@@ -28516,7 +28515,8 @@ var DistrictsData = {
         "LocalFunding": 67479374,
         "StateFunding": 355007664,
         "FederalFunding": 110105948,
-        "OtherLocalFunding": 2814443
+        "OtherLocalFunding": 2814443,
+        "RecaptureAmount": 0
     },
     "031912": {
         "NAME": "SAN BENITO CONS ISD",
@@ -28526,7 +28526,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.93,
         "PercentChangeCentralAdminPay": 9.59,
         "PercentChangeSupportStaffPay": 2.98,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.74%",
         "Enrollment": 9728.0,
         "Victories": "",
@@ -28551,7 +28550,8 @@ var DistrictsData = {
         "LocalFunding": 12558065,
         "StateFunding": 84466215,
         "FederalFunding": 44613565,
-        "OtherLocalFunding": 1551396
+        "OtherLocalFunding": 1551396,
+        "RecaptureAmount": 0
     },
     "031909": {
         "NAME": "POINT ISABEL ISD",
@@ -28561,7 +28561,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.13,
         "PercentChangeCentralAdminPay": -18.25,
         "PercentChangeSupportStaffPay": -3.58,
-        "RecaptureAmount": "18938914",
         "EnrollmentChange": "-18.1%",
         "Enrollment": 2072.0,
         "Victories": "",
@@ -28586,7 +28585,8 @@ var DistrictsData = {
         "LocalFunding": 20955103,
         "StateFunding": 1737789,
         "FederalFunding": 5183991,
-        "OtherLocalFunding": 305464
+        "OtherLocalFunding": 305464,
+        "RecaptureAmount": 18374837
     },
     "031906": {
         "NAME": "LOS FRESNOS CONS ISD",
@@ -28596,7 +28596,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.13,
         "PercentChangeCentralAdminPay": -6.63,
         "PercentChangeSupportStaffPay": 7.04,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.28%",
         "Enrollment": 10529.0,
         "Victories": "",
@@ -28625,7 +28624,8 @@ var DistrictsData = {
         "LocalFunding": 24115415,
         "StateFunding": 80536227,
         "FederalFunding": 21560747,
-        "OtherLocalFunding": 5008726
+        "OtherLocalFunding": 5008726,
+        "RecaptureAmount": 0
     },
     "116909": {
         "NAME": "WOLFE CITY ISD",
@@ -28635,7 +28635,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -19.92,
         "PercentChangeCentralAdminPay": -24.38,
         "PercentChangeSupportStaffPay": -36.73,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.17%",
         "Enrollment": 641.0,
         "Victories": "",
@@ -28664,7 +28663,8 @@ var DistrictsData = {
         "LocalFunding": 1535267,
         "StateFunding": 6330920,
         "FederalFunding": 1033815,
-        "OtherLocalFunding": 432921
+        "OtherLocalFunding": 432921,
+        "RecaptureAmount": 0
     },
     "231902": {
         "NAME": "RANKIN ISD",
@@ -28674,7 +28674,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -13.86,
         "PercentChangeCentralAdminPay": -4.09,
         "PercentChangeSupportStaffPay": -0.58,
-        "RecaptureAmount": "45573052",
         "EnrollmentChange": "2.85%",
         "Enrollment": 289.0,
         "Victories": "",
@@ -28694,7 +28693,8 @@ var DistrictsData = {
         "LocalFunding": 8861769,
         "StateFunding": 317993,
         "FederalFunding": 157262,
-        "OtherLocalFunding": 1153423
+        "OtherLocalFunding": 1153423,
+        "RecaptureAmount": 45573104
     },
     "192901": {
         "NAME": "REAGAN COUNTY ISD",
@@ -28704,7 +28704,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.83,
         "PercentChangeCentralAdminPay": 5.9,
         "PercentChangeSupportStaffPay": 1.16,
-        "RecaptureAmount": "35762061",
         "EnrollmentChange": "-7.72%",
         "Enrollment": 837.0,
         "Victories": "",
@@ -28724,7 +28723,8 @@ var DistrictsData = {
         "LocalFunding": 15027069,
         "StateFunding": 514605,
         "FederalFunding": 1124910,
-        "OtherLocalFunding": 687463
+        "OtherLocalFunding": 687463,
+        "RecaptureAmount": 35762096
     },
     "002901": {
         "NAME": "ANDREWS ISD",
@@ -28734,7 +28734,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -20.56,
         "PercentChangeCentralAdminPay": 1.97,
         "PercentChangeSupportStaffPay": -15.04,
-        "RecaptureAmount": "10070998",
         "EnrollmentChange": "3.82%",
         "Enrollment": 4128.0,
         "Victories": "",
@@ -28759,7 +28758,8 @@ var DistrictsData = {
         "LocalFunding": 34785415,
         "StateFunding": 3967205,
         "FederalFunding": 3733834,
-        "OtherLocalFunding": 2403056
+        "OtherLocalFunding": 2403056,
+        "RecaptureAmount": 10284748
     },
     "156902": {
         "NAME": "STANTON ISD",
@@ -28769,7 +28769,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -21.7,
         "PercentChangeCentralAdminPay": 17.84,
         "PercentChangeSupportStaffPay": -6.48,
-        "RecaptureAmount": "20708392",
         "EnrollmentChange": "5.51%",
         "Enrollment": 1054.0,
         "Victories": "",
@@ -28793,7 +28792,8 @@ var DistrictsData = {
         "LocalFunding": 14330928,
         "StateFunding": 600317,
         "FederalFunding": 1043912,
-        "OtherLocalFunding": 694719
+        "OtherLocalFunding": 694719,
+        "RecaptureAmount": 20705244
     },
     "074903": {
         "NAME": "BONHAM ISD",
@@ -28803,7 +28803,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.37,
         "PercentChangeCentralAdminPay": 4.14,
         "PercentChangeSupportStaffPay": -4.25,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.47%",
         "Enrollment": 1796.0,
         "Victories": "",
@@ -28828,7 +28827,8 @@ var DistrictsData = {
         "LocalFunding": 8238193,
         "StateFunding": 8807005,
         "FederalFunding": 5776199,
-        "OtherLocalFunding": 2359227
+        "OtherLocalFunding": 2359227,
+        "RecaptureAmount": 0
     },
     "170902": {
         "NAME": "CONROE ISD",
@@ -28838,7 +28838,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.03,
         "PercentChangeCentralAdminPay": 8.79,
         "PercentChangeSupportStaffPay": 0.84,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "10.86%",
         "Enrollment": 64563.0,
         "Victories": "",
@@ -28875,7 +28874,8 @@ var DistrictsData = {
         "LocalFunding": 379881671,
         "StateFunding": 158798886,
         "FederalFunding": 90310085,
-        "OtherLocalFunding": 6916663
+        "OtherLocalFunding": 6916663,
+        "RecaptureAmount": 0
     },
     "112909": {
         "NAME": "SALTILLO ISD",
@@ -28885,7 +28885,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 16.42,
         "PercentChangeCentralAdminPay": 9.74,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.67%",
         "Enrollment": 255.0,
         "Victories": "",
@@ -28914,7 +28913,8 @@ var DistrictsData = {
         "LocalFunding": 656602,
         "StateFunding": 2760166,
         "FederalFunding": 611698,
-        "OtherLocalFunding": 704543
+        "OtherLocalFunding": 704543,
+        "RecaptureAmount": 0
     },
     "250903": {
         "NAME": "MINEOLA ISD",
@@ -28924,7 +28924,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.49,
         "PercentChangeCentralAdminPay": 16.2,
         "PercentChangeSupportStaffPay": 0.66,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.0%",
         "Enrollment": 1591.0,
         "Victories": "",
@@ -28949,7 +28948,8 @@ var DistrictsData = {
         "LocalFunding": 7060955,
         "StateFunding": 9481355,
         "FederalFunding": 3229611,
-        "OtherLocalFunding": 2800890
+        "OtherLocalFunding": 2800890,
+        "RecaptureAmount": 0
     },
     "250902": {
         "NAME": "HAWKINS ISD",
@@ -28959,7 +28959,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.96,
         "PercentChangeCentralAdminPay": 0.9,
         "PercentChangeSupportStaffPay": 15.38,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-10.61%",
         "Enrollment": 657.0,
         "Victories": "",
@@ -28984,7 +28983,8 @@ var DistrictsData = {
         "LocalFunding": 6643556,
         "StateFunding": 1038486,
         "FederalFunding": 1312280,
-        "OtherLocalFunding": 548228
+        "OtherLocalFunding": 548228,
+        "RecaptureAmount": 0
     },
     "043917": {
         "NAME": "BLUE RIDGE ISD",
@@ -28994,7 +28994,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 8.62,
         "PercentChangeCentralAdminPay": 4.06,
         "PercentChangeSupportStaffPay": 22.54,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "27.04%",
         "Enrollment": 888.0,
         "Victories": "",
@@ -29031,7 +29030,8 @@ var DistrictsData = {
         "LocalFunding": 3367236,
         "StateFunding": 7721358,
         "FederalFunding": 772067,
-        "OtherLocalFunding": 562772
+        "OtherLocalFunding": 562772,
+        "RecaptureAmount": 0
     },
     "074912": {
         "NAME": "TRENTON ISD",
@@ -29041,7 +29041,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -14.84,
         "PercentChangeCentralAdminPay": -18.5,
         "PercentChangeSupportStaffPay": 3.26,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "42.16%",
         "Enrollment": 725.0,
         "Victories": "",
@@ -29074,7 +29073,8 @@ var DistrictsData = {
         "LocalFunding": 2909430,
         "StateFunding": 5535195,
         "FederalFunding": 807499,
-        "OtherLocalFunding": 251644
+        "OtherLocalFunding": 251644,
+        "RecaptureAmount": 0
     },
     "074909": {
         "NAME": "LEONARD ISD",
@@ -29084,7 +29084,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 11.11,
         "PercentChangeCentralAdminPay": -14.77,
         "PercentChangeSupportStaffPay": 6.93,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.59%",
         "Enrollment": 831.0,
         "Victories": "",
@@ -29121,7 +29120,8 @@ var DistrictsData = {
         "LocalFunding": 2646262,
         "StateFunding": 6982478,
         "FederalFunding": 834487,
-        "OtherLocalFunding": 332979
+        "OtherLocalFunding": 332979,
+        "RecaptureAmount": 0
     },
     "091910": {
         "NAME": "WHITEWRIGHT ISD",
@@ -29131,7 +29131,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.77,
         "PercentChangeCentralAdminPay": -5.01,
         "PercentChangeSupportStaffPay": -4.21,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.25%",
         "Enrollment": 743.0,
         "Victories": "",
@@ -29164,7 +29163,8 @@ var DistrictsData = {
         "LocalFunding": 3655156,
         "StateFunding": 5979195,
         "FederalFunding": 1161949,
-        "OtherLocalFunding": 301023
+        "OtherLocalFunding": 301023,
+        "RecaptureAmount": 0
     },
     "116902": {
         "NAME": "CELESTE ISD",
@@ -29174,7 +29174,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.6,
         "PercentChangeCentralAdminPay": -23.55,
         "PercentChangeSupportStaffPay": 0.65,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.0%",
         "Enrollment": 494.0,
         "Victories": "",
@@ -29199,7 +29198,8 @@ var DistrictsData = {
         "LocalFunding": 1421730,
         "StateFunding": 4696348,
         "FederalFunding": 660197,
-        "OtherLocalFunding": 111492
+        "OtherLocalFunding": 111492,
+        "RecaptureAmount": 0
     },
     "116915": {
         "NAME": "BLAND ISD",
@@ -29209,7 +29209,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.44,
         "PercentChangeCentralAdminPay": -9.55,
         "PercentChangeSupportStaffPay": 7.93,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "19.08%",
         "Enrollment": 724.0,
         "Victories": "",
@@ -29242,7 +29241,8 @@ var DistrictsData = {
         "LocalFunding": 2402081,
         "StateFunding": 6189173,
         "FederalFunding": 1421388,
-        "OtherLocalFunding": 670876
+        "OtherLocalFunding": 670876,
+        "RecaptureAmount": 0
     },
     "043904": {
         "NAME": "FARMERSVILLE ISD",
@@ -29252,7 +29252,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.63,
         "PercentChangeCentralAdminPay": -13.91,
         "PercentChangeSupportStaffPay": 4.73,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "20.38%",
         "Enrollment": 1884.0,
         "Victories": "",
@@ -29285,7 +29284,8 @@ var DistrictsData = {
         "LocalFunding": 7783756,
         "StateFunding": 12037482,
         "FederalFunding": 2496061,
-        "OtherLocalFunding": 489686
+        "OtherLocalFunding": 489686,
+        "RecaptureAmount": 0
     },
     "043908": {
         "NAME": "MELISSA ISD",
@@ -29295,7 +29295,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.77,
         "PercentChangeCentralAdminPay": 24.39,
         "PercentChangeSupportStaffPay": -1.26,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "75.53%",
         "Enrollment": 4104.0,
         "Victories": "",
@@ -29320,7 +29319,8 @@ var DistrictsData = {
         "LocalFunding": 17352181,
         "StateFunding": 21392563,
         "FederalFunding": 1397648,
-        "OtherLocalFunding": 2226277
+        "OtherLocalFunding": 2226277,
+        "RecaptureAmount": 0
     },
     "043907": {
         "NAME": "MCKINNEY ISD",
@@ -29330,7 +29330,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.66,
         "PercentChangeCentralAdminPay": 10.79,
         "PercentChangeSupportStaffPay": 1.45,
-        "RecaptureAmount": "1994547",
         "EnrollmentChange": "-5.52%",
         "Enrollment": 23398.0,
         "Victories": "",
@@ -29367,7 +29366,8 @@ var DistrictsData = {
         "LocalFunding": 182825611,
         "StateFunding": 32481374,
         "FederalFunding": 25970501,
-        "OtherLocalFunding": 8230537
+        "OtherLocalFunding": 8230537,
+        "RecaptureAmount": 0
     },
     "043902": {
         "NAME": "ANNA ISD",
@@ -29377,7 +29377,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.15,
         "PercentChangeCentralAdminPay": 13.83,
         "PercentChangeSupportStaffPay": 17.75,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "29.52%",
         "Enrollment": 3979.0,
         "Victories": "",
@@ -29406,7 +29405,8 @@ var DistrictsData = {
         "LocalFunding": 16497821,
         "StateFunding": 22720175,
         "FederalFunding": 4400225,
-        "OtherLocalFunding": 1277597
+        "OtherLocalFunding": 1277597,
+        "RecaptureAmount": 0
     },
     "043911": {
         "NAME": "PRINCETON ISD",
@@ -29416,7 +29416,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.36,
         "PercentChangeCentralAdminPay": -6.44,
         "PercentChangeSupportStaffPay": 3.2,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "50.1%",
         "Enrollment": 5818.0,
         "Victories": "",
@@ -29445,7 +29444,8 @@ var DistrictsData = {
         "LocalFunding": 17224025,
         "StateFunding": 38068453,
         "FederalFunding": 5001537,
-        "OtherLocalFunding": 1002668
+        "OtherLocalFunding": 1002668,
+        "RecaptureAmount": 0
     },
     "241901": {
         "NAME": "BOLING ISD",
@@ -29455,7 +29455,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 12.36,
         "PercentChangeCentralAdminPay": 16.93,
         "PercentChangeSupportStaffPay": -0.42,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.63%",
         "Enrollment": 1101.0,
         "Victories": "",
@@ -29484,7 +29483,8 @@ var DistrictsData = {
         "LocalFunding": 4342229,
         "StateFunding": 6766046,
         "FederalFunding": 924750,
-        "OtherLocalFunding": 522472
+        "OtherLocalFunding": 522472,
+        "RecaptureAmount": 0
     },
     "079906": {
         "NAME": "NEEDVILLE ISD",
@@ -29494,7 +29494,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 11.2,
         "PercentChangeCentralAdminPay": 50.35,
         "PercentChangeSupportStaffPay": 8.95,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "9.33%",
         "Enrollment": 3306.0,
         "Victories": "",
@@ -29523,7 +29522,8 @@ var DistrictsData = {
         "LocalFunding": 12318132,
         "StateFunding": 19832001,
         "FederalFunding": 3335487,
-        "OtherLocalFunding": 1779302
+        "OtherLocalFunding": 1779302,
+        "RecaptureAmount": 0
     },
     "008903": {
         "NAME": "BRAZOS ISD",
@@ -29533,7 +29533,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -15.96,
         "PercentChangeCentralAdminPay": 0.78,
         "PercentChangeSupportStaffPay": -7.51,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.13%",
         "Enrollment": 795.0,
         "Victories": "",
@@ -29566,7 +29565,8 @@ var DistrictsData = {
         "LocalFunding": 3513707,
         "StateFunding": 6519658,
         "FederalFunding": 819011,
-        "OtherLocalFunding": 470579
+        "OtherLocalFunding": 470579,
+        "RecaptureAmount": 0
     },
     "241902": {
         "NAME": "EAST BERNARD ISD",
@@ -29576,7 +29576,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.05,
         "PercentChangeCentralAdminPay": 19.96,
         "PercentChangeSupportStaffPay": -14.72,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.99%",
         "Enrollment": 931.0,
         "Victories": "",
@@ -29601,7 +29600,8 @@ var DistrictsData = {
         "LocalFunding": 4475286,
         "StateFunding": 5824424,
         "FederalFunding": 590637,
-        "OtherLocalFunding": 591094
+        "OtherLocalFunding": 591094,
+        "RecaptureAmount": 0
     },
     "045903": {
         "NAME": "RICE CONS ISD",
@@ -29611,7 +29611,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 4.82,
         "PercentChangeCentralAdminPay": -0.06,
         "PercentChangeSupportStaffPay": 1.97,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.35%",
         "Enrollment": 1289.0,
         "Victories": "",
@@ -29636,7 +29635,8 @@ var DistrictsData = {
         "LocalFunding": 8276124,
         "StateFunding": 5447213,
         "FederalFunding": 1779659,
-        "OtherLocalFunding": 419651
+        "OtherLocalFunding": 419651,
+        "RecaptureAmount": 0
     },
     "008902": {
         "NAME": "SEALY ISD",
@@ -29646,7 +29646,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.33,
         "PercentChangeCentralAdminPay": -0.89,
         "PercentChangeSupportStaffPay": -4.79,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.68%",
         "Enrollment": 2814.0,
         "Victories": "",
@@ -29671,7 +29670,8 @@ var DistrictsData = {
         "LocalFunding": 14100264,
         "StateFunding": 10143754,
         "FederalFunding": 3638598,
-        "OtherLocalFunding": 2773077
+        "OtherLocalFunding": 2773077,
+        "RecaptureAmount": 0
     },
     "101908": {
         "NAME": "DEER PARK ISD",
@@ -29681,7 +29681,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.15,
         "PercentChangeCentralAdminPay": -18.69,
         "PercentChangeSupportStaffPay": -7.44,
-        "RecaptureAmount": "3677037",
         "EnrollmentChange": "-6.84%",
         "Enrollment": 12370.0,
         "Victories": "",
@@ -29722,7 +29721,8 @@ var DistrictsData = {
         "LocalFunding": 106355385,
         "StateFunding": 21507364,
         "FederalFunding": 15555421,
-        "OtherLocalFunding": 3699747
+        "OtherLocalFunding": 3699747,
+        "RecaptureAmount": 3548994
     },
     "170903": {
         "NAME": "MONTGOMERY ISD",
@@ -29732,7 +29732,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.09,
         "PercentChangeCentralAdminPay": 9.53,
         "PercentChangeSupportStaffPay": -18.86,
-        "RecaptureAmount": "548516",
         "EnrollmentChange": "9.13%",
         "Enrollment": 8920.0,
         "Victories": "",
@@ -29765,7 +29764,8 @@ var DistrictsData = {
         "LocalFunding": 63168301,
         "StateFunding": 8642144,
         "FederalFunding": 7641599,
-        "OtherLocalFunding": 5565974
+        "OtherLocalFunding": 5565974,
+        "RecaptureAmount": 0
     },
     "101916": {
         "NAME": "LA PORTE ISD",
@@ -29775,7 +29775,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.19,
         "PercentChangeCentralAdminPay": 2.66,
         "PercentChangeSupportStaffPay": 0.54,
-        "RecaptureAmount": "48365910",
         "EnrollmentChange": "-9.73%",
         "Enrollment": 6999.0,
         "Victories": "",
@@ -29820,7 +29819,8 @@ var DistrictsData = {
         "LocalFunding": 66119706,
         "StateFunding": 4306435,
         "FederalFunding": 10856724,
-        "OtherLocalFunding": 5335472
+        "OtherLocalFunding": 5335472,
+        "RecaptureAmount": 48381443
     },
     "084906": {
         "NAME": "TEXAS CITY ISD",
@@ -29830,7 +29830,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.37,
         "PercentChangeCentralAdminPay": 1.05,
         "PercentChangeSupportStaffPay": -4.94,
-        "RecaptureAmount": "395482",
         "EnrollmentChange": "25.75%",
         "Enrollment": 8044.0,
         "Victories": "",
@@ -29863,7 +29862,8 @@ var DistrictsData = {
         "LocalFunding": 56629756,
         "StateFunding": 41729700,
         "FederalFunding": 20920345,
-        "OtherLocalFunding": 5552635
+        "OtherLocalFunding": 5552635,
+        "RecaptureAmount": 631414
     },
     "084903": {
         "NAME": "HIGH ISLAND ISD",
@@ -29873,7 +29873,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -30.38,
         "PercentChangeCentralAdminPay": -32.53,
         "PercentChangeSupportStaffPay": -46.36,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "19.58%",
         "Enrollment": 171.0,
         "Victories": "",
@@ -29898,7 +29897,8 @@ var DistrictsData = {
         "LocalFunding": 1541775,
         "StateFunding": 995926,
         "FederalFunding": 289110,
-        "OtherLocalFunding": 162353
+        "OtherLocalFunding": 162353,
+        "RecaptureAmount": 0
     },
     "084901": {
         "NAME": "DICKINSON ISD",
@@ -29908,7 +29908,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 4.96,
         "PercentChangeCentralAdminPay": -1.84,
         "PercentChangeSupportStaffPay": 0.95,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "6.19%",
         "Enrollment": 11631.0,
         "Victories": "",
@@ -29941,7 +29940,8 @@ var DistrictsData = {
         "LocalFunding": 42925661,
         "StateFunding": 61021040,
         "FederalFunding": 16695266,
-        "OtherLocalFunding": 3061655
+        "OtherLocalFunding": 3061655,
+        "RecaptureAmount": 0
     },
     "036901": {
         "NAME": "ANAHUAC ISD",
@@ -29951,7 +29951,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.05,
         "PercentChangeCentralAdminPay": -4.79,
         "PercentChangeSupportStaffPay": 6.6,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.77%",
         "Enrollment": 1326.0,
         "Victories": "",
@@ -29976,7 +29975,8 @@ var DistrictsData = {
         "LocalFunding": 5436169,
         "StateFunding": 7927615,
         "FederalFunding": 2557154,
-        "OtherLocalFunding": 1204998
+        "OtherLocalFunding": 1204998,
+        "RecaptureAmount": 0
     },
     "020905": {
         "NAME": "BRAZOSPORT ISD",
@@ -29986,7 +29986,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.29,
         "PercentChangeCentralAdminPay": 6.55,
         "PercentChangeSupportStaffPay": -7.76,
-        "RecaptureAmount": "1682851",
         "EnrollmentChange": "-7.44%",
         "Enrollment": 11424.0,
         "Victories": "",
@@ -30015,7 +30014,8 @@ var DistrictsData = {
         "LocalFunding": 90513974,
         "StateFunding": 12260642,
         "FederalFunding": 16280591,
-        "OtherLocalFunding": 24070818
+        "OtherLocalFunding": 24070818,
+        "RecaptureAmount": 1557190
     },
     "084908": {
         "NAME": "HITCHCOCK ISD",
@@ -30025,7 +30025,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.24,
         "PercentChangeCentralAdminPay": -11.95,
         "PercentChangeSupportStaffPay": 5.48,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.75%",
         "Enrollment": 1644.0,
         "Victories": "",
@@ -30054,7 +30053,8 @@ var DistrictsData = {
         "LocalFunding": 8494631,
         "StateFunding": 10507516,
         "FederalFunding": 7277676,
-        "OtherLocalFunding": 514604
+        "OtherLocalFunding": 514604,
+        "RecaptureAmount": 0
     },
     "084902": {
         "NAME": "GALVESTON ISD",
@@ -30064,7 +30064,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.1,
         "PercentChangeCentralAdminPay": 22.95,
         "PercentChangeSupportStaffPay": -8.47,
-        "RecaptureAmount": "21133566",
         "EnrollmentChange": "-4.34%",
         "Enrollment": 6698.0,
         "Victories": "",
@@ -30093,7 +30092,8 @@ var DistrictsData = {
         "LocalFunding": 58031785,
         "StateFunding": 6292171,
         "FederalFunding": 15325111,
-        "OtherLocalFunding": 12309812
+        "OtherLocalFunding": 12309812,
+        "RecaptureAmount": 21054863
     },
     "237905": {
         "NAME": "ROYAL ISD",
@@ -30103,7 +30103,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.75,
         "PercentChangeCentralAdminPay": 6.71,
         "PercentChangeSupportStaffPay": 6.15,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "9.07%",
         "Enrollment": 2476.0,
         "Victories": "",
@@ -30128,7 +30127,8 @@ var DistrictsData = {
         "LocalFunding": 16818198,
         "StateFunding": 11188394,
         "FederalFunding": 3682247,
-        "OtherLocalFunding": 706001
+        "OtherLocalFunding": 706001,
+        "RecaptureAmount": 0
     },
     "237902": {
         "NAME": "HEMPSTEAD ISD",
@@ -30138,7 +30138,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.45,
         "PercentChangeCentralAdminPay": 1.47,
         "PercentChangeSupportStaffPay": -12.44,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.41%",
         "Enrollment": 1511.0,
         "Victories": "",
@@ -30163,7 +30162,8 @@ var DistrictsData = {
         "LocalFunding": 7488750,
         "StateFunding": 8623851,
         "FederalFunding": 2858279,
-        "OtherLocalFunding": 241268
+        "OtherLocalFunding": 241268,
+        "RecaptureAmount": 0
     },
     "170906": {
         "NAME": "MAGNOLIA ISD",
@@ -30173,7 +30173,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.9,
         "PercentChangeCentralAdminPay": 20.94,
         "PercentChangeSupportStaffPay": 8.44,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.82%",
         "Enrollment": 13122.0,
         "Victories": "",
@@ -30206,7 +30205,8 @@ var DistrictsData = {
         "LocalFunding": 70406860,
         "StateFunding": 39422957,
         "FederalFunding": 28447994,
-        "OtherLocalFunding": 3413027
+        "OtherLocalFunding": 3413027,
+        "RecaptureAmount": 0
     },
     "093904": {
         "NAME": "NAVASOTA ISD",
@@ -30216,7 +30216,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.2,
         "PercentChangeCentralAdminPay": 2.27,
         "PercentChangeSupportStaffPay": -7.01,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.5%",
         "Enrollment": 2847.0,
         "Victories": "",
@@ -30245,7 +30244,8 @@ var DistrictsData = {
         "LocalFunding": 18747820,
         "StateFunding": 8146487,
         "FederalFunding": 7469501,
-        "OtherLocalFunding": 1229509
+        "OtherLocalFunding": 1229509,
+        "RecaptureAmount": 0
     },
     "101907": {
         "NAME": "CYPRESS-FAIRBANKS ISD",
@@ -30255,7 +30255,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.02,
         "PercentChangeCentralAdminPay": 2.75,
         "PercentChangeSupportStaffPay": 2.78,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.83%",
         "Enrollment": 114881.0,
         "Victories": "",
@@ -30316,7 +30315,8 @@ var DistrictsData = {
         "LocalFunding": 535744999,
         "StateFunding": 368632776,
         "FederalFunding": 190141981,
-        "OtherLocalFunding": 27599820
+        "OtherLocalFunding": 27599820,
+        "RecaptureAmount": 0
     },
     "237904": {
         "NAME": "WALLER ISD",
@@ -30326,7 +30326,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.12,
         "PercentChangeCentralAdminPay": 1.0,
         "PercentChangeSupportStaffPay": 2.23,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "18.11%",
         "Enrollment": 7762.0,
         "Victories": "",
@@ -30363,7 +30362,8 @@ var DistrictsData = {
         "LocalFunding": 44168114,
         "StateFunding": 29516036,
         "FederalFunding": 14058550,
-        "OtherLocalFunding": 715461
+        "OtherLocalFunding": 715461,
+        "RecaptureAmount": 0
     },
     "101920": {
         "NAME": "SPRING BRANCH ISD",
@@ -30373,7 +30373,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.96,
         "PercentChangeCentralAdminPay": 4.32,
         "PercentChangeSupportStaffPay": -4.49,
-        "RecaptureAmount": "61456973",
         "EnrollmentChange": "-5.7%",
         "Enrollment": 33288.0,
         "Victories": "",
@@ -30422,7 +30421,8 @@ var DistrictsData = {
         "LocalFunding": 273929578,
         "StateFunding": 21705742,
         "FederalFunding": 65701560,
-        "OtherLocalFunding": 10103320
+        "OtherLocalFunding": 10103320,
+        "RecaptureAmount": 59724360
     },
     "101915": {
         "NAME": "KLEIN ISD",
@@ -30432,7 +30432,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.77,
         "PercentChangeCentralAdminPay": 15.94,
         "PercentChangeSupportStaffPay": -8.1,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.41%",
         "Enrollment": 52824.0,
         "Victories": "",
@@ -30477,7 +30476,8 @@ var DistrictsData = {
         "LocalFunding": 222229449,
         "StateFunding": 223888717,
         "FederalFunding": 60361970,
-        "OtherLocalFunding": 11583759
+        "OtherLocalFunding": 11583759,
+        "RecaptureAmount": 0
     },
     "101902": {
         "NAME": "ALDINE ISD",
@@ -30487,7 +30487,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.1,
         "PercentChangeCentralAdminPay": -1.01,
         "PercentChangeSupportStaffPay": -6.37,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.1%",
         "Enrollment": 63302.0,
         "Victories": "<div>In 2022, Aldine AFT members fought for and WON:<ul><li>3% pay raise for exempt employees</li><li>$1,500 for non-exempt employees</li><li>Retention bonuses up to $5,000 based on years of service</ul></li></div>",
@@ -30540,7 +30539,8 @@ var DistrictsData = {
         "LocalFunding": 227267729,
         "StateFunding": 402548521,
         "FederalFunding": 154132918,
-        "OtherLocalFunding": 14859159
+        "OtherLocalFunding": 14859159,
+        "RecaptureAmount": 0
     },
     "101921": {
         "NAME": "TOMBALL ISD",
@@ -30550,7 +30550,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.81,
         "PercentChangeCentralAdminPay": -2.5,
         "PercentChangeSupportStaffPay": -3.03,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "32.2%",
         "Enrollment": 18666.0,
         "Victories": "",
@@ -30591,7 +30590,8 @@ var DistrictsData = {
         "LocalFunding": 114391853,
         "StateFunding": 40825521,
         "FederalFunding": 13761709,
-        "OtherLocalFunding": 6251964
+        "OtherLocalFunding": 6251964,
+        "RecaptureAmount": 0
     },
     "101924": {
         "NAME": "SHELDON ISD",
@@ -30601,7 +30601,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.47,
         "PercentChangeCentralAdminPay": 18.84,
         "PercentChangeSupportStaffPay": 0.72,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "20.4%",
         "Enrollment": 10206.0,
         "Victories": "",
@@ -30646,7 +30645,8 @@ var DistrictsData = {
         "LocalFunding": 59195822,
         "StateFunding": 46321103,
         "FederalFunding": 16607661,
-        "OtherLocalFunding": 880633
+        "OtherLocalFunding": 880633,
+        "RecaptureAmount": 0
     },
     "101910": {
         "NAME": "GALENA PARK ISD",
@@ -30656,7 +30656,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.61,
         "PercentChangeCentralAdminPay": -7.92,
         "PercentChangeSupportStaffPay": -1.59,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.8%",
         "Enrollment": 21918.0,
         "Victories": "",
@@ -30693,7 +30692,8 @@ var DistrictsData = {
         "LocalFunding": 112249399,
         "StateFunding": 127063460,
         "FederalFunding": 40738459,
-        "OtherLocalFunding": 2821652
+        "OtherLocalFunding": 2821652,
+        "RecaptureAmount": 0
     },
     "101906": {
         "NAME": "CROSBY ISD",
@@ -30703,7 +30703,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.05,
         "PercentChangeCentralAdminPay": 3.03,
         "PercentChangeSupportStaffPay": 22.21,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "11.57%",
         "Enrollment": 6337.0,
         "Victories": "",
@@ -30736,7 +30735,8 @@ var DistrictsData = {
         "LocalFunding": 22381534,
         "StateFunding": 37411876,
         "FederalFunding": 8035894,
-        "OtherLocalFunding": 1004294
+        "OtherLocalFunding": 1004294,
+        "RecaptureAmount": 0
     },
     "101905": {
         "NAME": "CHANNELVIEW ISD",
@@ -30746,7 +30746,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.33,
         "PercentChangeCentralAdminPay": 21.46,
         "PercentChangeSupportStaffPay": -3.29,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.54%",
         "Enrollment": 9572.0,
         "Victories": "",
@@ -30787,7 +30786,8 @@ var DistrictsData = {
         "LocalFunding": 41876506,
         "StateFunding": 53768200,
         "FederalFunding": 18112078,
-        "OtherLocalFunding": 1235546
+        "OtherLocalFunding": 1235546,
+        "RecaptureAmount": 0
     },
     "101913": {
         "NAME": "HUMBLE ISD",
@@ -30797,7 +30797,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.12,
         "PercentChangeCentralAdminPay": -3.59,
         "PercentChangeSupportStaffPay": 3.12,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "12.28%",
         "Enrollment": 45528.0,
         "Victories": "",
@@ -30842,7 +30841,8 @@ var DistrictsData = {
         "LocalFunding": 180243187,
         "StateFunding": 224913066,
         "FederalFunding": 82262057,
-        "OtherLocalFunding": 24305185
+        "OtherLocalFunding": 24305185,
+        "RecaptureAmount": 0
     },
     "101911": {
         "NAME": "GOOSE CREEK CONSOLIDATED ISD",
@@ -30852,7 +30852,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.53,
         "PercentChangeCentralAdminPay": -19.91,
         "PercentChangeSupportStaffPay": -3.93,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.81%",
         "Enrollment": 23318.0,
         "Victories": "",
@@ -30893,7 +30892,8 @@ var DistrictsData = {
         "LocalFunding": 132636514,
         "StateFunding": 90409602,
         "FederalFunding": 55399318,
-        "OtherLocalFunding": 5262955
+        "OtherLocalFunding": 5262955,
+        "RecaptureAmount": 0
     },
     "079907": {
         "NAME": "FORT BEND ISD",
@@ -30903,7 +30903,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.95,
         "PercentChangeCentralAdminPay": 5.87,
         "PercentChangeSupportStaffPay": 0.75,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.95%",
         "Enrollment": 76735.0,
         "Victories": "",
@@ -30948,7 +30947,8 @@ var DistrictsData = {
         "LocalFunding": 416008684,
         "StateFunding": 257744616,
         "FederalFunding": 81101539,
-        "OtherLocalFunding": 8770954
+        "OtherLocalFunding": 8770954,
+        "RecaptureAmount": 0
     },
     "101914": {
         "NAME": "KATY ISD",
@@ -30958,7 +30958,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.82,
         "PercentChangeCentralAdminPay": -6.84,
         "PercentChangeSupportStaffPay": -6.4,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "15.39%",
         "Enrollment": 84176.0,
         "Victories": "",
@@ -31015,7 +31014,8 @@ var DistrictsData = {
         "LocalFunding": 435011465,
         "StateFunding": 334177761,
         "FederalFunding": 79284651,
-        "OtherLocalFunding": 30425335
+        "OtherLocalFunding": 30425335,
+        "RecaptureAmount": 0
     },
     "101903": {
         "NAME": "ALIEF ISD",
@@ -31025,7 +31025,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.97,
         "PercentChangeCentralAdminPay": -13.23,
         "PercentChangeSupportStaffPay": -4.33,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-11.72%",
         "Enrollment": 41724.0,
         "Victories": "<div></ul><ul></div>",
@@ -31066,7 +31065,8 @@ var DistrictsData = {
         "LocalFunding": 170881266,
         "StateFunding": 225496259,
         "FederalFunding": 107545820,
-        "OtherLocalFunding": 3147342
+        "OtherLocalFunding": 3147342,
+        "RecaptureAmount": 0
     },
     "079910": {
         "NAME": "STAFFORD MSD",
@@ -31076,7 +31076,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 4.4,
         "PercentChangeCentralAdminPay": 22.5,
         "PercentChangeSupportStaffPay": 19.58,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-2.53%",
         "Enrollment": 3316.0,
         "Victories": "",
@@ -31113,7 +31112,8 @@ var DistrictsData = {
         "LocalFunding": 28070077,
         "StateFunding": 5467290,
         "FederalFunding": 5976577,
-        "OtherLocalFunding": 472232
+        "OtherLocalFunding": 472232,
+        "RecaptureAmount": 0
     },
     "020902": {
         "NAME": "ANGLETON ISD",
@@ -31123,7 +31123,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.54,
         "PercentChangeCentralAdminPay": 5.85,
         "PercentChangeSupportStaffPay": 4.49,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.84%",
         "Enrollment": 6863.0,
         "Victories": "",
@@ -31156,7 +31155,8 @@ var DistrictsData = {
         "LocalFunding": 33005847,
         "StateFunding": 33829608,
         "FederalFunding": 12728228,
-        "OtherLocalFunding": 4432330
+        "OtherLocalFunding": 4432330,
+        "RecaptureAmount": 0
     },
     "020901": {
         "NAME": "ALVIN ISD",
@@ -31166,7 +31166,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.2,
         "PercentChangeCentralAdminPay": 31.4,
         "PercentChangeSupportStaffPay": 4.03,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "21.74%",
         "Enrollment": 27006.0,
         "Victories": "",
@@ -31195,7 +31194,8 @@ var DistrictsData = {
         "LocalFunding": 85065794,
         "StateFunding": 190300374,
         "FederalFunding": 32085947,
-        "OtherLocalFunding": 23983099
+        "OtherLocalFunding": 23983099,
+        "RecaptureAmount": 0
     },
     "101912": {
         "NAME": "HOUSTON ISD",
@@ -31205,7 +31205,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -13.24,
         "PercentChangeCentralAdminPay": -11.65,
         "PercentChangeSupportStaffPay": -11.41,
-        "RecaptureAmount": "198143888",
         "EnrollmentChange": "-8.66%",
         "Enrollment": 196943.0,
         "Victories": "<div>In 2022, Houston Educational Support Personnel members fought for and WON:<ul><li>Between 6-16% pay raises for support staff</li><li>$2,000 bonus for support staff</ul></li></div><div>In 2022, Houston Federation of Teachers members fought for and WON:<ul><li>11% average pay raise for teachers and staff on the teacher pay scale</ul></li></div>",
@@ -31302,7 +31301,8 @@ var DistrictsData = {
         "LocalFunding": 1603618038,
         "StateFunding": 230253260,
         "FederalFunding": 341024809,
-        "OtherLocalFunding": 38564154
+        "OtherLocalFunding": 38564154,
+        "RecaptureAmount": 197810414
     },
     "079901": {
         "NAME": "LAMAR CONS ISD",
@@ -31312,7 +31312,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.25,
         "PercentChangeCentralAdminPay": 18.91,
         "PercentChangeSupportStaffPay": -0.04,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "22.99%",
         "Enrollment": 36519.0,
         "Victories": "",
@@ -31349,7 +31348,8 @@ var DistrictsData = {
         "LocalFunding": 173019343,
         "StateFunding": 147130145,
         "FederalFunding": 40864408,
-        "OtherLocalFunding": 7277255
+        "OtherLocalFunding": 7277255,
+        "RecaptureAmount": 0
     },
     "032902": {
         "NAME": "PITTSBURG ISD",
@@ -31359,7 +31359,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.43,
         "PercentChangeCentralAdminPay": -1.91,
         "PercentChangeSupportStaffPay": 2.06,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-5.21%",
         "Enrollment": 2347.0,
         "Victories": "",
@@ -31388,7 +31387,8 @@ var DistrictsData = {
         "LocalFunding": 8556617,
         "StateFunding": 14020731,
         "FederalFunding": 3437358,
-        "OtherLocalFunding": 366971
+        "OtherLocalFunding": 366971,
+        "RecaptureAmount": 0
     },
     "230903": {
         "NAME": "ORE CITY ISD",
@@ -31398,7 +31398,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 4.61,
         "PercentChangeCentralAdminPay": 6.78,
         "PercentChangeSupportStaffPay": -3.0,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "5.57%",
         "Enrollment": 928.0,
         "Victories": "",
@@ -31427,7 +31426,8 @@ var DistrictsData = {
         "LocalFunding": 1775988,
         "StateFunding": 8795136,
         "FederalFunding": 2048776,
-        "OtherLocalFunding": 309822
+        "OtherLocalFunding": 309822,
+        "RecaptureAmount": 0
     },
     "172902": {
         "NAME": "DAINGERFIELD-LONE STAR ISD",
@@ -31437,7 +31437,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.15,
         "PercentChangeCentralAdminPay": -22.68,
         "PercentChangeSupportStaffPay": 0.45,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.32%",
         "Enrollment": 1057.0,
         "Victories": "",
@@ -31462,7 +31461,8 @@ var DistrictsData = {
         "LocalFunding": 7148168,
         "StateFunding": 4536460,
         "FederalFunding": 3264761,
-        "OtherLocalFunding": 717435
+        "OtherLocalFunding": 717435,
+        "RecaptureAmount": 0
     },
     "225906": {
         "NAME": "CHAPEL HILL ISD (TITUS)",
@@ -31472,7 +31472,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.25,
         "PercentChangeCentralAdminPay": -0.47,
         "PercentChangeSupportStaffPay": -6.1,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.61%",
         "Enrollment": 992.0,
         "Victories": "",
@@ -31497,7 +31496,8 @@ var DistrictsData = {
         "LocalFunding": 1511180,
         "StateFunding": 9554713,
         "FederalFunding": 1167548,
-        "OtherLocalFunding": 381635
+        "OtherLocalFunding": 381635,
+        "RecaptureAmount": 0
     },
     "250907": {
         "NAME": "WINNSBORO ISD",
@@ -31507,7 +31507,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.39,
         "PercentChangeCentralAdminPay": -20.56,
         "PercentChangeSupportStaffPay": -1.33,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.41%",
         "Enrollment": 1467.0,
         "Victories": "",
@@ -31540,7 +31539,8 @@ var DistrictsData = {
         "LocalFunding": 5635096,
         "StateFunding": 11695676,
         "FederalFunding": 2881453,
-        "OtherLocalFunding": 398209
+        "OtherLocalFunding": 398209,
+        "RecaptureAmount": 0
     },
     "230902": {
         "NAME": "GILMER ISD",
@@ -31550,7 +31550,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.4,
         "PercentChangeCentralAdminPay": 2.87,
         "PercentChangeSupportStaffPay": -2.83,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.46%",
         "Enrollment": 2510.0,
         "Victories": "",
@@ -31579,7 +31578,8 @@ var DistrictsData = {
         "LocalFunding": 9610635,
         "StateFunding": 16648647,
         "FederalFunding": 7427191,
-        "OtherLocalFunding": 3767377
+        "OtherLocalFunding": 3767377,
+        "RecaptureAmount": 0
     },
     "230904": {
         "NAME": "UNION HILL ISD",
@@ -31589,7 +31589,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 11.02,
         "PercentChangeCentralAdminPay": -25.49,
         "PercentChangeSupportStaffPay": 38.7,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.33%",
         "Enrollment": 307.0,
         "Victories": "",
@@ -31613,7 +31612,8 @@ var DistrictsData = {
         "LocalFunding": 1024834,
         "StateFunding": 3215374,
         "FederalFunding": 700605,
-        "OtherLocalFunding": 120167
+        "OtherLocalFunding": 120167,
+        "RecaptureAmount": 0
     },
     "225902": {
         "NAME": "MOUNT PLEASANT ISD",
@@ -31623,7 +31623,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.45,
         "PercentChangeCentralAdminPay": 2.86,
         "PercentChangeSupportStaffPay": -4.99,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.86%",
         "Enrollment": 5306.0,
         "Victories": "",
@@ -31648,7 +31647,8 @@ var DistrictsData = {
         "LocalFunding": 14622430,
         "StateFunding": 36248669,
         "FederalFunding": 12498575,
-        "OtherLocalFunding": 2973575
+        "OtherLocalFunding": 2973575,
+        "RecaptureAmount": 0
     },
     "080901": {
         "NAME": "MOUNT VERNON ISD",
@@ -31658,7 +31658,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.72,
         "PercentChangeCentralAdminPay": 24.54,
         "PercentChangeSupportStaffPay": -1.25,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-10.69%",
         "Enrollment": 1478.0,
         "Victories": "",
@@ -31691,7 +31690,8 @@ var DistrictsData = {
         "LocalFunding": 10937909,
         "StateFunding": 3805660,
         "FederalFunding": 2280982,
-        "OtherLocalFunding": 487437
+        "OtherLocalFunding": 487437,
+        "RecaptureAmount": 0
     },
     "250905": {
         "NAME": "YANTIS ISD",
@@ -31701,7 +31701,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.03,
         "PercentChangeCentralAdminPay": -16.5,
         "PercentChangeSupportStaffPay": 4.37,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "1.64%",
         "Enrollment": 371.0,
         "Victories": "",
@@ -31730,7 +31729,8 @@ var DistrictsData = {
         "LocalFunding": 3482234,
         "StateFunding": 847201,
         "FederalFunding": 562252,
-        "OtherLocalFunding": 44589
+        "OtherLocalFunding": 44589,
+        "RecaptureAmount": 0
     },
     "112901": {
         "NAME": "SULPHUR SPRINGS ISD",
@@ -31740,7 +31740,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.39,
         "PercentChangeCentralAdminPay": 3.12,
         "PercentChangeSupportStaffPay": 5.98,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.6%",
         "Enrollment": 4313.0,
         "Victories": "",
@@ -31765,7 +31764,8 @@ var DistrictsData = {
         "LocalFunding": 14095441,
         "StateFunding": 24710063,
         "FederalFunding": 10095864,
-        "OtherLocalFunding": 1181205
+        "OtherLocalFunding": 1181205,
+        "RecaptureAmount": 0
     },
     "112908": {
         "NAME": "COMO-PICKTON CONS ISD",
@@ -31775,7 +31775,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.43,
         "PercentChangeCentralAdminPay": 5.78,
         "PercentChangeSupportStaffPay": -17.52,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.59%",
         "Enrollment": 709.0,
         "Victories": "",
@@ -31808,7 +31807,8 @@ var DistrictsData = {
         "LocalFunding": 1681346,
         "StateFunding": 6288538,
         "FederalFunding": 1067240,
-        "OtherLocalFunding": 361459
+        "OtherLocalFunding": 361459,
+        "RecaptureAmount": 0
     },
     "250904": {
         "NAME": "QUITMAN ISD",
@@ -31818,7 +31818,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.24,
         "PercentChangeCentralAdminPay": 10.76,
         "PercentChangeSupportStaffPay": -10.88,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.48%",
         "Enrollment": 1130.0,
         "Victories": "",
@@ -31838,7 +31837,8 @@ var DistrictsData = {
         "LocalFunding": 6762053,
         "StateFunding": 7886062,
         "FederalFunding": 3841601,
-        "OtherLocalFunding": 542167
+        "OtherLocalFunding": 542167,
+        "RecaptureAmount": 0
     },
     "190903": {
         "NAME": "RAINS ISD",
@@ -31848,7 +31848,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.87,
         "PercentChangeCentralAdminPay": 18.89,
         "PercentChangeSupportStaffPay": -17.73,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.83%",
         "Enrollment": 1709.0,
         "Victories": "",
@@ -31877,7 +31876,8 @@ var DistrictsData = {
         "LocalFunding": 6642945,
         "StateFunding": 9233614,
         "FederalFunding": 2928519,
-        "OtherLocalFunding": 854644
+        "OtherLocalFunding": 854644,
+        "RecaptureAmount": 0
     },
     "250906": {
         "NAME": "ALBA-GOLDEN ISD",
@@ -31887,7 +31887,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.25,
         "PercentChangeCentralAdminPay": 27.76,
         "PercentChangeSupportStaffPay": 3.31,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.27%",
         "Enrollment": 861.0,
         "Victories": "",
@@ -31916,7 +31915,8 @@ var DistrictsData = {
         "LocalFunding": 3495136,
         "StateFunding": 6440141,
         "FederalFunding": 931185,
-        "OtherLocalFunding": 439220
+        "OtherLocalFunding": 439220,
+        "RecaptureAmount": 0
     },
     "071903": {
         "NAME": "FABENS ISD",
@@ -31926,7 +31926,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.93,
         "PercentChangeCentralAdminPay": -16.96,
         "PercentChangeSupportStaffPay": 0.74,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-13.44%",
         "Enrollment": 2048.0,
         "Victories": "",
@@ -31951,7 +31950,8 @@ var DistrictsData = {
         "LocalFunding": 2355943,
         "StateFunding": 20820599,
         "FederalFunding": 5848483,
-        "OtherLocalFunding": 165252
+        "OtherLocalFunding": 165252,
+        "RecaptureAmount": 0
     },
     "153907": {
         "NAME": "WILSON ISD",
@@ -31961,7 +31961,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 51.58,
         "PercentChangeCentralAdminPay": 5.0,
         "PercentChangeSupportStaffPay": 5.19,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "18.42%",
         "Enrollment": 135.0,
         "Victories": "",
@@ -31981,7 +31980,8 @@ var DistrictsData = {
         "LocalFunding": 743969,
         "StateFunding": 1440395,
         "FederalFunding": 257251,
-        "OtherLocalFunding": 1399047
+        "OtherLocalFunding": 1399047,
+        "RecaptureAmount": 0
     },
     "152903": {
         "NAME": "SLATON ISD",
@@ -31991,7 +31991,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.2,
         "PercentChangeCentralAdminPay": 2.67,
         "PercentChangeSupportStaffPay": -10.0,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.91%",
         "Enrollment": 1326.0,
         "Victories": "",
@@ -32011,7 +32010,8 @@ var DistrictsData = {
         "LocalFunding": 4601341,
         "StateFunding": 11202331,
         "FederalFunding": 3666394,
-        "OtherLocalFunding": 1317511
+        "OtherLocalFunding": 1317511,
+        "RecaptureAmount": 0
     },
     "110906": {
         "NAME": "SMYER ISD",
@@ -32021,7 +32021,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.38,
         "PercentChangeCentralAdminPay": 25.87,
         "PercentChangeSupportStaffPay": -34.76,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.41%",
         "Enrollment": 412.0,
         "Victories": "",
@@ -32041,7 +32040,8 @@ var DistrictsData = {
         "LocalFunding": 1130210,
         "StateFunding": 4322782,
         "FederalFunding": 588707,
-        "OtherLocalFunding": 154468
+        "OtherLocalFunding": 154468,
+        "RecaptureAmount": 0
     },
     "085902": {
         "NAME": "POST ISD",
@@ -32051,7 +32051,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.2,
         "PercentChangeCentralAdminPay": -0.43,
         "PercentChangeSupportStaffPay": -13.93,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-11.35%",
         "Enrollment": 797.0,
         "Victories": "",
@@ -32075,7 +32074,8 @@ var DistrictsData = {
         "LocalFunding": 4132644,
         "StateFunding": 4824330,
         "FederalFunding": 1716609,
-        "OtherLocalFunding": 283578
+        "OtherLocalFunding": 283578,
+        "RecaptureAmount": 0
     },
     "208902": {
         "NAME": "SNYDER ISD",
@@ -32085,7 +32085,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -15.64,
         "PercentChangeCentralAdminPay": -14.02,
         "PercentChangeSupportStaffPay": -9.11,
-        "RecaptureAmount": "512901",
         "EnrollmentChange": "-10.09%",
         "Enrollment": 2610.0,
         "Victories": "",
@@ -32109,7 +32108,8 @@ var DistrictsData = {
         "LocalFunding": 20835365,
         "StateFunding": 3471257,
         "FederalFunding": 6130915,
-        "OtherLocalFunding": 2395231
+        "OtherLocalFunding": 2395231,
+        "RecaptureAmount": 186219
     },
     "017901": {
         "NAME": "BORDEN COUNTY ISD",
@@ -32119,7 +32119,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 4.22,
         "PercentChangeCentralAdminPay": -43.58,
         "PercentChangeSupportStaffPay": 13.66,
-        "RecaptureAmount": "4278992",
         "EnrollmentChange": "-4.94%",
         "Enrollment": 231.0,
         "Victories": "",
@@ -32152,7 +32151,8 @@ var DistrictsData = {
         "LocalFunding": 3010110,
         "StateFunding": 2550953,
         "FederalFunding": 241095,
-        "OtherLocalFunding": 1758733
+        "OtherLocalFunding": 1758733,
+        "RecaptureAmount": 4411753
     },
     "165901": {
         "NAME": "MIDLAND ISD",
@@ -32162,7 +32162,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 4.94,
         "PercentChangeCentralAdminPay": 1.89,
         "PercentChangeSupportStaffPay": 8.84,
-        "RecaptureAmount": "154448736",
         "EnrollmentChange": "4.17%",
         "Enrollment": 25579.0,
         "Victories": "",
@@ -32187,7 +32186,8 @@ var DistrictsData = {
         "LocalFunding": 191638105,
         "StateFunding": 77506192,
         "FederalFunding": 36063282,
-        "OtherLocalFunding": 7036057
+        "OtherLocalFunding": 7036057,
+        "RecaptureAmount": 153749183
     },
     "165902": {
         "NAME": "GREENWOOD ISD",
@@ -32197,7 +32197,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.15,
         "PercentChangeCentralAdminPay": 15.98,
         "PercentChangeSupportStaffPay": 4.34,
-        "RecaptureAmount": "4378881",
         "EnrollmentChange": "22.05%",
         "Enrollment": 2845.0,
         "Victories": "",
@@ -32222,7 +32221,8 @@ var DistrictsData = {
         "LocalFunding": 25954052,
         "StateFunding": 6956469,
         "FederalFunding": 1991416,
-        "OtherLocalFunding": 981705
+        "OtherLocalFunding": 981705,
+        "RecaptureAmount": 4370105
     },
     "087901": {
         "NAME": "GLASSCOCK COUNTY ISD",
@@ -32232,7 +32232,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 25.01,
         "PercentChangeCentralAdminPay": 7.95,
         "PercentChangeSupportStaffPay": 18.39,
-        "RecaptureAmount": "36093093",
         "EnrollmentChange": "-6.09%",
         "Enrollment": 293.0,
         "Victories": "",
@@ -32257,7 +32256,8 @@ var DistrictsData = {
         "LocalFunding": 6772376,
         "StateFunding": 1941261,
         "FederalFunding": 176215,
-        "OtherLocalFunding": 271363
+        "OtherLocalFunding": 271363,
+        "RecaptureAmount": 36060784
     },
     "186902": {
         "NAME": "FORT STOCKTON ISD",
@@ -32267,7 +32267,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.5,
         "PercentChangeCentralAdminPay": -1.39,
         "PercentChangeSupportStaffPay": -4.25,
-        "RecaptureAmount": "5710593",
         "EnrollmentChange": "-6.25%",
         "Enrollment": 2310.0,
         "Victories": "",
@@ -32292,7 +32291,8 @@ var DistrictsData = {
         "LocalFunding": 19185544,
         "StateFunding": 5247559,
         "FederalFunding": 5613206,
-        "OtherLocalFunding": 927041
+        "OtherLocalFunding": 927041,
+        "RecaptureAmount": 5805479
     },
     "068901": {
         "NAME": "ECTOR COUNTY ISD",
@@ -32302,7 +32302,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.14,
         "PercentChangeCentralAdminPay": -17.77,
         "PercentChangeSupportStaffPay": 2.53,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.28%",
         "Enrollment": 31881.0,
         "Victories": "",
@@ -32327,7 +32326,8 @@ var DistrictsData = {
         "LocalFunding": 157601471,
         "StateFunding": 123343992,
         "FederalFunding": 77839776,
-        "OtherLocalFunding": 33858117
+        "OtherLocalFunding": 33858117,
+        "RecaptureAmount": 0
     },
     "226905": {
         "NAME": "WATER VALLEY ISD",
@@ -32337,7 +32337,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.52,
         "PercentChangeCentralAdminPay": -7.74,
         "PercentChangeSupportStaffPay": -100.0,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.49%",
         "Enrollment": 313.0,
         "Victories": "",
@@ -32357,7 +32356,8 @@ var DistrictsData = {
         "LocalFunding": 1986506,
         "StateFunding": 2572538,
         "FederalFunding": 265820,
-        "OtherLocalFunding": 482438
+        "OtherLocalFunding": 482438,
+        "RecaptureAmount": 0
     },
     "041902": {
         "NAME": "ROBERT LEE ISD",
@@ -32367,7 +32367,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.63,
         "PercentChangeCentralAdminPay": 41.0,
         "PercentChangeSupportStaffPay": 23.65,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-10.73%",
         "Enrollment": 258.0,
         "Victories": "",
@@ -32387,7 +32386,8 @@ var DistrictsData = {
         "LocalFunding": 2389738,
         "StateFunding": 808973,
         "FederalFunding": 346260,
-        "OtherLocalFunding": 95054
+        "OtherLocalFunding": 95054,
+        "RecaptureAmount": 0
     },
     "177903": {
         "NAME": "BLACKWELL CONS ISD",
@@ -32397,7 +32397,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.01,
         "PercentChangeCentralAdminPay": 43.93,
         "PercentChangeSupportStaffPay": 79.39,
-        "RecaptureAmount": "4997191",
         "EnrollmentChange": "23.53%",
         "Enrollment": 168.0,
         "Victories": "",
@@ -32430,7 +32429,8 @@ var DistrictsData = {
         "LocalFunding": 2195377,
         "StateFunding": 3260624,
         "FederalFunding": 0,
-        "OtherLocalFunding": 167826
+        "OtherLocalFunding": 167826,
+        "RecaptureAmount": 5097269
     },
     "118902": {
         "NAME": "IRION COUNTY ISD",
@@ -32440,7 +32440,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.62,
         "PercentChangeCentralAdminPay": 2.3,
         "PercentChangeSupportStaffPay": 15.77,
-        "RecaptureAmount": "8734211",
         "EnrollmentChange": "-0.92%",
         "Enrollment": 323.0,
         "Victories": "",
@@ -32465,7 +32464,8 @@ var DistrictsData = {
         "LocalFunding": 4946321,
         "StateFunding": 279834,
         "FederalFunding": 203523,
-        "OtherLocalFunding": 194889
+        "OtherLocalFunding": 194889,
+        "RecaptureAmount": 8716910
     },
     "070911": {
         "NAME": "RED OAK ISD",
@@ -32475,7 +32475,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.73,
         "PercentChangeCentralAdminPay": -7.54,
         "PercentChangeSupportStaffPay": 3.21,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.81%",
         "Enrollment": 6001.0,
         "Victories": "",
@@ -32495,7 +32494,8 @@ var DistrictsData = {
         "LocalFunding": 22925780,
         "StateFunding": 34285300,
         "FederalFunding": 5201481,
-        "OtherLocalFunding": 1768812
+        "OtherLocalFunding": 1768812,
+        "RecaptureAmount": 0
     },
     "057904": {
         "NAME": "CEDAR HILL ISD",
@@ -32505,7 +32505,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.95,
         "PercentChangeCentralAdminPay": -3.75,
         "PercentChangeSupportStaffPay": -0.95,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.56%",
         "Enrollment": 7253.0,
         "Victories": "<div>In 2022, Southwest Dallas AFT members fought for and WON:<ul><li>5% midpoint pay raise for all employees</li><li>$56,000 starting salary for teachers </ul></li></div>",
@@ -32534,7 +32533,8 @@ var DistrictsData = {
         "LocalFunding": 39154659,
         "StateFunding": 23002365,
         "FederalFunding": 10201004,
-        "OtherLocalFunding": 1951673
+        "OtherLocalFunding": 1951673,
+        "RecaptureAmount": 0
     },
     "111902": {
         "NAME": "LIPAN ISD",
@@ -32544,7 +32544,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 20.37,
         "PercentChangeCentralAdminPay": 42.05,
         "PercentChangeSupportStaffPay": 27.29,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "15.36%",
         "Enrollment": 413.0,
         "Victories": "",
@@ -32581,7 +32580,8 @@ var DistrictsData = {
         "LocalFunding": 2344415,
         "StateFunding": 3183605,
         "FederalFunding": 352904,
-        "OtherLocalFunding": 137302
+        "OtherLocalFunding": 137302,
+        "RecaptureAmount": 0
     },
     "161916": {
         "NAME": "WEST ISD",
@@ -32591,7 +32591,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.37,
         "PercentChangeCentralAdminPay": 6.48,
         "PercentChangeSupportStaffPay": -7.91,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.95%",
         "Enrollment": 1264.0,
         "Victories": "",
@@ -32615,7 +32614,8 @@ var DistrictsData = {
         "LocalFunding": 5353419,
         "StateFunding": 7287537,
         "FederalFunding": 1669300,
-        "OtherLocalFunding": 585259
+        "OtherLocalFunding": 585259,
+        "RecaptureAmount": 0
     },
     "109912": {
         "NAME": "AQUILLA ISD",
@@ -32625,7 +32625,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.27,
         "PercentChangeCentralAdminPay": 20.4,
         "PercentChangeSupportStaffPay": 19.4,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "21.29%",
         "Enrollment": 319.0,
         "Victories": "",
@@ -32650,7 +32649,8 @@ var DistrictsData = {
         "LocalFunding": 1047400,
         "StateFunding": 3336900,
         "FederalFunding": 540085,
-        "OtherLocalFunding": 283761
+        "OtherLocalFunding": 283761,
+        "RecaptureAmount": 0
     },
     "212910": {
         "NAME": "WINONA ISD",
@@ -32660,7 +32660,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.24,
         "PercentChangeCentralAdminPay": 16.37,
         "PercentChangeSupportStaffPay": -3.37,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.28%",
         "Enrollment": 1053.0,
         "Victories": "",
@@ -32680,7 +32679,8 @@ var DistrictsData = {
         "LocalFunding": 6143744,
         "StateFunding": 5578105,
         "FederalFunding": 2892726,
-        "OtherLocalFunding": 271625
+        "OtherLocalFunding": 271625,
+        "RecaptureAmount": 0
     },
     "234906": {
         "NAME": "VAN ISD",
@@ -32690,7 +32690,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.6,
         "PercentChangeCentralAdminPay": 23.27,
         "PercentChangeSupportStaffPay": -19.82,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.96%",
         "Enrollment": 2354.0,
         "Victories": "",
@@ -32723,7 +32722,8 @@ var DistrictsData = {
         "LocalFunding": 7586381,
         "StateFunding": 14414796,
         "FederalFunding": 2800557,
-        "OtherLocalFunding": 615405
+        "OtherLocalFunding": 615405,
+        "RecaptureAmount": 0
     },
     "212903": {
         "NAME": "LINDALE ISD",
@@ -32733,7 +32733,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.31,
         "PercentChangeCentralAdminPay": 6.71,
         "PercentChangeSupportStaffPay": -0.37,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.04%",
         "Enrollment": 4148.0,
         "Victories": "",
@@ -32766,7 +32765,8 @@ var DistrictsData = {
         "LocalFunding": 16164429,
         "StateFunding": 23044822,
         "FederalFunding": 5234381,
-        "OtherLocalFunding": 1324301
+        "OtherLocalFunding": 1324301,
+        "RecaptureAmount": 0
     },
     "092908": {
         "NAME": "WHITE OAK ISD",
@@ -32776,7 +32776,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.04,
         "PercentChangeCentralAdminPay": 5.6,
         "PercentChangeSupportStaffPay": 8.34,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.1%",
         "Enrollment": 1468.0,
         "Victories": "",
@@ -32796,7 +32795,8 @@ var DistrictsData = {
         "LocalFunding": 3732085,
         "StateFunding": 10117089,
         "FederalFunding": 1419578,
-        "OtherLocalFunding": 1109657
+        "OtherLocalFunding": 1109657,
+        "RecaptureAmount": 0
     },
     "092904": {
         "NAME": "PINE TREE ISD",
@@ -32806,7 +32806,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.28,
         "PercentChangeCentralAdminPay": 12.1,
         "PercentChangeSupportStaffPay": -0.27,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.93%",
         "Enrollment": 4545.0,
         "Victories": "",
@@ -32831,7 +32830,8 @@ var DistrictsData = {
         "LocalFunding": 16599229,
         "StateFunding": 25843614,
         "FederalFunding": 7203270,
-        "OtherLocalFunding": 1065325
+        "OtherLocalFunding": 1065325,
+        "RecaptureAmount": 0
     },
     "212905": {
         "NAME": "TYLER ISD",
@@ -32841,7 +32841,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.88,
         "PercentChangeCentralAdminPay": -17.34,
         "PercentChangeSupportStaffPay": -10.33,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.48%",
         "Enrollment": 17721.0,
         "Victories": "",
@@ -32865,7 +32864,8 @@ var DistrictsData = {
         "LocalFunding": 97060954,
         "StateFunding": 58948693,
         "FederalFunding": 32375547,
-        "OtherLocalFunding": 4440266
+        "OtherLocalFunding": 4440266,
+        "RecaptureAmount": 0
     },
     "001907": {
         "NAME": "PALESTINE ISD",
@@ -32875,7 +32875,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.32,
         "PercentChangeCentralAdminPay": -0.11,
         "PercentChangeSupportStaffPay": 3.16,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.44%",
         "Enrollment": 3400.0,
         "Victories": "",
@@ -32895,7 +32894,8 @@ var DistrictsData = {
         "LocalFunding": 12288492,
         "StateFunding": 22114051,
         "FederalFunding": 9661394,
-        "OtherLocalFunding": 1743010
+        "OtherLocalFunding": 1743010,
+        "RecaptureAmount": 0
     },
     "001906": {
         "NAME": "NECHES ISD",
@@ -32905,7 +32905,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 9.35,
         "PercentChangeCentralAdminPay": -14.05,
         "PercentChangeSupportStaffPay": 40.34,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-11.49%",
         "Enrollment": 339.0,
         "Victories": "",
@@ -32925,7 +32924,8 @@ var DistrictsData = {
         "LocalFunding": 1152558,
         "StateFunding": 2933934,
         "FederalFunding": 371465,
-        "OtherLocalFunding": 115151
+        "OtherLocalFunding": 115151,
+        "RecaptureAmount": 0
     },
     "092902": {
         "NAME": "KILGORE ISD",
@@ -32935,7 +32935,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -14.57,
         "PercentChangeCentralAdminPay": -8.92,
         "PercentChangeSupportStaffPay": -3.4,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.25%",
         "Enrollment": 3948.0,
         "Victories": "",
@@ -32964,7 +32963,8 @@ var DistrictsData = {
         "LocalFunding": 16663796,
         "StateFunding": 18635693,
         "FederalFunding": 5985850,
-        "OtherLocalFunding": 846076
+        "OtherLocalFunding": 846076,
+        "RecaptureAmount": 0
     },
     "092906": {
         "NAME": "SABINE ISD",
@@ -32974,7 +32974,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.0,
         "PercentChangeCentralAdminPay": -3.11,
         "PercentChangeSupportStaffPay": -4.59,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "5.11%",
         "Enrollment": 1521.0,
         "Victories": "",
@@ -32994,7 +32993,8 @@ var DistrictsData = {
         "LocalFunding": 4136641,
         "StateFunding": 10106485,
         "FederalFunding": 2002944,
-        "OtherLocalFunding": 1796725
+        "OtherLocalFunding": 1796725,
+        "RecaptureAmount": 0
     },
     "003903": {
         "NAME": "LUFKIN ISD",
@@ -33004,7 +33004,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.18,
         "PercentChangeCentralAdminPay": -15.97,
         "PercentChangeSupportStaffPay": 1.73,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.09%",
         "Enrollment": 7432.0,
         "Victories": "",
@@ -33029,7 +33028,8 @@ var DistrictsData = {
         "LocalFunding": 28368456,
         "StateFunding": 46349559,
         "FederalFunding": 19264647,
-        "OtherLocalFunding": 1208535
+        "OtherLocalFunding": 1208535,
+        "RecaptureAmount": 0
     },
     "003902": {
         "NAME": "HUDSON ISD",
@@ -33039,7 +33039,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.16,
         "PercentChangeCentralAdminPay": 18.65,
         "PercentChangeSupportStaffPay": 11.29,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.32%",
         "Enrollment": 2773.0,
         "Victories": "",
@@ -33064,7 +33063,8 @@ var DistrictsData = {
         "LocalFunding": 5878579,
         "StateFunding": 21070098,
         "FederalFunding": 3443820,
-        "OtherLocalFunding": 1801884
+        "OtherLocalFunding": 1801884,
+        "RecaptureAmount": 0
     },
     "229901": {
         "NAME": "COLMESNEIL ISD",
@@ -33074,7 +33074,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 31.75,
         "PercentChangeCentralAdminPay": 5.53,
         "PercentChangeSupportStaffPay": -14.12,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.59%",
         "Enrollment": 435.0,
         "Victories": "",
@@ -33103,7 +33102,8 @@ var DistrictsData = {
         "LocalFunding": 1618793,
         "StateFunding": 4087187,
         "FederalFunding": 474150,
-        "OtherLocalFunding": 100362
+        "OtherLocalFunding": 100362,
+        "RecaptureAmount": 0
     },
     "121904": {
         "NAME": "JASPER ISD",
@@ -33113,7 +33113,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.75,
         "PercentChangeCentralAdminPay": -9.33,
         "PercentChangeSupportStaffPay": -9.19,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.82%",
         "Enrollment": 2234.0,
         "Victories": "",
@@ -33138,7 +33137,8 @@ var DistrictsData = {
         "LocalFunding": 9742341,
         "StateFunding": 12543541,
         "FederalFunding": 4925647,
-        "OtherLocalFunding": 723767
+        "OtherLocalFunding": 723767,
+        "RecaptureAmount": 0
     },
     "189901": {
         "NAME": "MARFA ISD",
@@ -33148,7 +33148,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.63,
         "PercentChangeCentralAdminPay": 17.08,
         "PercentChangeSupportStaffPay": -11.88,
-        "RecaptureAmount": "510004",
         "EnrollmentChange": "-18.33%",
         "Enrollment": 294.0,
         "Victories": "",
@@ -33173,7 +33172,8 @@ var DistrictsData = {
         "LocalFunding": 3580612,
         "StateFunding": 240411,
         "FederalFunding": 471834,
-        "OtherLocalFunding": 141956
+        "OtherLocalFunding": 141956,
+        "RecaptureAmount": 469827
     },
     "022902": {
         "NAME": "MARATHON ISD",
@@ -33183,7 +33183,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": -11.05,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "11.11%",
         "Enrollment": 60.0,
         "Victories": "",
@@ -33208,7 +33207,8 @@ var DistrictsData = {
         "LocalFunding": 1037466,
         "StateFunding": 625778,
         "FederalFunding": 42771,
-        "OtherLocalFunding": 36325
+        "OtherLocalFunding": 36325,
+        "RecaptureAmount": 0
     },
     "022901": {
         "NAME": "ALPINE ISD",
@@ -33218,7 +33218,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 32.42,
         "PercentChangeCentralAdminPay": -27.63,
         "PercentChangeSupportStaffPay": 20.18,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.98%",
         "Enrollment": 974.0,
         "Victories": "",
@@ -33243,7 +33242,8 @@ var DistrictsData = {
         "LocalFunding": 6429937,
         "StateFunding": 4243185,
         "FederalFunding": 2052999,
-        "OtherLocalFunding": 696205
+        "OtherLocalFunding": 696205,
+        "RecaptureAmount": 0
     },
     "254901": {
         "NAME": "CRYSTAL CITY ISD",
@@ -33253,7 +33253,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.37,
         "PercentChangeCentralAdminPay": 0.43,
         "PercentChangeSupportStaffPay": -20.99,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.83%",
         "Enrollment": 1838.0,
         "Victories": "",
@@ -33278,7 +33277,8 @@ var DistrictsData = {
         "LocalFunding": 9819478,
         "StateFunding": 8175302,
         "FederalFunding": 5566750,
-        "OtherLocalFunding": 487608
+        "OtherLocalFunding": 487608,
+        "RecaptureAmount": 0
     },
     "240903": {
         "NAME": "UNITED ISD",
@@ -33288,7 +33288,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.18,
         "PercentChangeCentralAdminPay": -7.68,
         "PercentChangeSupportStaffPay": -3.59,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-4.14%",
         "Enrollment": 41902.0,
         "Victories": "",
@@ -33317,7 +33316,8 @@ var DistrictsData = {
         "LocalFunding": 164840401,
         "StateFunding": 224262721,
         "FederalFunding": 96623495,
-        "OtherLocalFunding": 3538469
+        "OtherLocalFunding": 3538469,
+        "RecaptureAmount": 0
     },
     "246906": {
         "NAME": "HUTTO ISD",
@@ -33327,7 +33327,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 9.3,
         "PercentChangeCentralAdminPay": 28.99,
         "PercentChangeSupportStaffPay": 8.76,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "29.02%",
         "Enrollment": 8421.0,
         "Victories": "",
@@ -33364,7 +33363,8 @@ var DistrictsData = {
         "LocalFunding": 40832300,
         "StateFunding": 38783205,
         "FederalFunding": 5975809,
-        "OtherLocalFunding": 3301418
+        "OtherLocalFunding": 3301418,
+        "RecaptureAmount": 0
     },
     "046902": {
         "NAME": "COMAL ISD",
@@ -33374,7 +33374,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -16.06,
         "PercentChangeCentralAdminPay": -22.08,
         "PercentChangeSupportStaffPay": -9.2,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "20.3%",
         "Enrollment": 25459.0,
         "Victories": "",
@@ -33411,7 +33410,8 @@ var DistrictsData = {
         "LocalFunding": 180206990,
         "StateFunding": 32682123,
         "FederalFunding": 21943537,
-        "OtherLocalFunding": 7800957
+        "OtherLocalFunding": 7800957,
+        "RecaptureAmount": 0
     },
     "105906": {
         "NAME": "HAYS CONS ISD",
@@ -33421,7 +33421,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.39,
         "PercentChangeCentralAdminPay": 33.88,
         "PercentChangeSupportStaffPay": 7.41,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "8.94%",
         "Enrollment": 20322.0,
         "Victories": "",
@@ -33462,7 +33461,8 @@ var DistrictsData = {
         "LocalFunding": 88359348,
         "StateFunding": 87796267,
         "FederalFunding": 26151630,
-        "OtherLocalFunding": 3366150
+        "OtherLocalFunding": 3366150,
+        "RecaptureAmount": 0
     },
     "105905": {
         "NAME": "WIMBERLEY ISD",
@@ -33472,7 +33472,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.31,
         "PercentChangeCentralAdminPay": 6.34,
         "PercentChangeSupportStaffPay": 6.31,
-        "RecaptureAmount": "3009564",
         "EnrollmentChange": "17.04%",
         "Enrollment": 2562.0,
         "Victories": "",
@@ -33501,7 +33500,8 @@ var DistrictsData = {
         "LocalFunding": 21003798,
         "StateFunding": 2207134,
         "FederalFunding": 2197362,
-        "OtherLocalFunding": 1121855
+        "OtherLocalFunding": 1121855,
+        "RecaptureAmount": 2937244
     },
     "105902": {
         "NAME": "SAN MARCOS CONS ISD",
@@ -33511,7 +33511,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.32,
         "PercentChangeCentralAdminPay": -6.06,
         "PercentChangeSupportStaffPay": -8.08,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "1.75%",
         "Enrollment": 8013.0,
         "Victories": "",
@@ -33548,7 +33547,8 @@ var DistrictsData = {
         "LocalFunding": 64218336,
         "StateFunding": 14458813,
         "FederalFunding": 12184057,
-        "OtherLocalFunding": 2037636
+        "OtherLocalFunding": 2037636,
+        "RecaptureAmount": 0
     },
     "028902": {
         "NAME": "LOCKHART ISD",
@@ -33558,7 +33558,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.49,
         "PercentChangeCentralAdminPay": 3.62,
         "PercentChangeSupportStaffPay": -8.93,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "11.97%",
         "Enrollment": 6043.0,
         "Victories": "",
@@ -33583,7 +33582,8 @@ var DistrictsData = {
         "LocalFunding": 16664702,
         "StateFunding": 37909491,
         "FederalFunding": 12803882,
-        "OtherLocalFunding": 2954596
+        "OtherLocalFunding": 2954596,
+        "RecaptureAmount": 0
     },
     "246909": {
         "NAME": "ROUND ROCK ISD",
@@ -33593,7 +33593,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.44,
         "PercentChangeCentralAdminPay": 0.74,
         "PercentChangeSupportStaffPay": -5.19,
-        "RecaptureAmount": "16498121",
         "EnrollmentChange": "0.99%",
         "Enrollment": 48302.0,
         "Victories": "<div>In 2022, Education Round Rock members fought for and WON:<ul><li>5% pay raise for teachers and librarians</li><li>$15 minimum hourly wage</ul></li></div>",
@@ -33646,7 +33645,8 @@ var DistrictsData = {
         "LocalFunding": 363989189,
         "StateFunding": 44877883,
         "FederalFunding": 36017035,
-        "OtherLocalFunding": 12334481
+        "OtherLocalFunding": 12334481,
+        "RecaptureAmount": 16397380
     },
     "227904": {
         "NAME": "PFLUGERVILLE ISD",
@@ -33656,7 +33656,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.95,
         "PercentChangeCentralAdminPay": -5.46,
         "PercentChangeSupportStaffPay": 0.63,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "5.54%",
         "Enrollment": 25436.0,
         "Victories": "",
@@ -33697,7 +33696,8 @@ var DistrictsData = {
         "LocalFunding": 163600682,
         "StateFunding": 61469628,
         "FederalFunding": 44815194,
-        "OtherLocalFunding": 4384565
+        "OtherLocalFunding": 4384565,
+        "RecaptureAmount": 0
     },
     "011904": {
         "NAME": "SMITHVILLE ISD",
@@ -33707,7 +33707,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.22,
         "PercentChangeCentralAdminPay": 3.3,
         "PercentChangeSupportStaffPay": 2.77,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.96%",
         "Enrollment": 1753.0,
         "Victories": "",
@@ -33740,7 +33739,8 @@ var DistrictsData = {
         "LocalFunding": 10301534,
         "StateFunding": 7851849,
         "FederalFunding": 3898813,
-        "OtherLocalFunding": 673190
+        "OtherLocalFunding": 673190,
+        "RecaptureAmount": 0
     },
     "082903": {
         "NAME": "PEARSALL ISD",
@@ -33750,7 +33750,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -17.33,
         "PercentChangeCentralAdminPay": -7.02,
         "PercentChangeSupportStaffPay": 6.15,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-12.26%",
         "Enrollment": 2025.0,
         "Victories": "",
@@ -33775,7 +33774,8 @@ var DistrictsData = {
         "LocalFunding": 12389806,
         "StateFunding": 7244680,
         "FederalFunding": 9546744,
-        "OtherLocalFunding": 2888629
+        "OtherLocalFunding": 2888629,
+        "RecaptureAmount": 0
     },
     "094902": {
         "NAME": "SCHERTZ-CIBOLO-UNIVERSAL CITY ISD",
@@ -33785,7 +33785,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.28,
         "PercentChangeCentralAdminPay": 5.95,
         "PercentChangeSupportStaffPay": -5.97,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.67%",
         "Enrollment": 15673.0,
         "Victories": "",
@@ -33822,7 +33821,8 @@ var DistrictsData = {
         "LocalFunding": 58894906,
         "StateFunding": 65017670,
         "FederalFunding": 14189332,
-        "OtherLocalFunding": 1892356
+        "OtherLocalFunding": 1892356,
+        "RecaptureAmount": 0
     },
     "015916": {
         "NAME": "JUDSON ISD",
@@ -33832,7 +33832,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.88,
         "PercentChangeCentralAdminPay": -13.62,
         "PercentChangeSupportStaffPay": -9.19,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.31%",
         "Enrollment": 23825.0,
         "Victories": "<div>In 2022, Judson AFT members fought for and WON:<ul><li>6% pay raise of midpoint for teachers</li><li>4% pay raise of midpoint for professional staff\n- Up to $1,000 in incentives for all staff</li><li>$355 per month paid by employer for health insurance</li><li>$30,000 employer-paid life insurance policy</li><li>Up to 5 employer-provided mental health service visits per year</ul></li></div>",
@@ -33881,7 +33880,8 @@ var DistrictsData = {
         "LocalFunding": 102090991,
         "StateFunding": 104897904,
         "FederalFunding": 27409910,
-        "OtherLocalFunding": 3900450
+        "OtherLocalFunding": 3900450,
+        "RecaptureAmount": 0
     },
     "093905": {
         "NAME": "RICHARDS ISD",
@@ -33891,7 +33891,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": 9.23,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "0",
         "EnrollmentChange": "37.88%",
         "Enrollment": 182.0,
         "Victories": "",
@@ -33924,7 +33923,8 @@ var DistrictsData = {
         "LocalFunding": 1795232,
         "StateFunding": 480935,
         "FederalFunding": 330662,
-        "OtherLocalFunding": 32221
+        "OtherLocalFunding": 32221,
+        "RecaptureAmount": 6089
     },
     "187910": {
         "NAME": "ONALASKA ISD",
@@ -33934,7 +33934,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 6.81,
         "PercentChangeCentralAdminPay": -6.33,
         "PercentChangeSupportStaffPay": 15.16,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "19.92%",
         "Enrollment": 1180.0,
         "Victories": "",
@@ -33954,7 +33953,8 @@ var DistrictsData = {
         "LocalFunding": 6009396,
         "StateFunding": 6576368,
         "FederalFunding": 2267418,
-        "OtherLocalFunding": 629502
+        "OtherLocalFunding": 629502,
+        "RecaptureAmount": 0
     },
     "026902": {
         "NAME": "SOMERVILLE ISD",
@@ -33964,7 +33964,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.66,
         "PercentChangeCentralAdminPay": 0.79,
         "PercentChangeSupportStaffPay": -1.87,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "17.19%",
         "Enrollment": 518.0,
         "Victories": "",
@@ -33989,7 +33988,8 @@ var DistrictsData = {
         "LocalFunding": 3526776,
         "StateFunding": 2772891,
         "FederalFunding": 1248696,
-        "OtherLocalFunding": 547552
+        "OtherLocalFunding": 547552,
+        "RecaptureAmount": 0
     },
     "229905": {
         "NAME": "SPURGER ISD",
@@ -33999,7 +33999,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.83,
         "PercentChangeCentralAdminPay": -1.87,
         "PercentChangeSupportStaffPay": 11.49,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-5.79%",
         "Enrollment": 358.0,
         "Victories": "",
@@ -34019,7 +34018,8 @@ var DistrictsData = {
         "LocalFunding": 1025815,
         "StateFunding": 4020936,
         "FederalFunding": 574717,
-        "OtherLocalFunding": 24458
+        "OtherLocalFunding": 24458,
+        "RecaptureAmount": 0
     },
     "121905": {
         "NAME": "KIRBYVILLE CONS ISD",
@@ -34029,7 +34029,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -16.39,
         "PercentChangeCentralAdminPay": 4.0,
         "PercentChangeSupportStaffPay": 2.34,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.09%",
         "Enrollment": 1401.0,
         "Victories": "",
@@ -34054,7 +34053,8 @@ var DistrictsData = {
         "LocalFunding": 3254551,
         "StateFunding": 10666523,
         "FederalFunding": 1970239,
-        "OtherLocalFunding": 163143
+        "OtherLocalFunding": 163143,
+        "RecaptureAmount": 0
     },
     "158906": {
         "NAME": "VAN VLECK ISD",
@@ -34064,7 +34064,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 11.01,
         "PercentChangeCentralAdminPay": 10.17,
         "PercentChangeSupportStaffPay": 5.83,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "6.77%",
         "Enrollment": 1056.0,
         "Victories": "",
@@ -34089,7 +34088,8 @@ var DistrictsData = {
         "LocalFunding": 5983502,
         "StateFunding": 5948363,
         "FederalFunding": 1788725,
-        "OtherLocalFunding": 2961720
+        "OtherLocalFunding": 2961720,
+        "RecaptureAmount": 0
     },
     "020906": {
         "NAME": "SWEENY ISD",
@@ -34099,7 +34099,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.62,
         "PercentChangeCentralAdminPay": 3.25,
         "PercentChangeSupportStaffPay": 12.49,
-        "RecaptureAmount": "3799411",
         "EnrollmentChange": "-9.41%",
         "Enrollment": 1848.0,
         "Victories": "",
@@ -34124,7 +34123,8 @@ var DistrictsData = {
         "LocalFunding": 15800750,
         "StateFunding": 3146484,
         "FederalFunding": 3176643,
-        "OtherLocalFunding": 2087286
+        "OtherLocalFunding": 2087286,
+        "RecaptureAmount": 3799792
     },
     "205905": {
         "NAME": "ODEM-EDROY ISD",
@@ -34134,7 +34134,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -13.43,
         "PercentChangeCentralAdminPay": -25.06,
         "PercentChangeSupportStaffPay": -8.73,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-16.81%",
         "Enrollment": 846.0,
         "Victories": "",
@@ -34159,7 +34158,8 @@ var DistrictsData = {
         "LocalFunding": 3841922,
         "StateFunding": 6419695,
         "FederalFunding": 1945376,
-        "OtherLocalFunding": 572887
+        "OtherLocalFunding": 572887,
+        "RecaptureAmount": 0
     },
     "131001": {
         "NAME": "KENEDY COUNTY-WIDE CSD",
@@ -34169,7 +34169,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 60.84,
         "PercentChangeCentralAdminPay": 83.25,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "7039791",
         "EnrollmentChange": "17.11%",
         "Enrollment": 89.0,
         "Victories": "",
@@ -34194,7 +34193,8 @@ var DistrictsData = {
         "LocalFunding": 1435504,
         "StateFunding": 82234,
         "FederalFunding": 22266,
-        "OtherLocalFunding": 254916
+        "OtherLocalFunding": 254916,
+        "RecaptureAmount": 7305574
     },
     "178903": {
         "NAME": "CALALLEN ISD",
@@ -34204,7 +34204,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.31,
         "PercentChangeCentralAdminPay": -14.99,
         "PercentChangeSupportStaffPay": 13.49,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.1%",
         "Enrollment": 3956.0,
         "Victories": "",
@@ -34229,7 +34228,8 @@ var DistrictsData = {
         "LocalFunding": 19827400,
         "StateFunding": 20222501,
         "FederalFunding": 5281291,
-        "OtherLocalFunding": 654847
+        "OtherLocalFunding": 654847,
+        "RecaptureAmount": 0
     },
     "004901": {
         "NAME": "ARANSAS COUNTY ISD",
@@ -34239,7 +34239,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.2,
         "PercentChangeCentralAdminPay": -10.56,
         "PercentChangeSupportStaffPay": 2.01,
-        "RecaptureAmount": "5137406",
         "EnrollmentChange": "-11.6%",
         "Enrollment": 3010.0,
         "Victories": "",
@@ -34264,7 +34263,8 @@ var DistrictsData = {
         "LocalFunding": 25743469,
         "StateFunding": 5124763,
         "FederalFunding": 7012593,
-        "OtherLocalFunding": 549136
+        "OtherLocalFunding": 549136,
+        "RecaptureAmount": 5139613
     },
     "108912": {
         "NAME": "LA JOYA ISD",
@@ -34274,7 +34274,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 8.32,
         "PercentChangeCentralAdminPay": 21.08,
         "PercentChangeSupportStaffPay": 4.91,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.98%",
         "Enrollment": 26638.0,
         "Victories": "",
@@ -34307,7 +34306,8 @@ var DistrictsData = {
         "LocalFunding": 29973866,
         "StateFunding": 254890401,
         "FederalFunding": 70598675,
-        "OtherLocalFunding": 2508704
+        "OtherLocalFunding": 2508704,
+        "RecaptureAmount": 0
     },
     "214901": {
         "NAME": "RIO GRANDE CITY CONS ISD",
@@ -34317,7 +34317,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.55,
         "PercentChangeCentralAdminPay": -7.47,
         "PercentChangeSupportStaffPay": -8.26,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.54%",
         "Enrollment": 9997.0,
         "Victories": "",
@@ -34342,7 +34341,8 @@ var DistrictsData = {
         "LocalFunding": 11967377,
         "StateFunding": 86380222,
         "FederalFunding": 28946513,
-        "OtherLocalFunding": 758449
+        "OtherLocalFunding": 758449,
+        "RecaptureAmount": 0
     },
     "245904": {
         "NAME": "SAN PERLITA ISD",
@@ -34352,7 +34352,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.28,
         "PercentChangeCentralAdminPay": -1.98,
         "PercentChangeSupportStaffPay": 24.91,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-17.44%",
         "Enrollment": 232.0,
         "Victories": "",
@@ -34377,7 +34376,8 @@ var DistrictsData = {
         "LocalFunding": 1162054,
         "StateFunding": 2023918,
         "FederalFunding": 888897,
-        "OtherLocalFunding": 529444
+        "OtherLocalFunding": 529444,
+        "RecaptureAmount": 0
     },
     "245903": {
         "NAME": "RAYMONDVILLE ISD",
@@ -34387,7 +34387,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.87,
         "PercentChangeCentralAdminPay": 41.97,
         "PercentChangeSupportStaffPay": 13.81,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.12%",
         "Enrollment": 2080.0,
         "Victories": "",
@@ -34412,7 +34411,8 @@ var DistrictsData = {
         "LocalFunding": 3396200,
         "StateFunding": 18788298,
         "FederalFunding": 6902772,
-        "OtherLocalFunding": 1205897
+        "OtherLocalFunding": 1205897,
+        "RecaptureAmount": 0
     },
     "178909": {
         "NAME": "ROBSTOWN ISD",
@@ -34422,7 +34422,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 21.17,
         "PercentChangeCentralAdminPay": 55.04,
         "PercentChangeSupportStaffPay": 6.52,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.38%",
         "Enrollment": 2601.0,
         "Victories": "",
@@ -34447,7 +34446,8 @@ var DistrictsData = {
         "LocalFunding": 6606380,
         "StateFunding": 17721678,
         "FederalFunding": 9512299,
-        "OtherLocalFunding": 275603
+        "OtherLocalFunding": 275603,
+        "RecaptureAmount": 0
     },
     "178902": {
         "NAME": "BISHOP CONS ISD",
@@ -34457,7 +34457,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 10.58,
         "PercentChangeCentralAdminPay": 36.8,
         "PercentChangeSupportStaffPay": 20.22,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "12.92%",
         "Enrollment": 1556.0,
         "Victories": "",
@@ -34486,7 +34485,8 @@ var DistrictsData = {
         "LocalFunding": 7872500,
         "StateFunding": 9294660,
         "FederalFunding": 2402345,
-        "OtherLocalFunding": 769627
+        "OtherLocalFunding": 769627,
+        "RecaptureAmount": 0
     },
     "178904": {
         "NAME": "CORPUS CHRISTI ISD",
@@ -34496,7 +34496,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.2,
         "PercentChangeCentralAdminPay": -9.1,
         "PercentChangeSupportStaffPay": -16.29,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.63%",
         "Enrollment": 34511.0,
         "Victories": "",
@@ -34529,7 +34528,8 @@ var DistrictsData = {
         "LocalFunding": 162154905,
         "StateFunding": 126312375,
         "FederalFunding": 68352305,
-        "OtherLocalFunding": 5071887
+        "OtherLocalFunding": 5071887,
+        "RecaptureAmount": 0
     },
     "205907": {
         "NAME": "TAFT ISD",
@@ -34539,7 +34539,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 11.28,
         "PercentChangeCentralAdminPay": 13.71,
         "PercentChangeSupportStaffPay": -3.53,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-16.0%",
         "Enrollment": 940.0,
         "Victories": "",
@@ -34564,7 +34563,8 @@ var DistrictsData = {
         "LocalFunding": 6813648,
         "StateFunding": 6655762,
         "FederalFunding": 3260694,
-        "OtherLocalFunding": 934307
+        "OtherLocalFunding": 934307,
+        "RecaptureAmount": 0
     },
     "205903": {
         "NAME": "INGLESIDE ISD",
@@ -34574,7 +34574,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.28,
         "PercentChangeCentralAdminPay": 16.85,
         "PercentChangeSupportStaffPay": -2.24,
-        "RecaptureAmount": "4232059",
         "EnrollmentChange": "-9.76%",
         "Enrollment": 2052.0,
         "Victories": "",
@@ -34599,7 +34598,8 @@ var DistrictsData = {
         "LocalFunding": 17863073,
         "StateFunding": 3817581,
         "FederalFunding": 3671762,
-        "OtherLocalFunding": 1220403
+        "OtherLocalFunding": 1220403,
+        "RecaptureAmount": 4718918
     },
     "205902": {
         "NAME": "GREGORY-PORTLAND ISD",
@@ -34609,7 +34609,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 4.72,
         "PercentChangeCentralAdminPay": 11.32,
         "PercentChangeSupportStaffPay": 17.54,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.74%",
         "Enrollment": 4720.0,
         "Victories": "",
@@ -34634,7 +34633,8 @@ var DistrictsData = {
         "LocalFunding": 50366690,
         "StateFunding": 22059990,
         "FederalFunding": 9588950,
-        "OtherLocalFunding": 928074
+        "OtherLocalFunding": 928074,
+        "RecaptureAmount": 0
     },
     "178915": {
         "NAME": "WEST OSO ISD",
@@ -34644,7 +34644,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.69,
         "PercentChangeCentralAdminPay": -7.63,
         "PercentChangeSupportStaffPay": 10.18,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.74%",
         "Enrollment": 1977.0,
         "Victories": "",
@@ -34673,7 +34672,8 @@ var DistrictsData = {
         "LocalFunding": 7985741,
         "StateFunding": 10165857,
         "FederalFunding": 3158869,
-        "OtherLocalFunding": 180256
+        "OtherLocalFunding": 180256,
+        "RecaptureAmount": 0
     },
     "178912": {
         "NAME": "TULOSO-MIDWAY ISD",
@@ -34683,7 +34683,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.98,
         "PercentChangeCentralAdminPay": 1.14,
         "PercentChangeSupportStaffPay": 6.52,
-        "RecaptureAmount": "535314",
         "EnrollmentChange": "-0.1%",
         "Enrollment": 3846.0,
         "Victories": "",
@@ -34708,7 +34707,8 @@ var DistrictsData = {
         "LocalFunding": 30700793,
         "StateFunding": 6352895,
         "FederalFunding": 7218901,
-        "OtherLocalFunding": 1304329
+        "OtherLocalFunding": 1304329,
+        "RecaptureAmount": 529298
     },
     "178914": {
         "NAME": "FLOUR BLUFF ISD",
@@ -34718,7 +34718,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.97,
         "PercentChangeCentralAdminPay": -5.09,
         "PercentChangeSupportStaffPay": -5.74,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.84%",
         "Enrollment": 5553.0,
         "Victories": "",
@@ -34747,7 +34746,8 @@ var DistrictsData = {
         "LocalFunding": 31616391,
         "StateFunding": 14132085,
         "FederalFunding": 5268122,
-        "OtherLocalFunding": 827636
+        "OtherLocalFunding": 827636,
+        "RecaptureAmount": 0
     },
     "205901": {
         "NAME": "ARANSAS PASS ISD",
@@ -34757,7 +34757,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.23,
         "PercentChangeCentralAdminPay": -10.5,
         "PercentChangeSupportStaffPay": 0.87,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.91%",
         "Enrollment": 1645.0,
         "Victories": "",
@@ -34794,7 +34793,8 @@ var DistrictsData = {
         "LocalFunding": 8207765,
         "StateFunding": 7524377,
         "FederalFunding": 3171216,
-        "OtherLocalFunding": 1196814
+        "OtherLocalFunding": 1196814,
+        "RecaptureAmount": 0
     },
     "178906": {
         "NAME": "LONDON ISD",
@@ -34804,7 +34804,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.25,
         "PercentChangeCentralAdminPay": -8.35,
         "PercentChangeSupportStaffPay": -17.73,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "54.59%",
         "Enrollment": 1280.0,
         "Victories": "",
@@ -34833,7 +34832,8 @@ var DistrictsData = {
         "LocalFunding": 6189035,
         "StateFunding": 5023633,
         "FederalFunding": 687290,
-        "OtherLocalFunding": 661002
+        "OtherLocalFunding": 661002,
+        "RecaptureAmount": 0
     },
     "097903": {
         "NAME": "HICO ISD",
@@ -34843,7 +34843,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 50.8,
         "PercentChangeCentralAdminPay": 27.0,
         "PercentChangeSupportStaffPay": 6.39,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.18%",
         "Enrollment": 569.0,
         "Victories": "",
@@ -34880,7 +34879,8 @@ var DistrictsData = {
         "LocalFunding": 2327429,
         "StateFunding": 4672865,
         "FederalFunding": 798279,
-        "OtherLocalFunding": 488170
+        "OtherLocalFunding": 488170,
+        "RecaptureAmount": 0
     },
     "072903": {
         "NAME": "STEPHENVILLE ISD",
@@ -34890,7 +34890,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -15.84,
         "PercentChangeCentralAdminPay": -5.46,
         "PercentChangeSupportStaffPay": -5.84,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.19%",
         "Enrollment": 3659.0,
         "Victories": "",
@@ -34915,7 +34914,8 @@ var DistrictsData = {
         "LocalFunding": 19782591,
         "StateFunding": 13522082,
         "FederalFunding": 6361440,
-        "OtherLocalFunding": 1243568
+        "OtherLocalFunding": 1243568,
+        "RecaptureAmount": 0
     },
     "072904": {
         "NAME": "BLUFF DALE ISD",
@@ -34925,7 +34925,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -25.7,
         "PercentChangeCentralAdminPay": 18.27,
         "PercentChangeSupportStaffPay": -27.18,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "96.49%",
         "Enrollment": 224.0,
         "Victories": "",
@@ -34958,7 +34957,8 @@ var DistrictsData = {
         "LocalFunding": 1988926,
         "StateFunding": 767433,
         "FederalFunding": 187195,
-        "OtherLocalFunding": 86679
+        "OtherLocalFunding": 86679,
+        "RecaptureAmount": 0
     },
     "213901": {
         "NAME": "GLEN ROSE ISD",
@@ -34968,7 +34968,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -17.28,
         "PercentChangeCentralAdminPay": -1.98,
         "PercentChangeSupportStaffPay": -13.02,
-        "RecaptureAmount": "5229658",
         "EnrollmentChange": "10.91%",
         "Enrollment": 1921.0,
         "Victories": "",
@@ -34997,7 +34996,8 @@ var DistrictsData = {
         "LocalFunding": 16561534,
         "StateFunding": 5755539,
         "FederalFunding": 2313687,
-        "OtherLocalFunding": 1888266
+        "OtherLocalFunding": 1888266,
+        "RecaptureAmount": 5235651
     },
     "072901": {
         "NAME": "THREE WAY ISD",
@@ -35007,7 +35007,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -27.23,
         "PercentChangeCentralAdminPay": 15.51,
         "PercentChangeSupportStaffPay": -34.25,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "117.17%",
         "Enrollment": 215.0,
         "Victories": "",
@@ -35032,7 +35031,8 @@ var DistrictsData = {
         "LocalFunding": 569458,
         "StateFunding": 1992803,
         "FederalFunding": 220842,
-        "OtherLocalFunding": 62168
+        "OtherLocalFunding": 62168,
+        "RecaptureAmount": 0
     },
     "018906": {
         "NAME": "IREDELL ISD",
@@ -35042,7 +35042,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": -7.6,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "0",
         "EnrollmentChange": "8.21%",
         "Enrollment": 145.0,
         "Victories": "",
@@ -35075,7 +35074,8 @@ var DistrictsData = {
         "LocalFunding": 1370978,
         "StateFunding": 813961,
         "FederalFunding": 195987,
-        "OtherLocalFunding": 70597
+        "OtherLocalFunding": 70597,
+        "RecaptureAmount": 0
     },
     "018905": {
         "NAME": "WALNUT SPRINGS ISD",
@@ -35085,7 +35085,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.88,
         "PercentChangeCentralAdminPay": 14.3,
         "PercentChangeSupportStaffPay": 129.61,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.57%",
         "Enrollment": 170.0,
         "Victories": "",
@@ -35109,7 +35108,8 @@ var DistrictsData = {
         "LocalFunding": 1166497,
         "StateFunding": 1160362,
         "FederalFunding": 391016,
-        "OtherLocalFunding": 28596
+        "OtherLocalFunding": 28596,
+        "RecaptureAmount": 0
     },
     "111903": {
         "NAME": "TOLAR ISD",
@@ -35119,7 +35119,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.7,
         "PercentChangeCentralAdminPay": 23.47,
         "PercentChangeSupportStaffPay": -8.06,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.47%",
         "Enrollment": 806.0,
         "Victories": "",
@@ -35139,7 +35138,8 @@ var DistrictsData = {
         "LocalFunding": 3053716,
         "StateFunding": 4969168,
         "FederalFunding": 918032,
-        "OtherLocalFunding": 502937
+        "OtherLocalFunding": 502937,
+        "RecaptureAmount": 0
     },
     "126903": {
         "NAME": "CLEBURNE ISD",
@@ -35149,7 +35149,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.28,
         "PercentChangeCentralAdminPay": 0.12,
         "PercentChangeSupportStaffPay": 4.79,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.51%",
         "Enrollment": 6859.0,
         "Victories": "",
@@ -35174,7 +35173,8 @@ var DistrictsData = {
         "LocalFunding": 30704524,
         "StateFunding": 33386805,
         "FederalFunding": 10604272,
-        "OtherLocalFunding": 1681121
+        "OtherLocalFunding": 1681121,
+        "RecaptureAmount": 0
     },
     "111901": {
         "NAME": "GRANBURY ISD",
@@ -35184,7 +35184,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.1,
         "PercentChangeCentralAdminPay": 5.13,
         "PercentChangeSupportStaffPay": 0.39,
-        "RecaptureAmount": "5855626",
         "EnrollmentChange": "6.84%",
         "Enrollment": 7469.0,
         "Victories": "",
@@ -35225,7 +35224,8 @@ var DistrictsData = {
         "LocalFunding": 58723179,
         "StateFunding": 5093288,
         "FederalFunding": 11960623,
-        "OtherLocalFunding": 1149068
+        "OtherLocalFunding": 1149068,
+        "RecaptureAmount": 6232701
     },
     "018907": {
         "NAME": "KOPPERL ISD",
@@ -35235,7 +35235,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.94,
         "PercentChangeCentralAdminPay": 31.06,
         "PercentChangeSupportStaffPay": 32.07,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-17.86%",
         "Enrollment": 184.0,
         "Victories": "",
@@ -35260,7 +35259,8 @@ var DistrictsData = {
         "LocalFunding": 1799479,
         "StateFunding": 589674,
         "FederalFunding": 389040,
-        "OtherLocalFunding": 166294
+        "OtherLocalFunding": 166294,
+        "RecaptureAmount": 0
     },
     "194902": {
         "NAME": "AVERY ISD",
@@ -35270,7 +35270,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 11.1,
         "PercentChangeCentralAdminPay": 19.35,
         "PercentChangeSupportStaffPay": 21.78,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.8%",
         "Enrollment": 322.0,
         "Victories": "",
@@ -35295,7 +35294,8 @@ var DistrictsData = {
         "LocalFunding": 600703,
         "StateFunding": 3892703,
         "FederalFunding": 385793,
-        "OtherLocalFunding": 390544
+        "OtherLocalFunding": 390544,
+        "RecaptureAmount": 0
     },
     "172905": {
         "NAME": "PEWITT CONS ISD",
@@ -35305,7 +35305,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.97,
         "PercentChangeCentralAdminPay": 0.59,
         "PercentChangeSupportStaffPay": -0.33,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-12.05%",
         "Enrollment": 861.0,
         "Victories": "",
@@ -35334,7 +35333,8 @@ var DistrictsData = {
         "LocalFunding": 3063546,
         "StateFunding": 6598090,
         "FederalFunding": 1138004,
-        "OtherLocalFunding": 762893
+        "OtherLocalFunding": 762893,
+        "RecaptureAmount": 0
     },
     "019913": {
         "NAME": "HUBBARD ISD (BOWIE)",
@@ -35344,7 +35344,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 27.54,
         "PercentChangeCentralAdminPay": 27.54,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.23%",
         "Enrollment": 77.0,
         "Victories": "",
@@ -35369,7 +35368,8 @@ var DistrictsData = {
         "LocalFunding": 232137,
         "StateFunding": 1158373,
         "FederalFunding": 260482,
-        "OtherLocalFunding": 12689
+        "OtherLocalFunding": 12689,
+        "RecaptureAmount": 0
     },
     "019909": {
         "NAME": "SIMMS ISD",
@@ -35379,7 +35379,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.54,
         "PercentChangeCentralAdminPay": 14.96,
         "PercentChangeSupportStaffPay": -5.67,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.98%",
         "Enrollment": 483.0,
         "Victories": "",
@@ -35399,7 +35398,8 @@ var DistrictsData = {
         "LocalFunding": 1335879,
         "StateFunding": 4748551,
         "FederalFunding": 1231776,
-        "OtherLocalFunding": 268228
+        "OtherLocalFunding": 268228,
+        "RecaptureAmount": 0
     },
     "019910": {
         "NAME": "MALTA ISD",
@@ -35409,7 +35409,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": -3.76,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "84.03%",
         "Enrollment": 219.0,
         "Victories": "",
@@ -35434,7 +35433,8 @@ var DistrictsData = {
         "LocalFunding": 220071,
         "StateFunding": 2216270,
         "FederalFunding": 92337,
-        "OtherLocalFunding": 32396
+        "OtherLocalFunding": 32396,
+        "RecaptureAmount": 0
     },
     "019901": {
         "NAME": "DE KALB ISD",
@@ -35444,7 +35444,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -18.52,
         "PercentChangeCentralAdminPay": 6.26,
         "PercentChangeSupportStaffPay": 28.05,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.8%",
         "Enrollment": 759.0,
         "Victories": "",
@@ -35469,7 +35468,8 @@ var DistrictsData = {
         "LocalFunding": 2311276,
         "StateFunding": 6989954,
         "FederalFunding": 1507384,
-        "OtherLocalFunding": 494955
+        "OtherLocalFunding": 494955,
+        "RecaptureAmount": 0
     },
     "019905": {
         "NAME": "NEW BOSTON ISD",
@@ -35479,7 +35479,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.19,
         "PercentChangeCentralAdminPay": 0.12,
         "PercentChangeSupportStaffPay": -6.93,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-13.49%",
         "Enrollment": 1174.0,
         "Victories": "",
@@ -35504,7 +35503,8 @@ var DistrictsData = {
         "LocalFunding": 4300953,
         "StateFunding": 11717300,
         "FederalFunding": 3072611,
-        "OtherLocalFunding": 603209
+        "OtherLocalFunding": 603209,
+        "RecaptureAmount": 0
     },
     "019903": {
         "NAME": "MAUD ISD",
@@ -35514,7 +35514,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 1.79,
         "PercentChangeCentralAdminPay": -7.39,
         "PercentChangeSupportStaffPay": 12.14,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.62%",
         "Enrollment": 478.0,
         "Victories": "",
@@ -35539,7 +35538,8 @@ var DistrictsData = {
         "LocalFunding": 708219,
         "StateFunding": 5267790,
         "FederalFunding": 665116,
-        "OtherLocalFunding": 153739
+        "OtherLocalFunding": 153739,
+        "RecaptureAmount": 0
     },
     "034901": {
         "NAME": "ATLANTA ISD",
@@ -35549,7 +35549,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.56,
         "PercentChangeCentralAdminPay": 16.9,
         "PercentChangeSupportStaffPay": 0.71,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "5.0%",
         "Enrollment": 1848.0,
         "Victories": "",
@@ -35574,7 +35573,8 @@ var DistrictsData = {
         "LocalFunding": 5926539,
         "StateFunding": 13278790,
         "FederalFunding": 5928749,
-        "OtherLocalFunding": 840722
+        "OtherLocalFunding": 840722,
+        "RecaptureAmount": 0
     },
     "019902": {
         "NAME": "HOOKS ISD",
@@ -35584,7 +35584,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.22,
         "PercentChangeCentralAdminPay": -3.95,
         "PercentChangeSupportStaffPay": 3.66,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.54%",
         "Enrollment": 844.0,
         "Victories": "",
@@ -35609,7 +35608,8 @@ var DistrictsData = {
         "LocalFunding": 1827164,
         "StateFunding": 8119556,
         "FederalFunding": 2139677,
-        "OtherLocalFunding": 372611
+        "OtherLocalFunding": 372611,
+        "RecaptureAmount": 0
     },
     "019914": {
         "NAME": "LEARY ISD",
@@ -35619,7 +35619,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 40.75,
         "PercentChangeCentralAdminPay": -13.09,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-15.57%",
         "Enrollment": 103.0,
         "Victories": "",
@@ -35644,7 +35643,8 @@ var DistrictsData = {
         "LocalFunding": 466594,
         "StateFunding": 1152366,
         "FederalFunding": 222625,
-        "OtherLocalFunding": 21327
+        "OtherLocalFunding": 21327,
+        "RecaptureAmount": 0
     },
     "019911": {
         "NAME": "RED LICK ISD",
@@ -35654,7 +35654,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.24,
         "PercentChangeCentralAdminPay": -18.38,
         "PercentChangeSupportStaffPay": -1.31,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.77%",
         "Enrollment": 518.0,
         "Victories": "",
@@ -35674,7 +35673,8 @@ var DistrictsData = {
         "LocalFunding": 2403410,
         "StateFunding": 2757558,
         "FederalFunding": 309194,
-        "OtherLocalFunding": 202709
+        "OtherLocalFunding": 202709,
+        "RecaptureAmount": 0
     },
     "019912": {
         "NAME": "PLEASANT GROVE ISD",
@@ -35684,7 +35684,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.01,
         "PercentChangeCentralAdminPay": -10.31,
         "PercentChangeSupportStaffPay": -9.98,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.86%",
         "Enrollment": 2233.0,
         "Victories": "",
@@ -35709,7 +35708,8 @@ var DistrictsData = {
         "LocalFunding": 9801694,
         "StateFunding": 10901301,
         "FederalFunding": 1565530,
-        "OtherLocalFunding": 1246659
+        "OtherLocalFunding": 1246659,
+        "RecaptureAmount": 0
     },
     "019908": {
         "NAME": "LIBERTY-EYLAU ISD",
@@ -35719,7 +35719,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.99,
         "PercentChangeCentralAdminPay": -0.65,
         "PercentChangeSupportStaffPay": -1.68,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-12.63%",
         "Enrollment": 2282.0,
         "Victories": "",
@@ -35744,7 +35743,8 @@ var DistrictsData = {
         "LocalFunding": 6280427,
         "StateFunding": 16697272,
         "FederalFunding": 5513760,
-        "OtherLocalFunding": 574596
+        "OtherLocalFunding": 574596,
+        "RecaptureAmount": 0
     },
     "019907": {
         "NAME": "TEXARKANA ISD",
@@ -35754,7 +35754,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.68,
         "PercentChangeCentralAdminPay": -10.4,
         "PercentChangeSupportStaffPay": -1.41,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "8.4%",
         "Enrollment": 7654.0,
         "Victories": "",
@@ -35774,7 +35773,8 @@ var DistrictsData = {
         "LocalFunding": 23683363,
         "StateFunding": 46146476,
         "FederalFunding": 15318004,
-        "OtherLocalFunding": 1778969
+        "OtherLocalFunding": 1778969,
+        "RecaptureAmount": 0
     },
     "019906": {
         "NAME": "REDWATER ISD",
@@ -35784,7 +35784,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.3,
         "PercentChangeCentralAdminPay": -12.33,
         "PercentChangeSupportStaffPay": -1.39,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.29%",
         "Enrollment": 1107.0,
         "Victories": "",
@@ -35804,7 +35803,8 @@ var DistrictsData = {
         "LocalFunding": 2870086,
         "StateFunding": 9118913,
         "FederalFunding": 1333239,
-        "OtherLocalFunding": 362841
+        "OtherLocalFunding": 362841,
+        "RecaptureAmount": 0
     },
     "034907": {
         "NAME": "QUEEN CITY ISD",
@@ -35814,7 +35814,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 6.07,
         "PercentChangeCentralAdminPay": 19.49,
         "PercentChangeSupportStaffPay": -18.84,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-5.14%",
         "Enrollment": 959.0,
         "Victories": "",
@@ -35839,7 +35838,8 @@ var DistrictsData = {
         "LocalFunding": 5580505,
         "StateFunding": 5748806,
         "FederalFunding": 1696558,
-        "OtherLocalFunding": 335281
+        "OtherLocalFunding": 335281,
+        "RecaptureAmount": 0
     },
     "138902": {
         "NAME": "KNOX CITY-O'BRIEN CONS ISD",
@@ -35849,7 +35849,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.04,
         "PercentChangeCentralAdminPay": -4.56,
         "PercentChangeSupportStaffPay": 51.85,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-21.38%",
         "Enrollment": 239.0,
         "Victories": "",
@@ -35878,7 +35877,8 @@ var DistrictsData = {
         "LocalFunding": 721849,
         "StateFunding": 2737368,
         "FederalFunding": 690800,
-        "OtherLocalFunding": 356406
+        "OtherLocalFunding": 356406,
+        "RecaptureAmount": 0
     },
     "135001": {
         "NAME": "GUTHRIE CSD",
@@ -35888,7 +35888,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.57,
         "PercentChangeCentralAdminPay": -22.46,
         "PercentChangeSupportStaffPay": -17.65,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "2.42%",
         "Enrollment": 127.0,
         "Victories": "",
@@ -35913,7 +35912,8 @@ var DistrictsData = {
         "LocalFunding": 1558917,
         "StateFunding": 523797,
         "FederalFunding": 11245,
-        "OtherLocalFunding": 246841
+        "OtherLocalFunding": 246841,
+        "RecaptureAmount": 0
     },
     "244903": {
         "NAME": "VERNON ISD",
@@ -35923,7 +35923,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -16.17,
         "PercentChangeCentralAdminPay": 9.49,
         "PercentChangeSupportStaffPay": -16.26,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-9.14%",
         "Enrollment": 1899.0,
         "Victories": "",
@@ -35943,7 +35942,8 @@ var DistrictsData = {
         "LocalFunding": 8659415,
         "StateFunding": 8798973,
         "FederalFunding": 3476834,
-        "OtherLocalFunding": 3558912
+        "OtherLocalFunding": 3558912,
+        "RecaptureAmount": 0
     },
     "078901": {
         "NAME": "CROWELL ISD",
@@ -35953,7 +35953,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.24,
         "PercentChangeCentralAdminPay": 10.36,
         "PercentChangeSupportStaffPay": -11.28,
-        "RecaptureAmount": "29742",
         "EnrollmentChange": "-2.42%",
         "Enrollment": 202.0,
         "Victories": "",
@@ -35982,7 +35981,8 @@ var DistrictsData = {
         "LocalFunding": 2695321,
         "StateFunding": 756317,
         "FederalFunding": 643522,
-        "OtherLocalFunding": 3986426
+        "OtherLocalFunding": 3986426,
+        "RecaptureAmount": 18671
     },
     "224901": {
         "NAME": "THROCKMORTON COLLEGIATE ISD",
@@ -35992,7 +35992,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.08,
         "PercentChangeCentralAdminPay": -4.94,
         "PercentChangeSupportStaffPay": -53.38,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-14.11%",
         "Enrollment": 140.0,
         "Victories": "",
@@ -36012,7 +36011,8 @@ var DistrictsData = {
         "LocalFunding": 1317943,
         "StateFunding": 1026185,
         "FederalFunding": 636975,
-        "OtherLocalFunding": 232264
+        "OtherLocalFunding": 232264,
+        "RecaptureAmount": 0
     },
     "138903": {
         "NAME": "MUNDAY CONS ISD",
@@ -36022,7 +36022,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 15.05,
         "PercentChangeCentralAdminPay": 2.82,
         "PercentChangeSupportStaffPay": 16.57,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.0%",
         "Enrollment": 396.0,
         "Victories": "",
@@ -36046,7 +36045,8 @@ var DistrictsData = {
         "LocalFunding": 1214050,
         "StateFunding": 3633453,
         "FederalFunding": 904888,
-        "OtherLocalFunding": 173352
+        "OtherLocalFunding": 173352,
+        "RecaptureAmount": 0
     },
     "138904": {
         "NAME": "BENJAMIN ISD",
@@ -36056,7 +36056,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": 2.94,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "52.33%",
         "Enrollment": 131.0,
         "Victories": "",
@@ -36081,7 +36080,8 @@ var DistrictsData = {
         "LocalFunding": 887989,
         "StateFunding": 1450930,
         "FederalFunding": 190190,
-        "OtherLocalFunding": 222776
+        "OtherLocalFunding": 222776,
+        "RecaptureAmount": 0
     },
     "252903": {
         "NAME": "OLNEY ISD",
@@ -36091,7 +36091,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.35,
         "PercentChangeCentralAdminPay": 37.42,
         "PercentChangeSupportStaffPay": -9.72,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.61%",
         "Enrollment": 707.0,
         "Victories": "",
@@ -36120,7 +36119,8 @@ var DistrictsData = {
         "LocalFunding": 2880692,
         "StateFunding": 6731304,
         "FederalFunding": 2113814,
-        "OtherLocalFunding": 477390
+        "OtherLocalFunding": 477390,
+        "RecaptureAmount": 0
     },
     "050909": {
         "NAME": "JONESBORO ISD",
@@ -36130,7 +36130,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -13.27,
         "PercentChangeCentralAdminPay": -19.59,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "42.92%",
         "Enrollment": 313.0,
         "Victories": "",
@@ -36163,7 +36162,8 @@ var DistrictsData = {
         "LocalFunding": 1033013,
         "StateFunding": 3121768,
         "FederalFunding": 309447,
-        "OtherLocalFunding": 37005
+        "OtherLocalFunding": 37005,
+        "RecaptureAmount": 0
     },
     "018904": {
         "NAME": "VALLEY MILLS ISD",
@@ -36173,7 +36173,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.22,
         "PercentChangeCentralAdminPay": -9.49,
         "PercentChangeSupportStaffPay": -21.43,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.16%",
         "Enrollment": 618.0,
         "Victories": "",
@@ -36201,7 +36200,8 @@ var DistrictsData = {
         "LocalFunding": 2479296,
         "StateFunding": 4419129,
         "FederalFunding": 732128,
-        "OtherLocalFunding": 89018
+        "OtherLocalFunding": 89018,
+        "RecaptureAmount": 0
     },
     "161901": {
         "NAME": "CRAWFORD ISD",
@@ -36211,7 +36211,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.9,
         "PercentChangeCentralAdminPay": 7.95,
         "PercentChangeSupportStaffPay": 22.75,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.0%",
         "Enrollment": 561.0,
         "Victories": "",
@@ -36244,7 +36243,8 @@ var DistrictsData = {
         "LocalFunding": 2468872,
         "StateFunding": 4649630,
         "FederalFunding": 431828,
-        "OtherLocalFunding": 338276
+        "OtherLocalFunding": 338276,
+        "RecaptureAmount": 0
     },
     "018901": {
         "NAME": "CLIFTON ISD",
@@ -36254,7 +36254,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 6.8,
         "PercentChangeCentralAdminPay": 23.27,
         "PercentChangeSupportStaffPay": 9.01,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.52%",
         "Enrollment": 961.0,
         "Victories": "",
@@ -36287,7 +36286,8 @@ var DistrictsData = {
         "LocalFunding": 6205746,
         "StateFunding": 4785161,
         "FederalFunding": 1170373,
-        "OtherLocalFunding": 485208
+        "OtherLocalFunding": 485208,
+        "RecaptureAmount": 0
     },
     "161903": {
         "NAME": "MIDWAY ISD (MCLENNAN)",
@@ -36297,7 +36297,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.21,
         "PercentChangeCentralAdminPay": 4.7,
         "PercentChangeSupportStaffPay": -3.69,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "5.77%",
         "Enrollment": 8253.0,
         "Victories": "",
@@ -36322,7 +36321,8 @@ var DistrictsData = {
         "LocalFunding": 55802524,
         "StateFunding": 13867876,
         "FederalFunding": 9343424,
-        "OtherLocalFunding": 2844402
+        "OtherLocalFunding": 2844402,
+        "RecaptureAmount": 0
     },
     "161909": {
         "NAME": "MCGREGOR ISD",
@@ -36332,7 +36332,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.69,
         "PercentChangeCentralAdminPay": 0.01,
         "PercentChangeSupportStaffPay": 4.22,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.72%",
         "Enrollment": 1478.0,
         "Victories": "",
@@ -36357,7 +36356,8 @@ var DistrictsData = {
         "LocalFunding": 4940001,
         "StateFunding": 9498094,
         "FederalFunding": 2407014,
-        "OtherLocalFunding": 2159583
+        "OtherLocalFunding": 2159583,
+        "RecaptureAmount": 0
     },
     "050904": {
         "NAME": "OGLESBY ISD",
@@ -36367,7 +36367,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -11.07,
         "PercentChangeCentralAdminPay": 36.42,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "12.12%",
         "Enrollment": 185.0,
         "Victories": "",
@@ -36396,7 +36395,8 @@ var DistrictsData = {
         "LocalFunding": 858264,
         "StateFunding": 1475864,
         "FederalFunding": 318322,
-        "OtherLocalFunding": 115231
+        "OtherLocalFunding": 115231,
+        "RecaptureAmount": 0
     },
     "161907": {
         "NAME": "LORENA ISD",
@@ -36406,7 +36406,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.06,
         "PercentChangeCentralAdminPay": 0.39,
         "PercentChangeSupportStaffPay": 17.39,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.29%",
         "Enrollment": 1741.0,
         "Victories": "",
@@ -36435,7 +36434,8 @@ var DistrictsData = {
         "LocalFunding": 6453656,
         "StateFunding": 9858324,
         "FederalFunding": 1364053,
-        "OtherLocalFunding": 725854
+        "OtherLocalFunding": 725854,
+        "RecaptureAmount": 0
     },
     "246905": {
         "NAME": "GRANGER ISD",
@@ -36445,7 +36445,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.64,
         "PercentChangeCentralAdminPay": 16.87,
         "PercentChangeSupportStaffPay": 34.44,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "10.59%",
         "Enrollment": 449.0,
         "Victories": "",
@@ -36470,7 +36469,8 @@ var DistrictsData = {
         "LocalFunding": 1727788,
         "StateFunding": 3743097,
         "FederalFunding": 505130,
-        "OtherLocalFunding": 164817
+        "OtherLocalFunding": 164817,
+        "RecaptureAmount": 0
     },
     "026901": {
         "NAME": "CALDWELL ISD",
@@ -36480,7 +36480,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.78,
         "PercentChangeCentralAdminPay": -1.42,
         "PercentChangeSupportStaffPay": 0.51,
-        "RecaptureAmount": "159027",
         "EnrollmentChange": "-4.85%",
         "Enrollment": 1708.0,
         "Victories": "",
@@ -36505,7 +36504,8 @@ var DistrictsData = {
         "LocalFunding": 16719071,
         "StateFunding": 3510699,
         "FederalFunding": 2464391,
-        "OtherLocalFunding": 819495
+        "OtherLocalFunding": 819495,
+        "RecaptureAmount": 0
     },
     "166903": {
         "NAME": "MILANO ISD",
@@ -36515,7 +36515,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.53,
         "PercentChangeCentralAdminPay": 6.25,
         "PercentChangeSupportStaffPay": 5.0,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.48%",
         "Enrollment": 396.0,
         "Victories": "",
@@ -36540,7 +36539,8 @@ var DistrictsData = {
         "LocalFunding": 1410944,
         "StateFunding": 3596936,
         "FederalFunding": 872319,
-        "OtherLocalFunding": 317058
+        "OtherLocalFunding": 317058,
+        "RecaptureAmount": 0
     },
     "166905": {
         "NAME": "THORNDALE ISD",
@@ -36550,7 +36550,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.15,
         "PercentChangeCentralAdminPay": 9.03,
         "PercentChangeSupportStaffPay": -27.61,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.7%",
         "Enrollment": 576.0,
         "Victories": "",
@@ -36575,7 +36574,8 @@ var DistrictsData = {
         "LocalFunding": 2095801,
         "StateFunding": 4938050,
         "FederalFunding": 771611,
-        "OtherLocalFunding": 446972
+        "OtherLocalFunding": 446972,
+        "RecaptureAmount": 0
     },
     "144902": {
         "NAME": "LEXINGTON ISD",
@@ -36585,7 +36585,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.96,
         "PercentChangeCentralAdminPay": 8.25,
         "PercentChangeSupportStaffPay": 9.83,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "9.85%",
         "Enrollment": 1059.0,
         "Victories": "",
@@ -36622,7 +36621,8 @@ var DistrictsData = {
         "LocalFunding": 4797988,
         "StateFunding": 7042816,
         "FederalFunding": 1092151,
-        "OtherLocalFunding": 265269
+        "OtherLocalFunding": 265269,
+        "RecaptureAmount": 0
     },
     "166904": {
         "NAME": "ROCKDALE ISD",
@@ -36632,7 +36632,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.53,
         "PercentChangeCentralAdminPay": -17.13,
         "PercentChangeSupportStaffPay": -13.37,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.38%",
         "Enrollment": 1453.0,
         "Victories": "",
@@ -36657,7 +36656,8 @@ var DistrictsData = {
         "LocalFunding": 5009644,
         "StateFunding": 9928460,
         "FederalFunding": 4353258,
-        "OtherLocalFunding": 1087712
+        "OtherLocalFunding": 1087712,
+        "RecaptureAmount": 0
     },
     "166907": {
         "NAME": "BUCKHOLTS ISD",
@@ -36667,7 +36667,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 22.25,
         "PercentChangeCentralAdminPay": 54.87,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-11.32%",
         "Enrollment": 141.0,
         "Victories": "",
@@ -36692,7 +36691,8 @@ var DistrictsData = {
         "LocalFunding": 418837,
         "StateFunding": 1742123,
         "FederalFunding": 355817,
-        "OtherLocalFunding": 32598
+        "OtherLocalFunding": 32598,
+        "RecaptureAmount": 0
     },
     "246908": {
         "NAME": "LIBERTY HILL ISD",
@@ -36702,7 +36702,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.57,
         "PercentChangeCentralAdminPay": 34.25,
         "PercentChangeSupportStaffPay": 2.19,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "59.08%",
         "Enrollment": 5539.0,
         "Victories": "",
@@ -36727,7 +36726,8 @@ var DistrictsData = {
         "LocalFunding": 29587191,
         "StateFunding": 17889327,
         "FederalFunding": 2652678,
-        "OtherLocalFunding": 2192963
+        "OtherLocalFunding": 2192963,
+        "RecaptureAmount": 0
     },
     "246904": {
         "NAME": "GEORGETOWN ISD",
@@ -36737,7 +36737,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.54,
         "PercentChangeCentralAdminPay": -1.01,
         "PercentChangeSupportStaffPay": -0.82,
-        "RecaptureAmount": "15941085",
         "EnrollmentChange": "7.9%",
         "Enrollment": 11866.0,
         "Victories": "",
@@ -36766,7 +36765,8 @@ var DistrictsData = {
         "LocalFunding": 98637881,
         "StateFunding": 11812616,
         "FederalFunding": 16172156,
-        "OtherLocalFunding": 3557439
+        "OtherLocalFunding": 3557439,
+        "RecaptureAmount": 15289476
     },
     "161910": {
         "NAME": "MOODY ISD",
@@ -36776,7 +36776,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -15.84,
         "PercentChangeCentralAdminPay": 0.82,
         "PercentChangeSupportStaffPay": 9.1,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.06%",
         "Enrollment": 666.0,
         "Victories": "",
@@ -36813,7 +36812,8 @@ var DistrictsData = {
         "LocalFunding": 2277016,
         "StateFunding": 6034260,
         "FederalFunding": 1228293,
-        "OtherLocalFunding": 158953
+        "OtherLocalFunding": 158953,
+        "RecaptureAmount": 0
     },
     "050901": {
         "NAME": "EVANT ISD",
@@ -36823,7 +36823,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.79,
         "PercentChangeCentralAdminPay": 7.48,
         "PercentChangeSupportStaffPay": -12.14,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "14.23%",
         "Enrollment": 273.0,
         "Victories": "",
@@ -36852,7 +36851,8 @@ var DistrictsData = {
         "LocalFunding": 1080506,
         "StateFunding": 2110221,
         "FederalFunding": 612208,
-        "OtherLocalFunding": 79861
+        "OtherLocalFunding": 79861,
+        "RecaptureAmount": 0
     },
     "141902": {
         "NAME": "LOMETA ISD",
@@ -36862,7 +36862,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -18.64,
         "PercentChangeCentralAdminPay": -30.77,
         "PercentChangeSupportStaffPay": -12.21,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.94%",
         "Enrollment": 316.0,
         "Victories": "",
@@ -36891,7 +36890,8 @@ var DistrictsData = {
         "LocalFunding": 1476481,
         "StateFunding": 3121411,
         "FederalFunding": 1978187,
-        "OtherLocalFunding": 187814
+        "OtherLocalFunding": 187814,
+        "RecaptureAmount": 0
     },
     "206901": {
         "NAME": "SAN SABA ISD",
@@ -36901,7 +36901,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.46,
         "PercentChangeCentralAdminPay": -2.37,
         "PercentChangeSupportStaffPay": -2.06,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-1.5%",
         "Enrollment": 722.0,
         "Victories": "",
@@ -36921,7 +36920,8 @@ var DistrictsData = {
         "LocalFunding": 3194789,
         "StateFunding": 5108174,
         "FederalFunding": 1040866,
-        "OtherLocalFunding": 119300
+        "OtherLocalFunding": 119300,
+        "RecaptureAmount": 0
     },
     "167901": {
         "NAME": "GOLDTHWAITE CONS ISD",
@@ -36931,7 +36931,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.16,
         "PercentChangeCentralAdminPay": 27.26,
         "PercentChangeSupportStaffPay": 7.71,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-13.01%",
         "Enrollment": 515.0,
         "Victories": "",
@@ -36960,7 +36959,8 @@ var DistrictsData = {
         "LocalFunding": 3033569,
         "StateFunding": 3036523,
         "FederalFunding": 1167151,
-        "OtherLocalFunding": 1500309
+        "OtherLocalFunding": 1500309,
+        "RecaptureAmount": 0
     },
     "014909": {
         "NAME": "TEMPLE ISD",
@@ -36970,7 +36970,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 7.41,
         "PercentChangeCentralAdminPay": -20.24,
         "PercentChangeSupportStaffPay": -1.92,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.7%",
         "Enrollment": 8403.0,
         "Victories": "",
@@ -36990,7 +36989,8 @@ var DistrictsData = {
         "LocalFunding": 37739325,
         "StateFunding": 43479643,
         "FederalFunding": 15070780,
-        "OtherLocalFunding": 8499142
+        "OtherLocalFunding": 8499142,
+        "RecaptureAmount": 0
     },
     "014901": {
         "NAME": "ACADEMY ISD",
@@ -37000,7 +37000,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -13.07,
         "PercentChangeCentralAdminPay": 28.68,
         "PercentChangeSupportStaffPay": -7.15,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "22.32%",
         "Enrollment": 1726.0,
         "Victories": "",
@@ -37025,7 +37024,8 @@ var DistrictsData = {
         "LocalFunding": 5013542,
         "StateFunding": 11071440,
         "FederalFunding": 1687703,
-        "OtherLocalFunding": 698897
+        "OtherLocalFunding": 698897,
+        "RecaptureAmount": 0
     },
     "246907": {
         "NAME": "JARRELL ISD",
@@ -37035,7 +37035,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 37.84,
         "PercentChangeCentralAdminPay": -7.97,
         "PercentChangeSupportStaffPay": -15.19,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "61.64%",
         "Enrollment": 2305.0,
         "Victories": "",
@@ -37060,7 +37059,8 @@ var DistrictsData = {
         "LocalFunding": 15542928,
         "StateFunding": 6960362,
         "FederalFunding": 2092180,
-        "OtherLocalFunding": 521184
+        "OtherLocalFunding": 521184,
+        "RecaptureAmount": 0
     },
     "014905": {
         "NAME": "HOLLAND ISD",
@@ -37070,7 +37070,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.44,
         "PercentChangeCentralAdminPay": -25.8,
         "PercentChangeSupportStaffPay": 4.61,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.54%",
         "Enrollment": 654.0,
         "Victories": "",
@@ -37107,7 +37106,8 @@ var DistrictsData = {
         "LocalFunding": 1327943,
         "StateFunding": 6614903,
         "FederalFunding": 2068760,
-        "OtherLocalFunding": 1450753
+        "OtherLocalFunding": 1450753,
+        "RecaptureAmount": 0
     },
     "014902": {
         "NAME": "BARTLETT ISD",
@@ -37117,7 +37117,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.65,
         "PercentChangeCentralAdminPay": -24.19,
         "PercentChangeSupportStaffPay": 9.39,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.98%",
         "Enrollment": 380.0,
         "Victories": "",
@@ -37154,7 +37153,8 @@ var DistrictsData = {
         "LocalFunding": 1265087,
         "StateFunding": 3596332,
         "FederalFunding": 1146099,
-        "OtherLocalFunding": 125013
+        "OtherLocalFunding": 125013,
+        "RecaptureAmount": 0
     },
     "073905": {
         "NAME": "ROSEBUD-LOTT ISD",
@@ -37164,7 +37164,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 5.86,
         "PercentChangeCentralAdminPay": 26.29,
         "PercentChangeSupportStaffPay": 8.88,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.87%",
         "Enrollment": 689.0,
         "Victories": "",
@@ -37197,7 +37196,8 @@ var DistrictsData = {
         "LocalFunding": 2311446,
         "StateFunding": 5558600,
         "FederalFunding": 1104723,
-        "OtherLocalFunding": 237652
+        "OtherLocalFunding": 237652,
+        "RecaptureAmount": 0
     },
     "073901": {
         "NAME": "CHILTON ISD",
@@ -37207,7 +37207,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.01,
         "PercentChangeCentralAdminPay": 12.92,
         "PercentChangeSupportStaffPay": -3.77,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "6.44%",
         "Enrollment": 529.0,
         "Victories": "",
@@ -37232,7 +37231,8 @@ var DistrictsData = {
         "LocalFunding": 746489,
         "StateFunding": 5821084,
         "FederalFunding": 1160459,
-        "OtherLocalFunding": 248411
+        "OtherLocalFunding": 248411,
+        "RecaptureAmount": 0
     },
     "198901": {
         "NAME": "BREMOND ISD",
@@ -37242,7 +37242,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -20.27,
         "PercentChangeCentralAdminPay": 24.88,
         "PercentChangeSupportStaffPay": 2.31,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.66%",
         "Enrollment": 494.0,
         "Victories": "",
@@ -37271,7 +37270,8 @@ var DistrictsData = {
         "LocalFunding": 2583331,
         "StateFunding": 2721404,
         "FederalFunding": 688506,
-        "OtherLocalFunding": 287664
+        "OtherLocalFunding": 287664,
+        "RecaptureAmount": 0
     },
     "166901": {
         "NAME": "CAMERON ISD",
@@ -37281,7 +37281,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -13.0,
         "PercentChangeCentralAdminPay": -3.21,
         "PercentChangeSupportStaffPay": 5.64,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-7.07%",
         "Enrollment": 1631.0,
         "Victories": "",
@@ -37306,7 +37305,8 @@ var DistrictsData = {
         "LocalFunding": 4304665,
         "StateFunding": 11021694,
         "FederalFunding": 2920308,
-        "OtherLocalFunding": 340226
+        "OtherLocalFunding": 340226,
+        "RecaptureAmount": 0
     },
     "073904": {
         "NAME": "WESTPHALIA ISD",
@@ -37316,7 +37316,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": "N/A",
         "PercentChangeCentralAdminPay": "N/A",
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.91%",
         "Enrollment": 160.0,
         "Victories": "",
@@ -37336,7 +37335,8 @@ var DistrictsData = {
         "LocalFunding": 186551,
         "StateFunding": 1686394,
         "FederalFunding": 96231,
-        "OtherLocalFunding": 301431
+        "OtherLocalFunding": 301431,
+        "RecaptureAmount": 0
     },
     "073903": {
         "NAME": "MARLIN ISD",
@@ -37346,7 +37346,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.94,
         "PercentChangeCentralAdminPay": -11.27,
         "PercentChangeSupportStaffPay": -2.42,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.0%",
         "Enrollment": 881.0,
         "Victories": "",
@@ -37371,7 +37370,8 @@ var DistrictsData = {
         "LocalFunding": 3072589,
         "StateFunding": 6472382,
         "FederalFunding": 4370599,
-        "OtherLocalFunding": 2862981
+        "OtherLocalFunding": 2862981,
+        "RecaptureAmount": 0
     },
     "014907": {
         "NAME": "ROGERS ISD",
@@ -37381,7 +37381,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.76,
         "PercentChangeCentralAdminPay": -6.05,
         "PercentChangeSupportStaffPay": -0.45,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.36%",
         "Enrollment": 892.0,
         "Victories": "",
@@ -37410,7 +37409,8 @@ var DistrictsData = {
         "LocalFunding": 2048498,
         "StateFunding": 7590376,
         "FederalFunding": 851523,
-        "OtherLocalFunding": 274042
+        "OtherLocalFunding": 274042,
+        "RecaptureAmount": 0
     },
     "014910": {
         "NAME": "TROY ISD",
@@ -37420,7 +37420,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -2.43,
         "PercentChangeCentralAdminPay": 14.7,
         "PercentChangeSupportStaffPay": 9.57,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "5.79%",
         "Enrollment": 1571.0,
         "Victories": "",
@@ -37444,7 +37443,8 @@ var DistrictsData = {
         "LocalFunding": 4332822,
         "StateFunding": 10681314,
         "FederalFunding": 1765133,
-        "OtherLocalFunding": 1056276
+        "OtherLocalFunding": 1056276,
+        "RecaptureAmount": 0
     },
     "161919": {
         "NAME": "BRUCEVILLE-EDDY ISD",
@@ -37454,7 +37454,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 21.25,
         "PercentChangeCentralAdminPay": 1.46,
         "PercentChangeSupportStaffPay": -3.41,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-20.36%",
         "Enrollment": 614.0,
         "Victories": "",
@@ -37491,7 +37490,8 @@ var DistrictsData = {
         "LocalFunding": 2395511,
         "StateFunding": 5872193,
         "FederalFunding": 627146,
-        "OtherLocalFunding": 173741
+        "OtherLocalFunding": 173741,
+        "RecaptureAmount": 0
     },
     "198902": {
         "NAME": "CALVERT ISD",
@@ -37501,7 +37501,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -30.54,
         "PercentChangeCentralAdminPay": 48.51,
         "PercentChangeSupportStaffPay": -8.9,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-8.33%",
         "Enrollment": 143.0,
         "Victories": "",
@@ -37526,7 +37525,8 @@ var DistrictsData = {
         "LocalFunding": 1437207,
         "StateFunding": 774531,
         "FederalFunding": 428769,
-        "OtherLocalFunding": 96156
+        "OtherLocalFunding": 96156,
+        "RecaptureAmount": 0
     },
     "014906": {
         "NAME": "KILLEEN ISD",
@@ -37536,7 +37536,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.14,
         "PercentChangeCentralAdminPay": -6.43,
         "PercentChangeSupportStaffPay": -10.66,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "1.34%",
         "Enrollment": 43838.0,
         "Victories": "",
@@ -37569,7 +37568,8 @@ var DistrictsData = {
         "LocalFunding": 81466650,
         "StateFunding": 294551325,
         "FederalFunding": 129202951,
-        "OtherLocalFunding": 4349603
+        "OtherLocalFunding": 4349603,
+        "RecaptureAmount": 0
     },
     "014908": {
         "NAME": "SALADO ISD",
@@ -37579,7 +37579,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.67,
         "PercentChangeCentralAdminPay": 11.99,
         "PercentChangeSupportStaffPay": 6.02,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "26.43%",
         "Enrollment": 2105.0,
         "Victories": "",
@@ -37603,7 +37602,8 @@ var DistrictsData = {
         "LocalFunding": 9607792,
         "StateFunding": 8932139,
         "FederalFunding": 1158576,
-        "OtherLocalFunding": 1328310
+        "OtherLocalFunding": 1328310,
+        "RecaptureAmount": 0
     },
     "014903": {
         "NAME": "BELTON ISD",
@@ -37613,7 +37613,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -3.15,
         "PercentChangeCentralAdminPay": 5.06,
         "PercentChangeSupportStaffPay": -2.47,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "16.08%",
         "Enrollment": 12609.0,
         "Victories": "",
@@ -37642,7 +37641,8 @@ var DistrictsData = {
         "LocalFunding": 39195513,
         "StateFunding": 82444597,
         "FederalFunding": 17342001,
-        "OtherLocalFunding": 2935651
+        "OtherLocalFunding": 2935651,
+        "RecaptureAmount": 0
     },
     "246902": {
         "NAME": "FLORENCE ISD",
@@ -37652,7 +37652,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -5.05,
         "PercentChangeCentralAdminPay": -8.09,
         "PercentChangeSupportStaffPay": -9.46,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "4.78%",
         "Enrollment": 1075.0,
         "Victories": "",
@@ -37685,7 +37684,8 @@ var DistrictsData = {
         "LocalFunding": 4939994,
         "StateFunding": 7786554,
         "FederalFunding": 1728019,
-        "OtherLocalFunding": 276309
+        "OtherLocalFunding": 276309,
+        "RecaptureAmount": 0
     },
     "141901": {
         "NAME": "LAMPASAS ISD",
@@ -37695,7 +37695,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -7.29,
         "PercentChangeCentralAdminPay": -6.63,
         "PercentChangeSupportStaffPay": 0.4,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "2.61%",
         "Enrollment": 3416.0,
         "Victories": "",
@@ -37728,7 +37727,8 @@ var DistrictsData = {
         "LocalFunding": 13930689,
         "StateFunding": 18760992,
         "FederalFunding": 5377412,
-        "OtherLocalFunding": 977091
+        "OtherLocalFunding": 977091,
+        "RecaptureAmount": 0
     },
     "050902": {
         "NAME": "GATESVILLE ISD",
@@ -37738,7 +37738,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.46,
         "PercentChangeCentralAdminPay": 11.83,
         "PercentChangeSupportStaffPay": 2.49,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-2.07%",
         "Enrollment": 2790.0,
         "Victories": "",
@@ -37767,7 +37766,8 @@ var DistrictsData = {
         "LocalFunding": 8271018,
         "StateFunding": 15876172,
         "FederalFunding": 5884052,
-        "OtherLocalFunding": 630010
+        "OtherLocalFunding": 630010,
+        "RecaptureAmount": 0
     },
     "050910": {
         "NAME": "COPPERAS COVE ISD",
@@ -37777,7 +37777,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.88,
         "PercentChangeCentralAdminPay": -12.4,
         "PercentChangeSupportStaffPay": -8.09,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "0.45%",
         "Enrollment": 8052.0,
         "Victories": "",
@@ -37806,7 +37805,8 @@ var DistrictsData = {
         "LocalFunding": 15755837,
         "StateFunding": 60179348,
         "FederalFunding": 17325596,
-        "OtherLocalFunding": 1475756
+        "OtherLocalFunding": 1475756,
+        "RecaptureAmount": 0
     },
     "027903": {
         "NAME": "BURNET CONS ISD",
@@ -37816,7 +37816,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -10.64,
         "PercentChangeCentralAdminPay": -19.8,
         "PercentChangeSupportStaffPay": -2.5,
-        "RecaptureAmount": "3197901",
         "EnrollmentChange": "-0.86%",
         "Enrollment": 3113.0,
         "Victories": "",
@@ -37849,7 +37848,8 @@ var DistrictsData = {
         "LocalFunding": 26463336,
         "StateFunding": 3159400,
         "FederalFunding": 7777530,
-        "OtherLocalFunding": 1193123
+        "OtherLocalFunding": 1193123,
+        "RecaptureAmount": 3168396
     },
     "106901": {
         "NAME": "CANADIAN ISD",
@@ -37859,7 +37859,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.12,
         "PercentChangeCentralAdminPay": 8.07,
         "PercentChangeSupportStaffPay": -11.51,
-        "RecaptureAmount": "715058",
         "EnrollmentChange": "-15.67%",
         "Enrollment": 877.0,
         "Victories": "",
@@ -37884,7 +37883,8 @@ var DistrictsData = {
         "LocalFunding": 8620266,
         "StateFunding": 655329,
         "FederalFunding": 1111951,
-        "OtherLocalFunding": 934074
+        "OtherLocalFunding": 934074,
+        "RecaptureAmount": 720807
     },
     "148901": {
         "NAME": "BOOKER ISD",
@@ -37894,7 +37894,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -6.31,
         "PercentChangeCentralAdminPay": 4.27,
         "PercentChangeSupportStaffPay": -2.74,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-10.4%",
         "Enrollment": 362.0,
         "Victories": "",
@@ -37919,7 +37918,8 @@ var DistrictsData = {
         "LocalFunding": 1681491,
         "StateFunding": 3173502,
         "FederalFunding": 575748,
-        "OtherLocalFunding": 203202
+        "OtherLocalFunding": 203202,
+        "RecaptureAmount": 0
     },
     "197902": {
         "NAME": "MIAMI ISD",
@@ -37929,7 +37929,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 18.87,
         "PercentChangeCentralAdminPay": 1.92,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "840693",
         "EnrollmentChange": "-8.45%",
         "Enrollment": 195.0,
         "Victories": "",
@@ -37954,7 +37953,8 @@ var DistrictsData = {
         "LocalFunding": 2265724,
         "StateFunding": 451901,
         "FederalFunding": 92126,
-        "OtherLocalFunding": 114853
+        "OtherLocalFunding": 114853,
+        "RecaptureAmount": 888644
     },
     "242906": {
         "NAME": "FORT ELLIOTT CONS ISD",
@@ -37964,7 +37964,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -8.73,
         "PercentChangeCentralAdminPay": 0.59,
         "PercentChangeSupportStaffPay": -15.9,
-        "RecaptureAmount": "4856896",
         "EnrollmentChange": "-14.79%",
         "Enrollment": 144.0,
         "Victories": "",
@@ -37993,7 +37992,8 @@ var DistrictsData = {
         "LocalFunding": -206076,
         "StateFunding": 1913586,
         "FederalFunding": 53099,
-        "OtherLocalFunding": 90435
+        "OtherLocalFunding": 90435,
+        "RecaptureAmount": 7096855
     },
     "148902": {
         "NAME": "FOLLETT ISD",
@@ -38003,7 +38003,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -17.78,
         "PercentChangeCentralAdminPay": 53.55,
         "PercentChangeSupportStaffPay": -9.06,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "-2.3%",
         "Enrollment": 170.0,
         "Victories": "",
@@ -38028,7 +38027,8 @@ var DistrictsData = {
         "LocalFunding": 876246,
         "StateFunding": 1336189,
         "FederalFunding": 226514,
-        "OtherLocalFunding": 64617
+        "OtherLocalFunding": 64617,
+        "RecaptureAmount": 0
     },
     "243902": {
         "NAME": "ELECTRA ISD",
@@ -38038,7 +38038,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 2.62,
         "PercentChangeCentralAdminPay": 14.91,
         "PercentChangeSupportStaffPay": -8.55,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "3.76%",
         "Enrollment": 441.0,
         "Victories": "",
@@ -38063,7 +38062,8 @@ var DistrictsData = {
         "LocalFunding": 2083123,
         "StateFunding": 3905344,
         "FederalFunding": 792832,
-        "OtherLocalFunding": 58087
+        "OtherLocalFunding": 58087,
+        "RecaptureAmount": 0
     },
     "012901": {
         "NAME": "SEYMOUR ISD",
@@ -38073,7 +38073,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -12.32,
         "PercentChangeCentralAdminPay": -9.51,
         "PercentChangeSupportStaffPay": -10.64,
-        "RecaptureAmount": "0",
         "EnrollmentChange": "4.19%",
         "Enrollment": 621.0,
         "Victories": "",
@@ -38093,7 +38092,8 @@ var DistrictsData = {
         "LocalFunding": 2686273,
         "StateFunding": 4464345,
         "FederalFunding": 926590,
-        "OtherLocalFunding": 350038
+        "OtherLocalFunding": 350038,
+        "RecaptureAmount": 0
     },
     "244901": {
         "NAME": "HARROLD ISD",
@@ -38103,7 +38103,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 17.63,
         "PercentChangeCentralAdminPay": 42.15,
         "PercentChangeSupportStaffPay": "N/A",
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "5.94%",
         "Enrollment": 107.0,
         "Victories": "",
@@ -38128,7 +38127,8 @@ var DistrictsData = {
         "LocalFunding": 893219,
         "StateFunding": 943141,
         "FederalFunding": 171012,
-        "OtherLocalFunding": 683260
+        "OtherLocalFunding": 683260,
+        "RecaptureAmount": 0
     },
     "039902": {
         "NAME": "HENRIETTA ISD",
@@ -38138,7 +38138,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 0.58,
         "PercentChangeCentralAdminPay": 21.57,
         "PercentChangeSupportStaffPay": 11.93,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-6.1%",
         "Enrollment": 908.0,
         "Victories": "",
@@ -38163,7 +38162,8 @@ var DistrictsData = {
         "LocalFunding": 3752385,
         "StateFunding": 6356683,
         "FederalFunding": 1992486,
-        "OtherLocalFunding": 367324
+        "OtherLocalFunding": 367324,
+        "RecaptureAmount": 0
     },
     "039903": {
         "NAME": "PETROLIA CONS ISD",
@@ -38173,7 +38173,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.43,
         "PercentChangeCentralAdminPay": 15.64,
         "PercentChangeSupportStaffPay": 19.25,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-13.4%",
         "Enrollment": 446.0,
         "Victories": "",
@@ -38193,7 +38192,8 @@ var DistrictsData = {
         "LocalFunding": 1578541,
         "StateFunding": 4127587,
         "FederalFunding": 676069,
-        "OtherLocalFunding": 99672
+        "OtherLocalFunding": 99672,
+        "RecaptureAmount": 0
     },
     "005902": {
         "NAME": "HOLLIDAY ISD",
@@ -38203,7 +38203,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -0.94,
         "PercentChangeCentralAdminPay": 11.52,
         "PercentChangeSupportStaffPay": 23.52,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "13.0%",
         "Enrollment": 1069.0,
         "Victories": "",
@@ -38228,7 +38227,8 @@ var DistrictsData = {
         "LocalFunding": 4135863,
         "StateFunding": 7455270,
         "FederalFunding": 568513,
-        "OtherLocalFunding": 229181
+        "OtherLocalFunding": 229181,
+        "RecaptureAmount": 0
     },
     "005901": {
         "NAME": "ARCHER CITY ISD",
@@ -38238,7 +38238,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -4.88,
         "PercentChangeCentralAdminPay": 32.26,
         "PercentChangeSupportStaffPay": -1.12,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "8.19%",
         "Enrollment": 502.0,
         "Victories": "",
@@ -38263,7 +38262,8 @@ var DistrictsData = {
         "LocalFunding": 2327984,
         "StateFunding": 3455274,
         "FederalFunding": 469263,
-        "OtherLocalFunding": 807011
+        "OtherLocalFunding": 807011,
+        "RecaptureAmount": 0
     },
     "243906": {
         "NAME": "CITY VIEW ISD",
@@ -38273,7 +38273,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 3.76,
         "PercentChangeCentralAdminPay": 5.48,
         "PercentChangeSupportStaffPay": 3.22,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-0.29%",
         "Enrollment": 1023.0,
         "Victories": "",
@@ -38298,7 +38297,8 @@ var DistrictsData = {
         "LocalFunding": 2224878,
         "StateFunding": 12212316,
         "FederalFunding": 2510676,
-        "OtherLocalFunding": 1403981
+        "OtherLocalFunding": 1403981,
+        "RecaptureAmount": 0
     },
     "243905": {
         "NAME": "WICHITA FALLS ISD",
@@ -38308,7 +38308,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -9.77,
         "PercentChangeCentralAdminPay": 4.9,
         "PercentChangeSupportStaffPay": 5.3,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.95%",
         "Enrollment": 13600.0,
         "Victories": "",
@@ -38333,7 +38332,8 @@ var DistrictsData = {
         "LocalFunding": 46541688,
         "StateFunding": 71266797,
         "FederalFunding": 22417031,
-        "OtherLocalFunding": 2576900
+        "OtherLocalFunding": 2576900,
+        "RecaptureAmount": 0
     },
     "243901": {
         "NAME": "BURKBURNETT ISD",
@@ -38343,7 +38343,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": 13.63,
         "PercentChangeCentralAdminPay": 27.38,
         "PercentChangeSupportStaffPay": 23.47,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "-3.99%",
         "Enrollment": 3199.0,
         "Victories": "",
@@ -38368,7 +38367,8 @@ var DistrictsData = {
         "LocalFunding": 9897769,
         "StateFunding": 18744089,
         "FederalFunding": 4779712,
-        "OtherLocalFunding": 5970181
+        "OtherLocalFunding": 5970181,
+        "RecaptureAmount": 0
     },
     "243903": {
         "NAME": "IOWA PARK CONS ISD",
@@ -38378,7 +38378,6 @@ var DistrictsData = {
         "PercentChangeCampusAdminPay": -1.86,
         "PercentChangeCentralAdminPay": -2.54,
         "PercentChangeSupportStaffPay": -2.35,
-        "RecaptureAmount": "No 2020-2021 cost of recapture report",
         "EnrollmentChange": "6.33%",
         "Enrollment": 1898.0,
         "Victories": "",
@@ -38403,6 +38402,7 @@ var DistrictsData = {
         "LocalFunding": 6570844,
         "StateFunding": 12496191,
         "FederalFunding": 1307552,
-        "OtherLocalFunding": 497038
+        "OtherLocalFunding": 497038,
+        "RecaptureAmount": 0
     }
 };
