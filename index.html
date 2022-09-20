@@ -66,12 +66,18 @@
             font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
         }
 
+        a {
+            cursor: pointer;
+        }
+
         .respect-campaign-map-button {
             color: white;
 
             padding: 7px;
             cursor: pointer;
             margin: auto;
+
+            font-size: 14px;
 
             background-color: white;
 
@@ -259,17 +265,16 @@
                     </select>
               </div>
 
-              <button class="respect-campaign-map-button" style="background-color: #880808; font-size: 14px; margin: 2.5px;"><a id="raw-data-link" href="#" style="text-decoration: none; color: white; font-size: 14px;">DATA: EMPLOYEE PAY</a></button>
-              <button class="respect-campaign-map-button" style="background: linear-gradient(166deg, rgba(2,0,36,1) 0%, rgba(0,51,102,1) 52%, rgba(255,204,51,1) 98%); margin: 5px;"><a style="color: white; font-size: 14px; text-decoration: none;" href="https://actionnetwork.org/forms/take-the-respect-pledge" target="_blank">SIGN RESPECT PLEDGE</a></button>
+              <a id="raw-data-link" href="#" style="text-decoration: none; color: white; font-size: 14px; cursor: pointer;"><button class="respect-campaign-map-button" style="cursor: pointer; background-color: #880808; font-size: 14px; margin: 2.5px;">DATA: EMPLOYEE PAY</button></a>
+              <a style="color: white; font-size: 14px; text-decoration: none; cursor: pointer;" href="https://actionnetwork.org/forms/take-the-respect-pledge" target="_blank"><button class="respect-campaign-map-button" style="cursor: pointer; background: linear-gradient(166deg, rgba(2,0,36,1) 0%, rgba(0,51,102,1) 52%, rgba(255,204,51,1) 98%); margin: 5px;">SIGN RESPECT PLEDGE</button></a>
 
-              <button class="respect-campaign-map-button" id="detail-join-union-button" style="background-color: #1167B0; font-size: 14px; margin: 2.5px;">
                   <a onclick="var districtName = document.getElementById('detail-district-name').innerText;
                   TexasDistrictsFeatureCollection.features.forEach(district => {
                       if (district.properties.NAME.replace(' County)', ')') == districtName.replace(' County)', ')')) {
                             window.open(district.properties.JoinTAFT, '_blank');
                       }
-                  })" href="#" style="color: white; text-decoration: none;">JOIN OUR UNION</a>
-              </button>
+                  })" href="#" style="color: white; text-decoration: none; cursor: pointer; font-size: 14px;"><button class="respect-campaign-map-button" id="detail-join-union-button" style="background-color: #1167B0; font-size: 14px; margin: 2.5px; cursor: pointer;">JOIN OUR UNION</button></a>
+
 
           </span></div>
 
@@ -378,8 +383,7 @@
                   </div>
                     <br>
                   <div style="border: 1px solid lightgrey; border-radius: 4px; text-align: center; padding: 15px;">
-                  <h4 class="modal-subheader"><a id="peims-actual-link">2020-2021 STATE/LOCAL FUNDING - OPERATING REVENUE</a></h4>
-                  <p style="font-weight: bold;">2020-2021 Cost of Recapture: <span id="detail-district-recapture" style="font-weight: normal;"></span></p>
+                  <h4 class="modal-subheader"><a id="peims-actual-link">2020-2021 OPERATING REVENUE</a></h4>
 
                   <div class="chart-container" style="padding: 15px;">
                     <div class="pie-chart-container">
@@ -423,13 +427,17 @@
                         </p>
                       </div>
                   </div>
+
                       <div>
-                          <h4 class="modal-subheader">Cost Comparison</h4>
-                              <div class="bar-chart-chart-container" style="height: 180px;">
+                          <h4 style="text-decoration: underline;">FUNDING/COST COMPARISON</h4>
+                              <div class="bar-chart-chart-container" style="height: 240px; max-height: 240px;">
                                 <div class="bar-chart-container">
-                                  <canvas id="myBarChart" style="height: 180px; width: 90%;"></canvas>
+                                  <canvas id="myBarChart" style="height: 240px; width: 100%; max-height: 240px;"></canvas>
                                 </div>
                               </div>
+
+                          <p style="font-weight: bold;">2020-2021 Cost of Recapture: <span id="detail-district-recapture" style="font-weight: normal;"></span></p>
+                            <p style="font-weight: bold;">Estimated Revenue Loss from Charter Transfers: <span id="detail-district-charter-cost-2" style="font-weight: normal;"></span></p>
                         </div>
                 </div>
 
@@ -692,7 +700,7 @@
                         <label for="employer5">Student Membership</label><br>
 
                         <div style="margin: auto; text-align: center;">
-                        <button class="respect-campaign-popup-button" style="background-color: #1167B0; margin-top: 10px; width: 100%;"><a href="#" onclick="
+                        <a href="#" onclick="
                         var employers = document.getElementsByName('employer');
                         for (var i = 0; i < employers.length; i++) {if (employers[i].checked) {
                           var employerType = employers[i].value;
@@ -721,8 +729,8 @@
                             } else if (employerType == 'student') {
                                 window.open('https://www.texasaft.org/student-membership-application/', '_blank');
                             }
-                        }}" style="text-decoration: none; color: white; font-size: 14px;">JOIN OUR UNION</a></button>
-                        <button class="respect-campaign-popup-button" style="margin-top: 10px; width: 100%; background: linear-gradient(166deg, rgba(2,0,36,1) 0%, rgba(0,51,102,1) 52%, rgba(255,204,51,1) 98%);"><a style="color: white; font-size: 14px; text-decoration: none;" href="https://actionnetwork.org/forms/take-the-respect-pledge" target="_blank">SIGN RESPECT PLEDGE</a></button>
+                        }}" style="text-decoration: none; color: white; font-size: 14px; cursor: pointer;"><button class="respect-campaign-popup-button" style="background-color: #1167B0; margin-top: 10px; width: 100%; font-size: 14px; cursor: pointer;">JOIN OUR UNION</button></a>
+                        <a style="color: white; font-size: 14px; text-decoration: none; cursor: pointer;" href="https://actionnetwork.org/forms/take-the-respect-pledge" target="_blank"><button class="respect-campaign-popup-button" style="font-size: 14px; margin-top: 10px; width: 100%; cursor: pointer; background: linear-gradient(166deg, rgba(2,0,36,1) 0%, rgba(0,51,102,1) 52%, rgba(255,204,51,1) 98%);">SIGN RESPECT PLEDGE</button></a>
                         </div></div>`);
 
                     layer.bindPopup(popup, {maxHeight: 550});
@@ -947,6 +955,9 @@
 
                             var charterCost = document.getElementById('detail-district-charter-cost');
                             charterCost.innerText = `$${districtLocal.properties.CostOfCharters}`
+
+                            var charterCost2 = document.getElementById('detail-district-charter-cost-2');
+                            charterCost2.innerText = `$${districtLocal.properties.CostOfCharters}`
 
                             var charterCostPerStudent = document.getElementById('detail-district-charter-cost-per-student');
                             charterCostPerStudent.innerText = `$${districtLocal.properties.PerStudentCostOfCharters}`
