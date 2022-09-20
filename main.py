@@ -16,6 +16,8 @@ school_districts_url = (
     "/Users/adpena/PycharmProjects/RespectCampaign/district reports/all_districts/all_files"
 )
 
+peims_actual_funding_breakdown = "/Users/adpena/PycharmProjects/CharterTransfers/2020-2021 PEIMS Actual_funding_breakdown.csv"
+
 # create a list of the district folders in the directory
 
 # print(url)
@@ -495,7 +497,7 @@ with open("Districts2020to2021.geojson", "r") as json_file:
                         feature["properties"]["Attendance"] = attendance
                         new_json[district_number]["Attendance"] = attendance
 
-                        def get_state_and_local_funding(district_number_local):
+                        def get_state_and_local_funding_sof(district_number_local):
                             total_state_funding = 0.0
                             total_local_funding = 0.0
 
@@ -515,8 +517,31 @@ with open("Districts2020to2021.geojson", "r") as json_file:
 
                             return total_state_funding, total_local_funding
 
-                        feature["properties"]["StateFunding"], feature["properties"]["LocalFunding"] = get_state_and_local_funding(district_number)
-                        new_json[district_number]["StateFunding"], new_json[district_number]["LocalFunding"] = get_state_and_local_funding(district_number)
+                        def get_state_and_local_funding(district_number_local):
+                            total_local_funding = 0.0
+                            total_state_funding = 0.0
+                            total_federal_funding = 0.0
+                            total_other_local_funding = 0.0
+
+                            with open(peims_actual_funding_breakdown, "r") as csvfile:
+                                reader = csv.reader(csvfile)
+
+                                header = False
+                                header_indexes = {}
+
+                                for row in reader:
+                                    if header is False:
+                                        header = True
+
+                                        for i, header_label in enumerate(row):
+                                            header_indexes[header_label] = i
+
+                                    else:
+                                        if pad_district_number(row[header_indexes["District Number"]]) == district_number_local:
+                                            return int(row[header_indexes["Local"]].replace("$", "").replace(",", "")), int(row[header_indexes["State"]].replace("$", "").replace(",", "")), int(row[header_indexes["Federal"]].replace("$", "").replace(",", "")), int(row[header_indexes["Other Local"]].replace("$", "").replace(",", ""))
+
+                        feature["properties"]["LocalFunding"], feature["properties"]["StateFunding"], feature["properties"]["FederalFunding"], feature["properties"]["OtherLocalFunding"] = get_state_and_local_funding(district_number)
+                        new_json[district_number]["LocalFunding"], new_json[district_number]["StateFunding"], new_json[district_number]["FederalFunding"], new_json[district_number]["OtherLocalFunding"] = get_state_and_local_funding(district_number)
 
     # with open("DistrictsFinal.geojson", "w", encoding="utf-8") as f:
         # json.dump(json_raw, f, ensure_ascii=False, indent=4)

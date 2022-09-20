@@ -33,8 +33,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 389.94300000000004,
-        "StateFunding": 4128900.0,
-        "LocalFunding": 1708588.0
+        "LocalFunding": 1961972,
+        "StateFunding": 4260448,
+        "FederalFunding": 1165187,
+        "OtherLocalFunding": 1603630
     },
     "063906": {
         "NAME": "PATTON SPRINGS ISD",
@@ -61,8 +63,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 91.551,
-        "StateFunding": 986050.0,
-        "LocalFunding": 812382.0
+        "LocalFunding": 938833,
+        "StateFunding": 1024969,
+        "FederalFunding": 474418,
+        "OtherLocalFunding": 54778
     },
     "063903": {
         "NAME": "SPUR ISD",
@@ -89,8 +93,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 222.75900000000001,
-        "StateFunding": 1480847.0,
-        "LocalFunding": 1452026.0
+        "LocalFunding": 1404222,
+        "StateFunding": 1477489,
+        "FederalFunding": 352029,
+        "OtherLocalFunding": 103311
     },
     "091906": {
         "NAME": "SHERMAN ISD",
@@ -122,8 +128,10 @@ var DistrictsData = {
         "CostOfCharters": "104,572.99",
         "CharterTransfers": "11",
         "Attendance": 6955.029,
-        "StateFunding": 34347950.0,
-        "LocalFunding": 33179775.0
+        "LocalFunding": 38745684,
+        "StateFunding": 34713634,
+        "FederalFunding": 13145353,
+        "OtherLocalFunding": 1032783
     },
     "091914": {
         "NAME": "S AND S CONS ISD",
@@ -145,8 +153,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 912.974,
-        "StateFunding": 6080827.0,
-        "LocalFunding": 4419440.0
+        "LocalFunding": 5126723,
+        "StateFunding": 6216840,
+        "FederalFunding": 1439823,
+        "OtherLocalFunding": 262009
     },
     "091913": {
         "NAME": "POTTSBORO ISD",
@@ -173,8 +183,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1340.6690000000003,
-        "StateFunding": 2708394.0,
-        "LocalFunding": 9424683.0
+        "LocalFunding": 9997993,
+        "StateFunding": 2849993,
+        "FederalFunding": 1950535,
+        "OtherLocalFunding": 554378
     },
     "070912": {
         "NAME": "WAXAHACHIE ISD",
@@ -201,8 +213,10 @@ var DistrictsData = {
         "CostOfCharters": "6,722,103.22",
         "CharterTransfers": "718",
         "Attendance": 9210.186,
-        "StateFunding": 41850126.0,
-        "LocalFunding": 43104716.0
+        "LocalFunding": 50399150,
+        "StateFunding": 43806028,
+        "FederalFunding": 6147219,
+        "OtherLocalFunding": 2058503
     },
     "070910": {
         "NAME": "PALMER ISD",
@@ -234,8 +248,10 @@ var DistrictsData = {
         "CostOfCharters": "248,424.61",
         "CharterTransfers": "22",
         "Attendance": 1162.545,
-        "StateFunding": 10508614.0,
-        "LocalFunding": 3324982.0
+        "LocalFunding": 3834096,
+        "StateFunding": 10479630,
+        "FederalFunding": 1431657,
+        "OtherLocalFunding": 210287
     },
     "070903": {
         "NAME": "ENNIS ISD",
@@ -271,8 +287,10 @@ var DistrictsData = {
         "CostOfCharters": "99,868.22",
         "CharterTransfers": "11",
         "Attendance": 5231.124,
-        "StateFunding": 27319183.0,
-        "LocalFunding": 22747218.0
+        "LocalFunding": 26379818,
+        "StateFunding": 27347589,
+        "FederalFunding": 8917635,
+        "OtherLocalFunding": 1047046
     },
     "091903": {
         "NAME": "DENISON ISD",
@@ -304,8 +322,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 4158.534000000001,
-        "StateFunding": 21063138.0,
-        "LocalFunding": 18980276.0
+        "LocalFunding": 22267158,
+        "StateFunding": 21315077,
+        "FederalFunding": 8537581,
+        "OtherLocalFunding": 1319567
     },
     "091901": {
         "NAME": "BELLS ISD",
@@ -337,8 +357,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 834.125,
-        "StateFunding": 6687737.0,
-        "LocalFunding": 2830089.0
+        "LocalFunding": 3301371,
+        "StateFunding": 6785091,
+        "FederalFunding": 795309,
+        "OtherLocalFunding": 379481
     },
     "091909": {
         "NAME": "WHITESBORO ISD",
@@ -370,8 +392,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1503.037,
-        "StateFunding": 5658231.0,
-        "LocalFunding": 8564382.0
+        "LocalFunding": 9953727,
+        "StateFunding": 5698429,
+        "FederalFunding": 2348132,
+        "OtherLocalFunding": 576039
     },
     "091902": {
         "NAME": "COLLINSVILLE ISD",
@@ -407,8 +431,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 492.6960000000001,
-        "StateFunding": 4157416.0,
-        "LocalFunding": 2075198.0
+        "LocalFunding": 2470125,
+        "StateFunding": 4263996,
+        "FederalFunding": 952592,
+        "OtherLocalFunding": 435433
     },
     "121906": {
         "NAME": "EVADALE ISD",
@@ -440,8 +466,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 367.2,
-        "StateFunding": 1186768.0,
-        "LocalFunding": 3146303.0
+        "LocalFunding": 3613851,
+        "StateFunding": 1994011,
+        "FederalFunding": 623336,
+        "OtherLocalFunding": 119567
     },
     "121903": {
         "NAME": "BUNA ISD",
@@ -473,8 +501,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1360.9,
-        "StateFunding": 11189178.0,
-        "LocalFunding": 3626370.0
+        "LocalFunding": 4408217,
+        "StateFunding": 10811315,
+        "FederalFunding": 2492629,
+        "OtherLocalFunding": 1812859
     },
     "137904": {
         "NAME": "SANTA GERTRUDIS ISD",
@@ -506,8 +536,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 759.6339999999999,
-        "StateFunding": 7521266.0,
-        "LocalFunding": 916435.0
+        "LocalFunding": 965086,
+        "StateFunding": 7096587,
+        "FederalFunding": 608528,
+        "OtherLocalFunding": 443082
     },
     "137903": {
         "NAME": "RIVIERA ISD",
@@ -543,8 +575,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 387.463,
-        "StateFunding": 2523919.0,
-        "LocalFunding": 2481976.0
+        "LocalFunding": 2847025,
+        "StateFunding": 2735357,
+        "FederalFunding": 678449,
+        "OtherLocalFunding": 137895
     },
     "137902": {
         "NAME": "RICARDO ISD",
@@ -576,8 +610,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 605.855,
-        "StateFunding": 5607326.0,
-        "LocalFunding": 1881222.0
+        "LocalFunding": 2087508,
+        "StateFunding": 5863521,
+        "FederalFunding": 1194633,
+        "OtherLocalFunding": 105630
     },
     "137901": {
         "NAME": "KINGSVILLE ISD",
@@ -609,8 +645,10 @@ var DistrictsData = {
         "CostOfCharters": "3,000,808.17",
         "CharterTransfers": "308",
         "Attendance": 2591.37,
-        "StateFunding": 17935534.0,
-        "LocalFunding": 8934290.0
+        "LocalFunding": 9498011,
+        "StateFunding": 18149356,
+        "FederalFunding": 6767878,
+        "OtherLocalFunding": 820719
     },
     "228905": {
         "NAME": "APPLE SPRINGS ISD",
@@ -642,8 +680,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 184.952,
-        "StateFunding": 1995429.0,
-        "LocalFunding": 495347.0
+        "LocalFunding": 518054,
+        "StateFunding": 2050488,
+        "FederalFunding": 399193,
+        "OtherLocalFunding": 33269
     },
     "228903": {
         "NAME": "TRINITY ISD",
@@ -679,8 +719,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1058.415,
-        "StateFunding": 8318328.0,
-        "LocalFunding": 4070063.0
+        "LocalFunding": 4739581,
+        "StateFunding": 8603440,
+        "FederalFunding": 1701145,
+        "OtherLocalFunding": 332001
     },
     "113906": {
         "NAME": "KENNARD ISD",
@@ -712,8 +754,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 207.625,
-        "StateFunding": 1797562.0,
-        "LocalFunding": 1168820.0
+        "LocalFunding": 1314574,
+        "StateFunding": 1875627,
+        "FederalFunding": 548439,
+        "OtherLocalFunding": 44028
     },
     "155901": {
         "NAME": "JEFFERSON ISD",
@@ -745,8 +789,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1083.689,
-        "StateFunding": 6566579.0,
-        "LocalFunding": 6189782.0
+        "LocalFunding": 6410325,
+        "StateFunding": 7384484,
+        "FederalFunding": 4574414,
+        "OtherLocalFunding": 502645
     },
     "034902": {
         "NAME": "AVINGER ISD",
@@ -778,8 +824,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 128.386,
-        "StateFunding": 1415818.0,
-        "LocalFunding": 649841.0
+        "LocalFunding": 838110,
+        "StateFunding": 1448938,
+        "FederalFunding": 188820,
+        "OtherLocalFunding": 12157
     },
     "195901": {
         "NAME": "PECOS-BARSTOW-TOYAH ISD",
@@ -815,8 +863,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2411.335,
-        "StateFunding": 1271215.0,
-        "LocalFunding": 125948624.0
+        "LocalFunding": 23667151,
+        "StateFunding": 1393312,
+        "FederalFunding": 7353774,
+        "OtherLocalFunding": 4571733
     },
     "195902": {
         "NAME": "BALMORHEA ISD",
@@ -848,8 +898,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 140.744,
-        "StateFunding": -2533771.0,
-        "LocalFunding": 4402164.0
+        "LocalFunding": 2533422,
+        "StateFunding": 77854,
+        "FederalFunding": 215859,
+        "OtherLocalFunding": 63378
     },
     "222901": {
         "NAME": "TERRELL COUNTY ISD",
@@ -881,8 +933,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 111.056,
-        "StateFunding": 122907.0,
-        "LocalFunding": 1728978.0
+        "LocalFunding": 1821385,
+        "StateFunding": 158288,
+        "FederalFunding": 159026,
+        "OtherLocalFunding": 802022
     },
     "082902": {
         "NAME": "DILLEY ISD",
@@ -922,8 +976,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 807.091,
-        "StateFunding": 637699.0,
-        "LocalFunding": 11107473.0
+        "LocalFunding": 10096177,
+        "StateFunding": 763534,
+        "FederalFunding": 2238874,
+        "OtherLocalFunding": 312103
     },
     "140907": {
         "NAME": "SPRINGLAKE-EARTH ISD",
@@ -950,8 +1006,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 270.07,
-        "StateFunding": 3202450.0,
-        "LocalFunding": 752016.0
+        "LocalFunding": 986605,
+        "StateFunding": 3148677,
+        "FederalFunding": 839380,
+        "OtherLocalFunding": 140494
     },
     "153904": {
         "NAME": "TAHOKA ISD",
@@ -978,8 +1036,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 531.3140000000001,
-        "StateFunding": 5388029.0,
-        "LocalFunding": 1669895.0
+        "LocalFunding": 2068921,
+        "StateFunding": 5440813,
+        "FederalFunding": 1456017,
+        "OtherLocalFunding": 824018
     },
     "153903": {
         "NAME": "O'DONNELL ISD",
@@ -1010,8 +1070,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 271.101,
-        "StateFunding": 2717669.0,
-        "LocalFunding": 930797.0
+        "LocalFunding": 1037578,
+        "StateFunding": 2879099,
+        "FederalFunding": 565501,
+        "OtherLocalFunding": 239239
     },
     "058902": {
         "NAME": "DAWSON ISD (DAWSON)",
@@ -1047,8 +1109,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 134.133,
-        "StateFunding": 1237717.0,
-        "LocalFunding": 723436.0
+        "LocalFunding": 859815,
+        "StateFunding": 1281964,
+        "FederalFunding": 258346,
+        "OtherLocalFunding": 80623
     },
     "023902": {
         "NAME": "SILVERTON ISD",
@@ -1075,8 +1139,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 170.056,
-        "StateFunding": 891240.0,
-        "LocalFunding": 1472896.0
+        "LocalFunding": 1488843,
+        "StateFunding": 905582,
+        "FederalFunding": 413175,
+        "OtherLocalFunding": 51337
     },
     "035903": {
         "NAME": "NAZARETH ISD",
@@ -1108,8 +1174,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 232.06800000000004,
-        "StateFunding": 2094519.0,
-        "LocalFunding": 687610.0
+        "LocalFunding": 823209,
+        "StateFunding": 2446522,
+        "FederalFunding": 241496,
+        "OtherLocalFunding": 196575
     },
     "035902": {
         "NAME": "HART ISD",
@@ -1141,8 +1209,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 194.382,
-        "StateFunding": 2036096.0,
-        "LocalFunding": 696078.0
+        "LocalFunding": 830389,
+        "StateFunding": 2345484,
+        "FederalFunding": 522706,
+        "OtherLocalFunding": 40410
     },
     "035901": {
         "NAME": "DIMMITT ISD",
@@ -1174,8 +1244,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1056.652,
-        "StateFunding": 9060097.0,
-        "LocalFunding": 2694731.0
+        "LocalFunding": 3046716,
+        "StateFunding": 9344233,
+        "FederalFunding": 2313172,
+        "OtherLocalFunding": 423867
     },
     "127906": {
         "NAME": "STAMFORD ISD",
@@ -1206,8 +1278,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 561.893,
-        "StateFunding": 6606143.0,
-        "LocalFunding": 959565.0
+        "LocalFunding": 1094850,
+        "StateFunding": 7484353,
+        "FederalFunding": 3559056,
+        "OtherLocalFunding": 232653
     },
     "104907": {
         "NAME": "PAINT CREEK ISD",
@@ -1238,8 +1312,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 85.48100000000001,
-        "StateFunding": 356711.0,
-        "LocalFunding": 1457087.0
+        "LocalFunding": 1568178,
+        "StateFunding": 224578,
+        "FederalFunding": 233334,
+        "OtherLocalFunding": 132586
     },
     "221904": {
         "NAME": "MERKEL ISD",
@@ -1271,8 +1347,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 995.2330000000001,
-        "StateFunding": 7128708.0,
-        "LocalFunding": 4168994.0
+        "LocalFunding": 4404846,
+        "StateFunding": 7173947,
+        "FederalFunding": 1360539,
+        "OtherLocalFunding": 146477
     },
     "127901": {
         "NAME": "ANSON ISD",
@@ -1304,8 +1382,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 648.533,
-        "StateFunding": 7193199.0,
-        "LocalFunding": 1310322.0
+        "LocalFunding": 1496544,
+        "StateFunding": 6960557,
+        "FederalFunding": 1331735,
+        "OtherLocalFunding": 384586
     },
     "221905": {
         "NAME": "TRENT ISD",
@@ -1332,8 +1412,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 120.85,
-        "StateFunding": 398844.0,
-        "LocalFunding": 1972831.0
+        "LocalFunding": 2008663,
+        "StateFunding": 344555,
+        "FederalFunding": 335311,
+        "OtherLocalFunding": 393143
     },
     "076903": {
         "NAME": "ROBY CONS ISD",
@@ -1364,8 +1446,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 287.742,
-        "StateFunding": 2579733.0,
-        "LocalFunding": 1258756.0
+        "LocalFunding": 1567542,
+        "StateFunding": 2537026,
+        "FederalFunding": 409151,
+        "OtherLocalFunding": 1981561
     },
     "127903": {
         "NAME": "HAMLIN ISD",
@@ -1401,8 +1485,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 383.13800000000003,
-        "StateFunding": 3848293.0,
-        "LocalFunding": 1351710.0
+        "LocalFunding": 1555127,
+        "StateFunding": 4010626,
+        "FederalFunding": 2137690,
+        "OtherLocalFunding": 391131
     },
     "039904": {
         "NAME": "BELLEVUE ISD",
@@ -1434,8 +1520,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 135.76500000000001,
-        "StateFunding": 624999.0,
-        "LocalFunding": 1239166.0
+        "LocalFunding": 1434349,
+        "StateFunding": 665093,
+        "FederalFunding": 175951,
+        "OtherLocalFunding": 63197
     },
     "169906": {
         "NAME": "GOLD-BURG ISD",
@@ -1471,8 +1559,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 123.93900000000002,
-        "StateFunding": 731070.0,
-        "LocalFunding": 1113281.0
+        "LocalFunding": 1184222,
+        "StateFunding": 768246,
+        "FederalFunding": 230205,
+        "OtherLocalFunding": 90507
     },
     "235904": {
         "NAME": "NURSERY ISD",
@@ -1504,8 +1594,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 139.787,
-        "StateFunding": 67792.0,
-        "LocalFunding": 2502073.0
+        "LocalFunding": 1724311,
+        "StateFunding": 71765,
+        "FederalFunding": 183127,
+        "OtherLocalFunding": 58810
     },
     "235902": {
         "NAME": "VICTORIA ISD",
@@ -1537,8 +1629,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 12168.136999999999,
-        "StateFunding": 51702010.0,
-        "LocalFunding": 56234124.0
+        "LocalFunding": 59080356,
+        "StateFunding": 55895943,
+        "FederalFunding": 22991437,
+        "OtherLocalFunding": 2347309
     },
     "120905": {
         "NAME": "INDUSTRIAL ISD",
@@ -1574,8 +1668,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1121.4270000000001,
-        "StateFunding": 2301856.0,
-        "LocalFunding": 10229757.0
+        "LocalFunding": 10809977,
+        "StateFunding": 2437482,
+        "FederalFunding": 872956,
+        "OtherLocalFunding": 799305
     },
     "235901": {
         "NAME": "BLOOMINGTON ISD",
@@ -1607,8 +1703,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 740.488,
-        "StateFunding": 7232999.0,
-        "LocalFunding": 2096097.0
+        "LocalFunding": 2205242,
+        "StateFunding": 7234329,
+        "FederalFunding": 1945966,
+        "OtherLocalFunding": 340949
     },
     "158902": {
         "NAME": "TIDEHAVEN ISD",
@@ -1640,8 +1738,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 882.725,
-        "StateFunding": 1238586.0,
-        "LocalFunding": 11466012.0
+        "LocalFunding": 9306117,
+        "StateFunding": 1410624,
+        "FederalFunding": 1660552,
+        "OtherLocalFunding": 482456
     },
     "158904": {
         "NAME": "MATAGORDA ISD",
@@ -1673,8 +1773,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 87.436,
-        "StateFunding": 46771.0,
-        "LocalFunding": 2816244.0
+        "LocalFunding": 1393206,
+        "StateFunding": 77758,
+        "FederalFunding": 290681,
+        "OtherLocalFunding": 86346
     },
     "158901": {
         "NAME": "BAY CITY ISD",
@@ -1706,8 +1808,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 3142.453,
-        "StateFunding": 17979782.0,
-        "LocalFunding": 12686290.0
+        "LocalFunding": 13906090,
+        "StateFunding": 18726946,
+        "FederalFunding": 6317907,
+        "OtherLocalFunding": 2088381
     },
     "158905": {
         "NAME": "PALACIOS ISD",
@@ -1743,8 +1847,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1214.7250000000001,
-        "StateFunding": 1961155.0,
-        "LocalFunding": 11346600.0
+        "LocalFunding": 12013915,
+        "StateFunding": 2236490,
+        "FederalFunding": 2735064,
+        "OtherLocalFunding": 2536247
     },
     "200906": {
         "NAME": "OLFEN ISD",
@@ -1771,8 +1877,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 134.889,
-        "StateFunding": 2130432.0,
-        "LocalFunding": 105916.0
+        "LocalFunding": 122183,
+        "StateFunding": 2067650,
+        "FederalFunding": 427283,
+        "OtherLocalFunding": 40634
     },
     "200904": {
         "NAME": "WINTERS ISD",
@@ -1803,8 +1911,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 502.086,
-        "StateFunding": 4232743.0,
-        "LocalFunding": 2047661.0
+        "LocalFunding": 2181339,
+        "StateFunding": 4185471,
+        "FederalFunding": 1049881,
+        "OtherLocalFunding": 122849
     },
     "200902": {
         "NAME": "MILES ISD",
@@ -1831,8 +1941,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 480.017,
-        "StateFunding": 5045579.0,
-        "LocalFunding": 1004056.0
+        "LocalFunding": 1162573,
+        "StateFunding": 4864933,
+        "FederalFunding": 449200,
+        "OtherLocalFunding": 257258
     },
     "200901": {
         "NAME": "BALLINGER ISD",
@@ -1864,8 +1976,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 783.133,
-        "StateFunding": 5931710.0,
-        "LocalFunding": 3256925.0
+        "LocalFunding": 3812160,
+        "StateFunding": 6020170,
+        "FederalFunding": 2600660,
+        "OtherLocalFunding": 459866
     },
     "041901": {
         "NAME": "BRONTE ISD",
@@ -1897,8 +2011,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 219.806,
-        "StateFunding": 1489017.0,
-        "LocalFunding": 1280129.0
+        "LocalFunding": 1402718,
+        "StateFunding": 1497336,
+        "FederalFunding": 368074,
+        "OtherLocalFunding": 236005
     },
     "033902": {
         "NAME": "PANHANDLE ISD",
@@ -1930,8 +2046,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 600.5880000000001,
-        "StateFunding": 2591248.0,
-        "LocalFunding": 4653886.0
+        "LocalFunding": 4601225,
+        "StateFunding": 2403371,
+        "FederalFunding": 629367,
+        "OtherLocalFunding": 529659
     },
     "117903": {
         "NAME": "SANFORD-FRITCH ISD",
@@ -1963,8 +2081,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 614.118,
-        "StateFunding": 6682333.0,
-        "LocalFunding": 1185046.0
+        "LocalFunding": 1351136,
+        "StateFunding": 6037844,
+        "FederalFunding": 924201,
+        "OtherLocalFunding": 283201
     },
     "146907": {
         "NAME": "TARKINGTON ISD",
@@ -1991,8 +2111,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1635.241,
-        "StateFunding": 9262893.0,
-        "LocalFunding": 6160179.0
+        "LocalFunding": 6752123,
+        "StateFunding": 9174084,
+        "FederalFunding": 3988767,
+        "OtherLocalFunding": 437794
     },
     "247901": {
         "NAME": "FLORESVILLE ISD",
@@ -2032,8 +2154,10 @@ var DistrictsData = {
         "CostOfCharters": "164,270.61",
         "CharterTransfers": "20",
         "Attendance": 3675.731,
-        "StateFunding": 18610458.0,
-        "LocalFunding": 14213949.0
+        "LocalFunding": 14317395,
+        "StateFunding": 18512559,
+        "FederalFunding": 4498185,
+        "OtherLocalFunding": 1702294
     },
     "058906": {
         "NAME": "LAMESA ISD",
@@ -2065,8 +2189,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1540.019,
-        "StateFunding": 13378481.0,
-        "LocalFunding": 4749338.0
+        "LocalFunding": 4998031,
+        "StateFunding": 13514892,
+        "FederalFunding": 7131463,
+        "OtherLocalFunding": 2770968
     },
     "058905": {
         "NAME": "KLONDIKE ISD",
@@ -2102,8 +2228,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 241.393,
-        "StateFunding": 173226.0,
-        "LocalFunding": 15568027.0
+        "LocalFunding": 6009129,
+        "StateFunding": 179923,
+        "FederalFunding": 242560,
+        "OtherLocalFunding": 365950
     },
     "169909": {
         "NAME": "PRAIRIE VALLEY ISD",
@@ -2130,8 +2258,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 139.08100000000002,
-        "StateFunding": 1052402.0,
-        "LocalFunding": 890145.0
+        "LocalFunding": 951481,
+        "StateFunding": 1108187,
+        "FederalFunding": 349186,
+        "OtherLocalFunding": 67882
     },
     "169902": {
         "NAME": "NOCONA ISD",
@@ -2163,8 +2293,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 724.77,
-        "StateFunding": 6412052.0,
-        "LocalFunding": 2515989.0
+        "LocalFunding": 2682907,
+        "StateFunding": 7228440,
+        "FederalFunding": 2013065,
+        "OtherLocalFunding": 252416
     },
     "169908": {
         "NAME": "MONTAGUE ISD",
@@ -2196,8 +2328,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 155.47400000000002,
-        "StateFunding": 1771693.0,
-        "LocalFunding": 360298.0
+        "LocalFunding": 443982,
+        "StateFunding": 1782259,
+        "FederalFunding": 336268,
+        "OtherLocalFunding": 31091
     },
     "169911": {
         "NAME": "SAINT JO ISD",
@@ -2229,8 +2363,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 286.456,
-        "StateFunding": 2007398.0,
-        "LocalFunding": 1710399.0
+        "LocalFunding": 2006368,
+        "StateFunding": 2080178,
+        "FederalFunding": 347765,
+        "OtherLocalFunding": 317988
     },
     "231901": {
         "NAME": "MCCAMEY ISD",
@@ -2257,8 +2393,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 463.279,
-        "StateFunding": 287083.0,
-        "LocalFunding": 8745785.0
+        "LocalFunding": 5725465,
+        "StateFunding": 378030,
+        "FederalFunding": 1026474,
+        "OtherLocalFunding": 2161859
     },
     "018908": {
         "NAME": "CRANFILLS GAP ISD",
@@ -2298,8 +2436,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 121.182,
-        "StateFunding": 983491.0,
-        "LocalFunding": 839501.0
+        "LocalFunding": 876758,
+        "StateFunding": 1032225,
+        "FederalFunding": 331012,
+        "OtherLocalFunding": 194769
     },
     "097902": {
         "NAME": "HAMILTON ISD",
@@ -2331,8 +2471,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 740.2919999999999,
-        "StateFunding": 5795519.0,
-        "LocalFunding": 3175306.0
+        "LocalFunding": 3728161,
+        "StateFunding": 5900196,
+        "FederalFunding": 963717,
+        "OtherLocalFunding": 116198
     },
     "177902": {
         "NAME": "SWEETWATER ISD",
@@ -2363,8 +2505,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1816.832,
-        "StateFunding": 10608548.0,
-        "LocalFunding": 8052086.0
+        "LocalFunding": 8629377,
+        "StateFunding": 10317064,
+        "FederalFunding": 7681611,
+        "OtherLocalFunding": 1311762
     },
     "076904": {
         "NAME": "ROTAN ISD",
@@ -2391,8 +2535,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 221.88600000000002,
-        "StateFunding": 1297972.0,
-        "LocalFunding": 1656320.0
+        "LocalFunding": 1879897,
+        "StateFunding": 1347133,
+        "FederalFunding": 480963,
+        "OtherLocalFunding": 206702
     },
     "177901": {
         "NAME": "ROSCOE COLLEGIATE ISD",
@@ -2427,8 +2573,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1249.922,
-        "StateFunding": 10274084.0,
-        "LocalFunding": 2855248.0
+        "LocalFunding": 3390660,
+        "StateFunding": 10286095,
+        "FederalFunding": 1364459,
+        "OtherLocalFunding": 2453662
     },
     "208901": {
         "NAME": "HERMLEIGH ISD",
@@ -2464,8 +2612,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 231.419,
-        "StateFunding": 1121260.0,
-        "LocalFunding": 2524250.0
+        "LocalFunding": 1903047,
+        "StateFunding": 971051,
+        "FederalFunding": 211399,
+        "OtherLocalFunding": 217130
     },
     "098903": {
         "NAME": "PRINGLE-MORSE CONS ISD",
@@ -2501,8 +2651,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 104.78500000000003,
-        "StateFunding": 528005.0,
-        "LocalFunding": 1147955.0
+        "LocalFunding": 1317435,
+        "StateFunding": 563491,
+        "FederalFunding": 213896,
+        "OtherLocalFunding": 44575
     },
     "117904": {
         "NAME": "PLEMONS-STINNETT-PHILLIPS CONS ISD",
@@ -2534,8 +2686,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 636.44,
-        "StateFunding": 463214.0,
-        "LocalFunding": 11119669.0
+        "LocalFunding": 6719720,
+        "StateFunding": 530066,
+        "FederalFunding": 934566,
+        "OtherLocalFunding": 488429
     },
     "117907": {
         "NAME": "SPRING CREEK ISD",
@@ -2562,8 +2716,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 99.0,
-        "StateFunding": 1395734.0,
-        "LocalFunding": 337147.0
+        "LocalFunding": 362538,
+        "StateFunding": 1407943,
+        "FederalFunding": 55758,
+        "OtherLocalFunding": 26814
     },
     "117901": {
         "NAME": "BORGER ISD",
@@ -2595,8 +2751,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2216.87,
-        "StateFunding": 15489808.0,
-        "LocalFunding": 5809337.0
+        "LocalFunding": 5896956,
+        "StateFunding": 16076391,
+        "FederalFunding": 4215306,
+        "OtherLocalFunding": 1969989
     },
     "098904": {
         "NAME": "SPEARMAN ISD",
@@ -2627,8 +2785,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 743.703,
-        "StateFunding": 5599994.0,
-        "LocalFunding": 3187434.0
+        "LocalFunding": 3639511,
+        "StateFunding": 5735650,
+        "FederalFunding": 1219416,
+        "OtherLocalFunding": 318282
     },
     "241904": {
         "NAME": "WHARTON ISD",
@@ -2660,8 +2820,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1689.525,
-        "StateFunding": 4852083.0,
-        "LocalFunding": 11975573.0
+        "LocalFunding": 12951527,
+        "StateFunding": 5322186,
+        "FederalFunding": 3105204,
+        "OtherLocalFunding": 743198
     },
     "241906": {
         "NAME": "LOUISE ISD",
@@ -2693,8 +2855,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 461.184,
-        "StateFunding": 2953333.0,
-        "LocalFunding": 2584118.0
+        "LocalFunding": 3028415,
+        "StateFunding": 3004738,
+        "FederalFunding": 528465,
+        "OtherLocalFunding": 319587
     },
     "241903": {
         "NAME": "EL CAMPO ISD",
@@ -2726,8 +2890,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 3201.71,
-        "StateFunding": 19005216.0,
-        "LocalFunding": 12397549.0
+        "LocalFunding": 14503996,
+        "StateFunding": 19594210,
+        "FederalFunding": 5412596,
+        "OtherLocalFunding": 1842500
     },
     "189902": {
         "NAME": "PRESIDIO ISD",
@@ -2759,8 +2925,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 857.488,
-        "StateFunding": 10211236.0,
-        "LocalFunding": 1784746.0
+        "LocalFunding": 2029128,
+        "StateFunding": 10114440,
+        "FederalFunding": 2085688,
+        "OtherLocalFunding": 248768
     },
     "072908": {
         "NAME": "HUCKABAY ISD",
@@ -2800,8 +2968,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 254.96,
-        "StateFunding": 1140888.0,
-        "LocalFunding": 1772089.0
+        "LocalFunding": 1836780,
+        "StateFunding": 1192413,
+        "FederalFunding": 92062,
+        "OtherLocalFunding": 124239
     },
     "067907": {
         "NAME": "RANGER ISD",
@@ -2828,8 +2998,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 303.915,
-        "StateFunding": 2678673.0,
-        "LocalFunding": 1465638.0
+        "LocalFunding": 1535885,
+        "StateFunding": 2833309,
+        "FederalFunding": 920873,
+        "OtherLocalFunding": 129137
     },
     "067903": {
         "NAME": "EASTLAND ISD",
@@ -2861,8 +3033,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 982.168,
-        "StateFunding": 5446709.0,
-        "LocalFunding": 5106863.0
+        "LocalFunding": 5301960,
+        "StateFunding": 5589987,
+        "FederalFunding": 2530161,
+        "OtherLocalFunding": 301340
     },
     "030901": {
         "NAME": "CROSS PLAINS ISD",
@@ -2898,8 +3072,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 336.89599999999996,
-        "StateFunding": 2835622.0,
-        "LocalFunding": 1579624.0
+        "LocalFunding": 1846588,
+        "StateFunding": 3036682,
+        "FederalFunding": 535135,
+        "OtherLocalFunding": 31435
     },
     "067902": {
         "NAME": "CISCO ISD",
@@ -2935,8 +3111,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 775.932,
-        "StateFunding": 3941053.0,
-        "LocalFunding": 5099183.0
+        "LocalFunding": 5576322,
+        "StateFunding": 4349496,
+        "FederalFunding": 1055012,
+        "OtherLocalFunding": 1112546
     },
     "067908": {
         "NAME": "RISING STAR ISD",
@@ -2967,8 +3145,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 162.979,
-        "StateFunding": 1794403.0,
-        "LocalFunding": 493079.0
+        "LocalFunding": 583586,
+        "StateFunding": 1814574,
+        "FederalFunding": 254526,
+        "OtherLocalFunding": 49495
     },
     "072909": {
         "NAME": "LINGLEVILLE ISD",
@@ -3012,8 +3192,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 259.546,
-        "StateFunding": 2129600.0,
-        "LocalFunding": 1162988.0
+        "LocalFunding": 1190782,
+        "StateFunding": 2189316,
+        "FederalFunding": 358787,
+        "OtherLocalFunding": 36621
     },
     "067904": {
         "NAME": "GORMAN ISD",
@@ -3053,8 +3235,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 257.474,
-        "StateFunding": 2220780.0,
-        "LocalFunding": 1188975.0
+        "LocalFunding": 1251970,
+        "StateFunding": 2202777,
+        "FederalFunding": 1573457,
+        "OtherLocalFunding": 811998
     },
     "047902": {
         "NAME": "DE LEON ISD",
@@ -3098,8 +3282,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 700.409,
-        "StateFunding": 6270036.0,
-        "LocalFunding": 2083562.0
+        "LocalFunding": 2351841,
+        "StateFunding": 6350390,
+        "FederalFunding": 2350127,
+        "OtherLocalFunding": 681927
     },
     "210903": {
         "NAME": "SHELBYVILLE ISD",
@@ -3126,8 +3312,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 697.181,
-        "StateFunding": 5985998.0,
-        "LocalFunding": 2373999.0
+        "LocalFunding": 2666418,
+        "StateFunding": 6101610,
+        "FederalFunding": 1843285,
+        "OtherLocalFunding": 225785
     },
     "201904": {
         "NAME": "LEVERETTS CHAPEL ISD",
@@ -3159,8 +3347,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 217.502,
-        "StateFunding": 2778976.0,
-        "LocalFunding": 295302.0
+        "LocalFunding": 354066,
+        "StateFunding": 2838693,
+        "FederalFunding": 375697,
+        "OtherLocalFunding": 40889
     },
     "201908": {
         "NAME": "OVERTON ISD",
@@ -3192,8 +3382,10 @@ var DistrictsData = {
         "CostOfCharters": "1,221,719.31",
         "CharterTransfers": "101",
         "Attendance": 442.398,
-        "StateFunding": 5202752.0,
-        "LocalFunding": 770655.0
+        "LocalFunding": 814325,
+        "StateFunding": 4900570,
+        "FederalFunding": 904733,
+        "OtherLocalFunding": 408226
     },
     "201907": {
         "NAME": "MOUNT ENTERPRISE ISD",
@@ -3225,8 +3417,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 380.41,
-        "StateFunding": 4455664.0,
-        "LocalFunding": 598803.0
+        "LocalFunding": 640649,
+        "StateFunding": 4583491,
+        "FederalFunding": 451159,
+        "OtherLocalFunding": 342497
     },
     "201903": {
         "NAME": "LANEVILLE ISD",
@@ -3258,8 +3452,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 151.429,
-        "StateFunding": 1366946.0,
-        "LocalFunding": 914108.0
+        "LocalFunding": 1016398,
+        "StateFunding": 1445865,
+        "FederalFunding": 270201,
+        "OtherLocalFunding": 44408
     },
     "201902": {
         "NAME": "HENDERSON ISD",
@@ -3291,8 +3487,10 @@ var DistrictsData = {
         "CostOfCharters": "98,131.79",
         "CharterTransfers": "11",
         "Attendance": 3135.2250000000004,
-        "StateFunding": 15191093.0,
-        "LocalFunding": 14323720.0
+        "LocalFunding": 15025516,
+        "StateFunding": 15519587,
+        "FederalFunding": 5491848,
+        "OtherLocalFunding": 1498092
     },
     "174903": {
         "NAME": "GARRISON ISD",
@@ -3328,8 +3526,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 636.8430000000001,
-        "StateFunding": 6465046.0,
-        "LocalFunding": 1420573.0
+        "LocalFunding": 1577589,
+        "StateFunding": 6092178,
+        "FederalFunding": 881766,
+        "OtherLocalFunding": 232010
     },
     "174902": {
         "NAME": "CUSHING ISD",
@@ -3365,8 +3565,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 528.565,
-        "StateFunding": 4629956.0,
-        "LocalFunding": 1739405.0
+        "LocalFunding": 1750848,
+        "StateFunding": 4968097,
+        "FederalFunding": 1042498,
+        "OtherLocalFunding": 308515
     },
     "201910": {
         "NAME": "TATUM ISD",
@@ -3397,8 +3599,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1390.0810000000001,
-        "StateFunding": 5342149.0,
-        "LocalFunding": 7869639.0
+        "LocalFunding": 8298654,
+        "StateFunding": 5690037,
+        "FederalFunding": 2297647,
+        "OtherLocalFunding": 1302427
     },
     "037907": {
         "NAME": "RUSK ISD",
@@ -3425,8 +3629,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1834.101,
-        "StateFunding": 13701250.0,
-        "LocalFunding": 4100774.0
+        "LocalFunding": 4407286,
+        "StateFunding": 13799351,
+        "FederalFunding": 4679981,
+        "OtherLocalFunding": 937264
     },
     "143905": {
         "NAME": "SWEET HOME ISD",
@@ -3458,8 +3664,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 127.62100000000001,
-        "StateFunding": 897426.0,
-        "LocalFunding": 687897.0
+        "LocalFunding": 730020,
+        "StateFunding": 1268759,
+        "FederalFunding": 47178,
+        "OtherLocalFunding": 124861
     },
     "143906": {
         "NAME": "EZZELL ISD",
@@ -3491,8 +3699,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 75.418,
-        "StateFunding": 151696.0,
-        "LocalFunding": 832717.0
+        "LocalFunding": 810220,
+        "StateFunding": 182337,
+        "FederalFunding": 117211,
+        "OtherLocalFunding": 47055
     },
     "143903": {
         "NAME": "SHINER ISD",
@@ -3528,8 +3738,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 661.1120000000001,
-        "StateFunding": 751657.0,
-        "LocalFunding": 6915426.0
+        "LocalFunding": 7147435,
+        "StateFunding": 974525,
+        "FederalFunding": 351900,
+        "OtherLocalFunding": 871992
     },
     "143902": {
         "NAME": "MOULTON ISD",
@@ -3565,8 +3777,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 261.069,
-        "StateFunding": 159864.0,
-        "LocalFunding": 4004655.0
+        "LocalFunding": 3359350,
+        "StateFunding": 300705,
+        "FederalFunding": 323622,
+        "OtherLocalFunding": 80248
     },
     "044902": {
         "NAME": "WELLINGTON ISD",
@@ -3588,8 +3802,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 476.619,
-        "StateFunding": 4136957.0,
-        "LocalFunding": 1774234.0
+        "LocalFunding": 1857786,
+        "StateFunding": 4369679,
+        "FederalFunding": 1437220,
+        "OtherLocalFunding": 241840
     },
     "104901": {
         "NAME": "HASKELL CONS ISD",
@@ -3621,8 +3837,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 500.2,
-        "StateFunding": 3590464.0,
-        "LocalFunding": 2771085.0
+        "LocalFunding": 2840499,
+        "StateFunding": 3738885,
+        "FederalFunding": 2273699,
+        "OtherLocalFunding": 600470
     },
     "104903": {
         "NAME": "RULE ISD",
@@ -3649,8 +3867,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 125.32300000000001,
-        "StateFunding": 1399418.0,
-        "LocalFunding": 646740.0
+        "LocalFunding": 748530,
+        "StateFunding": 1397652,
+        "FederalFunding": 308332,
+        "OtherLocalFunding": 36925
     },
     "171902": {
         "NAME": "SUNRAY ISD",
@@ -3677,8 +3897,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 524.918,
-        "StateFunding": 3656945.0,
-        "LocalFunding": 2396660.0
+        "LocalFunding": 2456524,
+        "StateFunding": 3685069,
+        "FederalFunding": 1420245,
+        "OtherLocalFunding": 465814
     },
     "171901": {
         "NAME": "DUMAS ISD",
@@ -3710,8 +3932,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 3775.7130000000006,
-        "StateFunding": 17548037.0,
-        "LocalFunding": 17455665.0
+        "LocalFunding": 18416026,
+        "StateFunding": 17860814,
+        "FederalFunding": 7586617,
+        "OtherLocalFunding": 841526
     },
     "053001": {
         "NAME": "CROCKETT COUNTY CONS CSD",
@@ -3743,8 +3967,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 703.688,
-        "StateFunding": 899902.0,
-        "LocalFunding": 14518269.0
+        "LocalFunding": 8836131,
+        "StateFunding": 915722,
+        "FederalFunding": 1186127,
+        "OtherLocalFunding": 2914777
     },
     "129910": {
         "NAME": "SCURRY-ROSSER ISD",
@@ -3776,8 +4002,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 985.7440000000001,
-        "StateFunding": 9108740.0,
-        "LocalFunding": 2417939.0
+        "LocalFunding": 2862349,
+        "StateFunding": 9074526,
+        "FederalFunding": 1228214,
+        "OtherLocalFunding": 318197
     },
     "129904": {
         "NAME": "KEMP ISD",
@@ -3817,8 +4045,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1477.8990000000003,
-        "StateFunding": 11977368.0,
-        "LocalFunding": 4747673.0
+        "LocalFunding": 5461141,
+        "StateFunding": 12116519,
+        "FederalFunding": 2971724,
+        "OtherLocalFunding": 342653
     },
     "223902": {
         "NAME": "MEADOW ISD",
@@ -3845,8 +4075,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 245.988,
-        "StateFunding": 2929623.0,
-        "LocalFunding": 515120.0
+        "LocalFunding": 600311,
+        "StateFunding": 2871414,
+        "FederalFunding": 808630,
+        "OtherLocalFunding": 194684
     },
     "223904": {
         "NAME": "WELLMAN-UNION CONS ISD",
@@ -3873,8 +4105,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 286.21700000000004,
-        "StateFunding": 2346445.0,
-        "LocalFunding": 1375205.0
+        "LocalFunding": 1683696,
+        "StateFunding": 2355553,
+        "FederalFunding": 829000,
+        "OtherLocalFunding": 266429
     },
     "083902": {
         "NAME": "LOOP ISD",
@@ -3910,8 +4144,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1.0,
-        "StateFunding": 541557.0,
-        "LocalFunding": 1691359.0
+        "LocalFunding": 1795245,
+        "StateFunding": 553432,
+        "FederalFunding": 161702,
+        "OtherLocalFunding": 529015
     },
     "113903": {
         "NAME": "LOVELADY ISD",
@@ -3943,8 +4179,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 477.384,
-        "StateFunding": 3084229.0,
-        "LocalFunding": 2605496.0
+        "LocalFunding": 2776080,
+        "StateFunding": 3187771,
+        "FederalFunding": 485834,
+        "OtherLocalFunding": 166040
     },
     "113905": {
         "NAME": "LATEXO ISD",
@@ -3976,8 +4214,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 421.004,
-        "StateFunding": 3209561.0,
-        "LocalFunding": 1795864.0
+        "LocalFunding": 1932578,
+        "StateFunding": 3336140,
+        "FederalFunding": 502907,
+        "OtherLocalFunding": 245834
     },
     "113902": {
         "NAME": "GRAPELAND ISD",
@@ -4009,8 +4249,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 536.059,
-        "StateFunding": 3619678.0,
-        "LocalFunding": 3145467.0
+        "LocalFunding": 3431976,
+        "StateFunding": 3185384,
+        "FederalFunding": 634664,
+        "OtherLocalFunding": 486351
     },
     "113901": {
         "NAME": "CROCKETT ISD",
@@ -4042,8 +4284,10 @@ var DistrictsData = {
         "CostOfCharters": "1,286,241.34",
         "CharterTransfers": "125",
         "Attendance": 1131.16,
-        "StateFunding": 8533483.0,
-        "LocalFunding": 4512276.0
+        "LocalFunding": 4933263,
+        "StateFunding": 8778779,
+        "FederalFunding": 3786089,
+        "OtherLocalFunding": 517718
     },
     "238902": {
         "NAME": "MONAHANS-WICKETT-PYOTE ISD",
@@ -4070,8 +4314,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2101.969,
-        "StateFunding": 4518724.0,
-        "LocalFunding": 29066046.0
+        "LocalFunding": 20652070,
+        "StateFunding": 7854228,
+        "FederalFunding": 2799519,
+        "OtherLocalFunding": 521768
     },
     "238904": {
         "NAME": "GRANDFALLS-ROYALTY ISD",
@@ -4103,8 +4349,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 148.547,
-        "StateFunding": 214408.0,
-        "LocalFunding": 1638775.0
+        "LocalFunding": 1773626,
+        "StateFunding": 237970,
+        "FederalFunding": 351356,
+        "OtherLocalFunding": 37426
     },
     "156905": {
         "NAME": "GRADY ISD",
@@ -4136,8 +4384,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 208.86700000000002,
-        "StateFunding": 217946.0,
-        "LocalFunding": 36733609.0
+        "LocalFunding": 7265543,
+        "StateFunding": 765322,
+        "FederalFunding": 229911,
+        "OtherLocalFunding": 444878
     },
     "252902": {
         "NAME": "NEWCASTLE ISD",
@@ -4169,8 +4419,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 189.597,
-        "StateFunding": 1922479.0,
-        "LocalFunding": 735749.0
+        "LocalFunding": 825357,
+        "StateFunding": 1960779,
+        "FederalFunding": 317318,
+        "OtherLocalFunding": 176872
     },
     "252901": {
         "NAME": "GRAHAM ISD",
@@ -4210,8 +4462,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2195.3,
-        "StateFunding": 13540602.0,
-        "LocalFunding": 7073332.0
+        "LocalFunding": 7338116,
+        "StateFunding": 13736093,
+        "FederalFunding": 5727598,
+        "OtherLocalFunding": 841503
     },
     "103902": {
         "NAME": "HARTLEY ISD",
@@ -4243,8 +4497,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 235.52300000000002,
-        "StateFunding": 1163462.0,
-        "LocalFunding": 1777470.0
+        "LocalFunding": 1862171,
+        "StateFunding": 1166154,
+        "FederalFunding": 247952,
+        "OtherLocalFunding": 92721
     },
     "103901": {
         "NAME": "CHANNING ISD",
@@ -4276,8 +4532,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 152.04500000000002,
-        "StateFunding": 289743.0,
-        "LocalFunding": 1770184.0
+        "LocalFunding": 2002453,
+        "StateFunding": 314619,
+        "FederalFunding": 263689,
+        "OtherLocalFunding": 49695
     },
     "056901": {
         "NAME": "DALHART ISD",
@@ -4309,8 +4567,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1487.336,
-        "StateFunding": 2857494.0,
-        "LocalFunding": 11586926.0
+        "LocalFunding": 12149682,
+        "StateFunding": 3030419,
+        "FederalFunding": 2499073,
+        "OtherLocalFunding": 610103
     },
     "182904": {
         "NAME": "SANTO ISD",
@@ -4346,8 +4606,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 426.324,
-        "StateFunding": 2150145.0,
-        "LocalFunding": 2956326.0
+        "LocalFunding": 3461302,
+        "StateFunding": 2183065,
+        "FederalFunding": 549171,
+        "OtherLocalFunding": 163397
     },
     "072910": {
         "NAME": "MORGAN MILL ISD",
@@ -4379,8 +4641,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 112.345,
-        "StateFunding": 335257.0,
-        "LocalFunding": 981509.0
+        "LocalFunding": 1060666,
+        "StateFunding": 332122,
+        "FederalFunding": 182889,
+        "OtherLocalFunding": 46195
     },
     "182901": {
         "NAME": "GORDON ISD",
@@ -4416,8 +4680,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 205.393,
-        "StateFunding": 836899.0,
-        "LocalFunding": 1635334.0
+        "LocalFunding": 1684319,
+        "StateFunding": 932059,
+        "FederalFunding": 229283,
+        "OtherLocalFunding": 248170
     },
     "072902": {
         "NAME": "DUBLIN ISD",
@@ -4453,8 +4719,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 996.317,
-        "StateFunding": 7789531.0,
-        "LocalFunding": 3688537.0
+        "LocalFunding": 4410743,
+        "StateFunding": 7553385,
+        "FederalFunding": 2425897,
+        "OtherLocalFunding": 598044
     },
     "089903": {
         "NAME": "NIXON-SMILEY CONS ISD",
@@ -4494,8 +4762,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 939.6880000000002,
-        "StateFunding": 797470.0,
-        "LocalFunding": 10218032.0
+        "LocalFunding": 10750300,
+        "StateFunding": 950605,
+        "FederalFunding": 2234541,
+        "OtherLocalFunding": 912987
     },
     "161914": {
         "NAME": "WACO ISD",
@@ -4526,8 +4796,10 @@ var DistrictsData = {
         "CostOfCharters": "19,793,212.48",
         "CharterTransfers": "2,063",
         "Attendance": 13188.498,
-        "StateFunding": 78294572.0,
-        "LocalFunding": 57005409.0
+        "LocalFunding": 65811898,
+        "StateFunding": 81835417,
+        "FederalFunding": 33722403,
+        "OtherLocalFunding": 12129959
     },
     "161924": {
         "NAME": "HALLSBURG ISD",
@@ -4559,8 +4831,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 147.163,
-        "StateFunding": 1014477.0,
-        "LocalFunding": 794617.0
+        "LocalFunding": 859662,
+        "StateFunding": 1018546,
+        "FederalFunding": 231694,
+        "OtherLocalFunding": 44819
     },
     "161923": {
         "NAME": "BOSQUEVILLE ISD",
@@ -4592,8 +4866,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 691.998,
-        "StateFunding": 6904559.0,
-        "LocalFunding": 1931123.0
+        "LocalFunding": 2283859,
+        "StateFunding": 6879161,
+        "FederalFunding": 495712,
+        "OtherLocalFunding": 446036
     },
     "154903": {
         "NAME": "NORTH ZULCH ISD",
@@ -4625,8 +4901,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 280.13800000000003,
-        "StateFunding": 1126835.0,
-        "LocalFunding": 2349064.0
+        "LocalFunding": 2946811,
+        "StateFunding": 878954,
+        "FederalFunding": 541347,
+        "OtherLocalFunding": 168605
     },
     "145906": {
         "NAME": "NORMANGEE ISD",
@@ -4658,8 +4936,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 545.7090000000001,
-        "StateFunding": 2782119.0,
-        "LocalFunding": 3468383.0
+        "LocalFunding": 3590938,
+        "StateFunding": 2836059,
+        "FederalFunding": 856433,
+        "OtherLocalFunding": 249143
     },
     "100904": {
         "NAME": "SILSBEE ISD",
@@ -4686,8 +4966,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2607.208,
-        "StateFunding": 17880186.0,
-        "LocalFunding": 8549309.0
+        "LocalFunding": 10035832,
+        "StateFunding": 19386456,
+        "FederalFunding": 5397483,
+        "OtherLocalFunding": 888601
     },
     "052901": {
         "NAME": "CRANE ISD",
@@ -4719,8 +5001,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1030.27,
-        "StateFunding": 1915914.0,
-        "LocalFunding": 11958774.0
+        "LocalFunding": 9888439,
+        "StateFunding": 2056644,
+        "FederalFunding": 1324593,
+        "OtherLocalFunding": 593328
     },
     "175911": {
         "NAME": "RICE ISD",
@@ -4747,8 +5031,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 893.7270000000001,
-        "StateFunding": 10184324.0,
-        "LocalFunding": 1488825.0
+        "LocalFunding": 1766344,
+        "StateFunding": 10183549,
+        "FederalFunding": 1243908,
+        "OtherLocalFunding": 267509
     },
     "175910": {
         "NAME": "MILDRED ISD",
@@ -4780,8 +5066,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 727.1339999999999,
-        "StateFunding": 3436983.0,
-        "LocalFunding": 4535302.0
+        "LocalFunding": 4906581,
+        "StateFunding": 3557296,
+        "FederalFunding": 604832,
+        "OtherLocalFunding": 538591
     },
     "175907": {
         "NAME": "KERENS ISD",
@@ -4813,8 +5101,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 504.153,
-        "StateFunding": 3198954.0,
-        "LocalFunding": 3175464.0
+        "LocalFunding": 3496298,
+        "StateFunding": 3117225,
+        "FederalFunding": 1252460,
+        "OtherLocalFunding": 305353
     },
     "065902": {
         "NAME": "HEDLEY ISD",
@@ -4850,8 +5140,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 112.066,
-        "StateFunding": 1304737.0,
-        "LocalFunding": 650871.0
+        "LocalFunding": 726077,
+        "StateFunding": 1320562,
+        "FederalFunding": 243563,
+        "OtherLocalFunding": 59238
     },
     "132902": {
         "NAME": "JAYTON-GIRARD ISD",
@@ -4883,8 +5175,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 164.06400000000002,
-        "StateFunding": 504247.0,
-        "LocalFunding": 3967725.0
+        "LocalFunding": 2275019,
+        "StateFunding": 525936,
+        "FederalFunding": 150670,
+        "OtherLocalFunding": 6439563
     },
     "218901": {
         "NAME": "SONORA ISD",
@@ -4911,8 +5205,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 677.158,
-        "StateFunding": 2079805.0,
-        "LocalFunding": 5737287.0
+        "LocalFunding": 6093110,
+        "StateFunding": 2125258,
+        "FederalFunding": 1718405,
+        "OtherLocalFunding": 450831
     },
     "115902": {
         "NAME": "SIERRA BLANCA ISD",
@@ -4944,8 +5240,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 112.596,
-        "StateFunding": 367094.0,
-        "LocalFunding": 1517489.0
+        "LocalFunding": 1612708,
+        "StateFunding": 372208,
+        "FederalFunding": 232705,
+        "OtherLocalFunding": 261827
     },
     "115901": {
         "NAME": "FORT HANCOCK ISD",
@@ -4977,8 +5275,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 381.26199999999994,
-        "StateFunding": 2262240.0,
-        "LocalFunding": 2655237.0
+        "LocalFunding": 2803046,
+        "StateFunding": 2280399,
+        "FederalFunding": 740997,
+        "OtherLocalFunding": 47242
     },
     "115903": {
         "NAME": "DELL CITY ISD",
@@ -5010,8 +5310,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 53.54,
-        "StateFunding": 964553.0,
-        "LocalFunding": 625771.0
+        "LocalFunding": 828144,
+        "StateFunding": 977701,
+        "FederalFunding": 227056,
+        "OtherLocalFunding": 61244
     },
     "055901": {
         "NAME": "CULBERSON COUNTY-ALLAMORE ISD",
@@ -5043,8 +5345,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 327.358,
-        "StateFunding": 164831.0,
-        "LocalFunding": 25879643.0
+        "LocalFunding": 8270126,
+        "StateFunding": 775961,
+        "FederalFunding": 726083,
+        "OtherLocalFunding": 213281
     },
     "254902": {
         "NAME": "LA PRYOR ISD",
@@ -5076,8 +5380,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 470.60400000000004,
-        "StateFunding": 5370966.0,
-        "LocalFunding": 1945932.0
+        "LocalFunding": 2338850,
+        "StateFunding": 5693340,
+        "FederalFunding": 1137456,
+        "OtherLocalFunding": 134789
     },
     "025906": {
         "NAME": "ZEPHYR ISD",
@@ -5108,8 +5414,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 184.157,
-        "StateFunding": 1914858.0,
-        "LocalFunding": 556415.0
+        "LocalFunding": 597280,
+        "StateFunding": 1814592,
+        "FederalFunding": 332856,
+        "OtherLocalFunding": 144916
     },
     "047905": {
         "NAME": "SIDNEY ISD",
@@ -5136,8 +5444,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1.0,
-        "StateFunding": 1568489.0,
-        "LocalFunding": 344265.0
+        "LocalFunding": 373100,
+        "StateFunding": 1540617,
+        "FederalFunding": 293442,
+        "OtherLocalFunding": 25306
     },
     "167904": {
         "NAME": "PRIDDY ISD",
@@ -5164,8 +5474,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 97.831,
-        "StateFunding": 1280002.0,
-        "LocalFunding": 401649.0
+        "LocalFunding": 438055,
+        "StateFunding": 1370380,
+        "FederalFunding": 184889,
+        "OtherLocalFunding": 211931
     },
     "167902": {
         "NAME": "MULLIN ISD",
@@ -5201,8 +5513,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1.0,
-        "StateFunding": 2676371.0,
-        "LocalFunding": 1205542.0
+        "LocalFunding": 1275514,
+        "StateFunding": 2503030,
+        "FederalFunding": 1113390,
+        "OtherLocalFunding": 139103
     },
     "025905": {
         "NAME": "MAY ISD",
@@ -5238,8 +5552,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 230.417,
-        "StateFunding": 1190540.0,
-        "LocalFunding": 1762456.0
+        "LocalFunding": 1917983,
+        "StateFunding": 1231354,
+        "FederalFunding": 758312,
+        "OtherLocalFunding": 61077
     },
     "047903": {
         "NAME": "GUSTINE ISD",
@@ -5271,8 +5587,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1.0,
-        "StateFunding": 1361324.0,
-        "LocalFunding": 703911.0
+        "LocalFunding": 814936,
+        "StateFunding": 1423298,
+        "FederalFunding": 562429,
+        "OtherLocalFunding": 37547
     },
     "047901": {
         "NAME": "COMANCHE ISD",
@@ -5304,8 +5622,10 @@ var DistrictsData = {
         "CostOfCharters": "323,184.51",
         "CharterTransfers": "30",
         "Attendance": 1179.4940000000001,
-        "StateFunding": 9356133.0,
-        "LocalFunding": 4313787.0
+        "LocalFunding": 4954324,
+        "StateFunding": 9737653,
+        "FederalFunding": 2658444,
+        "OtherLocalFunding": 708671
     },
     "025904": {
         "NAME": "BLANKET ISD",
@@ -5341,8 +5661,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 135.433,
-        "StateFunding": 1292591.0,
-        "LocalFunding": 714029.0
+        "LocalFunding": 757791,
+        "StateFunding": 1385494,
+        "FederalFunding": 236305,
+        "OtherLocalFunding": 80542
     },
     "102903": {
         "NAME": "WASKOM ISD",
@@ -5369,8 +5691,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 752.1209999999999,
-        "StateFunding": 5196061.0,
-        "LocalFunding": 3490508.0
+        "LocalFunding": 3865155,
+        "StateFunding": 5205716,
+        "FederalFunding": 1510887,
+        "OtherLocalFunding": 899421
     },
     "230906": {
         "NAME": "NEW DIANA ISD",
@@ -5406,8 +5730,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1069.875,
-        "StateFunding": 9008373.0,
-        "LocalFunding": 2227599.0
+        "LocalFunding": 2451057,
+        "StateFunding": 8749850,
+        "FederalFunding": 1315749,
+        "OtherLocalFunding": 497010
     },
     "102902": {
         "NAME": "MARSHALL ISD",
@@ -5439,8 +5765,10 @@ var DistrictsData = {
         "CostOfCharters": "909,851.56",
         "CharterTransfers": "113",
         "Attendance": 4401.169,
-        "StateFunding": 16057954.0,
-        "LocalFunding": 23962464.0
+        "LocalFunding": 25637335,
+        "StateFunding": 16959089,
+        "FederalFunding": 10705362,
+        "OtherLocalFunding": 1140535
     },
     "102901": {
         "NAME": "KARNACK ISD",
@@ -5472,8 +5800,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 123.986,
-        "StateFunding": 78919.0,
-        "LocalFunding": 1961246.0
+        "LocalFunding": 1822430,
+        "StateFunding": 116216,
+        "FederalFunding": 508245,
+        "OtherLocalFunding": 327440
     },
     "102905": {
         "NAME": "HARLETON ISD",
@@ -5505,8 +5835,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 684.41,
-        "StateFunding": 6539056.0,
-        "LocalFunding": 1648646.0
+        "LocalFunding": 1813750,
+        "StateFunding": 6586365,
+        "FederalFunding": 851403,
+        "OtherLocalFunding": 463308
     },
     "102904": {
         "NAME": "HALLSVILLE ISD",
@@ -5538,8 +5870,10 @@ var DistrictsData = {
         "CostOfCharters": "484,574.88",
         "CharterTransfers": "58",
         "Attendance": 14168.201000000001,
-        "StateFunding": 102528263.0,
-        "LocalFunding": 26204809.0
+        "LocalFunding": 26406193,
+        "StateFunding": 104183168,
+        "FederalFunding": 6337311,
+        "OtherLocalFunding": 9728684
     },
     "102906": {
         "NAME": "ELYSIAN FIELDS ISD",
@@ -5571,8 +5905,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 821.8870000000002,
-        "StateFunding": 4643144.0,
-        "LocalFunding": 5695329.0
+        "LocalFunding": 6962418,
+        "StateFunding": 4620082,
+        "FederalFunding": 815663,
+        "OtherLocalFunding": 716459
     },
     "168903": {
         "NAME": "WESTBROOK ISD",
@@ -5599,8 +5935,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 209.43200000000002,
-        "StateFunding": 552665.0,
-        "LocalFunding": 2331096.0
+        "LocalFunding": 2382154,
+        "StateFunding": 634667,
+        "FederalFunding": 98271,
+        "OtherLocalFunding": 112779
     },
     "168902": {
         "NAME": "LORAINE ISD",
@@ -5632,8 +5970,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 144.841,
-        "StateFunding": 419930.0,
-        "LocalFunding": 1490362.0
+        "LocalFunding": 1580149,
+        "StateFunding": 462010,
+        "FederalFunding": 231376,
+        "OtherLocalFunding": 110322
     },
     "208903": {
         "NAME": "IRA ISD",
@@ -5665,8 +6005,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 264.69,
-        "StateFunding": 1740384.0,
-        "LocalFunding": 1266965.0
+        "LocalFunding": 1387456,
+        "StateFunding": 1758904,
+        "FederalFunding": 103159,
+        "OtherLocalFunding": 179195
     },
     "168901": {
         "NAME": "COLORADO ISD",
@@ -5698,8 +6040,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 765.597,
-        "StateFunding": 4498814.0,
-        "LocalFunding": 4706411.0
+        "LocalFunding": 5456479,
+        "StateFunding": 4557335,
+        "FederalFunding": 2018567,
+        "OtherLocalFunding": 437513
     },
     "249906": {
         "NAME": "PARADISE ISD",
@@ -5731,8 +6075,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1159.294,
-        "StateFunding": 6816742.0,
-        "LocalFunding": 4827284.0
+        "LocalFunding": 5138974,
+        "StateFunding": 7010507,
+        "FederalFunding": 1067477,
+        "OtherLocalFunding": 620250
     },
     "249904": {
         "NAME": "CHICO ISD",
@@ -5764,8 +6110,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 525.5740000000001,
-        "StateFunding": 407055.0,
-        "LocalFunding": 6333878.0
+        "LocalFunding": 6286391,
+        "StateFunding": 412987,
+        "FederalFunding": 808035,
+        "OtherLocalFunding": 116495
     },
     "249903": {
         "NAME": "BRIDGEPORT ISD",
@@ -5797,8 +6145,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1907.797,
-        "StateFunding": 5276109.0,
-        "LocalFunding": 13181356.0
+        "LocalFunding": 13919020,
+        "StateFunding": 5647875,
+        "FederalFunding": 3785958,
+        "OtherLocalFunding": 2824193
     },
     "184901": {
         "NAME": "POOLVILLE ISD",
@@ -5825,8 +6175,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 508.971,
-        "StateFunding": 4076330.0,
-        "LocalFunding": 2261676.0
+        "LocalFunding": 2722712,
+        "StateFunding": 4135248,
+        "FederalFunding": 719448,
+        "OtherLocalFunding": 59536
     },
     "122902": {
         "NAME": "VALENTINE ISD",
@@ -5858,8 +6210,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 41.357,
-        "StateFunding": 1060959.0,
-        "LocalFunding": 471806.0
+        "LocalFunding": 493334,
+        "StateFunding": 1067189,
+        "FederalFunding": 72355,
+        "OtherLocalFunding": 7502
     },
     "122901": {
         "NAME": "FORT DAVIS ISD",
@@ -5891,8 +6245,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 185.704,
-        "StateFunding": 478298.0,
-        "LocalFunding": 1872506.0
+        "LocalFunding": 2131910,
+        "StateFunding": 491906,
+        "FederalFunding": 387168,
+        "OtherLocalFunding": 30152
     },
     "071908": {
         "NAME": "TORNILLO ISD",
@@ -5924,8 +6280,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 875.008,
-        "StateFunding": 10965273.0,
-        "LocalFunding": 759390.0
+        "LocalFunding": 873767,
+        "StateFunding": 10373716,
+        "FederalFunding": 2295608,
+        "OtherLocalFunding": 129936
     },
     "057913": {
         "NAME": "LANCASTER ISD",
@@ -5957,8 +6315,10 @@ var DistrictsData = {
         "CostOfCharters": "20,061,026.17",
         "CharterTransfers": "2,097",
         "Attendance": 6685.835999999999,
-        "StateFunding": 34120223.0,
-        "LocalFunding": 30604276.0
+        "LocalFunding": 35081583,
+        "StateFunding": 37665692,
+        "FederalFunding": 7496716,
+        "OtherLocalFunding": 1263019
     },
     "057911": {
         "NAME": "HIGHLAND PARK ISD (DALLAS)",
@@ -5994,8 +6354,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 6458.861,
-        "StateFunding": 6436812.0,
-        "LocalFunding": 164994856.0
+        "LocalFunding": 48646486,
+        "StateFunding": 7431247,
+        "FederalFunding": 1057729,
+        "OtherLocalFunding": 14235737
     },
     "057907": {
         "NAME": "DUNCANVILLE ISD",
@@ -6035,8 +6397,10 @@ var DistrictsData = {
         "CostOfCharters": "25,384,233.20",
         "CharterTransfers": "2,652",
         "Attendance": 11043.476,
-        "StateFunding": 58626250.0,
-        "LocalFunding": 47383007.0
+        "LocalFunding": 54670228,
+        "StateFunding": 59690693,
+        "FederalFunding": 16560504,
+        "OtherLocalFunding": 1289031
     },
     "057906": {
         "NAME": "DESOTO ISD",
@@ -6072,8 +6436,10 @@ var DistrictsData = {
         "CostOfCharters": "26,855,696.61",
         "CharterTransfers": "2,836",
         "Attendance": 7455.401000000001,
-        "StateFunding": 37644255.0,
-        "LocalFunding": 33131096.0
+        "LocalFunding": 37932779,
+        "StateFunding": 39144797,
+        "FederalFunding": 18464651,
+        "OtherLocalFunding": 1781335
     },
     "070905": {
         "NAME": "FERRIS ISD",
@@ -6113,8 +6479,10 @@ var DistrictsData = {
         "CostOfCharters": "632,553.89",
         "CharterTransfers": "63",
         "Attendance": 2337.013,
-        "StateFunding": 21551158.0,
-        "LocalFunding": 4948782.0
+        "LocalFunding": 5802490,
+        "StateFunding": 20611898,
+        "FederalFunding": 3903976,
+        "OtherLocalFunding": 202183
     },
     "114902": {
         "NAME": "COAHOMA ISD",
@@ -6146,8 +6514,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1053.547,
-        "StateFunding": 6196407.0,
-        "LocalFunding": 5615909.0
+        "LocalFunding": 5522891,
+        "StateFunding": 6476004,
+        "FederalFunding": 1760342,
+        "OtherLocalFunding": 2047015
     },
     "114901": {
         "NAME": "BIG SPRING ISD",
@@ -6179,8 +6549,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 3361.4,
-        "StateFunding": 5495408.0,
-        "LocalFunding": 27502663.0
+        "LocalFunding": 27849020,
+        "StateFunding": 5969706,
+        "FederalFunding": 6678956,
+        "OtherLocalFunding": 1248074
     },
     "114904": {
         "NAME": "FORSAN ISD",
@@ -6220,8 +6592,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 745.813,
-        "StateFunding": 1307852.0,
-        "LocalFunding": 6296928.0
+        "LocalFunding": 6843785,
+        "StateFunding": 1340685,
+        "FederalFunding": 558246,
+        "OtherLocalFunding": 304526
     },
     "058909": {
         "NAME": "SANDS CONSOLIDATED ISD",
@@ -6261,8 +6635,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 253.54600000000002,
-        "StateFunding": 120697.0,
-        "LocalFunding": 13961243.0
+        "LocalFunding": 8409799,
+        "StateFunding": 155168,
+        "FederalFunding": 287813,
+        "OtherLocalFunding": 122409
     },
     "096905": {
         "NAME": "TURKEY-QUITAQUE ISD",
@@ -6289,8 +6665,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 181.65900000000002,
-        "StateFunding": 1514339.0,
-        "LocalFunding": 777361.0
+        "LocalFunding": 838211,
+        "StateFunding": 1543958,
+        "FederalFunding": 610791,
+        "OtherLocalFunding": 73495
     },
     "095905": {
         "NAME": "PLAINVIEW ISD",
@@ -6321,8 +6699,10 @@ var DistrictsData = {
         "CostOfCharters": "104,581.10",
         "CharterTransfers": "11",
         "Attendance": 4372.079000000001,
-        "StateFunding": 33640600.0,
-        "LocalFunding": 11068500.0
+        "LocalFunding": 12556035,
+        "StateFunding": 34810957,
+        "FederalFunding": 9956783,
+        "OtherLocalFunding": 1550338
     },
     "173901": {
         "NAME": "MOTLEY COUNTY ISD",
@@ -6349,8 +6729,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 147.40800000000002,
-        "StateFunding": 1030755.0,
-        "LocalFunding": 1083935.0
+        "LocalFunding": 1271273,
+        "StateFunding": 1045355,
+        "FederalFunding": 599720,
+        "OtherLocalFunding": 390128
     },
     "077902": {
         "NAME": "LOCKNEY ISD",
@@ -6386,8 +6768,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 416.96700000000004,
-        "StateFunding": 4446089.0,
-        "LocalFunding": 1116904.0
+        "LocalFunding": 1254405,
+        "StateFunding": 4499254,
+        "FederalFunding": 846562,
+        "OtherLocalFunding": 947767
     },
     "077901": {
         "NAME": "FLOYDADA ISD",
@@ -6419,8 +6803,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 621.426,
-        "StateFunding": 4948564.0,
-        "LocalFunding": 2887722.0
+        "LocalFunding": 3278931,
+        "StateFunding": 5435025,
+        "FederalFunding": 2217276,
+        "OtherLocalFunding": 505913
     },
     "022004": {
         "NAME": "TERLINGUA CSD",
@@ -6452,8 +6838,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 108.709,
-        "StateFunding": 916751.0,
-        "LocalFunding": 932619.0
+        "LocalFunding": 975701,
+        "StateFunding": 926558,
+        "FederalFunding": 289793,
+        "OtherLocalFunding": 97238
     },
     "022903": {
         "NAME": "SAN VICENTE ISD",
@@ -6485,8 +6873,10 @@ var DistrictsData = {
         "CostOfCharters": 0.0,
         "CharterTransfers": 0.0,
         "Attendance": 5.4670000000000005,
-        "StateFunding": 722480.0,
-        "LocalFunding": 86701.0
+        "LocalFunding": 86903,
+        "StateFunding": 722480,
+        "FederalFunding": 217197,
+        "OtherLocalFunding": 40808
     },
     "176903": {
         "NAME": "DEWEYVILLE ISD",
@@ -6518,8 +6908,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 468.30400000000003,
-        "StateFunding": 894731.0,
-        "LocalFunding": 5946067.0
+        "LocalFunding": 4584171,
+        "StateFunding": 816924,
+        "FederalFunding": 961170,
+        "OtherLocalFunding": 196906
     },
     "136901": {
         "NAME": "BRACKETT ISD",
@@ -6551,8 +6943,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 497.987,
-        "StateFunding": 1614177.0,
-        "LocalFunding": 5360055.0
+        "LocalFunding": 6026023,
+        "StateFunding": 2007058,
+        "FederalFunding": 623032,
+        "OtherLocalFunding": 412580
     },
     "025901": {
         "NAME": "BANGS ISD",
@@ -6588,8 +6982,10 @@ var DistrictsData = {
         "CostOfCharters": "105,630.47",
         "CharterTransfers": "10",
         "Attendance": 774.957,
-        "StateFunding": 5081957.0,
-        "LocalFunding": 3678504.0
+        "LocalFunding": 3984250,
+        "StateFunding": 5224281,
+        "FederalFunding": 833994,
+        "OtherLocalFunding": 213130
     },
     "180904": {
         "NAME": "WILDORADO ISD",
@@ -6616,8 +7012,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 201.764,
-        "StateFunding": 802145.0,
-        "LocalFunding": 1873988.0
+        "LocalFunding": 1826384,
+        "StateFunding": 826680,
+        "FederalFunding": 124036,
+        "OtherLocalFunding": 920860
     },
     "191901": {
         "NAME": "CANYON ISD",
@@ -6649,8 +7047,10 @@ var DistrictsData = {
         "CostOfCharters": "1,490,620.58",
         "CharterTransfers": "191",
         "Attendance": 9568.755000000001,
-        "StateFunding": 29149868.0,
-        "LocalFunding": 49718520.0
+        "LocalFunding": 52902467,
+        "StateFunding": 29839130,
+        "FederalFunding": 12008776,
+        "OtherLocalFunding": 2656158
     },
     "145902": {
         "NAME": "CENTERVILLE ISD (LEON)",
@@ -6682,8 +7082,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 622.4110000000001,
-        "StateFunding": 3584337.0,
-        "LocalFunding": 3463990.0
+        "LocalFunding": 3480183,
+        "StateFunding": 3837529,
+        "FederalFunding": 1344542,
+        "OtherLocalFunding": 473453
     },
     "226906": {
         "NAME": "WALL ISD",
@@ -6710,8 +7112,10 @@ var DistrictsData = {
         "CostOfCharters": "89,227.43",
         "CharterTransfers": "10",
         "Attendance": 1217.767,
-        "StateFunding": 6821306.0,
-        "LocalFunding": 4454193.0
+        "LocalFunding": 4668359,
+        "StateFunding": 9345076,
+        "FederalFunding": 1394699,
+        "OtherLocalFunding": 538216
     },
     "226908": {
         "NAME": "VERIBEST ISD",
@@ -6738,8 +7142,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 230.00100000000003,
-        "StateFunding": 1431618.0,
-        "LocalFunding": 1443069.0
+        "LocalFunding": 1689653,
+        "StateFunding": 1465154,
+        "FederalFunding": 205032,
+        "OtherLocalFunding": 133302
     },
     "226903": {
         "NAME": "SAN ANGELO ISD",
@@ -6766,8 +7172,10 @@ var DistrictsData = {
         "CostOfCharters": "10,454,158.94",
         "CharterTransfers": "1,332",
         "Attendance": 12556.632,
-        "StateFunding": 56867531.0,
-        "LocalFunding": 52172248.0
+        "LocalFunding": 55645733,
+        "StateFunding": 58180229,
+        "FederalFunding": 23465820,
+        "OtherLocalFunding": 2335382
     },
     "226907": {
         "NAME": "GRAPE CREEK ISD",
@@ -6799,8 +7207,10 @@ var DistrictsData = {
         "CostOfCharters": "895,595.05",
         "CharterTransfers": "74",
         "Attendance": 1057.467,
-        "StateFunding": 10125427.0,
-        "LocalFunding": 3040878.0
+        "LocalFunding": 3579279,
+        "StateFunding": 10053297,
+        "FederalFunding": 1647929,
+        "OtherLocalFunding": 150243
     },
     "226901": {
         "NAME": "CHRISTOVAL ISD",
@@ -6832,8 +7242,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 522.388,
-        "StateFunding": 4454083.0,
-        "LocalFunding": 2347925.0
+        "LocalFunding": 2749230,
+        "StateFunding": 4457014,
+        "FederalFunding": 298610,
+        "OtherLocalFunding": 277581
     },
     "214903": {
         "NAME": "ROMA ISD",
@@ -6865,8 +7277,10 @@ var DistrictsData = {
         "CostOfCharters": "4,067,820.49",
         "CharterTransfers": "422",
         "Attendance": 5701.728,
-        "StateFunding": 55674516.0,
-        "LocalFunding": 5591632.0
+        "LocalFunding": 5963286,
+        "StateFunding": 52849980,
+        "FederalFunding": 20989211,
+        "OtherLocalFunding": 3444899
     },
     "140904": {
         "NAME": "LITTLEFIELD ISD",
@@ -6898,8 +7312,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1164.4260000000002,
-        "StateFunding": 10174676.0,
-        "LocalFunding": 2384024.0
+        "LocalFunding": 2332504,
+        "StateFunding": 10254286,
+        "FederalFunding": 2971416,
+        "OtherLocalFunding": 1680576
     },
     "140901": {
         "NAME": "AMHERST ISD",
@@ -6931,8 +7347,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 121.95800000000001,
-        "StateFunding": 1616928.0,
-        "LocalFunding": 450750.0
+        "LocalFunding": 530538,
+        "StateFunding": 1647519,
+        "FederalFunding": 235361,
+        "OtherLocalFunding": 24251
     },
     "056902": {
         "NAME": "TEXLINE ISD",
@@ -6959,8 +7377,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 183.518,
-        "StateFunding": 544729.0,
-        "LocalFunding": 1835365.0
+        "LocalFunding": 2141423,
+        "StateFunding": 569915,
+        "FederalFunding": 229192,
+        "OtherLocalFunding": 66657
     },
     "242905": {
         "NAME": "KELTON ISD",
@@ -6992,8 +7412,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 109.462,
-        "StateFunding": 372405.0,
-        "LocalFunding": 4322194.0
+        "LocalFunding": 1597678,
+        "StateFunding": 503360,
+        "FederalFunding": 125152,
+        "OtherLocalFunding": 147373
     },
     "242902": {
         "NAME": "SHAMROCK ISD",
@@ -7025,8 +7447,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 341.598,
-        "StateFunding": 3107971.0,
-        "LocalFunding": 1230561.0
+        "LocalFunding": 1315063,
+        "StateFunding": 3142963,
+        "FederalFunding": 1379239,
+        "OtherLocalFunding": 614937
     },
     "120902": {
         "NAME": "GANADO ISD",
@@ -7058,8 +7482,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 659.594,
-        "StateFunding": 5740707.0,
-        "LocalFunding": 2371683.0
+        "LocalFunding": 2434238,
+        "StateFunding": 6160753,
+        "FederalFunding": 498964,
+        "OtherLocalFunding": 271006
     },
     "120901": {
         "NAME": "EDNA ISD",
@@ -7091,8 +7517,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1402.405,
-        "StateFunding": 8532832.0,
-        "LocalFunding": 5334889.0
+        "LocalFunding": 5607595,
+        "StateFunding": 8573232,
+        "FederalFunding": 3040695,
+        "OtherLocalFunding": 1979171
     },
     "083903": {
         "NAME": "SEMINOLE ISD",
@@ -7124,8 +7552,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2662.8979999999997,
-        "StateFunding": 6528533.0,
-        "LocalFunding": 30022017.0
+        "LocalFunding": 23965190,
+        "StateFunding": 7278186,
+        "FederalFunding": 4247679,
+        "OtherLocalFunding": 9794859
     },
     "174906": {
         "NAME": "WODEN ISD",
@@ -7152,8 +7582,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 684.7270000000001,
-        "StateFunding": 6077022.0,
-        "LocalFunding": 2189691.0
+        "LocalFunding": 2421163,
+        "StateFunding": 6135347,
+        "FederalFunding": 1062014,
+        "OtherLocalFunding": 311915
     },
     "174904": {
         "NAME": "NACOGDOCHES ISD",
@@ -7180,8 +7612,10 @@ var DistrictsData = {
         "CostOfCharters": "2,371,901.79",
         "CharterTransfers": "258",
         "Attendance": 5240.650000000001,
-        "StateFunding": 30219382.0,
-        "LocalFunding": 22248640.0
+        "LocalFunding": 22897860,
+        "StateFunding": 27978444,
+        "FederalFunding": 15022047,
+        "OtherLocalFunding": 1442724
     },
     "174909": {
         "NAME": "MARTINSVILLE ISD",
@@ -7213,8 +7647,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 317.16,
-        "StateFunding": 3517599.0,
-        "LocalFunding": 719000.0
+        "LocalFunding": 782403,
+        "StateFunding": 3641578,
+        "FederalFunding": 585704,
+        "OtherLocalFunding": 72232
     },
     "174911": {
         "NAME": "DOUGLASS ISD",
@@ -7246,8 +7682,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 426.255,
-        "StateFunding": 3245302.0,
-        "LocalFunding": 1595643.0
+        "LocalFunding": 1560094,
+        "StateFunding": 3340054,
+        "FederalFunding": 336937,
+        "OtherLocalFunding": 202293
     },
     "174908": {
         "NAME": "CENTRAL HEIGHTS ISD",
@@ -7279,8 +7717,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1046.606,
-        "StateFunding": 9572522.0,
-        "LocalFunding": 1497767.0
+        "LocalFunding": 1316537,
+        "StateFunding": 9306535,
+        "FederalFunding": 1918955,
+        "OtherLocalFunding": 1899981
     },
     "166902": {
         "NAME": "GAUSE ISD",
@@ -7312,8 +7752,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 150.53400000000002,
-        "StateFunding": 640711.0,
-        "LocalFunding": 1658605.0
+        "LocalFunding": 1856720,
+        "StateFunding": 656161,
+        "FederalFunding": 235976,
+        "OtherLocalFunding": 63195
     },
     "212909": {
         "NAME": "CHAPEL HILL ISD (SMITH)",
@@ -7349,8 +7791,10 @@ var DistrictsData = {
         "CostOfCharters": "2,472,754.43",
         "CharterTransfers": "253",
         "Attendance": 3185.54,
-        "StateFunding": 19271993.0,
-        "LocalFunding": 12985516.0
+        "LocalFunding": 14775102,
+        "StateFunding": 19675339,
+        "FederalFunding": 5153756,
+        "OtherLocalFunding": 590002
     },
     "180901": {
         "NAME": "BOYS RANCH ISD",
@@ -7382,8 +7826,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1.0,
-        "StateFunding": 3329291.0,
-        "LocalFunding": 0.0
+        "LocalFunding": 0,
+        "StateFunding": 3332871,
+        "FederalFunding": 2718576,
+        "OtherLocalFunding": 2512439
     },
     "180902": {
         "NAME": "VEGA ISD",
@@ -7410,8 +7856,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 354.97900000000004,
-        "StateFunding": 2369349.0,
-        "LocalFunding": 1909762.0
+        "LocalFunding": 2649619,
+        "StateFunding": 2389251,
+        "FederalFunding": 259473,
+        "OtherLocalFunding": 140935
     },
     "180903": {
         "NAME": "ADRIAN ISD",
@@ -7443,8 +7891,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 125.35,
-        "StateFunding": 1522449.0,
-        "LocalFunding": 568439.0
+        "LocalFunding": 582717,
+        "StateFunding": 1536079,
+        "FederalFunding": 171510,
+        "OtherLocalFunding": 16007
     },
     "215901": {
         "NAME": "BRECKENRIDGE ISD",
@@ -7476,8 +7926,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1290.348,
-        "StateFunding": 8825324.0,
-        "LocalFunding": 4804480.0
+        "LocalFunding": 5010448,
+        "StateFunding": 8736832,
+        "FederalFunding": 2026143,
+        "OtherLocalFunding": 301766
     },
     "059902": {
         "NAME": "WALCOTT ISD",
@@ -7504,8 +7956,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 131.392,
-        "StateFunding": 1286644.0,
-        "LocalFunding": 625182.0
+        "LocalFunding": 650651,
+        "StateFunding": 1321240,
+        "FederalFunding": 248585,
+        "OtherLocalFunding": 57926
     },
     "025909": {
         "NAME": "EARLY ISD",
@@ -7537,8 +7991,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1080.0990000000002,
-        "StateFunding": 8172957.0,
-        "LocalFunding": 3545165.0
+        "LocalFunding": 3733752,
+        "StateFunding": 9310399,
+        "FederalFunding": 1576201,
+        "OtherLocalFunding": 419766
     },
     "025902": {
         "NAME": "BROWNWOOD ISD",
@@ -7570,8 +8026,10 @@ var DistrictsData = {
         "CostOfCharters": "332,413.00",
         "CharterTransfers": "39",
         "Attendance": 3154.6410000000005,
-        "StateFunding": 14227913.0,
-        "LocalFunding": 14449776.0
+        "LocalFunding": 15358502,
+        "StateFunding": 15343363,
+        "FederalFunding": 7639624,
+        "OtherLocalFunding": 927487
     },
     "233901": {
         "NAME": "SAN FELIPE-DEL RIO CONS ISD",
@@ -7603,8 +8061,10 @@ var DistrictsData = {
         "CostOfCharters": "4,950,343.46",
         "CharterTransfers": "543",
         "Attendance": 9115.244,
-        "StateFunding": 66441296.0,
-        "LocalFunding": 21517944.0
+        "LocalFunding": 22247302,
+        "StateFunding": 69193900,
+        "FederalFunding": 16226825,
+        "OtherLocalFunding": 3532308
     },
     "233903": {
         "NAME": "COMSTOCK ISD",
@@ -7636,8 +8096,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 220.91300000000004,
-        "StateFunding": 919909.0,
-        "LocalFunding": 2766151.0
+        "LocalFunding": 2799368,
+        "StateFunding": 890823,
+        "FederalFunding": 450634,
+        "OtherLocalFunding": 74059
     },
     "184908": {
         "NAME": "PEASTER ISD",
@@ -7664,8 +8126,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1329.229,
-        "StateFunding": 8435853.0,
-        "LocalFunding": 3892357.0
+        "LocalFunding": 4134948,
+        "StateFunding": 10605376,
+        "FederalFunding": 1284045,
+        "OtherLocalFunding": 2072078
     },
     "184911": {
         "NAME": "GARNER ISD",
@@ -7697,8 +8161,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 199.86700000000002,
-        "StateFunding": 577444.0,
-        "LocalFunding": 1958482.0
+        "LocalFunding": 2075352,
+        "StateFunding": 604053,
+        "FederalFunding": 464144,
+        "OtherLocalFunding": 72428
     },
     "236901": {
         "NAME": "NEW WAVERLY ISD",
@@ -7730,8 +8196,10 @@ var DistrictsData = {
         "CostOfCharters": "417,436.56",
         "CharterTransfers": "39",
         "Attendance": 966.1020000000001,
-        "StateFunding": 6909268.0,
-        "LocalFunding": 3711375.0
+        "LocalFunding": 4542568,
+        "StateFunding": 6911329,
+        "FederalFunding": 2083080,
+        "OtherLocalFunding": 320437
     },
     "236902": {
         "NAME": "HUNTSVILLE ISD",
@@ -7763,8 +8231,10 @@ var DistrictsData = {
         "CostOfCharters": "3,897,113.33",
         "CharterTransfers": "460",
         "Attendance": 9788.01,
-        "StateFunding": 57152821.0,
-        "LocalFunding": 32190731.0
+        "LocalFunding": 36164771,
+        "StateFunding": 47145403,
+        "FederalFunding": 12852263,
+        "OtherLocalFunding": 665606
     },
     "128903": {
         "NAME": "RUNGE ISD",
@@ -7796,8 +8266,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 197.74,
-        "StateFunding": 147311.0,
-        "LocalFunding": 2933922.0
+        "LocalFunding": 2659675,
+        "StateFunding": 218989,
+        "FederalFunding": 495406,
+        "OtherLocalFunding": 117455
     },
     "128902": {
         "NAME": "KENEDY ISD",
@@ -7829,8 +8301,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 657.0830000000001,
-        "StateFunding": 653926.0,
-        "LocalFunding": 9489774.0
+        "LocalFunding": 8244557,
+        "StateFunding": 754463,
+        "FederalFunding": 1178405,
+        "OtherLocalFunding": 487662
     },
     "182905": {
         "NAME": "STRAWN ISD",
@@ -7862,8 +8336,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 140.481,
-        "StateFunding": 1492809.0,
-        "LocalFunding": 555424.0
+        "LocalFunding": 641009,
+        "StateFunding": 1505619,
+        "FederalFunding": 152939,
+        "OtherLocalFunding": 53211
     },
     "182906": {
         "NAME": "PALO PINTO ISD",
@@ -7895,8 +8371,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 75.607,
-        "StateFunding": 43521.0,
-        "LocalFunding": 5160438.0
+        "LocalFunding": 1392093,
+        "StateFunding": 89470,
+        "FederalFunding": 162582,
+        "OtherLocalFunding": 21016
     },
     "182903": {
         "NAME": "MINERAL WELLS ISD",
@@ -7932,8 +8410,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2841.7090000000003,
-        "StateFunding": 21617460.0,
-        "LocalFunding": 8311266.0
+        "LocalFunding": 9817572,
+        "StateFunding": 21034562,
+        "FederalFunding": 6243374,
+        "OtherLocalFunding": 1117832
     },
     "184904": {
         "NAME": "MILLSAP ISD",
@@ -7969,8 +8449,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 989.1880000000002,
-        "StateFunding": 6925802.0,
-        "LocalFunding": 4199474.0
+        "LocalFunding": 4868419,
+        "StateFunding": 7156179,
+        "FederalFunding": 1218319,
+        "OtherLocalFunding": 287541
     },
     "210905": {
         "NAME": "TIMPSON ISD",
@@ -7997,8 +8479,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 597.198,
-        "StateFunding": 6830951.0,
-        "LocalFunding": 1338296.0
+        "LocalFunding": 1446665,
+        "StateFunding": 6776189,
+        "FederalFunding": 1912665,
+        "OtherLocalFunding": 168148
     },
     "210906": {
         "NAME": "EXCELSIOR ISD",
@@ -8030,8 +8514,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 66.589,
-        "StateFunding": 784444.0,
-        "LocalFunding": 323674.0
+        "LocalFunding": 390549,
+        "StateFunding": 801162,
+        "FederalFunding": 173823,
+        "OtherLocalFunding": 3354
     },
     "210901": {
         "NAME": "CENTER ISD",
@@ -8063,8 +8549,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2214.435,
-        "StateFunding": 19537371.0,
-        "LocalFunding": 5319776.0
+        "LocalFunding": 5906712,
+        "StateFunding": 20280753,
+        "FederalFunding": 6076860,
+        "OtherLocalFunding": 624936
     },
     "054903": {
         "NAME": "RALLS ISD",
@@ -8091,8 +8579,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 413.634,
-        "StateFunding": 4084074.0,
-        "LocalFunding": 1275493.0
+        "LocalFunding": 1327757,
+        "StateFunding": 4158171,
+        "FederalFunding": 1356419,
+        "OtherLocalFunding": 174852
     },
     "054901": {
         "NAME": "CROSBYTON CONS ISD",
@@ -8124,8 +8614,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 297.576,
-        "StateFunding": 3080931.0,
-        "LocalFunding": 1061542.0
+        "LocalFunding": 1239971,
+        "StateFunding": 3194259,
+        "FederalFunding": 978999,
+        "OtherLocalFunding": 1510930
     },
     "178905": {
         "NAME": "DRISCOLL ISD",
@@ -8157,8 +8649,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 265.70300000000003,
-        "StateFunding": 3001140.0,
-        "LocalFunding": 740001.0
+        "LocalFunding": 790951,
+        "StateFunding": 2908848,
+        "FederalFunding": 812693,
+        "OtherLocalFunding": 81260
     },
     "178913": {
         "NAME": "BANQUETE ISD",
@@ -8190,8 +8684,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 752.1470000000002,
-        "StateFunding": 3539237.0,
-        "LocalFunding": 5495744.0
+        "LocalFunding": 6439018,
+        "StateFunding": 3666434,
+        "FederalFunding": 854704,
+        "OtherLocalFunding": 329672
     },
     "178901": {
         "NAME": "AGUA DULCE ISD",
@@ -8227,8 +8723,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 374.0060000000001,
-        "StateFunding": 3349092.0,
-        "LocalFunding": 1541770.0
+        "LocalFunding": 1853308,
+        "StateFunding": 3318521,
+        "FederalFunding": 423780,
+        "OtherLocalFunding": 236290
     },
     "196902": {
         "NAME": "WOODSBORO ISD",
@@ -8255,8 +8753,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 402.862,
-        "StateFunding": 2396777.0,
-        "LocalFunding": 2807191.0
+        "LocalFunding": 3212539,
+        "StateFunding": 3011941,
+        "FederalFunding": 718057,
+        "OtherLocalFunding": 2508838
     },
     "196901": {
         "NAME": "AUSTWELL-TIVOLI ISD",
@@ -8288,8 +8788,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 117.135,
-        "StateFunding": 250075.0,
-        "LocalFunding": 1949247.0
+        "LocalFunding": 1992048,
+        "StateFunding": 260033,
+        "FederalFunding": 326945,
+        "OtherLocalFunding": 141579
     },
     "216901": {
         "NAME": "STERLING CITY ISD",
@@ -8316,8 +8818,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 312.07800000000003,
-        "StateFunding": 1633860.0,
-        "LocalFunding": 7320501.0
+        "LocalFunding": 4270201,
+        "StateFunding": 1465871,
+        "FederalFunding": 198250,
+        "OtherLocalFunding": 219207
     },
     "170904": {
         "NAME": "WILLIS ISD",
@@ -8353,8 +8857,10 @@ var DistrictsData = {
         "CostOfCharters": "896,605.96",
         "CharterTransfers": "103",
         "Attendance": 7493.436000000001,
-        "StateFunding": 30507954.0,
-        "LocalFunding": 37028882.0
+        "LocalFunding": 39297029,
+        "StateFunding": 30397717,
+        "FederalFunding": 9251707,
+        "OtherLocalFunding": 2099048
     },
     "170907": {
         "NAME": "SPLENDORA ISD",
@@ -8386,8 +8892,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 3747.2380000000003,
-        "StateFunding": 32987204.0,
-        "LocalFunding": 8172718.0
+        "LocalFunding": 9837552,
+        "StateFunding": 30870591,
+        "FederalFunding": 5847890,
+        "OtherLocalFunding": 864910
     },
     "186903": {
         "NAME": "IRAAN-SHEFFIELD ISD",
@@ -8419,8 +8927,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 306.451,
-        "StateFunding": 326733.0,
-        "LocalFunding": 9403309.0
+        "LocalFunding": 3998874,
+        "StateFunding": 457051,
+        "FederalFunding": 503912,
+        "OtherLocalFunding": 558617
     },
     "186901": {
         "NAME": "BUENA VISTA ISD",
@@ -8452,8 +8962,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 187.612,
-        "StateFunding": 236491.0,
-        "LocalFunding": 7339340.0
+        "LocalFunding": 2816699,
+        "StateFunding": 269638,
+        "FederalFunding": 380890,
+        "OtherLocalFunding": 178774
     },
     "119903": {
         "NAME": "PERRIN-WHITT CONS ISD",
@@ -8488,8 +9000,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 300.242,
-        "StateFunding": 1259962.0,
-        "LocalFunding": 2479488.0
+        "LocalFunding": 2607605,
+        "StateFunding": 1593605,
+        "FederalFunding": 503020,
+        "OtherLocalFunding": 195799
     },
     "039905": {
         "NAME": "MIDWAY ISD (CLAY)",
@@ -8525,8 +9039,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 121.042,
-        "StateFunding": 1238679.0,
-        "LocalFunding": 785850.0
+        "LocalFunding": 841840,
+        "StateFunding": 1299086,
+        "FederalFunding": 268075,
+        "OtherLocalFunding": 156489
     },
     "182902": {
         "NAME": "GRAFORD ISD",
@@ -8562,8 +9078,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 292.773,
-        "StateFunding": 159653.0,
-        "LocalFunding": 9640220.0
+        "LocalFunding": 3962772,
+        "StateFunding": 187846,
+        "FederalFunding": 297147,
+        "OtherLocalFunding": 132224
     },
     "119901": {
         "NAME": "BRYSON ISD",
@@ -8595,8 +9113,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 235.00100000000003,
-        "StateFunding": 1587650.0,
-        "LocalFunding": 1327599.0
+        "LocalFunding": 1505938,
+        "StateFunding": 1631733,
+        "FederalFunding": 533492,
+        "OtherLocalFunding": 94622
     },
     "169901": {
         "NAME": "BOWIE ISD",
@@ -8632,8 +9152,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1535.726,
-        "StateFunding": 5576655.0,
-        "LocalFunding": 9103075.0
+        "LocalFunding": 9721110,
+        "StateFunding": 6202271,
+        "FederalFunding": 2426922,
+        "OtherLocalFunding": 304647
     },
     "219903": {
         "NAME": "TULIA ISD",
@@ -8660,8 +9182,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 841.965,
-        "StateFunding": 9159871.0,
-        "LocalFunding": 1870476.0
+        "LocalFunding": 2100327,
+        "StateFunding": 9086360,
+        "FederalFunding": 2270764,
+        "OtherLocalFunding": 893733
     },
     "219905": {
         "NAME": "KRESS ISD",
@@ -8693,8 +9217,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 259.88300000000004,
-        "StateFunding": 2413973.0,
-        "LocalFunding": 1052426.0
+        "LocalFunding": 1233427,
+        "StateFunding": 2297092,
+        "FederalFunding": 384158,
+        "OtherLocalFunding": 78607
     },
     "181906": {
         "NAME": "WEST ORANGE-COVE CONS ISD",
@@ -8721,8 +9247,10 @@ var DistrictsData = {
         "CostOfCharters": "910,666.22",
         "CharterTransfers": "97",
         "Attendance": 2129.5730000000003,
-        "StateFunding": 3676009.0,
-        "LocalFunding": 17833560.0
+        "LocalFunding": 19800569,
+        "StateFunding": 5367464,
+        "FederalFunding": 8503040,
+        "OtherLocalFunding": 384058
     },
     "181905": {
         "NAME": "ORANGEFIELD ISD",
@@ -8749,8 +9277,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1697.8690000000001,
-        "StateFunding": 10145596.0,
-        "LocalFunding": 6037515.0
+        "LocalFunding": 6442893,
+        "StateFunding": 10629673,
+        "FederalFunding": 1631793,
+        "OtherLocalFunding": 1366423
     },
     "181908": {
         "NAME": "LITTLE CYPRESS-MAURICEVILLE CONS ISD",
@@ -8782,8 +9312,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2932.329,
-        "StateFunding": 17592051.0,
-        "LocalFunding": 10074169.0
+        "LocalFunding": 10143733,
+        "StateFunding": 18165094,
+        "FederalFunding": 5435872,
+        "OtherLocalFunding": 1057826
     },
     "181901": {
         "NAME": "BRIDGE CITY ISD",
@@ -8815,8 +9347,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2836.442,
-        "StateFunding": 14096949.0,
-        "LocalFunding": 10532843.0
+        "LocalFunding": 11070623,
+        "StateFunding": 14289368,
+        "FederalFunding": 3458745,
+        "OtherLocalFunding": 816254
     },
     "181907": {
         "NAME": "VIDOR ISD",
@@ -8847,8 +9381,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 3918.2830000000004,
-        "StateFunding": 26798170.0,
-        "LocalFunding": 12401150.0
+        "LocalFunding": 13295822,
+        "StateFunding": 28915372,
+        "FederalFunding": 6647400,
+        "OtherLocalFunding": 459607
     },
     "045905": {
         "NAME": "WEIMAR ISD",
@@ -8880,8 +9416,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 614.908,
-        "StateFunding": 3177220.0,
-        "LocalFunding": 3921982.0
+        "LocalFunding": 4246164,
+        "StateFunding": 3397314,
+        "FederalFunding": 1107016,
+        "OtherLocalFunding": 352121
     },
     "143901": {
         "NAME": "HALLETTSVILLE ISD",
@@ -8917,8 +9455,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1034.806,
-        "StateFunding": 3389183.0,
-        "LocalFunding": 7433185.0
+        "LocalFunding": 7802555,
+        "StateFunding": 3482597,
+        "FederalFunding": 631458,
+        "OtherLocalFunding": 913249
     },
     "040902": {
         "NAME": "WHITEFACE CONS ISD",
@@ -8945,8 +9485,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 309.624,
-        "StateFunding": 520072.0,
-        "LocalFunding": 4125620.0
+        "LocalFunding": 3920300,
+        "StateFunding": 574041,
+        "FederalFunding": 611584,
+        "OtherLocalFunding": 434198
     },
     "040901": {
         "NAME": "MORTON ISD",
@@ -8978,8 +9520,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 336.348,
-        "StateFunding": 3905764.0,
-        "LocalFunding": 494181.0
+        "LocalFunding": 532762,
+        "StateFunding": 4079066,
+        "FederalFunding": 794129,
+        "OtherLocalFunding": 380659
     },
     "185904": {
         "NAME": "LAZBUDDIE ISD",
@@ -9015,8 +9559,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 169.97400000000002,
-        "StateFunding": 1826987.0,
-        "LocalFunding": 554838.0
+        "LocalFunding": 635855,
+        "StateFunding": 1692422,
+        "FederalFunding": 198173,
+        "OtherLocalFunding": 201298
     },
     "059901": {
         "NAME": "HEREFORD ISD",
@@ -9052,8 +9598,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 3501.5710000000004,
-        "StateFunding": 19053718.0,
-        "LocalFunding": 14507543.0
+        "LocalFunding": 15361523,
+        "StateFunding": 19865309,
+        "FederalFunding": 8541901,
+        "OtherLocalFunding": 969700
     },
     "185903": {
         "NAME": "FRIONA ISD",
@@ -9085,8 +9633,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 989.0980000000001,
-        "StateFunding": 7114100.0,
-        "LocalFunding": 3925731.0
+        "LocalFunding": 4282220,
+        "StateFunding": 7201926,
+        "FederalFunding": 2186126,
+        "OtherLocalFunding": 498572
     },
     "185901": {
         "NAME": "BOVINA ISD",
@@ -9118,8 +9668,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 425.295,
-        "StateFunding": 4558177.0,
-        "LocalFunding": 1051825.0
+        "LocalFunding": 1207120,
+        "StateFunding": 4585104,
+        "FederalFunding": 957340,
+        "OtherLocalFunding": 63483
     },
     "081906": {
         "NAME": "DEW ISD",
@@ -9151,8 +9703,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 154.854,
-        "StateFunding": 427646.0,
-        "LocalFunding": 1597482.0
+        "LocalFunding": 1852301,
+        "StateFunding": 442993,
+        "FederalFunding": 265735,
+        "OtherLocalFunding": 608269
     },
     "081905": {
         "NAME": "WORTHAM ISD",
@@ -9188,8 +9742,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 456.84700000000004,
-        "StateFunding": 3754610.0,
-        "LocalFunding": 1649030.0
+        "LocalFunding": 1788469,
+        "StateFunding": 3778567,
+        "FederalFunding": 860093,
+        "OtherLocalFunding": 56062
     },
     "081904": {
         "NAME": "TEAGUE ISD",
@@ -9221,8 +9777,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1063.194,
-        "StateFunding": 4603682.0,
-        "LocalFunding": 6976487.0
+        "LocalFunding": 7336028,
+        "StateFunding": 4697670,
+        "FederalFunding": 1614649,
+        "OtherLocalFunding": 1006142
     },
     "145907": {
         "NAME": "OAKWOOD ISD",
@@ -9258,8 +9816,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 175.863,
-        "StateFunding": 739818.0,
-        "LocalFunding": 1547518.0
+        "LocalFunding": 1646150,
+        "StateFunding": 699127,
+        "FederalFunding": 626009,
+        "OtherLocalFunding": 78457
     },
     "147903": {
         "NAME": "MEXIA ISD",
@@ -9295,8 +9855,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1646.885,
-        "StateFunding": 14365684.0,
-        "LocalFunding": 4323968.0
+        "LocalFunding": 5079892,
+        "StateFunding": 15738453,
+        "FederalFunding": 4211453,
+        "OtherLocalFunding": 143631
     },
     "081902": {
         "NAME": "FAIRFIELD ISD",
@@ -9332,8 +9894,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1587.415,
-        "StateFunding": 3167821.0,
-        "LocalFunding": 11373893.0
+        "LocalFunding": 12986451,
+        "StateFunding": 3405759,
+        "FederalFunding": 3691159,
+        "OtherLocalFunding": 1958162
     },
     "175903": {
         "NAME": "CORSICANA ISD",
@@ -9369,8 +9933,10 @@ var DistrictsData = {
         "CostOfCharters": "504,743.03",
         "CharterTransfers": "59",
         "Attendance": 5464.147,
-        "StateFunding": 31624264.0,
-        "LocalFunding": 19704299.0
+        "LocalFunding": 20789494,
+        "StateFunding": 34546056,
+        "FederalFunding": 11462579,
+        "OtherLocalFunding": 1251463
     },
     "145901": {
         "NAME": "BUFFALO ISD",
@@ -9406,8 +9972,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 874.712,
-        "StateFunding": 5930167.0,
-        "LocalFunding": 4251492.0
+        "LocalFunding": 5106727,
+        "StateFunding": 5901589,
+        "FederalFunding": 1225323,
+        "OtherLocalFunding": 331097
     },
     "248901": {
         "NAME": "KERMIT ISD",
@@ -9439,8 +10007,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1195.828,
-        "StateFunding": 4331820.0,
-        "LocalFunding": 9853862.0
+        "LocalFunding": 9930739,
+        "StateFunding": 4528093,
+        "FederalFunding": 2084457,
+        "OtherLocalFunding": 896948
     },
     "248902": {
         "NAME": "WINK-LOVING ISD",
@@ -9471,8 +10041,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 375.851,
-        "StateFunding": 2287302.0,
-        "LocalFunding": 91501411.0
+        "LocalFunding": 19073366,
+        "StateFunding": 2320294,
+        "FederalFunding": 441733,
+        "OtherLocalFunding": 1134894
     },
     "033904": {
         "NAME": "WHITE DEER ISD",
@@ -9503,8 +10075,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 338.565,
-        "StateFunding": 2309977.0,
-        "LocalFunding": 2013673.0
+        "LocalFunding": 2040877,
+        "StateFunding": 2345061,
+        "FederalFunding": 430278,
+        "OtherLocalFunding": 131761
     },
     "242903": {
         "NAME": "WHEELER ISD",
@@ -9531,8 +10105,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 390.41,
-        "StateFunding": 2488363.0,
-        "LocalFunding": 2212322.0
+        "LocalFunding": 2097481,
+        "StateFunding": 3090270,
+        "FederalFunding": 327849,
+        "OtherLocalFunding": 142366
     },
     "090904": {
         "NAME": "PAMPA ISD",
@@ -9564,8 +10140,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 3115.7540000000004,
-        "StateFunding": 19590951.0,
-        "LocalFunding": 10229663.0
+        "LocalFunding": 10827522,
+        "StateFunding": 20086515,
+        "FederalFunding": 5161241,
+        "OtherLocalFunding": 934139
     },
     "207901": {
         "NAME": "SCHLEICHER ISD",
@@ -9592,8 +10170,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 468.055,
-        "StateFunding": 3218469.0,
-        "LocalFunding": 2534858.0
+        "LocalFunding": 2836107,
+        "StateFunding": 3435495,
+        "FederalFunding": 605122,
+        "OtherLocalFunding": 454387
     },
     "090902": {
         "NAME": "LEFORS ISD",
@@ -9625,8 +10205,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 152.354,
-        "StateFunding": 1266982.0,
-        "LocalFunding": 830586.0
+        "LocalFunding": 865945,
+        "StateFunding": 1315575,
+        "FederalFunding": 184233,
+        "OtherLocalFunding": 53775
     },
     "090905": {
         "NAME": "GRANDVIEW-HOPKINS ISD",
@@ -9658,8 +10240,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 44.39,
-        "StateFunding": 231222.0,
-        "LocalFunding": 743960.0
+        "LocalFunding": 730234,
+        "StateFunding": 231360,
+        "FederalFunding": 38417,
+        "OtherLocalFunding": 15622
     },
     "090903": {
         "NAME": "MCLEAN ISD",
@@ -9695,8 +10279,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 183.717,
-        "StateFunding": 1602794.0,
-        "LocalFunding": 775965.0
+        "LocalFunding": 771868,
+        "StateFunding": 1697867,
+        "FederalFunding": 220026,
+        "OtherLocalFunding": 66087
     },
     "099902": {
         "NAME": "CHILLICOTHE ISD",
@@ -9728,8 +10314,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 187.22,
-        "StateFunding": 1198101.0,
-        "LocalFunding": 1502667.0
+        "LocalFunding": 1485927,
+        "StateFunding": 1174778,
+        "FederalFunding": 384111,
+        "OtherLocalFunding": 1447104
     },
     "099903": {
         "NAME": "QUANAH ISD",
@@ -9756,8 +10344,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 489.69100000000003,
-        "StateFunding": 3376534.0,
-        "LocalFunding": 3070283.0
+        "LocalFunding": 3315346,
+        "StateFunding": 3933725,
+        "FederalFunding": 1832045,
+        "OtherLocalFunding": 989563
     },
     "038901": {
         "NAME": "CHILDRESS ISD",
@@ -9793,8 +10383,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 925.784,
-        "StateFunding": 5328195.0,
-        "LocalFunding": 4442373.0
+        "LocalFunding": 4573567,
+        "StateFunding": 5227021,
+        "FederalFunding": 1500940,
+        "OtherLocalFunding": 3082173
     },
     "251902": {
         "NAME": "PLAINS ISD",
@@ -9826,8 +10418,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 415.925,
-        "StateFunding": 222959.0,
-        "LocalFunding": 11462468.0
+        "LocalFunding": 5452330,
+        "StateFunding": 255733,
+        "FederalFunding": 471398,
+        "OtherLocalFunding": 271687
     },
     "251901": {
         "NAME": "DENVER CITY ISD",
@@ -9859,8 +10453,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1520.565,
-        "StateFunding": 4288538.0,
-        "LocalFunding": 11257646.0
+        "LocalFunding": 11888580,
+        "StateFunding": 4294191,
+        "FederalFunding": 2643965,
+        "OtherLocalFunding": 438176
     },
     "223901": {
         "NAME": "BROWNFIELD ISD",
@@ -9900,8 +10496,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1461.3020000000001,
-        "StateFunding": 10051433.0,
-        "LocalFunding": 5760335.0
+        "LocalFunding": 6712018,
+        "StateFunding": 10215209,
+        "FederalFunding": 4494422,
+        "OtherLocalFunding": 580821
     },
     "083901": {
         "NAME": "SEAGRAVES ISD",
@@ -9937,8 +10535,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 438.349,
-        "StateFunding": 3820277.0,
-        "LocalFunding": 1740744.0
+        "LocalFunding": 1686430,
+        "StateFunding": 3803286,
+        "FederalFunding": 960824,
+        "OtherLocalFunding": 1750869
     },
     "232901": {
         "NAME": "KNIPPA ISD",
@@ -9970,8 +10570,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 408.32800000000003,
-        "StateFunding": 4157499.0,
-        "LocalFunding": 812638.0
+        "LocalFunding": 940134,
+        "StateFunding": 4178744,
+        "FederalFunding": 389564,
+        "OtherLocalFunding": 133294
     },
     "069902": {
         "NAME": "NUECES CANYON CONS ISD",
@@ -10007,8 +10609,10 @@ var DistrictsData = {
         "CostOfCharters": "332,555.79",
         "CharterTransfers": "22",
         "Attendance": 243.366,
-        "StateFunding": 757228.0,
-        "LocalFunding": 3067108.0
+        "LocalFunding": 2822799,
+        "StateFunding": 709259,
+        "FederalFunding": 701600,
+        "OtherLocalFunding": 101892
     },
     "093903": {
         "NAME": "IOLA ISD",
@@ -10040,8 +10644,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 495.2,
-        "StateFunding": 2316591.0,
-        "LocalFunding": 3514045.0
+        "LocalFunding": 3645789,
+        "StateFunding": 2546711,
+        "FederalFunding": 500519,
+        "OtherLocalFunding": 369967
     },
     "093901": {
         "NAME": "ANDERSON-SHIRO CONS ISD",
@@ -10073,8 +10679,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 829.551,
-        "StateFunding": 2347879.0,
-        "LocalFunding": 6755895.0
+        "LocalFunding": 7157549,
+        "StateFunding": 2441411,
+        "FederalFunding": 753528,
+        "OtherLocalFunding": 328598
     },
     "154901": {
         "NAME": "MADISONVILLE CONS ISD",
@@ -10110,8 +10718,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2104.815,
-        "StateFunding": 13284097.0,
-        "LocalFunding": 8034689.0
+        "LocalFunding": 9591516,
+        "StateFunding": 12735669,
+        "FederalFunding": 4292882,
+        "OtherLocalFunding": 739983
     },
     "075903": {
         "NAME": "SCHULENBURG ISD",
@@ -10143,8 +10753,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 651.0840000000001,
-        "StateFunding": 3015016.0,
-        "LocalFunding": 4611055.0
+        "LocalFunding": 4994299,
+        "StateFunding": 3103510,
+        "FederalFunding": 1117044,
+        "OtherLocalFunding": 802179
     },
     "075902": {
         "NAME": "LA GRANGE ISD",
@@ -10176,8 +10788,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1736.8580000000002,
-        "StateFunding": 4207456.0,
-        "LocalFunding": 11730573.0
+        "LocalFunding": 12581791,
+        "StateFunding": 5169664,
+        "FederalFunding": 3643957,
+        "OtherLocalFunding": 2264178
     },
     "075901": {
         "NAME": "FLATONIA ISD",
@@ -10209,8 +10823,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 546.565,
-        "StateFunding": 2842258.0,
-        "LocalFunding": 4111110.0
+        "LocalFunding": 4989617,
+        "StateFunding": 2898143,
+        "FederalFunding": 594602,
+        "OtherLocalFunding": 355972
     },
     "075906": {
         "NAME": "FAYETTEVILLE ISD",
@@ -10242,8 +10858,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 249.485,
-        "StateFunding": 545582.0,
-        "LocalFunding": 2287186.0
+        "LocalFunding": 2538637,
+        "StateFunding": 599779,
+        "FederalFunding": 390143,
+        "OtherLocalFunding": 235498
     },
     "224902": {
         "NAME": "WOODSON ISD",
@@ -10275,8 +10893,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 143.77800000000002,
-        "StateFunding": 1908400.0,
-        "LocalFunding": 372902.0
+        "LocalFunding": 427011,
+        "StateFunding": 2049660,
+        "FederalFunding": 225158,
+        "OtherLocalFunding": 16253
     },
     "234905": {
         "NAME": "MARTINS MILL ISD",
@@ -10308,8 +10928,10 @@ var DistrictsData = {
         "CostOfCharters": "244,103.01",
         "CharterTransfers": "22",
         "Attendance": 413.535,
-        "StateFunding": 3896154.0,
-        "LocalFunding": 1170535.0
+        "LocalFunding": 1274891,
+        "StateFunding": 3994893,
+        "FederalFunding": 569684,
+        "OtherLocalFunding": 165546
     },
     "107905": {
         "NAME": "EUSTACE ISD",
@@ -10353,8 +10975,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1504.1850000000004,
-        "StateFunding": 9507964.0,
-        "LocalFunding": 6315350.0
+        "LocalFunding": 6198579,
+        "StateFunding": 9690729,
+        "FederalFunding": 3733963,
+        "OtherLocalFunding": 506994
     },
     "234902": {
         "NAME": "CANTON ISD",
@@ -10386,8 +11010,10 @@ var DistrictsData = {
         "CostOfCharters": "103,501.29",
         "CharterTransfers": "12",
         "Attendance": 2079.331,
-        "StateFunding": 10543008.0,
-        "LocalFunding": 7712524.0
+        "LocalFunding": 8321793,
+        "StateFunding": 10757939,
+        "FederalFunding": 2113745,
+        "OtherLocalFunding": 1574919
     },
     "129905": {
         "NAME": "MABANK ISD",
@@ -10431,8 +11057,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 3241.389,
-        "StateFunding": 17809103.0,
-        "LocalFunding": 13319633.0
+        "LocalFunding": 13572549,
+        "StateFunding": 18041623,
+        "FederalFunding": 5244921,
+        "OtherLocalFunding": 1634368
     },
     "161922": {
         "NAME": "ROBINSON ISD",
@@ -10463,8 +11091,10 @@ var DistrictsData = {
         "CostOfCharters": "92,633.99",
         "CharterTransfers": "10",
         "Attendance": 2341.6980000000003,
-        "StateFunding": 14050169.0,
-        "LocalFunding": 7337831.0
+        "LocalFunding": 8549888,
+        "StateFunding": 14241097,
+        "FederalFunding": 2409590,
+        "OtherLocalFunding": 737943
     },
     "161912": {
         "NAME": "RIESEL ISD",
@@ -10495,8 +11125,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 597.216,
-        "StateFunding": 1789426.0,
-        "LocalFunding": 4922354.0
+        "LocalFunding": 4502591,
+        "StateFunding": 2144884,
+        "FederalFunding": 720887,
+        "OtherLocalFunding": 302176
     },
     "161908": {
         "NAME": "MART ISD",
@@ -10532,8 +11164,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 481.194,
-        "StateFunding": 4767730.0,
-        "LocalFunding": 1336538.0
+        "LocalFunding": 1428437,
+        "StateFunding": 4786468,
+        "FederalFunding": 1027555,
+        "OtherLocalFunding": 425660
     },
     "147902": {
         "NAME": "GROESBECK ISD",
@@ -10569,8 +11203,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1416.646,
-        "StateFunding": 2274305.0,
-        "LocalFunding": 11929999.0
+        "LocalFunding": 12548913,
+        "StateFunding": 2385222,
+        "FederalFunding": 3011047,
+        "OtherLocalFunding": 504594
     },
     "092907": {
         "NAME": "SPRING HILL ISD",
@@ -10597,8 +11233,10 @@ var DistrictsData = {
         "CostOfCharters": "214,980.23",
         "CharterTransfers": "23",
         "Attendance": 1927.2879999999998,
-        "StateFunding": 13620852.0,
-        "LocalFunding": 5209090.0
+        "LocalFunding": 5359549,
+        "StateFunding": 13105977,
+        "FederalFunding": 2549821,
+        "OtherLocalFunding": 485209
     },
     "092903": {
         "NAME": "LONGVIEW ISD",
@@ -10630,8 +11268,10 @@ var DistrictsData = {
         "CostOfCharters": "1,424,413.81",
         "CharterTransfers": "162",
         "Attendance": 7742.103,
-        "StateFunding": 40803560.0,
-        "LocalFunding": 42863959.0
+        "LocalFunding": 45917006,
+        "StateFunding": 42234920,
+        "FederalFunding": 26672850,
+        "OtherLocalFunding": 3420601
     },
     "092901": {
         "NAME": "GLADEWATER ISD",
@@ -10667,8 +11307,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1533.2320000000002,
-        "StateFunding": 11624758.0,
-        "LocalFunding": 5363189.0
+        "LocalFunding": 5818798,
+        "StateFunding": 11495188,
+        "FederalFunding": 1977672,
+        "OtherLocalFunding": 554322
     },
     "148905": {
         "NAME": "DARROUZETT ISD",
@@ -10700,8 +11342,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 124.10700000000001,
-        "StateFunding": 1473762.0,
-        "LocalFunding": 500908.0
+        "LocalFunding": 519376,
+        "StateFunding": 1486472,
+        "FederalFunding": 247814,
+        "OtherLocalFunding": 42470
     },
     "211901": {
         "NAME": "TEXHOMA ISD",
@@ -10732,8 +11376,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 83.34100000000001,
-        "StateFunding": 793553.0,
-        "LocalFunding": 853106.0
+        "LocalFunding": 819958,
+        "StateFunding": 808850,
+        "FederalFunding": 132045,
+        "OtherLocalFunding": 59879
     },
     "098901": {
         "NAME": "GRUVER ISD",
@@ -10769,8 +11415,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 412.606,
-        "StateFunding": 2978454.0,
-        "LocalFunding": 2351692.0
+        "LocalFunding": 2352710,
+        "StateFunding": 3174238,
+        "FederalFunding": 355835,
+        "OtherLocalFunding": 297780
     },
     "107907": {
         "NAME": "TRINIDAD ISD",
@@ -10801,8 +11449,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 139.53400000000002,
-        "StateFunding": 1573232.0,
-        "LocalFunding": 429495.0
+        "LocalFunding": 483621,
+        "StateFunding": 1659769,
+        "FederalFunding": 269952,
+        "OtherLocalFunding": 37715
     },
     "107908": {
         "NAME": "MURCHISON ISD",
@@ -10829,8 +11479,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 153.582,
-        "StateFunding": 1854552.0,
-        "LocalFunding": 376550.0
+        "LocalFunding": 401942,
+        "StateFunding": 1951548,
+        "FederalFunding": 399538,
+        "OtherLocalFunding": 31470
     },
     "107906": {
         "NAME": "MALAKOFF ISD",
@@ -10866,8 +11518,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1290.6290000000001,
-        "StateFunding": 839366.0,
-        "LocalFunding": 15053682.0
+        "LocalFunding": 12952372,
+        "StateFunding": 929190,
+        "FederalFunding": 3815074,
+        "OtherLocalFunding": 543948
     },
     "107904": {
         "NAME": "CROSS ROADS ISD",
@@ -10903,8 +11557,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 484.42600000000004,
-        "StateFunding": 3723228.0,
-        "LocalFunding": 2307218.0
+        "LocalFunding": 2635973,
+        "StateFunding": 3764385,
+        "FederalFunding": 833982,
+        "OtherLocalFunding": 176136
     },
     "125903": {
         "NAME": "ORANGE GROVE ISD",
@@ -10936,8 +11592,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1635.8010000000002,
-        "StateFunding": 11722279.0,
-        "LocalFunding": 3848685.0
+        "LocalFunding": 3634813,
+        "StateFunding": 11318415,
+        "FederalFunding": 4761318,
+        "OtherLocalFunding": 471715
     },
     "125906": {
         "NAME": "LA GLORIA ISD",
@@ -10969,8 +11627,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 101.649,
-        "StateFunding": 908808.0,
-        "LocalFunding": 407227.0
+        "LocalFunding": 454768,
+        "StateFunding": 949683,
+        "FederalFunding": 186265,
+        "OtherLocalFunding": 7820
     },
     "125902": {
         "NAME": "BEN BOLT-PALITO BLANCO ISD",
@@ -11002,8 +11662,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 481.23100000000005,
-        "StateFunding": 5594397.0,
-        "LocalFunding": 827368.0
+        "LocalFunding": 974267,
+        "StateFunding": 5557305,
+        "FederalFunding": 475417,
+        "OtherLocalFunding": 62291
     },
     "125901": {
         "NAME": "ALICE ISD",
@@ -11035,8 +11697,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 4185.278,
-        "StateFunding": 31353545.0,
-        "LocalFunding": 10193889.0
+        "LocalFunding": 11609623,
+        "StateFunding": 33239617,
+        "FederalFunding": 10637516,
+        "OtherLocalFunding": 985450
     },
     "217901": {
         "NAME": "ASPERMONT ISD",
@@ -11068,8 +11732,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 187.312,
-        "StateFunding": 1035572.0,
-        "LocalFunding": 1432300.0
+        "LocalFunding": 1528281,
+        "StateFunding": 1116120,
+        "FederalFunding": 379599,
+        "OtherLocalFunding": 207843
     },
     "188904": {
         "NAME": "BUSHLAND ISD",
@@ -11105,8 +11771,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1377.415,
-        "StateFunding": 1472103.0,
-        "LocalFunding": 12861964.0
+        "LocalFunding": 12235945,
+        "StateFunding": 1556754,
+        "FederalFunding": 614445,
+        "OtherLocalFunding": 482118
     },
     "188902": {
         "NAME": "RIVER ROAD ISD",
@@ -11138,8 +11806,10 @@ var DistrictsData = {
         "CostOfCharters": "116,938.36",
         "CharterTransfers": "11",
         "Attendance": 1151.538,
-        "StateFunding": 11088017.0,
-        "LocalFunding": 2710740.0
+        "LocalFunding": 3067742,
+        "StateFunding": 10509787,
+        "FederalFunding": 2330089,
+        "OtherLocalFunding": 449632
     },
     "188903": {
         "NAME": "HIGHLAND PARK ISD (POTTER)",
@@ -11171,8 +11841,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 799.673,
-        "StateFunding": 427069.0,
-        "LocalFunding": 12185350.0
+        "LocalFunding": 8999587,
+        "StateFunding": 592988,
+        "FederalFunding": 1678833,
+        "OtherLocalFunding": 216550
     },
     "188901": {
         "NAME": "AMARILLO ISD",
@@ -11208,8 +11880,10 @@ var DistrictsData = {
         "CostOfCharters": "5,813,185.01",
         "CharterTransfers": "667",
         "Attendance": 28191.424,
-        "StateFunding": 183294212.0,
-        "LocalFunding": 86610863.0
+        "LocalFunding": 94980490,
+        "StateFunding": 187207525,
+        "FederalFunding": 61787594,
+        "OtherLocalFunding": 5884842
     },
     "247903": {
         "NAME": "LA VERNIA ISD",
@@ -11241,8 +11915,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 3047.3940000000002,
-        "StateFunding": 14311638.0,
-        "LocalFunding": 11699319.0
+        "LocalFunding": 11901773,
+        "StateFunding": 14771952,
+        "FederalFunding": 2305357,
+        "OtherLocalFunding": 2154956
     },
     "183904": {
         "NAME": "GARY ISD",
@@ -11274,8 +11950,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 430.165,
-        "StateFunding": 4002156.0,
-        "LocalFunding": 1273919.0
+        "LocalFunding": 1275492,
+        "StateFunding": 3938829,
+        "FederalFunding": 589188,
+        "OtherLocalFunding": 255988
     },
     "183902": {
         "NAME": "CARTHAGE ISD",
@@ -11307,8 +11985,10 @@ var DistrictsData = {
         "CostOfCharters": "290,533.65",
         "CharterTransfers": "30",
         "Attendance": 2431.8230000000003,
-        "StateFunding": 4484066.0,
-        "LocalFunding": 25815248.0
+        "LocalFunding": 22310937,
+        "StateFunding": 3953213,
+        "FederalFunding": 5169096,
+        "OtherLocalFunding": 1408917
     },
     "183901": {
         "NAME": "BECKVILLE ISD",
@@ -11340,8 +12020,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 607.0840000000001,
-        "StateFunding": 3526110.0,
-        "LocalFunding": 3253704.0
+        "LocalFunding": 3686726,
+        "StateFunding": 3678070,
+        "FederalFunding": 614364,
+        "OtherLocalFunding": 283002
     },
     "210904": {
         "NAME": "TENAHA ISD",
@@ -11368,8 +12050,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 460.744,
-        "StateFunding": 5149895.0,
-        "LocalFunding": 1124559.0
+        "LocalFunding": 1182237,
+        "StateFunding": 5160140,
+        "FederalFunding": 852601,
+        "OtherLocalFunding": 113787
     },
     "210902": {
         "NAME": "JOAQUIN ISD",
@@ -11405,8 +12089,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 598.715,
-        "StateFunding": 6273775.0,
-        "LocalFunding": 1948046.0
+        "LocalFunding": 2098947,
+        "StateFunding": 6307976,
+        "FederalFunding": 1290437,
+        "OtherLocalFunding": 285375
     },
     "003904": {
         "NAME": "HUNTINGTON ISD",
@@ -11438,8 +12124,10 @@ var DistrictsData = {
         "CostOfCharters": "567,534.41",
         "CharterTransfers": "56",
         "Attendance": 1465.2979999999998,
-        "StateFunding": 12133342.0,
-        "LocalFunding": 3712698.0
+        "LocalFunding": 4085166,
+        "StateFunding": 12422482,
+        "FederalFunding": 2578161,
+        "OtherLocalFunding": 455889
     },
     "003907": {
         "NAME": "CENTRAL ISD",
@@ -11471,8 +12159,10 @@ var DistrictsData = {
         "CostOfCharters": "392,616.13",
         "CharterTransfers": "37",
         "Attendance": 1331.286,
-        "StateFunding": 12663237.0,
-        "LocalFunding": 2692210.0
+        "LocalFunding": 3124740,
+        "StateFunding": 11981305,
+        "FederalFunding": 2091066,
+        "OtherLocalFunding": 522867
     },
     "037909": {
         "NAME": "WELLS ISD",
@@ -11503,8 +12193,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 236.90200000000002,
-        "StateFunding": 2446020.0,
-        "LocalFunding": 872100.0
+        "LocalFunding": 1036713,
+        "StateFunding": 2485244,
+        "FederalFunding": 378446,
+        "OtherLocalFunding": 98993
     },
     "001908": {
         "NAME": "WESTWOOD ISD",
@@ -11531,8 +12223,10 @@ var DistrictsData = {
         "CostOfCharters": "953,076.08",
         "CharterTransfers": "90",
         "Attendance": 1216.925,
-        "StateFunding": 9133144.0,
-        "LocalFunding": 4711827.0
+        "LocalFunding": 5549476,
+        "StateFunding": 9382597,
+        "FederalFunding": 2897556,
+        "OtherLocalFunding": 374406
     },
     "001909": {
         "NAME": "SLOCUM ISD",
@@ -11559,8 +12253,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 336.70300000000003,
-        "StateFunding": 3279025.0,
-        "LocalFunding": 1114449.0
+        "LocalFunding": 1317622,
+        "StateFunding": 3308853,
+        "FederalFunding": 489739,
+        "OtherLocalFunding": 48661
     },
     "107910": {
         "NAME": "LAPOYNOR ISD",
@@ -11596,8 +12292,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 434.18300000000005,
-        "StateFunding": 3026755.0,
-        "LocalFunding": 1986552.0
+        "LocalFunding": 2050200,
+        "StateFunding": 3153771,
+        "FederalFunding": 838103,
+        "OtherLocalFunding": 172972
     },
     "001903": {
         "NAME": "ELKHART ISD",
@@ -11633,8 +12331,10 @@ var DistrictsData = {
         "CostOfCharters": "104,439.50",
         "CharterTransfers": "10",
         "Attendance": 1068.9940000000001,
-        "StateFunding": 9735441.0,
-        "LocalFunding": 2749366.0
+        "LocalFunding": 3468489,
+        "StateFunding": 9649897,
+        "FederalFunding": 1958299,
+        "OtherLocalFunding": 546317
     },
     "001902": {
         "NAME": "CAYUGA ISD",
@@ -11666,8 +12366,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 515.33,
-        "StateFunding": 3684642.0,
-        "LocalFunding": 2703766.0
+        "LocalFunding": 3081356,
+        "StateFunding": 4964406,
+        "FederalFunding": 1939467,
+        "OtherLocalFunding": 540342
     },
     "107901": {
         "NAME": "ATHENS ISD",
@@ -11715,8 +12417,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2761.118,
-        "StateFunding": 13028286.0,
-        "LocalFunding": 14218759.0
+        "LocalFunding": 15154117,
+        "StateFunding": 13049995,
+        "FederalFunding": 4050883,
+        "OtherLocalFunding": 804748
     },
     "062906": {
         "NAME": "MEYERSVILLE ISD",
@@ -11748,8 +12452,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 151.23600000000002,
-        "StateFunding": 1151590.0,
-        "LocalFunding": 700570.0
+        "LocalFunding": 745138,
+        "StateFunding": 1171735,
+        "FederalFunding": 162313,
+        "OtherLocalFunding": 78559
     },
     "062904": {
         "NAME": "YORKTOWN ISD",
@@ -11776,8 +12482,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 475.92900000000003,
-        "StateFunding": 251602.0,
-        "LocalFunding": 22531792.0
+        "LocalFunding": 6912726,
+        "StateFunding": 334349,
+        "FederalFunding": 468417,
+        "OtherLocalFunding": 417782
     },
     "062903": {
         "NAME": "YOAKUM ISD",
@@ -11812,8 +12520,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1337.3769999999997,
-        "StateFunding": 8400178.0,
-        "LocalFunding": 7048855.0
+        "LocalFunding": 7441724,
+        "StateFunding": 8548907,
+        "FederalFunding": 4987660,
+        "OtherLocalFunding": 4001428
     },
     "062905": {
         "NAME": "WESTHOFF ISD",
@@ -11845,8 +12555,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1.0,
-        "StateFunding": 34717.0,
-        "LocalFunding": 7055185.0
+        "LocalFunding": 1346333,
+        "StateFunding": 35317,
+        "FederalFunding": 102040,
+        "OtherLocalFunding": 103431
     },
     "062902": {
         "NAME": "NORDHEIM ISD",
@@ -11886,8 +12598,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1.0,
-        "StateFunding": 63960.0,
-        "LocalFunding": 6563722.0
+        "LocalFunding": 2332093,
+        "StateFunding": 64966,
+        "FederalFunding": 148970,
+        "OtherLocalFunding": 172425
     },
     "062901": {
         "NAME": "CUERO ISD",
@@ -11923,8 +12637,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1750.103,
-        "StateFunding": 9436445.0,
-        "LocalFunding": 10595387.0
+        "LocalFunding": 11193415,
+        "StateFunding": 9578923,
+        "FederalFunding": 3458053,
+        "OtherLocalFunding": 1699324
     },
     "006902": {
         "NAME": "CLAUDE ISD",
@@ -11956,8 +12672,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 277.976,
-        "StateFunding": 1557670.0,
-        "LocalFunding": 1932912.0
+        "LocalFunding": 2080901,
+        "StateFunding": 1584318,
+        "FederalFunding": 403647,
+        "OtherLocalFunding": 163362
     },
     "033901": {
         "NAME": "GROOM ISD",
@@ -11993,8 +12711,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 130.088,
-        "StateFunding": 1231885.0,
-        "LocalFunding": 1038512.0
+        "LocalFunding": 1106799,
+        "StateFunding": 1348580,
+        "FederalFunding": 199375,
+        "OtherLocalFunding": 42469
     },
     "065901": {
         "NAME": "CLARENDON ISD",
@@ -12026,8 +12746,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 391.70599999999996,
-        "StateFunding": 3354501.0,
-        "LocalFunding": 1722148.0
+        "LocalFunding": 2008536,
+        "StateFunding": 3370359,
+        "FederalFunding": 818607,
+        "OtherLocalFunding": 143985
     },
     "219901": {
         "NAME": "HAPPY ISD",
@@ -12063,8 +12785,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 246.595,
-        "StateFunding": 2128268.0,
-        "LocalFunding": 814806.0
+        "LocalFunding": 867945,
+        "StateFunding": 2112003,
+        "FederalFunding": 346986,
+        "OtherLocalFunding": 222126
     },
     "178908": {
         "NAME": "PORT ARANSAS ISD",
@@ -12100,8 +12824,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 469.78,
-        "StateFunding": 229663.0,
-        "LocalFunding": 24154118.0
+        "LocalFunding": 6251273,
+        "StateFunding": 367531,
+        "FederalFunding": 1645357,
+        "OtherLocalFunding": 193910
     },
     "005904": {
         "NAME": "WINDTHORST ISD",
@@ -12133,8 +12859,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 398.288,
-        "StateFunding": 4132897.0,
-        "LocalFunding": 862950.0
+        "LocalFunding": 969676,
+        "StateFunding": 4040538,
+        "FederalFunding": 506738,
+        "OtherLocalFunding": 116597
     },
     "119902": {
         "NAME": "JACKSBORO ISD",
@@ -12174,8 +12902,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 990.965,
-        "StateFunding": 3901609.0,
-        "LocalFunding": 7201647.0
+        "LocalFunding": 7379164,
+        "StateFunding": 4032748,
+        "FederalFunding": 2921174,
+        "OtherLocalFunding": 800968
     },
     "007905": {
         "NAME": "PLEASANTON ISD",
@@ -12211,8 +12941,10 @@ var DistrictsData = {
         "CostOfCharters": "187,639.83",
         "CharterTransfers": "19",
         "Attendance": 3043.242,
-        "StateFunding": 11478412.0,
-        "LocalFunding": 19883612.0
+        "LocalFunding": 23120115,
+        "StateFunding": 13321923,
+        "FederalFunding": 8229695,
+        "OtherLocalFunding": 2254331
     },
     "128901": {
         "NAME": "KARNES CITY ISD",
@@ -12248,8 +12980,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1374.2920000000001,
-        "StateFunding": 925795.0,
-        "LocalFunding": 48514182.0
+        "LocalFunding": 16131820,
+        "StateFunding": 1185143,
+        "FederalFunding": 3642624,
+        "OtherLocalFunding": 2340858
     },
     "007902": {
         "NAME": "JOURDANTON ISD",
@@ -12285,8 +13019,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1424.531,
-        "StateFunding": 6875994.0,
-        "LocalFunding": 8533908.0
+        "LocalFunding": 9946093,
+        "StateFunding": 7234707,
+        "FederalFunding": 2029530,
+        "OtherLocalFunding": 846986
     },
     "045902": {
         "NAME": "COLUMBUS ISD",
@@ -12318,8 +13054,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1368.0520000000001,
-        "StateFunding": 2731522.0,
-        "LocalFunding": 11441190.0
+        "LocalFunding": 12147906,
+        "StateFunding": 2836018,
+        "FederalFunding": 2615879,
+        "OtherLocalFunding": 452586
     },
     "013902": {
         "NAME": "PAWNEE ISD",
@@ -12355,8 +13093,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 293.043,
-        "StateFunding": 513343.0,
-        "LocalFunding": 3247543.0
+        "LocalFunding": 3408043,
+        "StateFunding": 625514,
+        "FederalFunding": 934685,
+        "OtherLocalFunding": 1776822
     },
     "149902": {
         "NAME": "THREE RIVERS ISD",
@@ -12392,8 +13132,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 564.859,
-        "StateFunding": 292669.0,
-        "LocalFunding": 19782169.0
+        "LocalFunding": 8463847,
+        "StateFunding": 353785,
+        "FederalFunding": 911535,
+        "OtherLocalFunding": 196042
     },
     "013905": {
         "NAME": "SKIDMORE-TYNAN ISD",
@@ -12425,8 +13167,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 734.673,
-        "StateFunding": 7175021.0,
-        "LocalFunding": 1777516.0
+        "LocalFunding": 2097439,
+        "StateFunding": 7351073,
+        "FederalFunding": 1145925,
+        "OtherLocalFunding": 1605841
     },
     "196903": {
         "NAME": "REFUGIO ISD",
@@ -12466,8 +13210,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 628.402,
-        "StateFunding": 3831979.0,
-        "LocalFunding": 3524927.0
+        "LocalFunding": 3754902,
+        "StateFunding": 5461497,
+        "FederalFunding": 2878824,
+        "OtherLocalFunding": 257450
     },
     "013903": {
         "NAME": "PETTUS ISD",
@@ -12503,8 +13249,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 332.09200000000004,
-        "StateFunding": 211775.0,
-        "LocalFunding": 5153136.0
+        "LocalFunding": 4278360,
+        "StateFunding": 243388,
+        "FederalFunding": 1423806,
+        "OtherLocalFunding": 163155
     },
     "205904": {
         "NAME": "MATHIS ISD",
@@ -12540,8 +13288,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1357.8270000000002,
-        "StateFunding": 11447206.0,
-        "LocalFunding": 3987338.0
+        "LocalFunding": 5959944,
+        "StateFunding": 11811262,
+        "FederalFunding": 6207414,
+        "OtherLocalFunding": 355640
     },
     "013901": {
         "NAME": "BEEVILLE ISD",
@@ -12573,8 +13323,10 @@ var DistrictsData = {
         "CostOfCharters": "3,448,914.21",
         "CharterTransfers": "378",
         "Attendance": 2723.228,
-        "StateFunding": 19964395.0,
-        "LocalFunding": 8174815.0
+        "LocalFunding": 8746256,
+        "StateFunding": 20876647,
+        "FederalFunding": 5732296,
+        "OtherLocalFunding": 1241068
     },
     "009901": {
         "NAME": "MULESHOE ISD",
@@ -12606,8 +13358,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1204.2910000000002,
-        "StateFunding": 12614314.0,
-        "LocalFunding": 2656582.0
+        "LocalFunding": 3306112,
+        "StateFunding": 12317333,
+        "FederalFunding": 3006573,
+        "OtherLocalFunding": 549754
     },
     "140908": {
         "NAME": "SUDAN ISD",
@@ -12634,8 +13388,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 444.12700000000007,
-        "StateFunding": 559712.0,
-        "LocalFunding": 4901569.0
+        "LocalFunding": 4966345,
+        "StateFunding": 606369,
+        "FederalFunding": 820841,
+        "OtherLocalFunding": 580412
     },
     "185902": {
         "NAME": "FARWELL ISD",
@@ -12671,8 +13427,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 521.59,
-        "StateFunding": 5251507.0,
-        "LocalFunding": 1514644.0
+        "LocalFunding": 1850619,
+        "StateFunding": 5008566,
+        "FederalFunding": 569562,
+        "OtherLocalFunding": 351819
     },
     "037901": {
         "NAME": "ALTO ISD",
@@ -12704,8 +13462,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 560.875,
-        "StateFunding": 6550024.0,
-        "LocalFunding": 1412991.0
+        "LocalFunding": 1716093,
+        "StateFunding": 6376559,
+        "FederalFunding": 1429659,
+        "OtherLocalFunding": 84847
     },
     "074911": {
         "NAME": "SAVOY ISD",
@@ -12737,8 +13497,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 301.08500000000004,
-        "StateFunding": 2793001.0,
-        "LocalFunding": 1168908.0
+        "LocalFunding": 1355560,
+        "StateFunding": 2776709,
+        "FederalFunding": 471785,
+        "OtherLocalFunding": 75796
     },
     "123913": {
         "NAME": "SABINE PASS ISD",
@@ -12770,8 +13532,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 347.00200000000007,
-        "StateFunding": 831978.0,
-        "LocalFunding": 8069526.0
+        "LocalFunding": 4163975,
+        "StateFunding": 894367,
+        "FederalFunding": 1771318,
+        "OtherLocalFunding": 407294
     },
     "123908": {
         "NAME": "PORT NECHES-GROVES ISD",
@@ -12807,8 +13571,10 @@ var DistrictsData = {
         "CostOfCharters": "167,152.54",
         "CharterTransfers": "19",
         "Attendance": 4698.068,
-        "StateFunding": 16208713.0,
-        "LocalFunding": 24560549.0
+        "LocalFunding": 26649648,
+        "StateFunding": 16446773,
+        "FederalFunding": 6038140,
+        "OtherLocalFunding": 8365179
     },
     "123907": {
         "NAME": "PORT ARTHUR ISD",
@@ -12844,8 +13610,10 @@ var DistrictsData = {
         "CostOfCharters": "18,317,928.28",
         "CharterTransfers": "2,017",
         "Attendance": 6976.25,
-        "StateFunding": 17416786.0,
-        "LocalFunding": 47421410.0
+        "LocalFunding": 61994631,
+        "StateFunding": 18470936,
+        "FederalFunding": 19012234,
+        "OtherLocalFunding": 924622
     },
     "123905": {
         "NAME": "NEDERLAND ISD",
@@ -12881,8 +13649,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 4783.649,
-        "StateFunding": 16295716.0,
-        "LocalFunding": 25167076.0
+        "LocalFunding": 26656096,
+        "StateFunding": 16636421,
+        "FederalFunding": 7366132,
+        "OtherLocalFunding": 2751028
     },
     "049908": {
         "NAME": "WALNUT BEND ISD",
@@ -12909,8 +13679,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 55.661,
-        "StateFunding": 846604.0,
-        "LocalFunding": 118087.0
+        "LocalFunding": 169683,
+        "StateFunding": 887953,
+        "FederalFunding": 119259,
+        "OtherLocalFunding": 118030
     },
     "088902": {
         "NAME": "GOLIAD ISD",
@@ -12942,8 +13714,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1158.381,
-        "StateFunding": 3767200.0,
-        "LocalFunding": 8030572.0
+        "LocalFunding": 8277886,
+        "StateFunding": 3826329,
+        "FederalFunding": 2036038,
+        "OtherLocalFunding": 765401
     },
     "034906": {
         "NAME": "MCLEOD ISD",
@@ -12975,8 +13749,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 366.392,
-        "StateFunding": 4081894.0,
-        "LocalFunding": 333953.0
+        "LocalFunding": 359114,
+        "StateFunding": 4196995,
+        "FederalFunding": 302518,
+        "OtherLocalFunding": 69646
     },
     "034905": {
         "NAME": "LINDEN-KILDARE CONS ISD",
@@ -13008,8 +13784,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 573.822,
-        "StateFunding": 5073591.0,
-        "LocalFunding": 2411863.0
+        "LocalFunding": 2851870,
+        "StateFunding": 5242455,
+        "FederalFunding": 675470,
+        "OtherLocalFunding": 153358
     },
     "034903": {
         "NAME": "HUGHES SPRINGS ISD",
@@ -13045,8 +13823,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1079.179,
-        "StateFunding": 9549189.0,
-        "LocalFunding": 2495057.0
+        "LocalFunding": 2863712,
+        "StateFunding": 9670674,
+        "FederalFunding": 1292703,
+        "OtherLocalFunding": 389448
     },
     "034909": {
         "NAME": "BLOOMBURG ISD",
@@ -13078,8 +13858,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 225.852,
-        "StateFunding": 2688689.0,
-        "LocalFunding": 441211.0
+        "LocalFunding": 521201,
+        "StateFunding": 2692824,
+        "FederalFunding": 201939,
+        "OtherLocalFunding": 34541
     },
     "206903": {
         "NAME": "CHEROKEE ISD",
@@ -13111,8 +13893,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 123.28200000000001,
-        "StateFunding": 1444835.0,
-        "LocalFunding": 636097.0
+        "LocalFunding": 740208,
+        "StateFunding": 1426073,
+        "FederalFunding": 259713,
+        "OtherLocalFunding": 41907
     },
     "110908": {
         "NAME": "WHITHARRAL ISD",
@@ -13139,8 +13923,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 166.19500000000005,
-        "StateFunding": 1640434.0,
-        "LocalFunding": 492746.0
+        "LocalFunding": 559770,
+        "StateFunding": 1648514,
+        "FederalFunding": 174336,
+        "OtherLocalFunding": 155786
     },
     "110907": {
         "NAME": "SUNDOWN ISD",
@@ -13167,8 +13953,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 528.8720000000001,
-        "StateFunding": 2507937.0,
-        "LocalFunding": 8164352.0
+        "LocalFunding": 5520304,
+        "StateFunding": 2639535,
+        "FederalFunding": 331764,
+        "OtherLocalFunding": 375500
     },
     "110902": {
         "NAME": "LEVELLAND ISD",
@@ -13200,8 +13988,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2580.7490000000003,
-        "StateFunding": 13728527.0,
-        "LocalFunding": 11659209.0
+        "LocalFunding": 12578695,
+        "StateFunding": 13628788,
+        "FederalFunding": 7415028,
+        "OtherLocalFunding": 1385553
     },
     "049909": {
         "NAME": "SIVELLS BEND ISD",
@@ -13233,8 +14023,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 64.102,
-        "StateFunding": 29051.0,
-        "LocalFunding": 1469128.0
+        "LocalFunding": 1157756,
+        "StateFunding": 58130,
+        "FederalFunding": 101762,
+        "OtherLocalFunding": 18688
     },
     "244905": {
         "NAME": "NORTHSIDE ISD (WILBARGER)",
@@ -13261,8 +14053,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 227.37600000000003,
-        "StateFunding": 2608975.0,
-        "LocalFunding": 404592.0
+        "LocalFunding": 426264,
+        "StateFunding": 2568980,
+        "FederalFunding": 199853,
+        "OtherLocalFunding": 127799
     },
     "230908": {
         "NAME": "UNION GROVE ISD",
@@ -13289,8 +14083,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 692.5930000000001,
-        "StateFunding": 6841742.0,
-        "LocalFunding": 1434669.0
+        "LocalFunding": 1684907,
+        "StateFunding": 6459918,
+        "FederalFunding": 677301,
+        "OtherLocalFunding": 474367
     },
     "230905": {
         "NAME": "HARMONY ISD",
@@ -13326,8 +14122,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 991.4760000000001,
-        "StateFunding": 6382194.0,
-        "LocalFunding": 4102142.0
+        "LocalFunding": 4811000,
+        "StateFunding": 6711816,
+        "FederalFunding": 1132087,
+        "OtherLocalFunding": 330583
     },
     "230901": {
         "NAME": "BIG SANDY ISD (UPSHUR)",
@@ -13363,8 +14161,10 @@ var DistrictsData = {
         "CostOfCharters": "226,241.32",
         "CharterTransfers": "20",
         "Attendance": 591.422,
-        "StateFunding": 5105587.0,
-        "LocalFunding": 2153371.0
+        "LocalFunding": 2304550,
+        "StateFunding": 5138324,
+        "FederalFunding": 1321268,
+        "OtherLocalFunding": 157293
     },
     "049902": {
         "NAME": "MUENSTER ISD",
@@ -13396,8 +14196,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 480.7650000000001,
-        "StateFunding": 1806262.0,
-        "LocalFunding": 3589911.0
+        "LocalFunding": 3803645,
+        "StateFunding": 1899622,
+        "FederalFunding": 290404,
+        "OtherLocalFunding": 296018
     },
     "049907": {
         "NAME": "LINDSAY ISD",
@@ -13429,8 +14231,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 490.47200000000004,
-        "StateFunding": 2069857.0,
-        "LocalFunding": 3060384.0
+        "LocalFunding": 3256006,
+        "StateFunding": 2178559,
+        "FederalFunding": 175234,
+        "OtherLocalFunding": 327299
     },
     "049901": {
         "NAME": "GAINESVILLE ISD",
@@ -13462,8 +14266,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2753.9320000000002,
-        "StateFunding": 15281022.0,
-        "LocalFunding": 12056625.0
+        "LocalFunding": 14139504,
+        "StateFunding": 15612150,
+        "FederalFunding": 6772758,
+        "OtherLocalFunding": 723292
     },
     "177905": {
         "NAME": "HIGHLAND ISD",
@@ -13495,8 +14301,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 205.37900000000002,
-        "StateFunding": 773905.0,
-        "LocalFunding": 2630546.0
+        "LocalFunding": 2598124,
+        "StateFunding": 836366,
+        "FederalFunding": 199110,
+        "OtherLocalFunding": 732672
     },
     "198906": {
         "NAME": "MUMFORD ISD",
@@ -13528,8 +14336,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 550.903,
-        "StateFunding": 5351131.0,
-        "LocalFunding": 1121018.0
+        "LocalFunding": 1232277,
+        "StateFunding": 6711021,
+        "FederalFunding": 1086289,
+        "OtherLocalFunding": 521911
     },
     "198905": {
         "NAME": "HEARNE ISD",
@@ -13561,8 +14371,10 @@ var DistrictsData = {
         "CostOfCharters": "498,453.96",
         "CharterTransfers": "38",
         "Attendance": 654.467,
-        "StateFunding": 4292395.0,
-        "LocalFunding": 4926184.0
+        "LocalFunding": 5349433,
+        "StateFunding": 4359274,
+        "FederalFunding": 3119626,
+        "OtherLocalFunding": 3814192
     },
     "198903": {
         "NAME": "FRANKLIN ISD",
@@ -13594,8 +14406,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1149.057,
-        "StateFunding": 553614.0,
-        "LocalFunding": 15804396.0
+        "LocalFunding": 11842606,
+        "StateFunding": 694939,
+        "FederalFunding": 1996412,
+        "OtherLocalFunding": 1418841
     },
     "145911": {
         "NAME": "LEON ISD",
@@ -13631,8 +14445,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 676.5640000000001,
-        "StateFunding": 477533.0,
-        "LocalFunding": 8399179.0
+        "LocalFunding": 7808658,
+        "StateFunding": 324079,
+        "FederalFunding": 888642,
+        "OtherLocalFunding": 849519
     },
     "247906": {
         "NAME": "STOCKDALE ISD",
@@ -13664,8 +14480,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 717.52,
-        "StateFunding": 6108324.0,
-        "LocalFunding": 2356946.0
+        "LocalFunding": 2535499,
+        "StateFunding": 6056564,
+        "FederalFunding": 1041119,
+        "OtherLocalFunding": 572036
     },
     "247904": {
         "NAME": "POTH ISD",
@@ -13697,8 +14515,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 815.5220000000002,
-        "StateFunding": 5960226.0,
-        "LocalFunding": 3040701.0
+        "LocalFunding": 3433695,
+        "StateFunding": 6073098,
+        "FederalFunding": 752456,
+        "OtherLocalFunding": 528814
     },
     "128904": {
         "NAME": "FALLS CITY ISD",
@@ -13734,8 +14554,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 374.894,
-        "StateFunding": 195579.0,
-        "LocalFunding": 7001128.0
+        "LocalFunding": 4662697,
+        "StateFunding": 189467,
+        "FederalFunding": 480724,
+        "OtherLocalFunding": 445141
     },
     "051901": {
         "NAME": "PADUCAH ISD",
@@ -13762,8 +14584,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 173.731,
-        "StateFunding": 1028640.0,
-        "LocalFunding": 1420259.0
+        "LocalFunding": 1495218,
+        "StateFunding": 1105946,
+        "FederalFunding": 400595,
+        "OtherLocalFunding": 86354
     },
     "029901": {
         "NAME": "CALHOUN COUNTY ISD",
@@ -13795,8 +14619,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 3250.606,
-        "StateFunding": 3520759.0,
-        "LocalFunding": 34281875.0
+        "LocalFunding": 29034281,
+        "StateFunding": 4370492,
+        "FederalFunding": 5250987,
+        "OtherLocalFunding": 4598890
     },
     "149901": {
         "NAME": "GEORGE WEST ISD",
@@ -13828,8 +14654,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 938.578,
-        "StateFunding": 2616305.0,
-        "LocalFunding": 7517371.0
+        "LocalFunding": 7356783,
+        "StateFunding": 2827249,
+        "FederalFunding": 1671834,
+        "OtherLocalFunding": 427477
     },
     "211902": {
         "NAME": "STRATFORD ISD",
@@ -13860,8 +14688,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 528.248,
-        "StateFunding": 2284306.0,
-        "LocalFunding": 4286974.0
+        "LocalFunding": 4232485,
+        "StateFunding": 2309075,
+        "FederalFunding": 807350,
+        "OtherLocalFunding": 1785174
     },
     "179901": {
         "NAME": "PERRYTON ISD",
@@ -13893,8 +14723,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1965.708,
-        "StateFunding": 8768633.0,
-        "LocalFunding": 9342577.0
+        "LocalFunding": 10094316,
+        "StateFunding": 8884892,
+        "FederalFunding": 3634915,
+        "OtherLocalFunding": 913790
     },
     "143904": {
         "NAME": "VYSEHRAD ISD",
@@ -13926,8 +14758,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 100.62400000000001,
-        "StateFunding": 716925.0,
-        "LocalFunding": 572925.0
+        "LocalFunding": 532953,
+        "StateFunding": 717338,
+        "FederalFunding": 99059,
+        "OtherLocalFunding": 59435
     },
     "091918": {
         "NAME": "TOM BEAN ISD",
@@ -13959,8 +14793,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 608.426,
-        "StateFunding": 4909098.0,
-        "LocalFunding": 2424198.0
+        "LocalFunding": 2955545,
+        "StateFunding": 5282499,
+        "FederalFunding": 447500,
+        "OtherLocalFunding": 253894
     },
     "091905": {
         "NAME": "HOWE ISD",
@@ -13992,8 +14828,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1189.402,
-        "StateFunding": 10071899.0,
-        "LocalFunding": 3251390.0
+        "LocalFunding": 3778748,
+        "StateFunding": 9582983,
+        "FederalFunding": 1276350,
+        "OtherLocalFunding": 340965
     },
     "057916": {
         "NAME": "RICHARDSON ISD",
@@ -14041,8 +14879,10 @@ var DistrictsData = {
         "CostOfCharters": "15,492,486.87",
         "CharterTransfers": "1,656",
         "Attendance": 36014.049,
-        "StateFunding": 76337622.0,
-        "LocalFunding": 245557760.0
+        "LocalFunding": 269135596,
+        "StateFunding": 86433075,
+        "FederalFunding": 45865523,
+        "OtherLocalFunding": 10593493
     },
     "057914": {
         "NAME": "MESQUITE ISD",
@@ -14090,8 +14930,10 @@ var DistrictsData = {
         "CostOfCharters": "20,636,308.61",
         "CharterTransfers": "2,307",
         "Attendance": 36188.407,
-        "StateFunding": 268615746.0,
-        "LocalFunding": 89915743.0
+        "LocalFunding": 94505861,
+        "StateFunding": 259234618,
+        "FederalFunding": 36014470,
+        "OtherLocalFunding": 8474944
     },
     "129901": {
         "NAME": "CRANDALL ISD",
@@ -14123,8 +14965,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 4595.307,
-        "StateFunding": 33677327.0,
-        "LocalFunding": 10847860.0
+        "LocalFunding": 11568169,
+        "StateFunding": 32264791,
+        "FederalFunding": 4605134,
+        "OtherLocalFunding": 2683216
     },
     "057919": {
         "NAME": "SUNNYVALE ISD",
@@ -14160,8 +15004,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1986.3630000000003,
-        "StateFunding": 5045528.0,
-        "LocalFunding": 12111375.0
+        "LocalFunding": 13318743,
+        "StateFunding": 5189606,
+        "FederalFunding": 1041606,
+        "OtherLocalFunding": 1312789
     },
     "176902": {
         "NAME": "NEWTON ISD",
@@ -14188,8 +15034,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 895.821,
-        "StateFunding": 8423138.0,
-        "LocalFunding": 2875863.0
+        "LocalFunding": 3270909,
+        "StateFunding": 9075968,
+        "FederalFunding": 2523291,
+        "OtherLocalFunding": 367733
     },
     "202903": {
         "NAME": "HEMPHILL ISD",
@@ -14221,8 +15069,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 802.692,
-        "StateFunding": 3765877.0,
-        "LocalFunding": 5519278.0
+        "LocalFunding": 5437814,
+        "StateFunding": 3937366,
+        "FederalFunding": 1829449,
+        "OtherLocalFunding": 951165
     },
     "176901": {
         "NAME": "BURKEVILLE ISD",
@@ -14254,8 +15104,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 228.27800000000002,
-        "StateFunding": 731489.0,
-        "LocalFunding": 2309202.0
+        "LocalFunding": 2496023,
+        "StateFunding": 556078,
+        "FederalFunding": 517202,
+        "OtherLocalFunding": 1181955
     },
     "203902": {
         "NAME": "BROADDUS ISD",
@@ -14287,8 +15139,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 333.398,
-        "StateFunding": 172396.0,
-        "LocalFunding": 5802332.0
+        "LocalFunding": 6153828,
+        "StateFunding": 197266,
+        "FederalFunding": 1246159,
+        "OtherLocalFunding": 99463
     },
     "202905": {
         "NAME": "WEST SABINE ISD",
@@ -14315,8 +15169,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 495.64300000000003,
-        "StateFunding": 4973270.0,
-        "LocalFunding": 1464269.0
+        "LocalFunding": 1472182,
+        "StateFunding": 5045330,
+        "FederalFunding": 744155,
+        "OtherLocalFunding": 195395
     },
     "121902": {
         "NAME": "BROOKELAND ISD",
@@ -14356,8 +15212,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 328.7610000000001,
-        "StateFunding": 915845.0,
-        "LocalFunding": 3230931.0
+        "LocalFunding": 3061473,
+        "StateFunding": 914270,
+        "FederalFunding": 1802086,
+        "OtherLocalFunding": 146544
     },
     "174910": {
         "NAME": "ETOILE ISD",
@@ -14389,8 +15247,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 78.587,
-        "StateFunding": 429632.0,
-        "LocalFunding": 730127.0
+        "LocalFunding": 699805,
+        "StateFunding": 392492,
+        "FederalFunding": 397443,
+        "OtherLocalFunding": 78320
     },
     "174901": {
         "NAME": "CHIRENO ISD",
@@ -14426,8 +15286,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 363.309,
-        "StateFunding": 2518530.0,
-        "LocalFunding": 2153350.0
+        "LocalFunding": 2358670,
+        "StateFunding": 2564883,
+        "FederalFunding": 647768,
+        "OtherLocalFunding": 432821
     },
     "203901": {
         "NAME": "SAN AUGUSTINE ISD",
@@ -14458,8 +15320,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 597.1270000000001,
-        "StateFunding": 3677182.0,
-        "LocalFunding": 4069060.0
+        "LocalFunding": 4318572,
+        "StateFunding": 4267196,
+        "FederalFunding": 2743269,
+        "OtherLocalFunding": 351417
     },
     "184909": {
         "NAME": "BROCK ISD",
@@ -14491,8 +15355,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1676.894,
-        "StateFunding": 7300876.0,
-        "LocalFunding": 7358146.0
+        "LocalFunding": 8632040,
+        "StateFunding": 7422337,
+        "FederalFunding": 362044,
+        "OtherLocalFunding": 633990
     },
     "015906": {
         "NAME": "RANDOLPH FIELD ISD",
@@ -14528,8 +15394,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1373.381,
-        "StateFunding": 11470785.0,
-        "LocalFunding": 0.0
+        "LocalFunding": 0,
+        "StateFunding": 12099079,
+        "FederalFunding": 8883672,
+        "OtherLocalFunding": 714342
     },
     "015917": {
         "NAME": "SOUTHSIDE ISD",
@@ -14565,8 +15433,10 @@ var DistrictsData = {
         "CostOfCharters": "6,046,489.56",
         "CharterTransfers": "606",
         "Attendance": 5121.383,
-        "StateFunding": 41438782.0,
-        "LocalFunding": 14035831.0
+        "LocalFunding": 18798756,
+        "StateFunding": 40768539,
+        "FederalFunding": 14223797,
+        "OtherLocalFunding": 1678916
     },
     "015904": {
         "NAME": "HARLANDALE ISD",
@@ -14606,8 +15476,10 @@ var DistrictsData = {
         "CostOfCharters": "15,262,394.54",
         "CharterTransfers": "1,682",
         "Attendance": 10195.537,
-        "StateFunding": 99937769.0,
-        "LocalFunding": 17743010.0
+        "LocalFunding": 20775468,
+        "StateFunding": 96196026,
+        "FederalFunding": 28737226,
+        "OtherLocalFunding": 2952831
     },
     "015911": {
         "NAME": "EAST CENTRAL ISD",
@@ -14647,8 +15519,10 @@ var DistrictsData = {
         "CostOfCharters": "9,503,608.74",
         "CharterTransfers": "1,178",
         "Attendance": 8508.877,
-        "StateFunding": 37237685.0,
-        "LocalFunding": 40454862.0
+        "LocalFunding": 42712645,
+        "StateFunding": 40571537,
+        "FederalFunding": 11369106,
+        "OtherLocalFunding": 2393197
     },
     "015914": {
         "NAME": "FORT SAM HOUSTON ISD",
@@ -14680,8 +15554,10 @@ var DistrictsData = {
         "CostOfCharters": "151,752.73",
         "CharterTransfers": "17",
         "Attendance": 1411.861,
-        "StateFunding": 12964726.0,
-        "LocalFunding": 0.0
+        "LocalFunding": 0,
+        "StateFunding": 13604220,
+        "FederalFunding": 14567833,
+        "OtherLocalFunding": 2099399
     },
     "015901": {
         "NAME": "ALAMO HEIGHTS ISD",
@@ -14725,8 +15601,10 @@ var DistrictsData = {
         "CostOfCharters": "864,538.92",
         "CharterTransfers": "112",
         "Attendance": 4608.647,
-        "StateFunding": 2337342.0,
-        "LocalFunding": 66430371.0
+        "LocalFunding": 36787334,
+        "StateFunding": 2401304,
+        "FederalFunding": 5391045,
+        "OtherLocalFunding": 7271889
     },
     "015908": {
         "NAME": "SOUTH SAN ANTONIO ISD",
@@ -14770,8 +15648,10 @@ var DistrictsData = {
         "CostOfCharters": "15,421,160.89",
         "CharterTransfers": "1,790",
         "Attendance": 7350.996,
-        "StateFunding": 55938878.0,
-        "LocalFunding": 17491412.0
+        "LocalFunding": 18121570,
+        "StateFunding": 54308919,
+        "FederalFunding": 21444425,
+        "OtherLocalFunding": 726709
     },
     "089905": {
         "NAME": "WAELDER ISD",
@@ -14807,8 +15687,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 255.43600000000004,
-        "StateFunding": 1592544.0,
-        "LocalFunding": 1862785.0
+        "LocalFunding": 1993142,
+        "StateFunding": 1722318,
+        "FederalFunding": 537079,
+        "OtherLocalFunding": 200739
     },
     "089901": {
         "NAME": "GONZALES ISD",
@@ -14844,8 +15726,10 @@ var DistrictsData = {
         "CostOfCharters": "388,671.91",
         "CharterTransfers": "40",
         "Attendance": 2394.64,
-        "StateFunding": 7869381.0,
-        "LocalFunding": 16088477.0
+        "LocalFunding": 18569788,
+        "StateFunding": 8111867,
+        "FederalFunding": 5997469,
+        "OtherLocalFunding": 836152
     },
     "028906": {
         "NAME": "PRAIRIE LEA ISD",
@@ -14881,8 +15765,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 196.28100000000003,
-        "StateFunding": 1101254.0,
-        "LocalFunding": 1463921.0
+        "LocalFunding": 1536268,
+        "StateFunding": 1130349,
+        "FederalFunding": 437213,
+        "OtherLocalFunding": 28731
     },
     "028903": {
         "NAME": "LULING ISD",
@@ -14918,8 +15804,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1245.454,
-        "StateFunding": 8039354.0,
-        "LocalFunding": 5063609.0
+        "LocalFunding": 5333472,
+        "StateFunding": 8213991,
+        "FederalFunding": 2066029,
+        "OtherLocalFunding": 192125
     },
     "194905": {
         "NAME": "DETROIT ISD",
@@ -14951,8 +15839,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 470.019,
-        "StateFunding": 5875842.0,
-        "LocalFunding": 694738.0
+        "LocalFunding": 822669,
+        "StateFunding": 5865572,
+        "FederalFunding": 2074228,
+        "OtherLocalFunding": 669597
     },
     "057909": {
         "NAME": "GARLAND ISD",
@@ -15008,8 +15898,10 @@ var DistrictsData = {
         "CostOfCharters": "28,973,815.17",
         "CharterTransfers": "3,315",
         "Attendance": 51370.648,
-        "StateFunding": 263975646.0,
-        "LocalFunding": 202280262.0
+        "LocalFunding": 214186323,
+        "StateFunding": 264800880,
+        "FederalFunding": 74784076,
+        "OtherLocalFunding": 3484447
     },
     "043919": {
         "NAME": "LOVEJOY ISD",
@@ -15045,8 +15937,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 4256.688,
-        "StateFunding": 6133570.0,
-        "LocalFunding": 26398968.0
+        "LocalFunding": 30202208,
+        "StateFunding": 6500313,
+        "FederalFunding": 1377305,
+        "OtherLocalFunding": 5598542
     },
     "064903": {
         "NAME": "CARRIZO SPRINGS CONS ISD",
@@ -15078,8 +15972,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1850.082,
-        "StateFunding": 940905.0,
-        "LocalFunding": 62834385.0
+        "LocalFunding": 17587177,
+        "StateFunding": 1407415,
+        "FederalFunding": 6527045,
+        "OtherLocalFunding": 619843
     },
     "159901": {
         "NAME": "EAGLE PASS ISD",
@@ -15111,8 +16007,10 @@ var DistrictsData = {
         "CostOfCharters": "281,658.77",
         "CharterTransfers": "30",
         "Attendance": 12669.65,
-        "StateFunding": 105833537.0,
-        "LocalFunding": 24391389.0
+        "LocalFunding": 28694363,
+        "StateFunding": 112017653,
+        "FederalFunding": 42657353,
+        "OtherLocalFunding": 578659
     },
     "253901": {
         "NAME": "ZAPATA COUNTY ISD",
@@ -15144,8 +16042,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2961.206,
-        "StateFunding": 21847607.0,
-        "LocalFunding": 8126975.0
+        "LocalFunding": 8545286,
+        "StateFunding": 24141131,
+        "FederalFunding": 7792022,
+        "OtherLocalFunding": 368131
     },
     "240901": {
         "NAME": "LAREDO ISD",
@@ -15181,8 +16081,10 @@ var DistrictsData = {
         "CostOfCharters": "9,872,466.10",
         "CharterTransfers": "1,049",
         "Attendance": 20347.017,
-        "StateFunding": 205012894.0,
-        "LocalFunding": 22771300.0
+        "LocalFunding": 24165480,
+        "StateFunding": 186071586,
+        "FederalFunding": 57232280,
+        "OtherLocalFunding": 3406112
     },
     "066005": {
         "NAME": "RAMIREZ CSD",
@@ -15214,8 +16116,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 36.587,
-        "StateFunding": 519970.0,
-        "LocalFunding": 255486.0
+        "LocalFunding": 263244,
+        "StateFunding": 533742,
+        "FederalFunding": 136154,
+        "OtherLocalFunding": 30534
     },
     "066902": {
         "NAME": "SAN DIEGO ISD",
@@ -15255,8 +16159,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1367.286,
-        "StateFunding": 12255428.0,
-        "LocalFunding": 2853551.0
+        "LocalFunding": 3048641,
+        "StateFunding": 11699402,
+        "FederalFunding": 3131757,
+        "OtherLocalFunding": 884991
     },
     "125905": {
         "NAME": "PREMONT ISD",
@@ -15296,8 +16202,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 611.705,
-        "StateFunding": 7415461.0,
-        "LocalFunding": 1437189.0
+        "LocalFunding": 1692384,
+        "StateFunding": 7455566,
+        "FederalFunding": 3557686,
+        "OtherLocalFunding": 225919
     },
     "074917": {
         "NAME": "SAM RAYBURN ISD",
@@ -15329,8 +16237,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 467.68,
-        "StateFunding": 4630574.0,
-        "LocalFunding": 1214713.0
+        "LocalFunding": 1427854,
+        "StateFunding": 4633535,
+        "FederalFunding": 468046,
+        "OtherLocalFunding": 206891
     },
     "074905": {
         "NAME": "ECTOR ISD",
@@ -15362,8 +16272,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 251.44400000000002,
-        "StateFunding": 3126727.0,
-        "LocalFunding": 543211.0
+        "LocalFunding": 623874,
+        "StateFunding": 3219529,
+        "FederalFunding": 276774,
+        "OtherLocalFunding": 113895
     },
     "074904": {
         "NAME": "DODD CITY ISD",
@@ -15395,8 +16307,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 315.307,
-        "StateFunding": 3107761.0,
-        "LocalFunding": 700115.0
+        "LocalFunding": 760038,
+        "StateFunding": 3023269,
+        "FederalFunding": 297383,
+        "OtherLocalFunding": 259534
     },
     "124901": {
         "NAME": "JIM HOGG COUNTY ISD",
@@ -15428,8 +16342,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1045.454,
-        "StateFunding": 8341944.0,
-        "LocalFunding": 3043153.0
+        "LocalFunding": 3292620,
+        "StateFunding": 8475898,
+        "FederalFunding": 5082665,
+        "OtherLocalFunding": 400839
     },
     "066903": {
         "NAME": "FREER ISD",
@@ -15461,8 +16377,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 692.092,
-        "StateFunding": 6363039.0,
-        "LocalFunding": 3174218.0
+        "LocalFunding": 3568131,
+        "StateFunding": 6493096,
+        "FederalFunding": 5215548,
+        "OtherLocalFunding": 229505
     },
     "142901": {
         "NAME": "COTULLA ISD",
@@ -15494,8 +16412,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1138.346,
-        "StateFunding": 587804.0,
-        "LocalFunding": 52222706.0
+        "LocalFunding": 14873084,
+        "StateFunding": 1162954,
+        "FederalFunding": 2270774,
+        "OtherLocalFunding": 725693
     },
     "162904": {
         "NAME": "MCMULLEN COUNTY ISD",
@@ -15527,8 +16447,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 273.579,
-        "StateFunding": 690237.0,
-        "LocalFunding": 28799118.0
+        "LocalFunding": 4883182,
+        "StateFunding": 645793,
+        "FederalFunding": 81476,
+        "OtherLocalFunding": 475786
     },
     "240904": {
         "NAME": "WEBB CONS ISD",
@@ -15560,8 +16482,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 242.70100000000002,
-        "StateFunding": 1704658.0,
-        "LocalFunding": 4712853.0
+        "LocalFunding": 4411451,
+        "StateFunding": 1978904,
+        "FederalFunding": 858015,
+        "OtherLocalFunding": 234176
     },
     "066901": {
         "NAME": "BENAVIDES ISD",
@@ -15593,8 +16517,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 221.769,
-        "StateFunding": 519490.0,
-        "LocalFunding": 2453248.0
+        "LocalFunding": 2384965,
+        "StateFunding": 919367,
+        "FederalFunding": 2201109,
+        "OtherLocalFunding": 399525
     },
     "030902": {
         "NAME": "CLYDE CONS ISD",
@@ -15634,8 +16560,10 @@ var DistrictsData = {
         "CostOfCharters": "94,058.04",
         "CharterTransfers": "10",
         "Attendance": 1257.699,
-        "StateFunding": 8171019.0,
-        "LocalFunding": 4805578.0
+        "LocalFunding": 5116093,
+        "StateFunding": 8021104,
+        "FederalFunding": 2334182,
+        "OtherLocalFunding": 417810
     },
     "127904": {
         "NAME": "HAWLEY ISD",
@@ -15667,8 +16595,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 747.24,
-        "StateFunding": 7444329.0,
-        "LocalFunding": 1749313.0
+        "LocalFunding": 1864594,
+        "StateFunding": 7534726,
+        "FederalFunding": 1374910,
+        "OtherLocalFunding": 290813
     },
     "221901": {
         "NAME": "ABILENE ISD",
@@ -15704,8 +16634,10 @@ var DistrictsData = {
         "CostOfCharters": "4,740,443.83",
         "CharterTransfers": "568",
         "Attendance": 14265.608,
-        "StateFunding": 84492148.0,
-        "LocalFunding": 46246754.0
+        "LocalFunding": 48297706,
+        "StateFunding": 85822957,
+        "FederalFunding": 41445237,
+        "OtherLocalFunding": 3457989
     },
     "042901": {
         "NAME": "COLEMAN ISD",
@@ -15741,8 +16673,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 753.9540000000001,
-        "StateFunding": 7343329.0,
-        "LocalFunding": 1923045.0
+        "LocalFunding": 2242778,
+        "StateFunding": 7450324,
+        "FederalFunding": 2996306,
+        "OtherLocalFunding": 165554
     },
     "221911": {
         "NAME": "JIM NED CONS ISD",
@@ -15782,8 +16716,10 @@ var DistrictsData = {
         "CostOfCharters": "97,255.93",
         "CharterTransfers": "11",
         "Attendance": 1357.443,
-        "StateFunding": 6211394.0,
-        "LocalFunding": 6165448.0
+        "LocalFunding": 6053538,
+        "StateFunding": 6280850,
+        "FederalFunding": 1566667,
+        "OtherLocalFunding": 2462467
     },
     "030903": {
         "NAME": "BAIRD ISD",
@@ -15815,8 +16751,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 256.65,
-        "StateFunding": 1232354.0,
-        "LocalFunding": 2213096.0
+        "LocalFunding": 2585490,
+        "StateFunding": 1321093,
+        "FederalFunding": 718389,
+        "OtherLocalFunding": 229143
     },
     "030906": {
         "NAME": "EULA ISD",
@@ -15856,8 +16794,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 414.06200000000007,
-        "StateFunding": 2638473.0,
-        "LocalFunding": 2585115.0
+        "LocalFunding": 2985135,
+        "StateFunding": 2693843,
+        "FederalFunding": 698035,
+        "OtherLocalFunding": 44652
     },
     "127905": {
         "NAME": "LUEDERS-AVOCA ISD",
@@ -15888,8 +16828,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 97.081,
-        "StateFunding": 1324861.0,
-        "LocalFunding": 721373.0
+        "LocalFunding": 809695,
+        "StateFunding": 1323287,
+        "FederalFunding": 308775,
+        "OtherLocalFunding": 86486
     },
     "209902": {
         "NAME": "MORAN ISD",
@@ -15921,8 +16863,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 104.78800000000001,
-        "StateFunding": 1495119.0,
-        "LocalFunding": 474696.0
+        "LocalFunding": 508448,
+        "StateFunding": 1546628,
+        "FederalFunding": 152481,
+        "OtherLocalFunding": 179550
     },
     "209901": {
         "NAME": "ALBANY ISD",
@@ -15954,8 +16898,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 478.76199999999994,
-        "StateFunding": 2231471.0,
-        "LocalFunding": 3090498.0
+        "LocalFunding": 3266775,
+        "StateFunding": 2343653,
+        "FederalFunding": 540887,
+        "OtherLocalFunding": 273821
     },
     "221912": {
         "NAME": "WYLIE ISD (TAYLOR)",
@@ -15982,8 +16928,10 @@ var DistrictsData = {
         "CostOfCharters": "489,070.47",
         "CharterTransfers": "63",
         "Attendance": 4642.293000000001,
-        "StateFunding": 16670276.0,
-        "LocalFunding": 20798011.0
+        "LocalFunding": 21888795,
+        "StateFunding": 16986053,
+        "FederalFunding": 4484313,
+        "OtherLocalFunding": 2776584
     },
     "100903": {
         "NAME": "KOUNTZE ISD",
@@ -16015,8 +16963,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1006.589,
-        "StateFunding": 7722548.0,
-        "LocalFunding": 3921832.0
+        "LocalFunding": 4504846,
+        "StateFunding": 8384447,
+        "FederalFunding": 2126130,
+        "OtherLocalFunding": 564554
     },
     "100907": {
         "NAME": "LUMBERTON ISD",
@@ -16048,8 +16998,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 3871.288,
-        "StateFunding": 22222912.0,
-        "LocalFunding": 11909768.0
+        "LocalFunding": 12651477,
+        "StateFunding": 22515447,
+        "FederalFunding": 3441678,
+        "OtherLocalFunding": 3296010
     },
     "036903": {
         "NAME": "EAST CHAMBERS ISD",
@@ -16081,8 +17033,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1370.374,
-        "StateFunding": 12195661.0,
-        "LocalFunding": 3008930.0
+        "LocalFunding": 3368821,
+        "StateFunding": 12288243,
+        "FederalFunding": 2921888,
+        "OtherLocalFunding": 1407801
     },
     "123914": {
         "NAME": "HAMSHIRE-FANNETT ISD",
@@ -16118,8 +17072,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1783.845,
-        "StateFunding": 10567973.0,
-        "LocalFunding": 6506986.0
+        "LocalFunding": 7600146,
+        "StateFunding": 10674907,
+        "FederalFunding": 1411416,
+        "OtherLocalFunding": 1606864
     },
     "123910": {
         "NAME": "BEAUMONT ISD",
@@ -16155,8 +17111,10 @@ var DistrictsData = {
         "CostOfCharters": "15,887,365.00",
         "CharterTransfers": "1,995",
         "Attendance": 14824.464,
-        "StateFunding": 35608619.0,
-        "LocalFunding": 99259258.0
+        "LocalFunding": 104899199,
+        "StateFunding": 35896692,
+        "FederalFunding": 38996014,
+        "OtherLocalFunding": 18616768
     },
     "144903": {
         "NAME": "DIME BOX ISD",
@@ -16188,8 +17146,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 148.544,
-        "StateFunding": 601413.0,
-        "LocalFunding": 1454889.0
+        "LocalFunding": 1698039,
+        "StateFunding": 607529,
+        "FederalFunding": 205796,
+        "OtherLocalFunding": 23989
     },
     "239903": {
         "NAME": "BURTON ISD",
@@ -16221,8 +17181,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 434.63500000000005,
-        "StateFunding": 263605.0,
-        "LocalFunding": 6422008.0
+        "LocalFunding": 5223510,
+        "StateFunding": 393413,
+        "FederalFunding": 732515,
+        "OtherLocalFunding": 1431772
     },
     "075908": {
         "NAME": "ROUND TOP-CARMINE ISD",
@@ -16254,8 +17216,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 240.53300000000002,
-        "StateFunding": 128369.0,
-        "LocalFunding": 3920609.0
+        "LocalFunding": 2951695,
+        "StateFunding": 158832,
+        "FederalFunding": 274244,
+        "OtherLocalFunding": 170527
     },
     "144901": {
         "NAME": "GIDDINGS ISD",
@@ -16291,8 +17255,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1748.231,
-        "StateFunding": 8844187.0,
-        "LocalFunding": 8486976.0
+        "LocalFunding": 9396194,
+        "StateFunding": 9036496,
+        "FederalFunding": 3395759,
+        "OtherLocalFunding": 576716
     },
     "008901": {
         "NAME": "BELLVILLE ISD",
@@ -16324,8 +17290,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2057.614,
-        "StateFunding": 6159538.0,
-        "LocalFunding": 13364154.0
+        "LocalFunding": 15062610,
+        "StateFunding": 6329385,
+        "FederalFunding": 3233450,
+        "OtherLocalFunding": 1173690
     },
     "026903": {
         "NAME": "SNOOK ISD",
@@ -16357,8 +17325,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 467.49,
-        "StateFunding": 3095755.0,
-        "LocalFunding": 2866881.0
+        "LocalFunding": 3349946,
+        "StateFunding": 3104889,
+        "FederalFunding": 765600,
+        "OtherLocalFunding": 247405
     },
     "021902": {
         "NAME": "BRYAN ISD",
@@ -16394,8 +17364,10 @@ var DistrictsData = {
         "CostOfCharters": "8,718,820.75",
         "CharterTransfers": "982",
         "Attendance": 14620.276000000002,
-        "StateFunding": 53882174.0,
-        "LocalFunding": 82505912.0
+        "LocalFunding": 88214955,
+        "StateFunding": 57792845,
+        "FederalFunding": 35830028,
+        "OtherLocalFunding": 3326743
     },
     "021901": {
         "NAME": "COLLEGE STATION ISD",
@@ -16431,8 +17403,10 @@ var DistrictsData = {
         "CostOfCharters": "5,908,939.32",
         "CharterTransfers": "743",
         "Attendance": 12973.948,
-        "StateFunding": 9150390.0,
-        "LocalFunding": 99812018.0
+        "LocalFunding": 101546718,
+        "StateFunding": 12394611,
+        "FederalFunding": 21726490,
+        "OtherLocalFunding": 3582762
     },
     "239901": {
         "NAME": "BRENHAM ISD",
@@ -16464,8 +17438,10 @@ var DistrictsData = {
         "CostOfCharters": "342,179.19",
         "CharterTransfers": "40",
         "Attendance": 4523.534000000001,
-        "StateFunding": 12424691.0,
-        "LocalFunding": 28787110.0
+        "LocalFunding": 30864858,
+        "StateFunding": 12965695,
+        "FederalFunding": 9182180,
+        "OtherLocalFunding": 1522312
     },
     "091908": {
         "NAME": "VAN ALSTYNE ISD",
@@ -16505,8 +17481,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1788.674,
-        "StateFunding": 8935002.0,
-        "LocalFunding": 7572028.0
+        "LocalFunding": 8638895,
+        "StateFunding": 9207408,
+        "FederalFunding": 485100,
+        "OtherLocalFunding": 1033855
     },
     "101917": {
         "NAME": "PASADENA ISD",
@@ -16562,8 +17540,10 @@ var DistrictsData = {
         "CostOfCharters": "34,346,915.67",
         "CharterTransfers": "3,659",
         "Attendance": 46375.041,
-        "StateFunding": 299855991.0,
-        "LocalFunding": 159048508.0
+        "LocalFunding": 173835014,
+        "StateFunding": 304793291,
+        "FederalFunding": 110997730,
+        "OtherLocalFunding": 8753469
     },
     "101919": {
         "NAME": "SPRING ISD",
@@ -16623,8 +17603,10 @@ var DistrictsData = {
         "CostOfCharters": "27,387,773.28",
         "CharterTransfers": "3,162",
         "Attendance": 31016.066999999995,
-        "StateFunding": 152198722.0,
-        "LocalFunding": 134855516.0
+        "LocalFunding": 139110149,
+        "StateFunding": 156138128,
+        "FederalFunding": 60193468,
+        "OtherLocalFunding": 2577090
     },
     "101925": {
         "NAME": "HUFFMAN ISD",
@@ -16660,8 +17642,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 3293.562,
-        "StateFunding": 18379503.0,
-        "LocalFunding": 12107074.0
+        "LocalFunding": 13876458,
+        "StateFunding": 18747182,
+        "FederalFunding": 7328922,
+        "OtherLocalFunding": 1526669
     },
     "146901": {
         "NAME": "CLEVELAND ISD",
@@ -16701,8 +17685,10 @@ var DistrictsData = {
         "CostOfCharters": "146,304.51",
         "CharterTransfers": "16",
         "Attendance": 8127.937000000001,
-        "StateFunding": 65815878.0,
-        "LocalFunding": 18317404.0
+        "LocalFunding": 20156053,
+        "StateFunding": 69471092,
+        "FederalFunding": 11720521,
+        "OtherLocalFunding": 1952223
     },
     "170908": {
         "NAME": "NEW CANEY ISD",
@@ -16746,8 +17732,10 @@ var DistrictsData = {
         "CostOfCharters": "392,092.90",
         "CharterTransfers": "42",
         "Attendance": 14745.136,
-        "StateFunding": 104418643.0,
-        "LocalFunding": 44127410.0
+        "LocalFunding": 51934404,
+        "StateFunding": 105616078,
+        "FederalFunding": 24719123,
+        "OtherLocalFunding": 3631651
     },
     "020910": {
         "NAME": "DAMON ISD",
@@ -16779,8 +17767,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 102.805,
-        "StateFunding": 983938.0,
-        "LocalFunding": 847264.0
+        "LocalFunding": 1064306,
+        "StateFunding": 1376133,
+        "FederalFunding": 458649,
+        "OtherLocalFunding": 239324
     },
     "020907": {
         "NAME": "COLUMBIA-BRAZORIA ISD",
@@ -16816,8 +17806,10 @@ var DistrictsData = {
         "CostOfCharters": "89,115.08",
         "CharterTransfers": "10",
         "Attendance": 2639.646,
-        "StateFunding": 11942821.0,
-        "LocalFunding": 13446652.0
+        "LocalFunding": 13728274,
+        "StateFunding": 11445619,
+        "FederalFunding": 3553966,
+        "OtherLocalFunding": 1314417
     },
     "020908": {
         "NAME": "PEARLAND ISD",
@@ -16853,8 +17845,10 @@ var DistrictsData = {
         "CostOfCharters": "1,621,100.69",
         "CharterTransfers": "206",
         "Attendance": 20272.282,
-        "StateFunding": 89813306.0,
-        "LocalFunding": 74472590.0
+        "LocalFunding": 77425192,
+        "StateFunding": 92953793,
+        "FederalFunding": 29959157,
+        "OtherLocalFunding": 4705115
     },
     "020904": {
         "NAME": "DANBURY ISD",
@@ -16890,8 +17884,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 745.447,
-        "StateFunding": 5815805.0,
-        "LocalFunding": 3040696.0
+        "LocalFunding": 3565128,
+        "StateFunding": 5990315,
+        "FederalFunding": 259237,
+        "OtherLocalFunding": 635149
     },
     "084909": {
         "NAME": "SANTA FE ISD",
@@ -16927,8 +17923,10 @@ var DistrictsData = {
         "CostOfCharters": "222,502.48",
         "CharterTransfers": "25",
         "Attendance": 4357.791,
-        "StateFunding": 22429716.0,
-        "LocalFunding": 15986181.0
+        "LocalFunding": 16846574,
+        "StateFunding": 30335838,
+        "FederalFunding": 6870153,
+        "OtherLocalFunding": 1771771
     },
     "084911": {
         "NAME": "FRIENDSWOOD ISD",
@@ -16964,8 +17962,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 5951.311000000001,
-        "StateFunding": 17982266.0,
-        "LocalFunding": 30688454.0
+        "LocalFunding": 34587660,
+        "StateFunding": 18384277,
+        "FederalFunding": 3068445,
+        "OtherLocalFunding": 4746640
     },
     "229904": {
         "NAME": "WARREN ISD",
@@ -16992,8 +17992,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1163.188,
-        "StateFunding": 10922921.0,
-        "LocalFunding": 2896496.0
+        "LocalFunding": 3538950,
+        "StateFunding": 10848712,
+        "FederalFunding": 1585650,
+        "OtherLocalFunding": 577737
     },
     "187903": {
         "NAME": "GOODRICH ISD",
@@ -17025,8 +18027,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 225.625,
-        "StateFunding": 2028583.0,
-        "LocalFunding": 1161482.0
+        "LocalFunding": 1445525,
+        "StateFunding": 2056098,
+        "FederalFunding": 571931,
+        "OtherLocalFunding": 412283
     },
     "187901": {
         "NAME": "BIG SANDY ISD (POLK)",
@@ -17058,8 +18062,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 457.814,
-        "StateFunding": 4133480.0,
-        "LocalFunding": 1749843.0
+        "LocalFunding": 2031801,
+        "StateFunding": 4245429,
+        "FederalFunding": 1197538,
+        "OtherLocalFunding": 239124
     },
     "204904": {
         "NAME": "SHEPHERD ISD",
@@ -17086,8 +18092,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1729.7060000000001,
-        "StateFunding": 14977053.0,
-        "LocalFunding": 4415746.0
+        "LocalFunding": 5294127,
+        "StateFunding": 15310918,
+        "FederalFunding": 4485941,
+        "OtherLocalFunding": 297443
     },
     "204901": {
         "NAME": "COLDSPRING-OAKHURST CONS ISD",
@@ -17119,8 +18127,10 @@ var DistrictsData = {
         "CostOfCharters": "143,606.42",
         "CharterTransfers": "14",
         "Attendance": 1378.976,
-        "StateFunding": 2482442.0,
-        "LocalFunding": 13041808.0
+        "LocalFunding": 13847500,
+        "StateFunding": 2669263,
+        "FederalFunding": 2807490,
+        "OtherLocalFunding": 190240
     },
     "228904": {
         "NAME": "CENTERVILLE ISD (TRINITY)",
@@ -17152,8 +18162,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 160.75400000000002,
-        "StateFunding": 1867794.0,
-        "LocalFunding": 327187.0
+        "LocalFunding": 379251,
+        "StateFunding": 1880135,
+        "FederalFunding": 168160,
+        "OtherLocalFunding": 43655
     },
     "228901": {
         "NAME": "GROVETON ISD",
@@ -17185,8 +18197,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 697.2560000000001,
-        "StateFunding": 5224577.0,
-        "LocalFunding": 3169841.0
+        "LocalFunding": 3170010,
+        "StateFunding": 5306666,
+        "FederalFunding": 1694031,
+        "OtherLocalFunding": 703437
     },
     "187907": {
         "NAME": "LIVINGSTON ISD",
@@ -17218,8 +18232,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 3586.04,
-        "StateFunding": 18212838.0,
-        "LocalFunding": 16244331.0
+        "LocalFunding": 19304876,
+        "StateFunding": 19134506,
+        "FederalFunding": 8196252,
+        "OtherLocalFunding": 515370
     },
     "229906": {
         "NAME": "CHESTER ISD",
@@ -17251,8 +18267,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 193.46300000000002,
-        "StateFunding": 1822976.0,
-        "LocalFunding": 746927.0
+        "LocalFunding": 908679,
+        "StateFunding": 1877558,
+        "FederalFunding": 310458,
+        "OtherLocalFunding": 39171
     },
     "003905": {
         "NAME": "DIBOLL ISD",
@@ -17284,8 +18302,10 @@ var DistrictsData = {
         "CostOfCharters": "1,161,946.01",
         "CharterTransfers": "109",
         "Attendance": 1553.3010000000002,
-        "StateFunding": 15369342.0,
-        "LocalFunding": 2925009.0
+        "LocalFunding": 3246886,
+        "StateFunding": 14810678,
+        "FederalFunding": 4095861,
+        "OtherLocalFunding": 451400
     },
     "187906": {
         "NAME": "LEGGETT ISD",
@@ -17317,8 +18337,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 188.50900000000001,
-        "StateFunding": 1670515.0,
-        "LocalFunding": 840915.0
+        "LocalFunding": 906035,
+        "StateFunding": 1719806,
+        "FederalFunding": 413824,
+        "OtherLocalFunding": 58934
     },
     "187904": {
         "NAME": "CORRIGAN-CAMDEN ISD",
@@ -17350,8 +18372,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 732.618,
-        "StateFunding": 4670790.0,
-        "LocalFunding": 3869383.0
+        "LocalFunding": 4011762,
+        "StateFunding": 5020967,
+        "FederalFunding": 2296423,
+        "OtherLocalFunding": 1536331
     },
     "229903": {
         "NAME": "WOODVILLE ISD",
@@ -17378,8 +18402,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1130.4650000000001,
-        "StateFunding": 7382853.0,
-        "LocalFunding": 5265858.0
+        "LocalFunding": 5633304,
+        "StateFunding": 7704295,
+        "FederalFunding": 3076381,
+        "OtherLocalFunding": 2027755
     },
     "003906": {
         "NAME": "ZAVALLA ISD",
@@ -17406,8 +18432,10 @@ var DistrictsData = {
         "CostOfCharters": "169,182.63",
         "CharterTransfers": "13",
         "Attendance": 268.599,
-        "StateFunding": 2761460.0,
-        "LocalFunding": 1074207.0
+        "LocalFunding": 1201184,
+        "StateFunding": 2796392,
+        "FederalFunding": 664887,
+        "OtherLocalFunding": 55237
     },
     "150901": {
         "NAME": "LLANO ISD",
@@ -17439,8 +18467,10 @@ var DistrictsData = {
         "CostOfCharters": "896,463.82",
         "CharterTransfers": "98",
         "Attendance": 1606.046,
-        "StateFunding": 1383670.0,
-        "LocalFunding": 40031734.0
+        "LocalFunding": 16176075,
+        "StateFunding": 1532054,
+        "FederalFunding": 4508656,
+        "OtherLocalFunding": 1006197
     },
     "246912": {
         "NAME": "THRALL ISD",
@@ -17476,8 +18506,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 714.914,
-        "StateFunding": 5863971.0,
-        "LocalFunding": 2605119.0
+        "LocalFunding": 3011103,
+        "StateFunding": 6055256,
+        "FederalFunding": 636037,
+        "OtherLocalFunding": 477376
     },
     "011905": {
         "NAME": "MCDADE ISD",
@@ -17509,8 +18541,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 323.105,
-        "StateFunding": 2958127.0,
-        "LocalFunding": 1087898.0
+        "LocalFunding": 1138249,
+        "StateFunding": 3025860,
+        "FederalFunding": 540393,
+        "OtherLocalFunding": 59093
     },
     "011901": {
         "NAME": "BASTROP ISD",
@@ -17542,8 +18576,10 @@ var DistrictsData = {
         "CostOfCharters": "3,185,856.91",
         "CharterTransfers": "372",
         "Attendance": 10257.550000000001,
-        "StateFunding": 57126914.0,
-        "LocalFunding": 40489867.0
+        "LocalFunding": 43498583,
+        "StateFunding": 59284755,
+        "FederalFunding": 16705177,
+        "OtherLocalFunding": 1778180
     },
     "227910": {
         "NAME": "DEL VALLE ISD",
@@ -17587,8 +18623,10 @@ var DistrictsData = {
         "CostOfCharters": "24,254,541.53",
         "CharterTransfers": "2,621",
         "Attendance": 9767.793,
-        "StateFunding": 24739450.0,
-        "LocalFunding": 71084039.0
+        "LocalFunding": 73663747,
+        "StateFunding": 26863327,
+        "FederalFunding": 17517220,
+        "OtherLocalFunding": 2581994
     },
     "227907": {
         "NAME": "MANOR ISD",
@@ -17628,8 +18666,10 @@ var DistrictsData = {
         "CostOfCharters": "18,693,309.97",
         "CharterTransfers": "2,115",
         "Attendance": 8505.908000000001,
-        "StateFunding": 26988694.0,
-        "LocalFunding": 53978367.0
+        "LocalFunding": 58547011,
+        "StateFunding": 29310139,
+        "FederalFunding": 11509786,
+        "OtherLocalFunding": 2449672
     },
     "246914": {
         "NAME": "COUPLAND ISD",
@@ -17673,8 +18713,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 174.636,
-        "StateFunding": 1213599.0,
-        "LocalFunding": 938285.0
+        "LocalFunding": 1001261,
+        "StateFunding": 1243242,
+        "FederalFunding": 213295,
+        "OtherLocalFunding": 103437
     },
     "246911": {
         "NAME": "TAYLOR ISD",
@@ -17710,8 +18752,10 @@ var DistrictsData = {
         "CostOfCharters": "280,009.66",
         "CharterTransfers": "29",
         "Attendance": 2766.4179999999997,
-        "StateFunding": 15414808.0,
-        "LocalFunding": 11776053.0
+        "LocalFunding": 13654083,
+        "StateFunding": 17594952,
+        "FederalFunding": 4991548,
+        "OtherLocalFunding": 948248
     },
     "011902": {
         "NAME": "ELGIN ISD",
@@ -17751,8 +18795,10 @@ var DistrictsData = {
         "CostOfCharters": "1,992,186.93",
         "CharterTransfers": "202",
         "Attendance": 4235.64,
-        "StateFunding": 29752262.0,
-        "LocalFunding": 14266217.0
+        "LocalFunding": 16252952,
+        "StateFunding": 29841149,
+        "FederalFunding": 9144943,
+        "OtherLocalFunding": 1181827
     },
     "227913": {
         "NAME": "LAKE TRAVIS ISD",
@@ -17788,8 +18834,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 10583.393999999998,
-        "StateFunding": 5254983.0,
-        "LocalFunding": 134355883.0
+        "LocalFunding": 83469406,
+        "StateFunding": 6374567,
+        "FederalFunding": 5512899,
+        "OtherLocalFunding": 6277433
     },
     "227909": {
         "NAME": "EANES ISD",
@@ -17833,8 +18881,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 7820.1630000000005,
-        "StateFunding": 3826718.0,
-        "LocalFunding": 154235026.0
+        "LocalFunding": 65693546,
+        "StateFunding": 4171613,
+        "FederalFunding": 3250034,
+        "OtherLocalFunding": 7828018
     },
     "227901": {
         "NAME": "AUSTIN ISD",
@@ -17898,8 +18948,10 @@ var DistrictsData = {
         "CostOfCharters": "140,023,856.37",
         "CharterTransfers": "15,798",
         "Attendance": 68755.75200000001,
-        "StateFunding": 32522975.0,
-        "LocalFunding": 1295062220.0
+        "LocalFunding": 686100668,
+        "StateFunding": 40375377,
+        "FederalFunding": 122999557,
+        "OtherLocalFunding": 32202930
     },
     "105904": {
         "NAME": "DRIPPING SPRINGS ISD",
@@ -17939,8 +18991,10 @@ var DistrictsData = {
         "CostOfCharters": "498,566.03",
         "CharterTransfers": "57",
         "Attendance": 6912.779,
-        "StateFunding": 8376577.0,
-        "LocalFunding": 54204293.0
+        "LocalFunding": 56941171,
+        "StateFunding": 9049961,
+        "FederalFunding": 2912984,
+        "OtherLocalFunding": 4418686
     },
     "027904": {
         "NAME": "MARBLE FALLS ISD",
@@ -17980,8 +19034,10 @@ var DistrictsData = {
         "CostOfCharters": "154,390.17",
         "CharterTransfers": "17",
         "Attendance": 3869.1930000000007,
-        "StateFunding": 2530222.0,
-        "LocalFunding": 41667617.0
+        "LocalFunding": 35920698,
+        "StateFunding": 5036758,
+        "FederalFunding": 4792637,
+        "OtherLocalFunding": 885238
     },
     "246913": {
         "NAME": "LEANDER ISD",
@@ -18037,8 +19093,10 @@ var DistrictsData = {
         "CostOfCharters": "12,653,940.30",
         "CharterTransfers": "1,534",
         "Attendance": 39874.201,
-        "StateFunding": 66525919.0,
-        "LocalFunding": 260091247.0
+        "LocalFunding": 269813709,
+        "StateFunding": 68562847,
+        "FederalFunding": 24600748,
+        "OtherLocalFunding": 11926493
     },
     "227912": {
         "NAME": "LAGO VISTA ISD",
@@ -18074,8 +19132,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1550.585,
-        "StateFunding": 798392.0,
-        "LocalFunding": 18287354.0
+        "LocalFunding": 13759192,
+        "StateFunding": 770312,
+        "FederalFunding": 1488252,
+        "OtherLocalFunding": 473255
     },
     "016901": {
         "NAME": "JOHNSON CITY ISD",
@@ -18119,8 +19179,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 584.787,
-        "StateFunding": 326570.0,
-        "LocalFunding": 8821111.0
+        "LocalFunding": 6626189,
+        "StateFunding": 514031,
+        "FederalFunding": 581050,
+        "OtherLocalFunding": 495861
     },
     "201914": {
         "NAME": "WEST RUSK COUNTY CONS ISD",
@@ -18147,8 +19209,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 959.7360000000001,
-        "StateFunding": 7798029.0,
-        "LocalFunding": 3030579.0
+        "LocalFunding": 3210902,
+        "StateFunding": 7460728,
+        "FederalFunding": 1819302,
+        "OtherLocalFunding": 226726
     },
     "201913": {
         "NAME": "CARLISLE ISD",
@@ -18184,8 +19248,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 558.4830000000001,
-        "StateFunding": 6302537.0,
-        "LocalFunding": 1260234.0
+        "LocalFunding": 1380948,
+        "StateFunding": 6631000,
+        "FederalFunding": 667166,
+        "OtherLocalFunding": 754760
     },
     "212901": {
         "NAME": "ARP ISD",
@@ -18221,8 +19287,10 @@ var DistrictsData = {
         "CostOfCharters": "356,232.13",
         "CharterTransfers": "32",
         "Attendance": 811.618,
-        "StateFunding": 5758500.0,
-        "LocalFunding": 3599203.0
+        "LocalFunding": 3991239,
+        "StateFunding": 5833826,
+        "FederalFunding": 1624140,
+        "OtherLocalFunding": 838443
     },
     "037908": {
         "NAME": "NEW SUMMERFIELD ISD",
@@ -18249,8 +19317,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 501.459,
-        "StateFunding": 6314459.0,
-        "LocalFunding": 680591.0
+        "LocalFunding": 827945,
+        "StateFunding": 5980818,
+        "FederalFunding": 1655617,
+        "OtherLocalFunding": 70198
     },
     "212902": {
         "NAME": "BULLARD ISD",
@@ -18294,8 +19364,10 @@ var DistrictsData = {
         "CostOfCharters": "568,969.34",
         "CharterTransfers": "62",
         "Attendance": 2512.696,
-        "StateFunding": 12240694.0,
-        "LocalFunding": 10974027.0
+        "LocalFunding": 12779571,
+        "StateFunding": 12182886,
+        "FederalFunding": 2180554,
+        "OtherLocalFunding": 2267562
     },
     "212906": {
         "NAME": "WHITEHOUSE ISD",
@@ -18326,8 +19398,10 @@ var DistrictsData = {
         "CostOfCharters": "2,582,480.35",
         "CharterTransfers": "304",
         "Attendance": 4544.791,
-        "StateFunding": 18849462.0,
-        "LocalFunding": 20993775.0
+        "LocalFunding": 22574882,
+        "StateFunding": 19121822,
+        "FederalFunding": 4805533,
+        "OtherLocalFunding": 904219
     },
     "107902": {
         "NAME": "BROWNSBORO ISD",
@@ -18367,8 +19441,10 @@ var DistrictsData = {
         "CostOfCharters": "352,450.39",
         "CharterTransfers": "37",
         "Attendance": 2470.225,
-        "StateFunding": 16988654.0,
-        "LocalFunding": 7283603.0
+        "LocalFunding": 7997841,
+        "StateFunding": 16958797,
+        "FederalFunding": 4682363,
+        "OtherLocalFunding": 556172
     },
     "001904": {
         "NAME": "FRANKSTON ISD",
@@ -18404,8 +19480,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 688.153,
-        "StateFunding": 5602287.0,
-        "LocalFunding": 2631364.0
+        "LocalFunding": 2891369,
+        "StateFunding": 5715571,
+        "FederalFunding": 1105376,
+        "OtherLocalFunding": 103259
     },
     "212904": {
         "NAME": "TROUP ISD",
@@ -18436,8 +19514,10 @@ var DistrictsData = {
         "CostOfCharters": "359,116.61",
         "CharterTransfers": "33",
         "Attendance": 991.416,
-        "StateFunding": 6871450.0,
-        "LocalFunding": 3765667.0
+        "LocalFunding": 4457330,
+        "StateFunding": 7025584,
+        "FederalFunding": 1572643,
+        "OtherLocalFunding": 309625
     },
     "037904": {
         "NAME": "JACKSONVILLE ISD",
@@ -18469,8 +19549,10 @@ var DistrictsData = {
         "CostOfCharters": "273,370.32",
         "CharterTransfers": "30",
         "Attendance": 4389.227,
-        "StateFunding": 31319143.0,
-        "LocalFunding": 12407948.0
+        "LocalFunding": 13230499,
+        "StateFunding": 30819160,
+        "FederalFunding": 13098269,
+        "OtherLocalFunding": 1076893
     },
     "146905": {
         "NAME": "HULL-DAISETTA ISD",
@@ -18502,8 +19584,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 496.00699999999995,
-        "StateFunding": 4100669.0,
-        "LocalFunding": 2420614.0
+        "LocalFunding": 2853895,
+        "StateFunding": 4158017,
+        "FederalFunding": 1540254,
+        "OtherLocalFunding": 149914
     },
     "146906": {
         "NAME": "LIBERTY ISD",
@@ -18535,8 +19619,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2042.428,
-        "StateFunding": 10782423.0,
-        "LocalFunding": 9423180.0
+        "LocalFunding": 10941410,
+        "StateFunding": 12104491,
+        "FederalFunding": 4797841,
+        "OtherLocalFunding": 2335166
     },
     "146904": {
         "NAME": "HARDIN ISD",
@@ -18568,8 +19654,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1167.626,
-        "StateFunding": 7117691.0,
-        "LocalFunding": 4718093.0
+        "LocalFunding": 4607366,
+        "StateFunding": 7194677,
+        "FederalFunding": 1727911,
+        "OtherLocalFunding": 148365
     },
     "146903": {
         "NAME": "DEVERS ISD",
@@ -18601,8 +19689,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 182.961,
-        "StateFunding": 392649.0,
-        "LocalFunding": 1885150.0
+        "LocalFunding": 2025687,
+        "StateFunding": 791155,
+        "FederalFunding": 214405,
+        "OtherLocalFunding": 67932
     },
     "100908": {
         "NAME": "WEST HARDIN COUNTY CONS ISD",
@@ -18629,8 +19719,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 529.75,
-        "StateFunding": 4075485.0,
-        "LocalFunding": 2545465.0
+        "LocalFunding": 2640575,
+        "StateFunding": 4359491,
+        "FederalFunding": 518364,
+        "OtherLocalFunding": 173413
     },
     "100905": {
         "NAME": "HARDIN-JEFFERSON ISD",
@@ -18674,8 +19766,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2308.619,
-        "StateFunding": 10933514.0,
-        "LocalFunding": 10090476.0
+        "LocalFunding": 9719683,
+        "StateFunding": 11203979,
+        "FederalFunding": 1971225,
+        "OtherLocalFunding": 1000650
     },
     "161920": {
         "NAME": "CHINA SPRING ISD",
@@ -18711,8 +19805,10 @@ var DistrictsData = {
         "CostOfCharters": "164,939.97",
         "CharterTransfers": "19",
         "Attendance": 2780.172,
-        "StateFunding": 15023136.0,
-        "LocalFunding": 9692649.0
+        "LocalFunding": 10381056,
+        "StateFunding": 15453200,
+        "FederalFunding": 1763658,
+        "OtherLocalFunding": 1197614
     },
     "126907": {
         "NAME": "RIO VISTA ISD",
@@ -18743,8 +19839,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 719.32,
-        "StateFunding": 5460691.0,
-        "LocalFunding": 3026891.0
+        "LocalFunding": 3521943,
+        "StateFunding": 5553179,
+        "FederalFunding": 1019561,
+        "OtherLocalFunding": 447577
     },
     "070907": {
         "NAME": "ITALY ISD",
@@ -18776,8 +19874,10 @@ var DistrictsData = {
         "CostOfCharters": "122,866.44",
         "CharterTransfers": "10",
         "Attendance": 580.3240000000001,
-        "StateFunding": 6186836.0,
-        "LocalFunding": 1425865.0
+        "LocalFunding": 1664605,
+        "StateFunding": 7419532,
+        "FederalFunding": 860591,
+        "OtherLocalFunding": 183701
     },
     "070901": {
         "NAME": "AVALON ISD",
@@ -18809,8 +19909,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 304.672,
-        "StateFunding": 3916991.0,
-        "LocalFunding": 441189.0
+        "LocalFunding": 525881,
+        "StateFunding": 3888140,
+        "FederalFunding": 287648,
+        "OtherLocalFunding": 99885
     },
     "175902": {
         "NAME": "BLOOMING GROVE ISD",
@@ -18842,8 +19944,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 790.8530000000001,
-        "StateFunding": 7203248.0,
-        "LocalFunding": 2227694.0
+        "LocalFunding": 2581396,
+        "StateFunding": 7328868,
+        "FederalFunding": 975400,
+        "OtherLocalFunding": 254259
     },
     "175905": {
         "NAME": "FROST ISD",
@@ -18879,8 +19983,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 380.759,
-        "StateFunding": 3116323.0,
-        "LocalFunding": 1741182.0
+        "LocalFunding": 2057384,
+        "StateFunding": 3152192,
+        "FederalFunding": 458867,
+        "OtherLocalFunding": 84287
     },
     "109907": {
         "NAME": "ITASCA ISD",
@@ -18912,8 +20018,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 574.706,
-        "StateFunding": 5352054.0,
-        "LocalFunding": 2115510.0
+        "LocalFunding": 2530644,
+        "StateFunding": 5334430,
+        "FederalFunding": 1239099,
+        "OtherLocalFunding": 174415
     },
     "070909": {
         "NAME": "MILFORD ISD",
@@ -18949,8 +20057,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 222.237,
-        "StateFunding": 2150603.0,
-        "LocalFunding": 933285.0
+        "LocalFunding": 1112563,
+        "StateFunding": 2116449,
+        "FederalFunding": 407799,
+        "OtherLocalFunding": 39693
     },
     "070915": {
         "NAME": "MAYPEARL ISD",
@@ -18982,8 +20092,10 @@ var DistrictsData = {
         "CostOfCharters": "122,769.94",
         "CharterTransfers": "13",
         "Attendance": 1082.25,
-        "StateFunding": 7055502.0,
-        "LocalFunding": 3775143.0
+        "LocalFunding": 4044991,
+        "StateFunding": 7369962,
+        "FederalFunding": 1230426,
+        "OtherLocalFunding": 333378
     },
     "109903": {
         "NAME": "COVINGTON ISD",
@@ -19015,8 +20127,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 268.926,
-        "StateFunding": 2801184.0,
-        "LocalFunding": 905838.0
+        "LocalFunding": 1067604,
+        "StateFunding": 2729630,
+        "FederalFunding": 1229503,
+        "OtherLocalFunding": 3042062
     },
     "109911": {
         "NAME": "WHITNEY ISD",
@@ -19043,8 +20157,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1354.237,
-        "StateFunding": 7597852.0,
-        "LocalFunding": 6210816.0
+        "LocalFunding": 7436042,
+        "StateFunding": 7642675,
+        "FederalFunding": 1985804,
+        "OtherLocalFunding": 808122
     },
     "109913": {
         "NAME": "BLUM ISD",
@@ -19076,8 +20192,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 346.35200000000003,
-        "StateFunding": 2781286.0,
-        "LocalFunding": 1836988.0
+        "LocalFunding": 2180661,
+        "StateFunding": 2786107,
+        "FederalFunding": 689406,
+        "OtherLocalFunding": 80064
     },
     "018903": {
         "NAME": "MORGAN ISD",
@@ -19109,8 +20227,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 125.262,
-        "StateFunding": 1163395.0,
-        "LocalFunding": 726276.0
+        "LocalFunding": 692789,
+        "StateFunding": 1301333,
+        "FederalFunding": 334352,
+        "OtherLocalFunding": 71228
     },
     "018902": {
         "NAME": "MERIDIAN ISD",
@@ -19142,8 +20262,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 388.124,
-        "StateFunding": 3063254.0,
-        "LocalFunding": 1893789.0
+        "LocalFunding": 2054553,
+        "StateFunding": 3107235,
+        "FederalFunding": 1230571,
+        "OtherLocalFunding": 938081
     },
     "175904": {
         "NAME": "DAWSON ISD (NAVARRO)",
@@ -19175,8 +20297,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 477.156,
-        "StateFunding": 4425309.0,
-        "LocalFunding": 1722234.0
+        "LocalFunding": 1893303,
+        "StateFunding": 4478381,
+        "FederalFunding": 1133767,
+        "OtherLocalFunding": 697971
     },
     "109908": {
         "NAME": "MALONE ISD",
@@ -19208,8 +20332,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 141.75900000000001,
-        "StateFunding": 1771402.0,
-        "LocalFunding": 489197.0
+        "LocalFunding": 584512,
+        "StateFunding": 1760510,
+        "FederalFunding": 302361,
+        "OtherLocalFunding": 67947
     },
     "147901": {
         "NAME": "COOLIDGE ISD",
@@ -19241,8 +20367,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 284.997,
-        "StateFunding": 3712228.0,
-        "LocalFunding": 482511.0
+        "LocalFunding": 579772,
+        "StateFunding": 3693043,
+        "FederalFunding": 1003292,
+        "OtherLocalFunding": 184268
     },
     "109905": {
         "NAME": "HUBBARD ISD (HILL)",
@@ -19282,8 +20410,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 372.029,
-        "StateFunding": 4128150.0,
-        "LocalFunding": 911279.0
+        "LocalFunding": 1125146,
+        "StateFunding": 4064636,
+        "FederalFunding": 646250,
+        "OtherLocalFunding": 262831
     },
     "109902": {
         "NAME": "BYNUM ISD",
@@ -19315,8 +20445,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 190.78,
-        "StateFunding": 1889092.0,
-        "LocalFunding": 889457.0
+        "LocalFunding": 1056780,
+        "StateFunding": 1905161,
+        "FederalFunding": 222719,
+        "OtherLocalFunding": 87891
     },
     "109904": {
         "NAME": "HILLSBORO ISD",
@@ -19348,8 +20480,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1718.9489999999998,
-        "StateFunding": 10782175.0,
-        "LocalFunding": 6891004.0
+        "LocalFunding": 7975987,
+        "StateFunding": 11569407,
+        "FederalFunding": 2905152,
+        "OtherLocalFunding": 870648
     },
     "069901": {
         "NAME": "ROCKSPRINGS ISD",
@@ -19385,8 +20519,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 246.43900000000002,
-        "StateFunding": 1303844.0,
-        "LocalFunding": 5415354.0
+        "LocalFunding": 3430577,
+        "StateFunding": 1406728,
+        "FederalFunding": 581697,
+        "OtherLocalFunding": 194728
     },
     "193902": {
         "NAME": "LEAKEY ISD",
@@ -19422,8 +20558,10 @@ var DistrictsData = {
         "CostOfCharters": "656,058.45",
         "CharterTransfers": "52",
         "Attendance": 254.923,
-        "StateFunding": 157681.0,
-        "LocalFunding": 4278006.0
+        "LocalFunding": 3518649,
+        "StateFunding": 226797,
+        "FederalFunding": 412922,
+        "OtherLocalFunding": 254695
     },
     "086024": {
         "NAME": "DOSS CONS CSD",
@@ -19463,8 +20601,10 @@ var DistrictsData = {
         "CostOfCharters": 0.0,
         "CharterTransfers": 0.0,
         "Attendance": 28.908,
-        "StateFunding": 252162.0,
-        "LocalFunding": 524212.0
+        "LocalFunding": 552374,
+        "StateFunding": 254522,
+        "FederalFunding": 21731,
+        "OtherLocalFunding": 37087
     },
     "134901": {
         "NAME": "JUNCTION ISD",
@@ -19496,8 +20636,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 530.595,
-        "StateFunding": 2498316.0,
-        "LocalFunding": 4372458.0
+        "LocalFunding": 4697450,
+        "StateFunding": 2784973,
+        "FederalFunding": 1336582,
+        "OtherLocalFunding": 571344
     },
     "133905": {
         "NAME": "DIVIDE ISD",
@@ -19529,8 +20671,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 19.634,
-        "StateFunding": 13776.0,
-        "LocalFunding": 631644.0
+        "LocalFunding": 574774,
+        "StateFunding": 15159,
+        "FederalFunding": 0,
+        "OtherLocalFunding": 52848
     },
     "133903": {
         "NAME": "KERRVILLE ISD",
@@ -19562,8 +20706,10 @@ var DistrictsData = {
         "CostOfCharters": "223,568.54",
         "CharterTransfers": "27",
         "Attendance": 4422.553,
-        "StateFunding": 11378697.0,
-        "LocalFunding": 27106748.0
+        "LocalFunding": 28645650,
+        "StateFunding": 11985398,
+        "FederalFunding": 8709256,
+        "OtherLocalFunding": 2098364
     },
     "086902": {
         "NAME": "HARPER ISD",
@@ -19603,8 +20749,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 531.826,
-        "StateFunding": 1416852.0,
-        "LocalFunding": 4591865.0
+        "LocalFunding": 4943327,
+        "StateFunding": 1449531,
+        "FederalFunding": 405530,
+        "OtherLocalFunding": 235593
     },
     "086901": {
         "NAME": "FREDERICKSBURG ISD",
@@ -19644,8 +20792,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2827.186,
-        "StateFunding": 3560773.0,
-        "LocalFunding": 39654237.0
+        "LocalFunding": 25691509,
+        "StateFunding": 4237504,
+        "FederalFunding": 6226122,
+        "OtherLocalFunding": 2876757
     },
     "133904": {
         "NAME": "INGRAM ISD",
@@ -19677,8 +20827,10 @@ var DistrictsData = {
         "CostOfCharters": "1,191,978.56",
         "CharterTransfers": "111",
         "Attendance": 1048.844,
-        "StateFunding": 5956824.0,
-        "LocalFunding": 5643645.0
+        "LocalFunding": 6026325,
+        "StateFunding": 6189218,
+        "FederalFunding": 2811811,
+        "OtherLocalFunding": 547156
     },
     "133902": {
         "NAME": "HUNT ISD",
@@ -19710,8 +20862,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 171.34599999999998,
-        "StateFunding": 91904.0,
-        "LocalFunding": 4352199.0
+        "LocalFunding": 2313101,
+        "StateFunding": 109769,
+        "FederalFunding": 261306,
+        "OtherLocalFunding": 169508
     },
     "130902": {
         "NAME": "COMFORT ISD",
@@ -19751,8 +20905,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 986.192,
-        "StateFunding": 2616494.0,
-        "LocalFunding": 8648598.0
+        "LocalFunding": 9005426,
+        "StateFunding": 2780228,
+        "FederalFunding": 1291038,
+        "OtherLocalFunding": 438633
     },
     "133901": {
         "NAME": "CENTER POINT ISD",
@@ -19784,8 +20940,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 499.463,
-        "StateFunding": 2821191.0,
-        "LocalFunding": 3344632.0
+        "LocalFunding": 3585664,
+        "StateFunding": 2988959,
+        "FederalFunding": 1506467,
+        "OtherLocalFunding": 145941
     },
     "140905": {
         "NAME": "OLTON ISD",
@@ -19812,8 +20970,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 544.443,
-        "StateFunding": 5813839.0,
-        "LocalFunding": 1268505.0
+        "LocalFunding": 1429007,
+        "StateFunding": 5807693,
+        "FederalFunding": 1424791,
+        "OtherLocalFunding": 229240
     },
     "095903": {
         "NAME": "HALE CENTER ISD",
@@ -19845,8 +21005,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 549.826,
-        "StateFunding": 6670536.0,
-        "LocalFunding": 895690.0
+        "LocalFunding": 1043449,
+        "StateFunding": 6369029,
+        "FederalFunding": 1265263,
+        "OtherLocalFunding": 190388
     },
     "095902": {
         "NAME": "COTTON CENTER ISD",
@@ -19878,8 +21040,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 90.0,
-        "StateFunding": 1542544.0,
-        "LocalFunding": 349235.0
+        "LocalFunding": 413465,
+        "StateFunding": 1012110,
+        "FederalFunding": 221197,
+        "OtherLocalFunding": 61191
     },
     "110901": {
         "NAME": "ANTON ISD",
@@ -19911,8 +21075,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 162.28300000000002,
-        "StateFunding": 1685828.0,
-        "LocalFunding": 650194.0
+        "LocalFunding": 704723,
+        "StateFunding": 1715100,
+        "FederalFunding": 484311,
+        "OtherLocalFunding": 53276
     },
     "110905": {
         "NAME": "ROPES ISD",
@@ -19943,8 +21109,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 444.158,
-        "StateFunding": 4555173.0,
-        "LocalFunding": 1059455.0
+        "LocalFunding": 1212696,
+        "StateFunding": 4500549,
+        "FederalFunding": 461326,
+        "OtherLocalFunding": 232151
     },
     "095901": {
         "NAME": "ABERNATHY ISD",
@@ -19980,8 +21148,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 759.846,
-        "StateFunding": 3875171.0,
-        "LocalFunding": 4694429.0
+        "LocalFunding": 5470486,
+        "StateFunding": 3910121,
+        "FederalFunding": 888895,
+        "OtherLocalFunding": 324947
     },
     "095904": {
         "NAME": "PETERSBURG ISD",
@@ -20012,8 +21182,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 260.07800000000003,
-        "StateFunding": 2856311.0,
-        "LocalFunding": 923784.0
+        "LocalFunding": 1057833,
+        "StateFunding": 2948964,
+        "FederalFunding": 637917,
+        "OtherLocalFunding": 58729
     },
     "153905": {
         "NAME": "NEW HOME ISD",
@@ -20040,8 +21212,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 519.16,
-        "StateFunding": 4953419.0,
-        "LocalFunding": 1120603.0
+        "LocalFunding": 1302474,
+        "StateFunding": 4833293,
+        "FederalFunding": 259961,
+        "OtherLocalFunding": 236225
     },
     "152909": {
         "NAME": "SHALLOWATER ISD",
@@ -20068,8 +21242,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1546.41,
-        "StateFunding": 11686096.0,
-        "LocalFunding": 3456720.0
+        "LocalFunding": 4001934,
+        "StateFunding": 11385764,
+        "FederalFunding": 2840985,
+        "OtherLocalFunding": 2193684
     },
     "152902": {
         "NAME": "NEW DEAL ISD",
@@ -20096,8 +21272,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 704.658,
-        "StateFunding": 4573051.0,
-        "LocalFunding": 3627898.0
+        "LocalFunding": 4189629,
+        "StateFunding": 4680309,
+        "FederalFunding": 1417199,
+        "OtherLocalFunding": 108145
     },
     "152907": {
         "NAME": "FRENSHIP ISD",
@@ -20137,8 +21315,10 @@ var DistrictsData = {
         "CostOfCharters": "674,361.75",
         "CharterTransfers": "81",
         "Attendance": 9834.492,
-        "StateFunding": 42315957.0,
-        "LocalFunding": 41930925.0
+        "LocalFunding": 45137539,
+        "StateFunding": 43100620,
+        "FederalFunding": 7827372,
+        "OtherLocalFunding": 3471581
     },
     "152901": {
         "NAME": "LUBBOCK ISD",
@@ -20169,8 +21349,10 @@ var DistrictsData = {
         "CostOfCharters": "10,572,304.54",
         "CharterTransfers": "1,235",
         "Attendance": 24137.455999999995,
-        "StateFunding": 117059353.0,
-        "LocalFunding": 106827655.0
+        "LocalFunding": 114437415,
+        "StateFunding": 130190209,
+        "FederalFunding": 60361414,
+        "OtherLocalFunding": 17028534
     },
     "152910": {
         "NAME": "IDALOU ISD",
@@ -20202,8 +21384,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 904.495,
-        "StateFunding": 7314937.0,
-        "LocalFunding": 2766922.0
+        "LocalFunding": 3284217,
+        "StateFunding": 7363588,
+        "FederalFunding": 693710,
+        "OtherLocalFunding": 499706
     },
     "085903": {
         "NAME": "SOUTHLAND ISD",
@@ -20234,8 +21418,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 134.173,
-        "StateFunding": 1329697.0,
-        "LocalFunding": 676070.0
+        "LocalFunding": 2153255,
+        "StateFunding": 1337978,
+        "FederalFunding": 198682,
+        "OtherLocalFunding": 134405
     },
     "152908": {
         "NAME": "ROOSEVELT ISD",
@@ -20266,8 +21452,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 942.572,
-        "StateFunding": 8705761.0,
-        "LocalFunding": 2423556.0
+        "LocalFunding": 2775415,
+        "StateFunding": 8690583,
+        "FederalFunding": 3690350,
+        "OtherLocalFunding": 573432
     },
     "054902": {
         "NAME": "LORENZO ISD",
@@ -20298,8 +21486,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 194.9,
-        "StateFunding": 973484.0,
-        "LocalFunding": 1711616.0
+        "LocalFunding": 1818209,
+        "StateFunding": 928010,
+        "FederalFunding": 1190924,
+        "OtherLocalFunding": 871746
     },
     "152906": {
         "NAME": "LUBBOCK-COOPER ISD",
@@ -20330,8 +21520,10 @@ var DistrictsData = {
         "CostOfCharters": "162,338.44",
         "CharterTransfers": "20",
         "Attendance": 6839.331,
-        "StateFunding": 23775631.0,
-        "LocalFunding": 32647653.0
+        "LocalFunding": 34889825,
+        "StateFunding": 25239254,
+        "FederalFunding": 5674967,
+        "OtherLocalFunding": 3163922
     },
     "024901": {
         "NAME": "BROOKS COUNTY ISD",
@@ -20363,8 +21555,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1286.739,
-        "StateFunding": 9735275.0,
-        "LocalFunding": 4731511.0
+        "LocalFunding": 5416447,
+        "StateFunding": 10748518,
+        "FederalFunding": 8337765,
+        "OtherLocalFunding": 375884
     },
     "214902": {
         "NAME": "SAN ISIDRO ISD",
@@ -20396,8 +21590,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 189.615,
-        "StateFunding": 1560330.0,
-        "LocalFunding": 1250134.0
+        "LocalFunding": 1631306,
+        "StateFunding": 1367530,
+        "FederalFunding": 564066,
+        "OtherLocalFunding": 118065
     },
     "108908": {
         "NAME": "MISSION CONS ISD",
@@ -20437,8 +21633,10 @@ var DistrictsData = {
         "CostOfCharters": "21,140,415.00",
         "CharterTransfers": "2,174",
         "Attendance": 13615.316,
-        "StateFunding": 127131985.0,
-        "LocalFunding": 20689564.0
+        "LocalFunding": 24940535,
+        "StateFunding": 124411785,
+        "FederalFunding": 34114605,
+        "OtherLocalFunding": 1033998
     },
     "108906": {
         "NAME": "MCALLEN ISD",
@@ -20482,8 +21680,10 @@ var DistrictsData = {
         "CostOfCharters": "32,560,822.28",
         "CharterTransfers": "3,392",
         "Attendance": 19922.956,
-        "StateFunding": 126639431.0,
-        "LocalFunding": 71422981.0
+        "LocalFunding": 82428876,
+        "StateFunding": 130142563,
+        "FederalFunding": 47140265,
+        "OtherLocalFunding": 4275930
     },
     "108916": {
         "NAME": "VALLEY VIEW ISD (HIDALGO)",
@@ -20523,8 +21723,10 @@ var DistrictsData = {
         "CostOfCharters": "4,022,737.63",
         "CharterTransfers": "387",
         "Attendance": 3832.5160000000005,
-        "StateFunding": 37059573.0,
-        "LocalFunding": 6423404.0
+        "LocalFunding": 7631838,
+        "StateFunding": 35828343,
+        "FederalFunding": 9924902,
+        "OtherLocalFunding": 124938
     },
     "108911": {
         "NAME": "SHARYLAND ISD",
@@ -20568,8 +21770,10 @@ var DistrictsData = {
         "CostOfCharters": "10,907,123.59",
         "CharterTransfers": "1,148",
         "Attendance": 9440.951000000001,
-        "StateFunding": 56981400.0,
-        "LocalFunding": 31778818.0
+        "LocalFunding": 37196406,
+        "StateFunding": 57651934,
+        "FederalFunding": 18469254,
+        "OtherLocalFunding": 1343729
     },
     "108909": {
         "NAME": "PHARR-SAN JUAN-ALAMO ISD",
@@ -20617,8 +21821,10 @@ var DistrictsData = {
         "CostOfCharters": "58,360,807.88",
         "CharterTransfers": "5,825",
         "Attendance": 28443.115,
-        "StateFunding": 270927111.0,
-        "LocalFunding": 45299563.0
+        "LocalFunding": 55400591,
+        "StateFunding": 264549180,
+        "FederalFunding": 110472734,
+        "OtherLocalFunding": 1843086
     },
     "108905": {
         "NAME": "HIDALGO ISD",
@@ -20658,8 +21864,10 @@ var DistrictsData = {
         "CostOfCharters": "2,605,008.52",
         "CharterTransfers": "249",
         "Attendance": 2791.8540000000003,
-        "StateFunding": 26583674.0,
-        "LocalFunding": 5270286.0
+        "LocalFunding": 6109130,
+        "StateFunding": 27091942,
+        "FederalFunding": 10754096,
+        "OtherLocalFunding": 162097
     },
     "108904": {
         "NAME": "EDINBURG CONS ISD",
@@ -20703,8 +21911,10 @@ var DistrictsData = {
         "CostOfCharters": "49,461,956.58",
         "CharterTransfers": "5,143",
         "Attendance": 30392.025,
-        "StateFunding": 243241053.0,
-        "LocalFunding": 65827919.0
+        "LocalFunding": 79137616,
+        "StateFunding": 255571724,
+        "FederalFunding": 69035726,
+        "OtherLocalFunding": 3276566
     },
     "108903": {
         "NAME": "EDCOUCH-ELSA ISD",
@@ -20740,8 +21950,10 @@ var DistrictsData = {
         "CostOfCharters": "6,970,395.06",
         "CharterTransfers": "700",
         "Attendance": 3964.4960000000005,
-        "StateFunding": 43858817.0,
-        "LocalFunding": 3403851.0
+        "LocalFunding": 4206840,
+        "StateFunding": 42250482,
+        "FederalFunding": 16427484,
+        "OtherLocalFunding": 2777179
     },
     "108910": {
         "NAME": "PROGRESO ISD",
@@ -20773,8 +21985,10 @@ var DistrictsData = {
         "CostOfCharters": "1,939,062.23",
         "CharterTransfers": "193",
         "Attendance": 1351.286,
-        "StateFunding": 15346069.0,
-        "LocalFunding": 1675205.0
+        "LocalFunding": 1817329,
+        "StateFunding": 14123608,
+        "FederalFunding": 5067133,
+        "OtherLocalFunding": 107611
     },
     "108913": {
         "NAME": "WESLACO ISD",
@@ -20814,8 +22028,10 @@ var DistrictsData = {
         "CostOfCharters": "24,318,603.23",
         "CharterTransfers": "2,613",
         "Attendance": 15113.004,
-        "StateFunding": 129988747.0,
-        "LocalFunding": 22415135.0
+        "LocalFunding": 26534476,
+        "StateFunding": 134877890,
+        "FederalFunding": 37566359,
+        "OtherLocalFunding": 498064
     },
     "108902": {
         "NAME": "DONNA ISD",
@@ -20851,8 +22067,10 @@ var DistrictsData = {
         "CostOfCharters": "40,320,370.90",
         "CharterTransfers": "4,023",
         "Attendance": 12750.247,
-        "StateFunding": 126619729.0,
-        "LocalFunding": 14139696.0
+        "LocalFunding": 17623780,
+        "StateFunding": 132079878,
+        "FederalFunding": 39186659,
+        "OtherLocalFunding": 1755249
     },
     "205906": {
         "NAME": "SINTON ISD",
@@ -20884,8 +22102,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1906.045,
-        "StateFunding": 15091148.0,
-        "LocalFunding": 6679461.0
+        "LocalFunding": 8023724,
+        "StateFunding": 15914810,
+        "FederalFunding": 4867329,
+        "OtherLocalFunding": 500848
     },
     "109910": {
         "NAME": "MOUNT CALM ISD",
@@ -20925,8 +22145,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 161.988,
-        "StateFunding": 2199778.0,
-        "LocalFunding": 327831.0
+        "LocalFunding": 408644,
+        "StateFunding": 2235073,
+        "FederalFunding": 372634,
+        "OtherLocalFunding": 93600
     },
     "161918": {
         "NAME": "AXTELL ISD",
@@ -20966,8 +22188,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 714.0010000000001,
-        "StateFunding": 7965635.0,
-        "LocalFunding": 1539609.0
+        "LocalFunding": 1761553,
+        "StateFunding": 8052151,
+        "FederalFunding": 1334264,
+        "OtherLocalFunding": 242525
     },
     "161906": {
         "NAME": "LA VEGA ISD",
@@ -21003,8 +22227,10 @@ var DistrictsData = {
         "CostOfCharters": "659,223.09",
         "CharterTransfers": "68",
         "Attendance": 2734.357,
-        "StateFunding": 19403170.0,
-        "LocalFunding": 9315531.0
+        "LocalFunding": 10862097,
+        "StateFunding": 19851922,
+        "FederalFunding": 4479816,
+        "OtherLocalFunding": 656418
     },
     "161921": {
         "NAME": "CONNALLY ISD",
@@ -21040,8 +22266,10 @@ var DistrictsData = {
         "CostOfCharters": "832,855.11",
         "CharterTransfers": "83",
         "Attendance": 2118.91,
-        "StateFunding": 15244517.0,
-        "LocalFunding": 7433557.0
+        "LocalFunding": 8660802,
+        "StateFunding": 15136462,
+        "FederalFunding": 4362593,
+        "OtherLocalFunding": 549714
     },
     "109914": {
         "NAME": "PENELOPE ISD",
@@ -21073,8 +22301,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 184.118,
-        "StateFunding": 2389525.0,
-        "LocalFunding": 327845.0
+        "LocalFunding": 388511,
+        "StateFunding": 2371500,
+        "FederalFunding": 203602,
+        "OtherLocalFunding": 115747
     },
     "109901": {
         "NAME": "ABBOTT ISD",
@@ -21106,8 +22336,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 258.498,
-        "StateFunding": 2279530.0,
-        "LocalFunding": 941406.0
+        "LocalFunding": 1057494,
+        "StateFunding": 2345211,
+        "FederalFunding": 172951,
+        "OtherLocalFunding": 238182
     },
     "161925": {
         "NAME": "GHOLSON ISD",
@@ -21139,8 +22371,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 211.68300000000002,
-        "StateFunding": 2198784.0,
-        "LocalFunding": 563863.0
+        "LocalFunding": 640067,
+        "StateFunding": 2203861,
+        "FederalFunding": 263038,
+        "OtherLocalFunding": 49425
     },
     "225907": {
         "NAME": "HARTS BLUFF ISD",
@@ -21172,8 +22406,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 658.2589999999999,
-        "StateFunding": 6124864.0,
-        "LocalFunding": 1632902.0
+        "LocalFunding": 1763270,
+        "StateFunding": 6480562,
+        "FederalFunding": 1399859,
+        "OtherLocalFunding": 102133
     },
     "194903": {
         "NAME": "RIVERCREST ISD",
@@ -21204,8 +22440,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 609.957,
-        "StateFunding": 5405055.0,
-        "LocalFunding": 2289618.0
+        "LocalFunding": 2629998,
+        "StateFunding": 5970749,
+        "FederalFunding": 800232,
+        "OtherLocalFunding": 222688
     },
     "194904": {
         "NAME": "CLARKSVILLE ISD",
@@ -21237,8 +22475,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 417.81699999999995,
-        "StateFunding": 3653203.0,
-        "LocalFunding": 2208936.0
+        "LocalFunding": 2552682,
+        "StateFunding": 3934803,
+        "FederalFunding": 1343263,
+        "OtherLocalFunding": 93567
     },
     "057912": {
         "NAME": "IRVING ISD",
@@ -21294,8 +22534,10 @@ var DistrictsData = {
         "CostOfCharters": "37,487,026.61",
         "CharterTransfers": "3,999",
         "Attendance": 30249.473,
-        "StateFunding": 150777105.0,
-        "LocalFunding": 141838791.0
+        "LocalFunding": 157112022,
+        "StateFunding": 154619846,
+        "FederalFunding": 58542885,
+        "OtherLocalFunding": 3904264
     },
     "057905": {
         "NAME": "DALLAS ISD",
@@ -21391,8 +22633,10 @@ var DistrictsData = {
         "CostOfCharters": "348,893,340.68",
         "CharterTransfers": "35,660",
         "Attendance": 128776.5,
-        "StateFunding": 112776963.0,
-        "LocalFunding": 1262608679.0
+        "LocalFunding": 1325366830,
+        "StateFunding": 143352797,
+        "FederalFunding": 337834923,
+        "OtherLocalFunding": 18478139
     },
     "091907": {
         "NAME": "TIOGA ISD",
@@ -21424,8 +22668,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 686.9,
-        "StateFunding": 6775430.0,
-        "LocalFunding": 1256789.0
+        "LocalFunding": 1410788,
+        "StateFunding": 7441120,
+        "FederalFunding": 350883,
+        "OtherLocalFunding": 632955
     },
     "049905": {
         "NAME": "CALLISBURG ISD",
@@ -21457,8 +22703,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1098.9,
-        "StateFunding": 3542271.0,
-        "LocalFunding": 7557173.0
+        "LocalFunding": 8232619,
+        "StateFunding": 3657781,
+        "FederalFunding": 956024,
+        "OtherLocalFunding": 247764
     },
     "091917": {
         "NAME": "GUNTER ISD",
@@ -21494,8 +22742,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 937.807,
-        "StateFunding": 6394890.0,
-        "LocalFunding": 3995639.0
+        "LocalFunding": 4637676,
+        "StateFunding": 6513368,
+        "FederalFunding": 1389522,
+        "OtherLocalFunding": 5499811
     },
     "043903": {
         "NAME": "CELINA ISD",
@@ -21543,8 +22793,10 @@ var DistrictsData = {
         "CostOfCharters": "195,503.93",
         "CharterTransfers": "21",
         "Attendance": 2834.0160000000005,
-        "StateFunding": 10439569.0,
-        "LocalFunding": 15354826.0
+        "LocalFunding": 17686280,
+        "StateFunding": 11134037,
+        "FederalFunding": 646547,
+        "OtherLocalFunding": 2919741
     },
     "043901": {
         "NAME": "ALLEN ISD",
@@ -21588,8 +22840,10 @@ var DistrictsData = {
         "CostOfCharters": "2,294,539.63",
         "CharterTransfers": "267",
         "Attendance": 20826.873,
-        "StateFunding": 29537511.0,
-        "LocalFunding": 140506712.0
+        "LocalFunding": 156917155,
+        "StateFunding": 32485065,
+        "FederalFunding": 15823984,
+        "OtherLocalFunding": 5825794
     },
     "169910": {
         "NAME": "FORESTBURG ISD",
@@ -21621,8 +22875,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 151.407,
-        "StateFunding": 170019.0,
-        "LocalFunding": 1755002.0
+        "LocalFunding": 1868054,
+        "StateFunding": 184205,
+        "FederalFunding": 358691,
+        "OtherLocalFunding": 64686
     },
     "249901": {
         "NAME": "ALVORD ISD",
@@ -21658,8 +22914,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 698.831,
-        "StateFunding": 4482253.0,
-        "LocalFunding": 3827900.0
+        "LocalFunding": 4494991,
+        "StateFunding": 4677029,
+        "FederalFunding": 716525,
+        "OtherLocalFunding": 219568
     },
     "057922": {
         "NAME": "COPPELL ISD",
@@ -21691,8 +22949,10 @@ var DistrictsData = {
         "CostOfCharters": "6,782,541.95",
         "CharterTransfers": "785",
         "Attendance": 12865.396,
-        "StateFunding": 9621923.0,
-        "LocalFunding": 125662263.0
+        "LocalFunding": 104667466,
+        "StateFunding": 10789354,
+        "FederalFunding": 6170801,
+        "OtherLocalFunding": 4880933
     },
     "057903": {
         "NAME": "CARROLLTON-FARMERS BRANCH ISD",
@@ -21744,8 +23004,10 @@ var DistrictsData = {
         "CostOfCharters": "36,631,188.60",
         "CharterTransfers": "3,597",
         "Attendance": 23073.482999999997,
-        "StateFunding": 39058436.0,
-        "LocalFunding": 227081290.0
+        "LocalFunding": 218887345,
+        "StateFunding": 41827701,
+        "FederalFunding": 40832005,
+        "OtherLocalFunding": 2694999
     },
     "043910": {
         "NAME": "PLANO ISD",
@@ -21785,8 +23047,10 @@ var DistrictsData = {
         "CostOfCharters": "10,893,158.63",
         "CharterTransfers": "1,243",
         "Attendance": 48199.049000000006,
-        "StateFunding": 26277365.0,
-        "LocalFunding": 534148064.0
+        "LocalFunding": 420996097,
+        "StateFunding": 44075416,
+        "FederalFunding": 44223847,
+        "OtherLocalFunding": 7328753
     },
     "220919": {
         "NAME": "CARROLL ISD",
@@ -21826,8 +23090,10 @@ var DistrictsData = {
         "CostOfCharters": "1,090,198.66",
         "CharterTransfers": "151",
         "Attendance": 8084.622,
-        "StateFunding": 8368861.0,
-        "LocalFunding": 84524472.0
+        "LocalFunding": 62247454,
+        "StateFunding": 12663160,
+        "FederalFunding": 3775387,
+        "OtherLocalFunding": 13081364
     },
     "220906": {
         "NAME": "GRAPEVINE-COLLEYVILLE ISD",
@@ -21879,8 +23145,10 @@ var DistrictsData = {
         "CostOfCharters": "778,562.52",
         "CharterTransfers": "99",
         "Attendance": 13129.787,
-        "StateFunding": 14785545.0,
-        "LocalFunding": 152333102.0
+        "LocalFunding": 101676490,
+        "StateFunding": 12700884,
+        "FederalFunding": 15691701,
+        "OtherLocalFunding": 16642552
     },
     "061912": {
         "NAME": "LAKE DALLAS ISD",
@@ -21920,8 +23188,10 @@ var DistrictsData = {
         "CostOfCharters": "3,047,319.50",
         "CharterTransfers": "327",
         "Attendance": 3661.2140000000004,
-        "StateFunding": 12662440.0,
-        "LocalFunding": 20619006.0
+        "LocalFunding": 23275660,
+        "StateFunding": 12794468,
+        "FederalFunding": 5275272,
+        "OtherLocalFunding": 493677
     },
     "061910": {
         "NAME": "ARGYLE ISD",
@@ -21957,8 +23227,10 @@ var DistrictsData = {
         "CostOfCharters": "596,785.21",
         "CharterTransfers": "64",
         "Attendance": 3800.8380000000006,
-        "StateFunding": 10314715.0,
-        "LocalFunding": 23170899.0
+        "LocalFunding": 25770880,
+        "StateFunding": 10832075,
+        "FederalFunding": 637246,
+        "OtherLocalFunding": 2204724
     },
     "061907": {
         "NAME": "AUBREY ISD",
@@ -21998,8 +23270,10 @@ var DistrictsData = {
         "CostOfCharters": "364,057.30",
         "CharterTransfers": "39",
         "Attendance": 2557.985,
-        "StateFunding": 12046535.0,
-        "LocalFunding": 11343397.0
+        "LocalFunding": 13244083,
+        "StateFunding": 12152923,
+        "FederalFunding": 1206996,
+        "OtherLocalFunding": 1595606
     },
     "061914": {
         "NAME": "LITTLE ELM ISD",
@@ -22035,8 +23309,10 @@ var DistrictsData = {
         "CostOfCharters": "4,984,123.39",
         "CharterTransfers": "549",
         "Attendance": 7752.638000000001,
-        "StateFunding": 20069576.0,
-        "LocalFunding": 48944507.0
+        "LocalFunding": 56166337,
+        "StateFunding": 21759892,
+        "FederalFunding": 7726635,
+        "OtherLocalFunding": 1889433
     },
     "061902": {
         "NAME": "LEWISVILLE ISD",
@@ -22084,8 +23360,10 @@ var DistrictsData = {
         "CostOfCharters": "28,432,133.44",
         "CharterTransfers": "3,396",
         "Attendance": 46852.695999999996,
-        "StateFunding": 44160923.0,
-        "LocalFunding": 410364270.0
+        "LocalFunding": 374800774,
+        "StateFunding": 46804225,
+        "FederalFunding": 69695853,
+        "OtherLocalFunding": 13443604
     },
     "043912": {
         "NAME": "PROSPER ISD",
@@ -22125,8 +23403,10 @@ var DistrictsData = {
         "CostOfCharters": "1,811,937.57",
         "CharterTransfers": "205",
         "Attendance": 19100.048000000003,
-        "StateFunding": 64878689.0,
-        "LocalFunding": 93745203.0
+        "LocalFunding": 109787749,
+        "StateFunding": 68841894,
+        "FederalFunding": 4706790,
+        "OtherLocalFunding": 14801198
     },
     "043905": {
         "NAME": "FRISCO ISD",
@@ -22178,8 +23458,10 @@ var DistrictsData = {
         "CostOfCharters": "16,649,315.43",
         "CharterTransfers": "1,951",
         "Attendance": 61742.079,
-        "StateFunding": 98864453.0,
-        "LocalFunding": 395889167.0
+        "LocalFunding": 450968616,
+        "StateFunding": 108749020,
+        "FederalFunding": 29429142,
+        "OtherLocalFunding": 34091065
     },
     "061908": {
         "NAME": "SANGER ISD",
@@ -22215,8 +23497,10 @@ var DistrictsData = {
         "CostOfCharters": "510,532.35",
         "CharterTransfers": "53",
         "Attendance": 2412.531,
-        "StateFunding": 12004378.0,
-        "LocalFunding": 11359762.0
+        "LocalFunding": 13180733,
+        "StateFunding": 12568172,
+        "FederalFunding": 4855949,
+        "OtherLocalFunding": 6133161
     },
     "249908": {
         "NAME": "SLIDELL ISD",
@@ -22256,8 +23540,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 310.161,
-        "StateFunding": 1233594.0,
-        "LocalFunding": 2530062.0
+        "LocalFunding": 2581012,
+        "StateFunding": 1327738,
+        "FederalFunding": 334872,
+        "OtherLocalFunding": 196864
     },
     "049903": {
         "NAME": "VALLEY VIEW ISD (COOKE)",
@@ -22284,8 +23570,10 @@ var DistrictsData = {
         "CostOfCharters": "1,208,571.74",
         "CharterTransfers": "108",
         "Attendance": 832.8790000000001,
-        "StateFunding": 6740892.0,
-        "LocalFunding": 3088938.0
+        "LocalFunding": 3515793,
+        "StateFunding": 8114687,
+        "FederalFunding": 2073760,
+        "OtherLocalFunding": 194182
     },
     "049906": {
         "NAME": "ERA ISD",
@@ -22321,8 +23609,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 460.788,
-        "StateFunding": 3674356.0,
-        "LocalFunding": 1697234.0
+        "LocalFunding": 1956721,
+        "StateFunding": 3743281,
+        "FederalFunding": 370402,
+        "OtherLocalFunding": 913731
     },
     "061903": {
         "NAME": "PILOT POINT ISD",
@@ -22357,8 +23647,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1251.305,
-        "StateFunding": 4707932.0,
-        "LocalFunding": 8157461.0
+        "LocalFunding": 9534749,
+        "StateFunding": 4662773,
+        "FederalFunding": 1407854,
+        "OtherLocalFunding": 835968
     },
     "061906": {
         "NAME": "PONDER ISD",
@@ -22394,8 +23686,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1544.475,
-        "StateFunding": 7434609.0,
-        "LocalFunding": 6550871.0
+        "LocalFunding": 7010867,
+        "StateFunding": 6836897,
+        "FederalFunding": 1648705,
+        "OtherLocalFunding": 1383391
     },
     "249905": {
         "NAME": "DECATUR ISD",
@@ -22427,8 +23721,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 3274.038,
-        "StateFunding": 7227052.0,
-        "LocalFunding": 22436892.0
+        "LocalFunding": 24007785,
+        "StateFunding": 7778856,
+        "FederalFunding": 4379643,
+        "OtherLocalFunding": 2199846
     },
     "061905": {
         "NAME": "KRUM ISD",
@@ -22472,8 +23768,10 @@ var DistrictsData = {
         "CostOfCharters": "163,473.62",
         "CharterTransfers": "17",
         "Attendance": 1981.833,
-        "StateFunding": 10469287.0,
-        "LocalFunding": 8634664.0
+        "LocalFunding": 10074666,
+        "StateFunding": 10415961,
+        "FederalFunding": 1323064,
+        "OtherLocalFunding": 696975
     },
     "061901": {
         "NAME": "DENTON ISD",
@@ -22517,8 +23815,10 @@ var DistrictsData = {
         "CostOfCharters": "13,137,442.74",
         "CharterTransfers": "1,453",
         "Attendance": 29038.485,
-        "StateFunding": 79060859.0,
-        "LocalFunding": 185101560.0
+        "LocalFunding": 196237460,
+        "StateFunding": 85585232,
+        "FederalFunding": 41747335,
+        "OtherLocalFunding": 6947965
     },
     "025908": {
         "NAME": "BROOKESMITH ISD",
@@ -22554,8 +23854,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 143.804,
-        "StateFunding": 1079257.0,
-        "LocalFunding": 1104750.0
+        "LocalFunding": 1276656,
+        "StateFunding": 952552,
+        "FederalFunding": 393970,
+        "OtherLocalFunding": 207980
     },
     "042903": {
         "NAME": "SANTA ANNA ISD",
@@ -22582,8 +23884,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 247.22099999999998,
-        "StateFunding": 2304356.0,
-        "LocalFunding": 987283.0
+        "LocalFunding": 1038208,
+        "StateFunding": 2426022,
+        "FederalFunding": 721285,
+        "OtherLocalFunding": 167711
     },
     "160901": {
         "NAME": "BRADY ISD",
@@ -22619,8 +23923,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 904.0,
-        "StateFunding": 6725146.0,
-        "LocalFunding": 3618296.0
+        "LocalFunding": 3838421,
+        "StateFunding": 6815237,
+        "FederalFunding": 2881550,
+        "OtherLocalFunding": 1908411
     },
     "042905": {
         "NAME": "PANTHER CREEK CONS ISD",
@@ -22651,8 +23957,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 135.078,
-        "StateFunding": 1026990.0,
-        "LocalFunding": 1199365.0
+        "LocalFunding": 1360685,
+        "StateFunding": 1044512,
+        "FederalFunding": 431349,
+        "OtherLocalFunding": 44826
     },
     "164901": {
         "NAME": "MENARD ISD",
@@ -22679,8 +23987,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 251.679,
-        "StateFunding": 1538356.0,
-        "LocalFunding": 1748006.0
+        "LocalFunding": 1904807,
+        "StateFunding": 1467027,
+        "FederalFunding": 1478273,
+        "OtherLocalFunding": 660122
     },
     "157901": {
         "NAME": "MASON ISD",
@@ -22716,8 +24026,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 658.9150000000002,
-        "StateFunding": 3461597.0,
-        "LocalFunding": 4229353.0
+        "LocalFunding": 4798427,
+        "StateFunding": 3726388,
+        "FederalFunding": 837917,
+        "OtherLocalFunding": 285354
     },
     "048901": {
         "NAME": "EDEN CONS ISD",
@@ -22753,8 +24065,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 218.78400000000002,
-        "StateFunding": 1694177.0,
-        "LocalFunding": 1689865.0
+        "LocalFunding": 1970953,
+        "StateFunding": 1710158,
+        "FederalFunding": 210540,
+        "OtherLocalFunding": 559123
     },
     "160904": {
         "NAME": "ROCHELLE ISD",
@@ -22781,8 +24095,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 186.632,
-        "StateFunding": 1650197.0,
-        "LocalFunding": 892849.0
+        "LocalFunding": 954176,
+        "StateFunding": 1657584,
+        "FederalFunding": 260932,
+        "OtherLocalFunding": 41792
     },
     "160905": {
         "NAME": "LOHN ISD",
@@ -22814,8 +24130,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 93.7,
-        "StateFunding": 1191977.0,
-        "LocalFunding": 723446.0
+        "LocalFunding": 809718,
+        "StateFunding": 1226386,
+        "FederalFunding": 206106,
+        "OtherLocalFunding": 126865
     },
     "206902": {
         "NAME": "RICHLAND SPRINGS ISD",
@@ -22842,8 +24160,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 105.763,
-        "StateFunding": 1012560.0,
-        "LocalFunding": 884411.0
+        "LocalFunding": 1001488,
+        "StateFunding": 1108697,
+        "FederalFunding": 162685,
+        "OtherLocalFunding": 73051
     },
     "048903": {
         "NAME": "PAINT ROCK ISD",
@@ -22870,8 +24190,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 219.02,
-        "StateFunding": 2714232.0,
-        "LocalFunding": 853211.0
+        "LocalFunding": 1042427,
+        "StateFunding": 2726339,
+        "FederalFunding": 369541,
+        "OtherLocalFunding": 170577
     },
     "094903": {
         "NAME": "NAVARRO ISD",
@@ -22907,8 +24229,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1782.7640000000001,
-        "StateFunding": 5616590.0,
-        "LocalFunding": 10028439.0
+        "LocalFunding": 11215449,
+        "StateFunding": 5821112,
+        "FederalFunding": 1907452,
+        "OtherLocalFunding": 865180
     },
     "016902": {
         "NAME": "BLANCO ISD",
@@ -22948,8 +24272,10 @@ var DistrictsData = {
         "CostOfCharters": "144,006.96",
         "CharterTransfers": "12",
         "Attendance": 964.9910000000001,
-        "StateFunding": 1897719.0,
-        "LocalFunding": 9724266.0
+        "LocalFunding": 10532280,
+        "StateFunding": 1904947,
+        "FederalFunding": 1454500,
+        "OtherLocalFunding": 540055
     },
     "046901": {
         "NAME": "NEW BRAUNFELS ISD",
@@ -22985,8 +24311,10 @@ var DistrictsData = {
         "CostOfCharters": "1,211,105.06",
         "CharterTransfers": "143",
         "Attendance": 8932.686,
-        "StateFunding": 21116410.0,
-        "LocalFunding": 55223040.0
+        "LocalFunding": 57172306,
+        "StateFunding": 22424832,
+        "FederalFunding": 8538412,
+        "OtherLocalFunding": 2043062
     },
     "094901": {
         "NAME": "SEGUIN ISD",
@@ -23022,8 +24350,10 @@ var DistrictsData = {
         "CostOfCharters": "1,571,036.22",
         "CharterTransfers": "185",
         "Attendance": 6325.960999999999,
-        "StateFunding": 24414766.0,
-        "LocalFunding": 33728826.0
+        "LocalFunding": 35779535,
+        "StateFunding": 25664399,
+        "FederalFunding": 13613390,
+        "OtherLocalFunding": 989752
     },
     "094904": {
         "NAME": "MARION ISD",
@@ -23059,8 +24389,10 @@ var DistrictsData = {
         "CostOfCharters": "195,384.26",
         "CharterTransfers": "19",
         "Attendance": 1371.622,
-        "StateFunding": 7598731.0,
-        "LocalFunding": 6764812.0
+        "LocalFunding": 7838814,
+        "StateFunding": 7723762,
+        "FederalFunding": 1804492,
+        "OtherLocalFunding": 304489
     },
     "071904": {
         "NAME": "SAN ELIZARIO ISD",
@@ -23092,8 +24424,10 @@ var DistrictsData = {
         "CostOfCharters": "862,971.14",
         "CharterTransfers": "84",
         "Attendance": 2918.462,
-        "StateFunding": 32125259.0,
-        "LocalFunding": 2269285.0
+        "LocalFunding": 2687737,
+        "StateFunding": 31363949,
+        "FederalFunding": 8279553,
+        "OtherLocalFunding": 85538
     },
     "071901": {
         "NAME": "CLINT ISD",
@@ -23129,8 +24463,10 @@ var DistrictsData = {
         "CostOfCharters": "8,577,812.70",
         "CharterTransfers": "871",
         "Attendance": 10300.613,
-        "StateFunding": 95874592.0,
-        "LocalFunding": 13893896.0
+        "LocalFunding": 16310370,
+        "StateFunding": 90415183,
+        "FederalFunding": 36077346,
+        "OtherLocalFunding": 2239793
     },
     "139909": {
         "NAME": "PARIS ISD",
@@ -23162,8 +24498,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 3352.757,
-        "StateFunding": 27223873.0,
-        "LocalFunding": 9209129.0
+        "LocalFunding": 10115880,
+        "StateFunding": 26798455,
+        "FederalFunding": 9049693,
+        "OtherLocalFunding": 755656
     },
     "139911": {
         "NAME": "NORTH LAMAR ISD",
@@ -23203,8 +24541,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2148.71,
-        "StateFunding": 7430200.0,
-        "LocalFunding": 12559802.0
+        "LocalFunding": 13358090,
+        "StateFunding": 7776782,
+        "FederalFunding": 3327401,
+        "OtherLocalFunding": 3729155
     },
     "112910": {
         "NAME": "SULPHUR BLUFF ISD",
@@ -23240,8 +24580,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 200.29600000000002,
-        "StateFunding": 1635027.0,
-        "LocalFunding": 1053154.0
+        "LocalFunding": 1191702,
+        "StateFunding": 1673114,
+        "FederalFunding": 279063,
+        "OtherLocalFunding": 183345
     },
     "139912": {
         "NAME": "PRAIRILAND ISD",
@@ -23273,8 +24615,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 957.975,
-        "StateFunding": 7408712.0,
-        "LocalFunding": 2872173.0
+        "LocalFunding": 3257415,
+        "StateFunding": 7480746,
+        "FederalFunding": 1385810,
+        "OtherLocalFunding": 174682
     },
     "139905": {
         "NAME": "CHISUM ISD",
@@ -23314,8 +24658,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 992.648,
-        "StateFunding": 744256.0,
-        "LocalFunding": 10310528.0
+        "LocalFunding": 10357108,
+        "StateFunding": 1384650,
+        "FederalFunding": 1707252,
+        "OtherLocalFunding": 452308
     },
     "074907": {
         "NAME": "HONEY GROVE ISD",
@@ -23355,8 +24701,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 555.4440000000001,
-        "StateFunding": 4895677.0,
-        "LocalFunding": 2042281.0
+        "LocalFunding": 2242593,
+        "StateFunding": 5195798,
+        "FederalFunding": 1358850,
+        "OtherLocalFunding": 274258
     },
     "234904": {
         "NAME": "GRAND SALINE ISD",
@@ -23388,8 +24736,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1016.993,
-        "StateFunding": 9131303.0,
-        "LocalFunding": 2898772.0
+        "LocalFunding": 3190807,
+        "StateFunding": 9246431,
+        "FederalFunding": 3035786,
+        "OtherLocalFunding": 477266
     },
     "234909": {
         "NAME": "FRUITVALE ISD",
@@ -23421,8 +24771,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 388.17,
-        "StateFunding": 4811080.0,
-        "LocalFunding": 537272.0
+        "LocalFunding": 564275,
+        "StateFunding": 5017339,
+        "FederalFunding": 927370,
+        "OtherLocalFunding": 143240
     },
     "234903": {
         "NAME": "EDGEWOOD ISD (VAN ZANDT)",
@@ -23454,8 +24806,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 891.388,
-        "StateFunding": 8006801.0,
-        "LocalFunding": 2567478.0
+        "LocalFunding": 3053353,
+        "StateFunding": 8367232,
+        "FederalFunding": 1242759,
+        "OtherLocalFunding": 490190
     },
     "043914": {
         "NAME": "WYLIE ISD (COLLIN)",
@@ -23491,8 +24845,10 @@ var DistrictsData = {
         "CostOfCharters": "1,747,193.81",
         "CharterTransfers": "198",
         "Attendance": 16879.311999999998,
-        "StateFunding": 78994635.0,
-        "LocalFunding": 66863295.0
+        "LocalFunding": 77251476,
+        "StateFunding": 81513545,
+        "FederalFunding": 11130273,
+        "OtherLocalFunding": 4410643
     },
     "071906": {
         "NAME": "ANTHONY ISD",
@@ -23524,8 +24880,10 @@ var DistrictsData = {
         "CostOfCharters": "143,007.71",
         "CharterTransfers": "13",
         "Attendance": 713.3530000000001,
-        "StateFunding": 6931605.0,
-        "LocalFunding": 1812285.0
+        "LocalFunding": 1931944,
+        "StateFunding": 6907761,
+        "FederalFunding": 1434161,
+        "OtherLocalFunding": 59917
     },
     "071902": {
         "NAME": "EL PASO ISD",
@@ -23569,8 +24927,10 @@ var DistrictsData = {
         "CostOfCharters": "32,009,189.43",
         "CharterTransfers": "3,339",
         "Attendance": 46389.268,
-        "StateFunding": 305904149.0,
-        "LocalFunding": 159633604.0
+        "LocalFunding": 182837972,
+        "StateFunding": 309220974,
+        "FederalFunding": 112375089,
+        "OtherLocalFunding": 2785585
     },
     "071907": {
         "NAME": "CANUTILLO ISD",
@@ -23602,8 +24962,10 @@ var DistrictsData = {
         "CostOfCharters": "4,096,458.72",
         "CharterTransfers": "427",
         "Attendance": 5734.524,
-        "StateFunding": 31210076.0,
-        "LocalFunding": 23470942.0
+        "LocalFunding": 26950431,
+        "StateFunding": 31297456,
+        "FederalFunding": 12610337,
+        "OtherLocalFunding": 418904
     },
     "071905": {
         "NAME": "YSLETA ISD",
@@ -23651,8 +25013,10 @@ var DistrictsData = {
         "CostOfCharters": "17,102,318.59",
         "CharterTransfers": "1,754",
         "Attendance": 36054.818,
-        "StateFunding": 312176033.0,
-        "LocalFunding": 70421296.0
+        "LocalFunding": 76020056,
+        "StateFunding": 305457900,
+        "FederalFunding": 73205743,
+        "OtherLocalFunding": 2703453
     },
     "071909": {
         "NAME": "SOCORRO ISD",
@@ -23692,8 +25056,10 @@ var DistrictsData = {
         "CostOfCharters": "29,280,343.16",
         "CharterTransfers": "3,406",
         "Attendance": 43921.289,
-        "StateFunding": 312055096.0,
-        "LocalFunding": 103189096.0
+        "LocalFunding": 108525920,
+        "StateFunding": 301133226,
+        "FederalFunding": 72603021,
+        "OtherLocalFunding": 1436408
     },
     "232902": {
         "NAME": "SABINAL ISD",
@@ -23725,8 +25091,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 376.59,
-        "StateFunding": 1211793.0,
-        "LocalFunding": 3803651.0
+        "LocalFunding": 4061405,
+        "StateFunding": 2372019,
+        "FederalFunding": 1382004,
+        "OtherLocalFunding": 195873
     },
     "232903": {
         "NAME": "UVALDE CONS ISD",
@@ -23762,8 +25130,10 @@ var DistrictsData = {
         "CostOfCharters": "363,467.32",
         "CharterTransfers": "42",
         "Attendance": 3548.438,
-        "StateFunding": 23226235.0,
-        "LocalFunding": 12203690.0
+        "LocalFunding": 13282335,
+        "StateFunding": 24908722,
+        "FederalFunding": 12412122,
+        "OtherLocalFunding": 948463
     },
     "232904": {
         "NAME": "UTOPIA ISD",
@@ -23799,8 +25169,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 192.895,
-        "StateFunding": 361177.0,
-        "LocalFunding": 2007014.0
+        "LocalFunding": 2138552,
+        "StateFunding": 471488,
+        "FederalFunding": 265421,
+        "OtherLocalFunding": 114347
     },
     "010901": {
         "NAME": "MEDINA ISD",
@@ -23832,8 +25204,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 233.63099999999997,
-        "StateFunding": 977799.0,
-        "LocalFunding": 2270751.0
+        "LocalFunding": 2766060,
+        "StateFunding": 1327674,
+        "FederalFunding": 1520525,
+        "OtherLocalFunding": 165501
     },
     "249902": {
         "NAME": "BOYD ISD",
@@ -23865,8 +25239,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1157.17,
-        "StateFunding": 4990418.0,
-        "LocalFunding": 6520380.0
+        "LocalFunding": 7000160,
+        "StateFunding": 5533453,
+        "FederalFunding": 1440676,
+        "OtherLocalFunding": 322887
     },
     "184902": {
         "NAME": "SPRINGTOWN ISD",
@@ -23898,8 +25274,10 @@ var DistrictsData = {
         "CostOfCharters": "106,321.91",
         "CharterTransfers": "11",
         "Attendance": 3399.172,
-        "StateFunding": 19589586.0,
-        "LocalFunding": 13734461.0
+        "LocalFunding": 16186598,
+        "StateFunding": 19564306,
+        "FederalFunding": 3946024,
+        "OtherLocalFunding": 1158696
     },
     "184903": {
         "NAME": "WEATHERFORD ISD",
@@ -23931,8 +25309,10 @@ var DistrictsData = {
         "CostOfCharters": "1,031,579.14",
         "CharterTransfers": "114",
         "Attendance": 7339.139,
-        "StateFunding": 19579044.0,
-        "LocalFunding": 46947626.0
+        "LocalFunding": 54479685,
+        "StateFunding": 20582529,
+        "FederalFunding": 13362436,
+        "OtherLocalFunding": 3659393
     },
     "220907": {
         "NAME": "KELLER ISD",
@@ -23984,8 +25364,10 @@ var DistrictsData = {
         "CostOfCharters": "13,384,697.20",
         "CharterTransfers": "1,535",
         "Attendance": 32774.907,
-        "StateFunding": 89248107.0,
-        "LocalFunding": 185367402.0
+        "LocalFunding": 212968931,
+        "StateFunding": 93677159,
+        "FederalFunding": 37189556,
+        "OtherLocalFunding": 7254790
     },
     "061911": {
         "NAME": "NORTHWEST ISD",
@@ -24041,8 +25423,10 @@ var DistrictsData = {
         "CostOfCharters": "5,950,143.94",
         "CharterTransfers": "734",
         "Attendance": 24592.343000000004,
-        "StateFunding": 21973492.0,
-        "LocalFunding": 193672267.0
+        "LocalFunding": 190112071,
+        "StateFunding": 28860722,
+        "FederalFunding": 14890868,
+        "OtherLocalFunding": 10722019
     },
     "015909": {
         "NAME": "SOMERSET ISD",
@@ -24082,8 +25466,10 @@ var DistrictsData = {
         "CostOfCharters": "632,592.70",
         "CharterTransfers": "63",
         "Attendance": 3629.82,
-        "StateFunding": 36112240.0,
-        "LocalFunding": 5297268.0
+        "LocalFunding": 6379809,
+        "StateFunding": 35863758,
+        "FederalFunding": 7798487,
+        "OtherLocalFunding": 727872
     },
     "163902": {
         "NAME": "D'HANIS ISD",
@@ -24115,8 +25501,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 303.01,
-        "StateFunding": 1614891.0,
-        "LocalFunding": 1944301.0
+        "LocalFunding": 2045901,
+        "StateFunding": 2133288,
+        "FederalFunding": 404827,
+        "OtherLocalFunding": 131455
     },
     "007901": {
         "NAME": "CHARLOTTE ISD",
@@ -24156,8 +25544,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 388.92600000000004,
-        "StateFunding": 2222658.0,
-        "LocalFunding": 2897544.0
+        "LocalFunding": 3599130,
+        "StateFunding": 2455218,
+        "FederalFunding": 861808,
+        "OtherLocalFunding": 216244
     },
     "163904": {
         "NAME": "HONDO ISD",
@@ -24193,8 +25583,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1661.385,
-        "StateFunding": 8391056.0,
-        "LocalFunding": 7140349.0
+        "LocalFunding": 7695592,
+        "StateFunding": 9121838,
+        "FederalFunding": 2214189,
+        "OtherLocalFunding": 560425
     },
     "015915": {
         "NAME": "NORTHSIDE ISD (BEXAR)",
@@ -24258,8 +25650,10 @@ var DistrictsData = {
         "CostOfCharters": "92,235,892.60",
         "CharterTransfers": "11,343",
         "Attendance": 96670.577,
-        "StateFunding": 260412711.0,
-        "LocalFunding": 556650064.0
+        "LocalFunding": 577684110,
+        "StateFunding": 260766668,
+        "FederalFunding": 117691148,
+        "OtherLocalFunding": 22351116
     },
     "015912": {
         "NAME": "SOUTHWEST ISD",
@@ -24303,8 +25697,10 @@ var DistrictsData = {
         "CostOfCharters": "15,846,500.51",
         "CharterTransfers": "1,645",
         "Attendance": 12277.602000000003,
-        "StateFunding": 92854516.0,
-        "LocalFunding": 36133903.0
+        "LocalFunding": 40329802,
+        "StateFunding": 94854111,
+        "FederalFunding": 26569910,
+        "OtherLocalFunding": 2397628
     },
     "010902": {
         "NAME": "BANDERA ISD",
@@ -24336,8 +25732,10 @@ var DistrictsData = {
         "CostOfCharters": "141,085.77",
         "CharterTransfers": "15",
         "Attendance": 2057.812,
-        "StateFunding": 3274650.0,
-        "LocalFunding": 17875058.0
+        "LocalFunding": 16425229,
+        "StateFunding": 3698091,
+        "FederalFunding": 3321525,
+        "OtherLocalFunding": 987596
     },
     "130901": {
         "NAME": "BOERNE ISD",
@@ -24377,8 +25775,10 @@ var DistrictsData = {
         "CostOfCharters": "1,014,866.22",
         "CharterTransfers": "128",
         "Attendance": 9275.463,
-        "StateFunding": 6301063.0,
-        "LocalFunding": 71027099.0
+        "LocalFunding": 71977880,
+        "StateFunding": 6621171,
+        "FederalFunding": 5115327,
+        "OtherLocalFunding": 3881268
     },
     "015910": {
         "NAME": "NORTH EAST ISD",
@@ -24438,8 +25838,10 @@ var DistrictsData = {
         "CostOfCharters": "62,053,873.22",
         "CharterTransfers": "7,493",
         "Attendance": 57947.72800000001,
-        "StateFunding": 87996611.0,
-        "LocalFunding": 397392150.0
+        "LocalFunding": 415159842,
+        "StateFunding": 102699512,
+        "FederalFunding": 84909642,
+        "OtherLocalFunding": 12240184
     },
     "015905": {
         "NAME": "EDGEWOOD ISD (BEXAR)",
@@ -24487,8 +25889,10 @@ var DistrictsData = {
         "CostOfCharters": "26,289,935.02",
         "CharterTransfers": "2,739",
         "Attendance": 8090.808000000001,
-        "StateFunding": 74180305.0,
-        "LocalFunding": 15471300.0
+        "LocalFunding": 18016106,
+        "StateFunding": 73150907,
+        "FederalFunding": 33791574,
+        "OtherLocalFunding": 1525647
     },
     "015907": {
         "NAME": "SAN ANTONIO ISD",
@@ -24560,8 +25964,10 @@ var DistrictsData = {
         "CostOfCharters": "99,697,963.12",
         "CharterTransfers": "10,681",
         "Attendance": 39178.885,
-        "StateFunding": 223079707.0,
-        "LocalFunding": 188413166.0
+        "LocalFunding": 215802756,
+        "StateFunding": 227209273,
+        "FederalFunding": 142268969,
+        "OtherLocalFunding": 11418397
     },
     "015913": {
         "NAME": "LACKLAND ISD",
@@ -24593,8 +25999,10 @@ var DistrictsData = {
         "CostOfCharters": "146,037.75",
         "CharterTransfers": "13",
         "Attendance": 970.437,
-        "StateFunding": 9684654.0,
-        "LocalFunding": 0.0
+        "LocalFunding": 0,
+        "StateFunding": 9819389,
+        "FederalFunding": 10669717,
+        "OtherLocalFunding": 1300381
     },
     "163903": {
         "NAME": "NATALIA ISD",
@@ -24626,8 +26034,10 @@ var DistrictsData = {
         "CostOfCharters": "112,487.29",
         "CharterTransfers": "10",
         "Attendance": 948.3740000000001,
-        "StateFunding": 9184467.0,
-        "LocalFunding": 2209703.0
+        "LocalFunding": 2669748,
+        "StateFunding": 9171004,
+        "FederalFunding": 1911261,
+        "OtherLocalFunding": 179307
     },
     "007906": {
         "NAME": "POTEET ISD",
@@ -24659,8 +26069,10 @@ var DistrictsData = {
         "CostOfCharters": "115,875.47",
         "CharterTransfers": "12",
         "Attendance": 1392.7440000000001,
-        "StateFunding": 11342009.0,
-        "LocalFunding": 4025201.0
+        "LocalFunding": 4356000,
+        "StateFunding": 11272562,
+        "FederalFunding": 2842612,
+        "OtherLocalFunding": 154058
     },
     "007904": {
         "NAME": "LYTLE ISD",
@@ -24696,8 +26108,10 @@ var DistrictsData = {
         "CostOfCharters": "112,084.48",
         "CharterTransfers": "12",
         "Attendance": 1537.4660000000001,
-        "StateFunding": 13013851.0,
-        "LocalFunding": 3547128.0
+        "LocalFunding": 4093759,
+        "StateFunding": 12811263,
+        "FederalFunding": 3725997,
+        "OtherLocalFunding": 210285
     },
     "163901": {
         "NAME": "DEVINE ISD",
@@ -24733,8 +26147,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1822.218,
-        "StateFunding": 13858734.0,
-        "LocalFunding": 4555787.0
+        "LocalFunding": 5420119,
+        "StateFunding": 13850112,
+        "FederalFunding": 2331617,
+        "OtherLocalFunding": 284796
     },
     "163908": {
         "NAME": "MEDINA VALLEY ISD",
@@ -24774,8 +26190,10 @@ var DistrictsData = {
         "CostOfCharters": "1,497,845.46",
         "CharterTransfers": "181",
         "Attendance": 5844.420999999999,
-        "StateFunding": 29911710.0,
-        "LocalFunding": 20871544.0
+        "LocalFunding": 22321947,
+        "StateFunding": 31400787,
+        "FederalFunding": 7619890,
+        "OtherLocalFunding": 743828
     },
     "220920": {
         "NAME": "WHITE SETTLEMENT ISD",
@@ -24815,8 +26233,10 @@ var DistrictsData = {
         "CostOfCharters": "3,721,949.40",
         "CharterTransfers": "457",
         "Attendance": 6187.353,
-        "StateFunding": 31317086.0,
-        "LocalFunding": 22614639.0
+        "LocalFunding": 23723921,
+        "StateFunding": 31309687,
+        "FederalFunding": 10940956,
+        "OtherLocalFunding": 1969864
     },
     "220910": {
         "NAME": "LAKE WORTH ISD",
@@ -24856,8 +26276,10 @@ var DistrictsData = {
         "CostOfCharters": "3,036,082.86",
         "CharterTransfers": "294",
         "Attendance": 3019.284,
-        "StateFunding": 22809458.0,
-        "LocalFunding": 10522658.0
+        "LocalFunding": 12089876,
+        "StateFunding": 23270272,
+        "FederalFunding": 9600877,
+        "OtherLocalFunding": 681181
     },
     "220916": {
         "NAME": "HURST-EULESS-BEDFORD ISD",
@@ -24905,8 +26327,10 @@ var DistrictsData = {
         "CostOfCharters": "12,179,712.78",
         "CharterTransfers": "1,416",
         "Attendance": 21527.07,
-        "StateFunding": 45007022.0,
-        "LocalFunding": 146761067.0
+        "LocalFunding": 152609301,
+        "StateFunding": 46207181,
+        "FederalFunding": 29468254,
+        "OtherLocalFunding": 4954353
     },
     "220918": {
         "NAME": "EAGLE MOUNTAIN-SAGINAW ISD",
@@ -24958,8 +26382,10 @@ var DistrictsData = {
         "CostOfCharters": "13,334,552.36",
         "CharterTransfers": "1,496",
         "Attendance": 20272.16,
-        "StateFunding": 73298037.0,
-        "LocalFunding": 103477062.0
+        "LocalFunding": 117858539,
+        "StateFunding": 78301537,
+        "FederalFunding": 25126628,
+        "OtherLocalFunding": 3058433
     },
     "220917": {
         "NAME": "CASTLEBERRY ISD",
@@ -24999,8 +26425,10 @@ var DistrictsData = {
         "CostOfCharters": "1,559,821.60",
         "CharterTransfers": "152",
         "Attendance": 3346.7130000000006,
-        "StateFunding": 28279350.0,
-        "LocalFunding": 8421332.0
+        "LocalFunding": 9721034,
+        "StateFunding": 27943487,
+        "FederalFunding": 6910500,
+        "OtherLocalFunding": 579815
     },
     "220902": {
         "NAME": "BIRDVILLE ISD",
@@ -25048,8 +26476,10 @@ var DistrictsData = {
         "CostOfCharters": "11,543,580.32",
         "CharterTransfers": "1,363",
         "Attendance": 21347.128000000004,
-        "StateFunding": 82952676.0,
-        "LocalFunding": 105688624.0
+        "LocalFunding": 111193672,
+        "StateFunding": 86912155,
+        "FederalFunding": 33540024,
+        "OtherLocalFunding": 4702289
     },
     "220915": {
         "NAME": "AZLE ISD",
@@ -25089,8 +26519,10 @@ var DistrictsData = {
         "CostOfCharters": "716,448.36",
         "CharterTransfers": "81",
         "Attendance": 6188.594,
-        "StateFunding": 25311741.0,
-        "LocalFunding": 29978965.0
+        "LocalFunding": 34982103,
+        "StateFunding": 26483826,
+        "FederalFunding": 6782676,
+        "OtherLocalFunding": 1047798
     },
     "184907": {
         "NAME": "ALEDO ISD",
@@ -25130,8 +26562,10 @@ var DistrictsData = {
         "CostOfCharters": "434,856.45",
         "CharterTransfers": "50",
         "Attendance": 6466.078,
-        "StateFunding": 15032538.0,
-        "LocalFunding": 38591057.0
+        "LocalFunding": 44212105,
+        "StateFunding": 15602744,
+        "FederalFunding": 3618775,
+        "OtherLocalFunding": 2463398
     },
     "220912": {
         "NAME": "CROWLEY ISD",
@@ -25179,8 +26613,10 @@ var DistrictsData = {
         "CostOfCharters": "24,881,877.91",
         "CharterTransfers": "2,612",
         "Attendance": 14896.305,
-        "StateFunding": 69203500.0,
-        "LocalFunding": 73605489.0
+        "LocalFunding": 80195436,
+        "StateFunding": 71934625,
+        "FederalFunding": 22749918,
+        "OtherLocalFunding": 3465616
     },
     "220905": {
         "NAME": "FORT WORTH ISD",
@@ -25248,8 +26684,10 @@ var DistrictsData = {
         "CostOfCharters": "120,283,552.34",
         "CharterTransfers": "12,438",
         "Attendance": 68188.074,
-        "StateFunding": 293956405.0,
-        "LocalFunding": 387626151.0
+        "LocalFunding": 454710798,
+        "StateFunding": 302825144,
+        "FederalFunding": 163194996,
+        "OtherLocalFunding": 11969687
     },
     "126911": {
         "NAME": "GODLEY ISD",
@@ -25293,8 +26731,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2297.108,
-        "StateFunding": 12292527.0,
-        "LocalFunding": 9363655.0
+        "LocalFunding": 9957609,
+        "StateFunding": 12761736,
+        "FederalFunding": 6118356,
+        "OtherLocalFunding": 3583443
     },
     "126906": {
         "NAME": "KEENE ISD",
@@ -25326,8 +26766,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1021.0400000000002,
-        "StateFunding": 10641423.0,
-        "LocalFunding": 1825988.0
+        "LocalFunding": 2094792,
+        "StateFunding": 10466272,
+        "FederalFunding": 1729808,
+        "OtherLocalFunding": 312192
     },
     "126905": {
         "NAME": "JOSHUA ISD",
@@ -25359,8 +26801,10 @@ var DistrictsData = {
         "CostOfCharters": "125,824.16",
         "CharterTransfers": "14",
         "Attendance": 5316.3910000000005,
-        "StateFunding": 32181101.0,
-        "LocalFunding": 16029538.0
+        "LocalFunding": 18627900,
+        "StateFunding": 32156331,
+        "FederalFunding": 7836005,
+        "OtherLocalFunding": 1213792
     },
     "126904": {
         "NAME": "GRANDVIEW ISD",
@@ -25396,8 +26840,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1270.636,
-        "StateFunding": 9268602.0,
-        "LocalFunding": 3283634.0
+        "LocalFunding": 3488946,
+        "StateFunding": 9490441,
+        "FederalFunding": 1089876,
+        "OtherLocalFunding": 2921922
     },
     "220908": {
         "NAME": "MANSFIELD ISD",
@@ -25445,8 +26891,10 @@ var DistrictsData = {
         "CostOfCharters": "12,000,271.58",
         "CharterTransfers": "1,482",
         "Attendance": 33188.511,
-        "StateFunding": 135352403.0,
-        "LocalFunding": 146800477.0
+        "LocalFunding": 153000644,
+        "StateFunding": 138216969,
+        "FederalFunding": 39437582,
+        "OtherLocalFunding": 7010662
     },
     "070908": {
         "NAME": "MIDLOTHIAN ISD",
@@ -25478,8 +26926,10 @@ var DistrictsData = {
         "CostOfCharters": "827,502.35",
         "CharterTransfers": "103",
         "Attendance": 9594.991,
-        "StateFunding": 38828332.0,
-        "LocalFunding": 44070665.0
+        "LocalFunding": 44652200,
+        "StateFunding": 40151631,
+        "FederalFunding": 8695861,
+        "OtherLocalFunding": 12470183
     },
     "220914": {
         "NAME": "KENNEDALE ISD",
@@ -25519,8 +26969,10 @@ var DistrictsData = {
         "CostOfCharters": "1,118,166.59",
         "CharterTransfers": "121",
         "Attendance": 2716.052,
-        "StateFunding": 9398481.0,
-        "LocalFunding": 15212661.0
+        "LocalFunding": 17567587,
+        "StateFunding": 10365855,
+        "FederalFunding": 2813168,
+        "OtherLocalFunding": 3779706
     },
     "220904": {
         "NAME": "EVERMAN ISD",
@@ -25560,8 +27012,10 @@ var DistrictsData = {
         "CostOfCharters": "8,066,719.47",
         "CharterTransfers": "787",
         "Attendance": 5456.72,
-        "StateFunding": 42528867.0,
-        "LocalFunding": 14329674.0
+        "LocalFunding": 16803178,
+        "StateFunding": 43130269,
+        "FederalFunding": 10852187,
+        "OtherLocalFunding": 331358
     },
     "220901": {
         "NAME": "ARLINGTON ISD",
@@ -25621,8 +27075,10 @@ var DistrictsData = {
         "CostOfCharters": "68,521,134.13",
         "CharterTransfers": "7,355",
         "Attendance": 51548.093,
-        "StateFunding": 184462686.0,
-        "LocalFunding": 295350905.0
+        "LocalFunding": 347696109,
+        "StateFunding": 194088682,
+        "FederalFunding": 65237873,
+        "OtherLocalFunding": 5087303
     },
     "057910": {
         "NAME": "GRAND PRAIRIE ISD",
@@ -25670,8 +27126,10 @@ var DistrictsData = {
         "CostOfCharters": "27,553,158.32",
         "CharterTransfers": "2,901",
         "Attendance": 25937.717,
-        "StateFunding": 186336690.0,
-        "LocalFunding": 77803840.0
+        "LocalFunding": 94411384,
+        "StateFunding": 184508299,
+        "FederalFunding": 41595148,
+        "OtherLocalFunding": 6642626
     },
     "126908": {
         "NAME": "VENUS ISD",
@@ -25698,8 +27156,10 @@ var DistrictsData = {
         "CostOfCharters": "292,849.99",
         "CharterTransfers": "30",
         "Attendance": 2071.9770000000003,
-        "StateFunding": 18873037.0,
-        "LocalFunding": 3477311.0
+        "LocalFunding": 4050991,
+        "StateFunding": 18950360,
+        "FederalFunding": 2575797,
+        "OtherLocalFunding": 1056173
     },
     "126902": {
         "NAME": "BURLESON ISD",
@@ -25743,8 +27203,10 @@ var DistrictsData = {
         "CostOfCharters": "691,188.17",
         "CharterTransfers": "79",
         "Attendance": 11975.865,
-        "StateFunding": 55147070.0,
-        "LocalFunding": 48630799.0
+        "LocalFunding": 56123934,
+        "StateFunding": 56228481,
+        "FederalFunding": 14331163,
+        "OtherLocalFunding": 2387734
     },
     "126901": {
         "NAME": "ALVARADO ISD",
@@ -25776,8 +27238,10 @@ var DistrictsData = {
         "CostOfCharters": "86,096.78",
         "CharterTransfers": "10",
         "Attendance": 3387.187,
-        "StateFunding": 17039061.0,
-        "LocalFunding": 13348924.0
+        "LocalFunding": 14331736,
+        "StateFunding": 17425052,
+        "FederalFunding": 4885313,
+        "OtherLocalFunding": 1048869
     },
     "112905": {
         "NAME": "CUMBY ISD",
@@ -25809,8 +27273,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 379.3,
-        "StateFunding": 4436965.0,
-        "LocalFunding": 796919.0
+        "LocalFunding": 920049,
+        "StateFunding": 4473116,
+        "FederalFunding": 478468,
+        "OtherLocalFunding": 162262
     },
     "112906": {
         "NAME": "NORTH HOPKINS ISD",
@@ -25842,8 +27308,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 515.638,
-        "StateFunding": 6102606.0,
-        "LocalFunding": 934420.0
+        "LocalFunding": 1077099,
+        "StateFunding": 6140050,
+        "FederalFunding": 797359,
+        "OtherLocalFunding": 360668
     },
     "116910": {
         "NAME": "CAMPBELL ISD",
@@ -25875,8 +27343,10 @@ var DistrictsData = {
         "CostOfCharters": "127,556.28",
         "CharterTransfers": "10",
         "Attendance": 261.075,
-        "StateFunding": 2522379.0,
-        "LocalFunding": 1096854.0
+        "LocalFunding": 1157693,
+        "StateFunding": 2593714,
+        "FederalFunding": 600558,
+        "OtherLocalFunding": 73323
     },
     "060902": {
         "NAME": "COOPER ISD",
@@ -25912,8 +27382,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 753.822,
-        "StateFunding": 7179634.0,
-        "LocalFunding": 2199730.0
+        "LocalFunding": 2603585,
+        "StateFunding": 7343175,
+        "FederalFunding": 1319970,
+        "OtherLocalFunding": 239348
     },
     "112907": {
         "NAME": "MILLER GROVE ISD",
@@ -25949,8 +27421,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 298.397,
-        "StateFunding": 3503848.0,
-        "LocalFunding": 642003.0
+        "LocalFunding": 751769,
+        "StateFunding": 3481262,
+        "FederalFunding": 364024,
+        "OtherLocalFunding": 93098
     },
     "116916": {
         "NAME": "BOLES ISD",
@@ -25982,8 +27456,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 463.17800000000005,
-        "StateFunding": 6431519.0,
-        "LocalFunding": 201262.0
+        "LocalFunding": 244054,
+        "StateFunding": 6132043,
+        "FederalFunding": 2250974,
+        "OtherLocalFunding": 156129
     },
     "116906": {
         "NAME": "LONE OAK ISD",
@@ -26019,8 +27495,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 915.675,
-        "StateFunding": 7224788.0,
-        "LocalFunding": 2770892.0
+        "LocalFunding": 2881294,
+        "StateFunding": 6147647,
+        "FederalFunding": 1304796,
+        "OtherLocalFunding": 502611
     },
     "129906": {
         "NAME": "TERRELL ISD",
@@ -26056,8 +27534,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 4333.075,
-        "StateFunding": 24460967.0,
-        "LocalFunding": 19004389.0
+        "LocalFunding": 22300414,
+        "StateFunding": 26714885,
+        "FederalFunding": 8485104,
+        "OtherLocalFunding": 984173
     },
     "129903": {
         "NAME": "KAUFMAN ISD",
@@ -26089,8 +27569,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 3728.215,
-        "StateFunding": 28842180.0,
-        "LocalFunding": 9149735.0
+        "LocalFunding": 10707949,
+        "StateFunding": 28404504,
+        "FederalFunding": 5725467,
+        "OtherLocalFunding": 1159261
     },
     "116908": {
         "NAME": "QUINLAN ISD",
@@ -26126,8 +27608,10 @@ var DistrictsData = {
         "CostOfCharters": "407,232.38",
         "CharterTransfers": "43",
         "Attendance": 2344.636,
-        "StateFunding": 14270980.0,
-        "LocalFunding": 9137242.0
+        "LocalFunding": 10643849,
+        "StateFunding": 14677973,
+        "FederalFunding": 5547464,
+        "OtherLocalFunding": 590380
     },
     "234907": {
         "NAME": "WILLS POINT ISD",
@@ -26163,8 +27647,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2296.121,
-        "StateFunding": 16319675.0,
-        "LocalFunding": 7332761.0
+        "LocalFunding": 8683719,
+        "StateFunding": 16409238,
+        "FederalFunding": 3268581,
+        "OtherLocalFunding": 452386
     },
     "129902": {
         "NAME": "FORNEY ISD",
@@ -26196,8 +27682,10 @@ var DistrictsData = {
         "CostOfCharters": "525,750.21",
         "CharterTransfers": "64",
         "Attendance": 12179.673999999999,
-        "StateFunding": 57648165.0,
-        "LocalFunding": 45442522.0
+        "LocalFunding": 48721938,
+        "StateFunding": 57619338,
+        "FederalFunding": 7729044,
+        "OtherLocalFunding": 2349635
     },
     "199902": {
         "NAME": "ROYSE CITY ISD",
@@ -26237,8 +27725,10 @@ var DistrictsData = {
         "CostOfCharters": "2,160,084.02",
         "CharterTransfers": "241",
         "Attendance": 6643.286,
-        "StateFunding": 37783790.0,
-        "LocalFunding": 21826776.0
+        "LocalFunding": 25442019,
+        "StateFunding": 37038800,
+        "FederalFunding": 5137679,
+        "OtherLocalFunding": 2505195
     },
     "199901": {
         "NAME": "ROCKWALL ISD",
@@ -26278,8 +27768,10 @@ var DistrictsData = {
         "CostOfCharters": "1,170,311.24",
         "CharterTransfers": "147",
         "Attendance": 16289.413,
-        "StateFunding": 32634432.0,
-        "LocalFunding": 99611644.0
+        "LocalFunding": 105419460,
+        "StateFunding": 33878316,
+        "FederalFunding": 11763677,
+        "OtherLocalFunding": 4355871
     },
     "060914": {
         "NAME": "FANNINDEL ISD",
@@ -26323,8 +27815,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 143.114,
-        "StateFunding": 1679379.0,
-        "LocalFunding": 688414.0
+        "LocalFunding": 824836,
+        "StateFunding": 1743124,
+        "FederalFunding": 246230,
+        "OtherLocalFunding": 165404
     },
     "116903": {
         "NAME": "COMMERCE ISD",
@@ -26360,8 +27854,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1408.402,
-        "StateFunding": 9995339.0,
-        "LocalFunding": 4816961.0
+        "LocalFunding": 5726091,
+        "StateFunding": 10214233,
+        "FederalFunding": 4137688,
+        "OtherLocalFunding": 1081742
     },
     "116901": {
         "NAME": "CADDO MILLS ISD",
@@ -26393,8 +27889,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1899.7979999999998,
-        "StateFunding": 12595967.0,
-        "LocalFunding": 5727760.0
+        "LocalFunding": 6698508,
+        "StateFunding": 12854383,
+        "FederalFunding": 729706,
+        "OtherLocalFunding": 975130
     },
     "043918": {
         "NAME": "COMMUNITY ISD",
@@ -26438,8 +27936,10 @@ var DistrictsData = {
         "CostOfCharters": "96,559.12",
         "CharterTransfers": "10",
         "Attendance": 2571.822,
-        "StateFunding": 15106900.0,
-        "LocalFunding": 10153130.0
+        "LocalFunding": 11841993,
+        "StateFunding": 15731159,
+        "FederalFunding": 1985565,
+        "OtherLocalFunding": 628363
     },
     "116905": {
         "NAME": "GREENVILLE ISD",
@@ -26471,8 +27971,10 @@ var DistrictsData = {
         "CostOfCharters": "3,010,424.18",
         "CharterTransfers": "329",
         "Attendance": 4830.339,
-        "StateFunding": 23532246.0,
-        "LocalFunding": 23446012.0
+        "LocalFunding": 25128149,
+        "StateFunding": 23998408,
+        "FederalFunding": 9348722,
+        "OtherLocalFunding": 1913953
     },
     "036902": {
         "NAME": "BARBERS HILL ISD",
@@ -26504,8 +28006,10 @@ var DistrictsData = {
         "CostOfCharters": "95,242.61",
         "CharterTransfers": "10",
         "Attendance": 6350.242000000001,
-        "StateFunding": 18292190.0,
-        "LocalFunding": 60040815.0
+        "LocalFunding": 74510615,
+        "StateFunding": 15516450,
+        "FederalFunding": 3248627,
+        "OtherLocalFunding": 12497056
     },
     "146902": {
         "NAME": "DAYTON ISD",
@@ -26545,8 +28049,10 @@ var DistrictsData = {
         "CostOfCharters": "338,232.74",
         "CharterTransfers": "41",
         "Attendance": 5018.237,
-        "StateFunding": 25656336.0,
-        "LocalFunding": 19696828.0
+        "LocalFunding": 21198175,
+        "StateFunding": 25972086,
+        "FederalFunding": 7417409,
+        "OtherLocalFunding": 1126479
     },
     "084910": {
         "NAME": "CLEAR CREEK ISD",
@@ -26590,8 +28096,10 @@ var DistrictsData = {
         "CostOfCharters": "2,479,198.85",
         "CharterTransfers": "309",
         "Attendance": 38635.68,
-        "StateFunding": 81498676.0,
-        "LocalFunding": 239004875.0
+        "LocalFunding": 239024847,
+        "StateFunding": 92497378,
+        "FederalFunding": 34607191,
+        "OtherLocalFunding": 16234658
     },
     "108915": {
         "NAME": "MONTE ALTO ISD",
@@ -26631,8 +28139,10 @@ var DistrictsData = {
         "CostOfCharters": "1,469,560.39",
         "CharterTransfers": "132",
         "Attendance": 827.682,
-        "StateFunding": 9032628.0,
-        "LocalFunding": 1314049.0
+        "LocalFunding": 1423636,
+        "StateFunding": 9070068,
+        "FederalFunding": 2489165,
+        "OtherLocalFunding": 118194
     },
     "245901": {
         "NAME": "LASARA ISD",
@@ -26664,8 +28174,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 286.64300000000003,
-        "StateFunding": 4000411.0,
-        "LocalFunding": 347845.0
+        "LocalFunding": 403842,
+        "StateFunding": 3457422,
+        "FederalFunding": 1387802,
+        "OtherLocalFunding": 23655
     },
     "108914": {
         "NAME": "LA VILLA ISD",
@@ -26697,8 +28209,10 @@ var DistrictsData = {
         "CostOfCharters": "580,691.30",
         "CharterTransfers": "46",
         "Attendance": 537.546,
-        "StateFunding": 6653896.0,
-        "LocalFunding": 1030803.0
+        "LocalFunding": 1226669,
+        "StateFunding": 6543901,
+        "FederalFunding": 1461911,
+        "OtherLocalFunding": 82892
     },
     "108907": {
         "NAME": "MERCEDES ISD",
@@ -26734,8 +28248,10 @@ var DistrictsData = {
         "CostOfCharters": "6,308,465.66",
         "CharterTransfers": "644",
         "Attendance": 4292.385,
-        "StateFunding": 42912467.0,
-        "LocalFunding": 5475490.0
+        "LocalFunding": 6457415,
+        "StateFunding": 38872186,
+        "FederalFunding": 20491659,
+        "OtherLocalFunding": 1267156
     },
     "031914": {
         "NAME": "SANTA ROSA ISD",
@@ -26767,8 +28283,10 @@ var DistrictsData = {
         "CostOfCharters": "207,085.77",
         "CharterTransfers": "16",
         "Attendance": 865.556,
-        "StateFunding": 11791989.0,
-        "LocalFunding": 883102.0
+        "LocalFunding": 1130698,
+        "StateFunding": 11160280,
+        "FederalFunding": 3844590,
+        "OtherLocalFunding": 157666
     },
     "031905": {
         "NAME": "LA FERIA ISD",
@@ -26800,8 +28318,10 @@ var DistrictsData = {
         "CostOfCharters": "1,310,119.41",
         "CharterTransfers": "129",
         "Attendance": 2867.305,
-        "StateFunding": 27578519.0,
-        "LocalFunding": 4268189.0
+        "LocalFunding": 4964522,
+        "StateFunding": 27769362,
+        "FederalFunding": 5746752,
+        "OtherLocalFunding": 380157
     },
     "031913": {
         "NAME": "SANTA MARIA ISD",
@@ -26833,8 +28353,10 @@ var DistrictsData = {
         "CostOfCharters": "230,860.69",
         "CharterTransfers": "18",
         "Attendance": 562.883,
-        "StateFunding": 7529861.0,
-        "LocalFunding": 619418.0
+        "LocalFunding": 765365,
+        "StateFunding": 7415210,
+        "FederalFunding": 2706064,
+        "OtherLocalFunding": 44507
     },
     "031911": {
         "NAME": "RIO HONDO ISD",
@@ -26874,8 +28396,10 @@ var DistrictsData = {
         "CostOfCharters": "1,045,430.42",
         "CharterTransfers": "99",
         "Attendance": 1594.2540000000001,
-        "StateFunding": 16180645.0,
-        "LocalFunding": 2794824.0
+        "LocalFunding": 3545008,
+        "StateFunding": 15356387,
+        "FederalFunding": 3338363,
+        "OtherLocalFunding": 285943
     },
     "245902": {
         "NAME": "LYFORD CONS ISD",
@@ -26911,8 +28435,10 @@ var DistrictsData = {
         "CostOfCharters": "102,153.95",
         "CharterTransfers": "10",
         "Attendance": 1251.112,
-        "StateFunding": 12408607.0,
-        "LocalFunding": 2466544.0
+        "LocalFunding": 2626402,
+        "StateFunding": 12692842,
+        "FederalFunding": 4494478,
+        "OtherLocalFunding": 1223423
     },
     "031903": {
         "NAME": "HARLINGEN CONS ISD",
@@ -26948,8 +28474,10 @@ var DistrictsData = {
         "CostOfCharters": "14,964,373.05",
         "CharterTransfers": "1,566",
         "Attendance": 16537.355,
-        "StateFunding": 134107616.0,
-        "LocalFunding": 35474965.0
+        "LocalFunding": 42395802,
+        "StateFunding": 133709649,
+        "FederalFunding": 40343017,
+        "OtherLocalFunding": 2792647
     },
     "031901": {
         "NAME": "BROWNSVILLE ISD",
@@ -26985,8 +28513,10 @@ var DistrictsData = {
         "CostOfCharters": "86,299,102.28",
         "CharterTransfers": "8,598",
         "Attendance": 37591.326,
-        "StateFunding": 352487899.0,
-        "LocalFunding": 58488569.0
+        "LocalFunding": 67479374,
+        "StateFunding": 355007664,
+        "FederalFunding": 110105948,
+        "OtherLocalFunding": 2814443
     },
     "031912": {
         "NAME": "SAN BENITO CONS ISD",
@@ -27018,8 +28548,10 @@ var DistrictsData = {
         "CostOfCharters": "10,770,021.02",
         "CharterTransfers": "1,105",
         "Attendance": 8984.361,
-        "StateFunding": 85855311.0,
-        "LocalFunding": 10920047.0
+        "LocalFunding": 12558065,
+        "StateFunding": 84466215,
+        "FederalFunding": 44613565,
+        "OtherLocalFunding": 1551396
     },
     "031909": {
         "NAME": "POINT ISABEL ISD",
@@ -27051,8 +28583,10 @@ var DistrictsData = {
         "CostOfCharters": "256,799.49",
         "CharterTransfers": "27",
         "Attendance": 1895.451,
-        "StateFunding": 1225317.0,
-        "LocalFunding": 36507311.0
+        "LocalFunding": 20955103,
+        "StateFunding": 1737789,
+        "FederalFunding": 5183991,
+        "OtherLocalFunding": 305464
     },
     "031906": {
         "NAME": "LOS FRESNOS CONS ISD",
@@ -27088,8 +28622,10 @@ var DistrictsData = {
         "CostOfCharters": "6,349,083.55",
         "CharterTransfers": "663",
         "Attendance": 9692.423,
-        "StateFunding": 77667844.0,
-        "LocalFunding": 21547472.0
+        "LocalFunding": 24115415,
+        "StateFunding": 80536227,
+        "FederalFunding": 21560747,
+        "OtherLocalFunding": 5008726
     },
     "116909": {
         "NAME": "WOLFE CITY ISD",
@@ -27125,8 +28661,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 604.9060000000001,
-        "StateFunding": 6277681.0,
-        "LocalFunding": 1339715.0
+        "LocalFunding": 1535267,
+        "StateFunding": 6330920,
+        "FederalFunding": 1033815,
+        "OtherLocalFunding": 432921
     },
     "231902": {
         "NAME": "RANKIN ISD",
@@ -27153,8 +28691,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 267.027,
-        "StateFunding": 262522.0,
-        "LocalFunding": 48742022.0
+        "LocalFunding": 8861769,
+        "StateFunding": 317993,
+        "FederalFunding": 157262,
+        "OtherLocalFunding": 1153423
     },
     "192901": {
         "NAME": "REAGAN COUNTY ISD",
@@ -27181,8 +28721,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 803.188,
-        "StateFunding": 397221.0,
-        "LocalFunding": 42323206.0
+        "LocalFunding": 15027069,
+        "StateFunding": 514605,
+        "FederalFunding": 1124910,
+        "OtherLocalFunding": 687463
     },
     "002901": {
         "NAME": "ANDREWS ISD",
@@ -27214,8 +28756,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 4068.126,
-        "StateFunding": 3684764.0,
-        "LocalFunding": 43639488.0
+        "LocalFunding": 34785415,
+        "StateFunding": 3967205,
+        "FederalFunding": 3733834,
+        "OtherLocalFunding": 2403056
     },
     "156902": {
         "NAME": "STANTON ISD",
@@ -27246,8 +28790,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 980.773,
-        "StateFunding": 512357.0,
-        "LocalFunding": 30234337.0
+        "LocalFunding": 14330928,
+        "StateFunding": 600317,
+        "FederalFunding": 1043912,
+        "OtherLocalFunding": 694719
     },
     "074903": {
         "NAME": "BONHAM ISD",
@@ -27279,8 +28825,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1616.3470000000002,
-        "StateFunding": 8497421.0,
-        "LocalFunding": 7531039.0
+        "LocalFunding": 8238193,
+        "StateFunding": 8807005,
+        "FederalFunding": 5776199,
+        "OtherLocalFunding": 2359227
     },
     "170902": {
         "NAME": "CONROE ISD",
@@ -27324,8 +28872,10 @@ var DistrictsData = {
         "CostOfCharters": "5,913,211.22",
         "CharterTransfers": "729",
         "Attendance": 61416.566,
-        "StateFunding": 154752135.0,
-        "LocalFunding": 358672791.0
+        "LocalFunding": 379881671,
+        "StateFunding": 158798886,
+        "FederalFunding": 90310085,
+        "OtherLocalFunding": 6916663
     },
     "112909": {
         "NAME": "SALTILLO ISD",
@@ -27361,8 +28911,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 280.64300000000003,
-        "StateFunding": 3004749.0,
-        "LocalFunding": 645064.0
+        "LocalFunding": 656602,
+        "StateFunding": 2760166,
+        "FederalFunding": 611698,
+        "OtherLocalFunding": 704543
     },
     "250903": {
         "NAME": "MINEOLA ISD",
@@ -27394,8 +28946,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1534.3310000000001,
-        "StateFunding": 8967558.0,
-        "LocalFunding": 5997171.0
+        "LocalFunding": 7060955,
+        "StateFunding": 9481355,
+        "FederalFunding": 3229611,
+        "OtherLocalFunding": 2800890
     },
     "250902": {
         "NAME": "HAWKINS ISD",
@@ -27427,8 +28981,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 596.368,
-        "StateFunding": 1013753.0,
-        "LocalFunding": 6214535.0
+        "LocalFunding": 6643556,
+        "StateFunding": 1038486,
+        "FederalFunding": 1312280,
+        "OtherLocalFunding": 548228
     },
     "043917": {
         "NAME": "BLUE RIDGE ISD",
@@ -27472,8 +29028,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 868.414,
-        "StateFunding": 7653349.0,
-        "LocalFunding": 2891230.0
+        "LocalFunding": 3367236,
+        "StateFunding": 7721358,
+        "FederalFunding": 772067,
+        "OtherLocalFunding": 562772
     },
     "074912": {
         "NAME": "TRENTON ISD",
@@ -27513,8 +29071,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 666.682,
-        "StateFunding": 5437876.0,
-        "LocalFunding": 2446876.0
+        "LocalFunding": 2909430,
+        "StateFunding": 5535195,
+        "FederalFunding": 807499,
+        "OtherLocalFunding": 251644
     },
     "074909": {
         "NAME": "LEONARD ISD",
@@ -27558,8 +29118,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 766.0310000000001,
-        "StateFunding": 6906879.0,
-        "LocalFunding": 2259518.0
+        "LocalFunding": 2646262,
+        "StateFunding": 6982478,
+        "FederalFunding": 834487,
+        "OtherLocalFunding": 332979
     },
     "091910": {
         "NAME": "WHITEWRIGHT ISD",
@@ -27599,8 +29161,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 703.9970000000001,
-        "StateFunding": 4932744.0,
-        "LocalFunding": 3107611.0
+        "LocalFunding": 3655156,
+        "StateFunding": 5979195,
+        "FederalFunding": 1161949,
+        "OtherLocalFunding": 301023
     },
     "116902": {
         "NAME": "CELESTE ISD",
@@ -27632,8 +29196,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 447.414,
-        "StateFunding": 4757373.0,
-        "LocalFunding": 1226057.0
+        "LocalFunding": 1421730,
+        "StateFunding": 4696348,
+        "FederalFunding": 660197,
+        "OtherLocalFunding": 111492
     },
     "116915": {
         "NAME": "BLAND ISD",
@@ -27673,8 +29239,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 684.841,
-        "StateFunding": 5922259.0,
-        "LocalFunding": 2204480.0
+        "LocalFunding": 2402081,
+        "StateFunding": 6189173,
+        "FederalFunding": 1421388,
+        "OtherLocalFunding": 670876
     },
     "043904": {
         "NAME": "FARMERSVILLE ISD",
@@ -27714,8 +29282,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1776.6080000000002,
-        "StateFunding": 11216010.0,
-        "LocalFunding": 6618977.0
+        "LocalFunding": 7783756,
+        "StateFunding": 12037482,
+        "FederalFunding": 2496061,
+        "OtherLocalFunding": 489686
     },
     "043908": {
         "NAME": "MELISSA ISD",
@@ -27747,8 +29317,10 @@ var DistrictsData = {
         "CostOfCharters": "399,279.76",
         "CharterTransfers": "44",
         "Attendance": 3951.7490000000003,
-        "StateFunding": 20727403.0,
-        "LocalFunding": 14412151.0
+        "LocalFunding": 17352181,
+        "StateFunding": 21392563,
+        "FederalFunding": 1397648,
+        "OtherLocalFunding": 2226277
     },
     "043907": {
         "NAME": "MCKINNEY ISD",
@@ -27792,8 +29364,10 @@ var DistrictsData = {
         "CostOfCharters": "6,621,966.82",
         "CharterTransfers": "758",
         "Attendance": 22129.014,
-        "StateFunding": 26793837.0,
-        "LocalFunding": 158123150.0
+        "LocalFunding": 182825611,
+        "StateFunding": 32481374,
+        "FederalFunding": 25970501,
+        "OtherLocalFunding": 8230537
     },
     "043902": {
         "NAME": "ANNA ISD",
@@ -27829,8 +29403,10 @@ var DistrictsData = {
         "CostOfCharters": "180,008.50",
         "CharterTransfers": "19",
         "Attendance": 3736.5890000000004,
-        "StateFunding": 21654934.0,
-        "LocalFunding": 14077531.0
+        "LocalFunding": 16497821,
+        "StateFunding": 22720175,
+        "FederalFunding": 4400225,
+        "OtherLocalFunding": 1277597
     },
     "043911": {
         "NAME": "PRINCETON ISD",
@@ -27866,8 +29442,10 @@ var DistrictsData = {
         "CostOfCharters": "316,342.83",
         "CharterTransfers": "34",
         "Attendance": 5526.412,
-        "StateFunding": 39317463.0,
-        "LocalFunding": 14434952.0
+        "LocalFunding": 17224025,
+        "StateFunding": 38068453,
+        "FederalFunding": 5001537,
+        "OtherLocalFunding": 1002668
     },
     "241901": {
         "NAME": "BOLING ISD",
@@ -27903,8 +29481,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1029.896,
-        "StateFunding": 6667862.0,
-        "LocalFunding": 4034179.0
+        "LocalFunding": 4342229,
+        "StateFunding": 6766046,
+        "FederalFunding": 924750,
+        "OtherLocalFunding": 522472
     },
     "079906": {
         "NAME": "NEEDVILLE ISD",
@@ -27940,8 +29520,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 3196.731,
-        "StateFunding": 19789930.0,
-        "LocalFunding": 10567853.0
+        "LocalFunding": 12318132,
+        "StateFunding": 19832001,
+        "FederalFunding": 3335487,
+        "OtherLocalFunding": 1779302
     },
     "008903": {
         "NAME": "BRAZOS ISD",
@@ -27981,8 +29563,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 766.8090000000001,
-        "StateFunding": 6233559.0,
-        "LocalFunding": 3351482.0
+        "LocalFunding": 3513707,
+        "StateFunding": 6519658,
+        "FederalFunding": 819011,
+        "OtherLocalFunding": 470579
     },
     "241902": {
         "NAME": "EAST BERNARD ISD",
@@ -28014,8 +29598,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 885.846,
-        "StateFunding": 5682394.0,
-        "LocalFunding": 3868543.0
+        "LocalFunding": 4475286,
+        "StateFunding": 5824424,
+        "FederalFunding": 590637,
+        "OtherLocalFunding": 591094
     },
     "045903": {
         "NAME": "RICE CONS ISD",
@@ -28047,8 +29633,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1181.928,
-        "StateFunding": 4830624.0,
-        "LocalFunding": 7810333.0
+        "LocalFunding": 8276124,
+        "StateFunding": 5447213,
+        "FederalFunding": 1779659,
+        "OtherLocalFunding": 419651
     },
     "008902": {
         "NAME": "SEALY ISD",
@@ -28080,8 +29668,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2582.362,
-        "StateFunding": 9885845.0,
-        "LocalFunding": 14071958.0
+        "LocalFunding": 14100264,
+        "StateFunding": 10143754,
+        "FederalFunding": 3638598,
+        "OtherLocalFunding": 2773077
     },
     "101908": {
         "NAME": "DEER PARK ISD",
@@ -28129,8 +29719,10 @@ var DistrictsData = {
         "CostOfCharters": "578,245.66",
         "CharterTransfers": "60",
         "Attendance": 11356.691,
-        "StateFunding": 21372536.0,
-        "LocalFunding": 94233052.0
+        "LocalFunding": 106355385,
+        "StateFunding": 21507364,
+        "FederalFunding": 15555421,
+        "OtherLocalFunding": 3699747
     },
     "170903": {
         "NAME": "MONTGOMERY ISD",
@@ -28170,8 +29762,10 @@ var DistrictsData = {
         "CostOfCharters": "353,764.96",
         "CharterTransfers": "46",
         "Attendance": 8401.995,
-        "StateFunding": 8102008.0,
-        "LocalFunding": 59616300.0
+        "LocalFunding": 63168301,
+        "StateFunding": 8642144,
+        "FederalFunding": 7641599,
+        "OtherLocalFunding": 5565974
     },
     "101916": {
         "NAME": "LA PORTE ISD",
@@ -28223,8 +29817,10 @@ var DistrictsData = {
         "CostOfCharters": "467,513.06",
         "CharterTransfers": "54",
         "Attendance": 6331.602,
-        "StateFunding": 4044937.0,
-        "LocalFunding": 98494507.0
+        "LocalFunding": 66119706,
+        "StateFunding": 4306435,
+        "FederalFunding": 10856724,
+        "OtherLocalFunding": 5335472
     },
     "084906": {
         "NAME": "TEXAS CITY ISD",
@@ -28264,8 +29860,10 @@ var DistrictsData = {
         "CostOfCharters": "6,973,892.97",
         "CharterTransfers": "748",
         "Attendance": 7193.05,
-        "StateFunding": 40498258.0,
-        "LocalFunding": 27960087.0
+        "LocalFunding": 56629756,
+        "StateFunding": 41729700,
+        "FederalFunding": 20920345,
+        "OtherLocalFunding": 5552635
     },
     "084903": {
         "NAME": "HIGH ISLAND ISD",
@@ -28297,8 +29895,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 171.70600000000002,
-        "StateFunding": 977015.0,
-        "LocalFunding": 1274725.0
+        "LocalFunding": 1541775,
+        "StateFunding": 995926,
+        "FederalFunding": 289110,
+        "OtherLocalFunding": 162353
     },
     "084901": {
         "NAME": "DICKINSON ISD",
@@ -28338,8 +29938,10 @@ var DistrictsData = {
         "CostOfCharters": "1,296,355.45",
         "CharterTransfers": "151",
         "Attendance": 10724.220999999998,
-        "StateFunding": 58361254.0,
-        "LocalFunding": 40623180.0
+        "LocalFunding": 42925661,
+        "StateFunding": 61021040,
+        "FederalFunding": 16695266,
+        "OtherLocalFunding": 3061655
     },
     "036901": {
         "NAME": "ANAHUAC ISD",
@@ -28371,8 +29973,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1254.58,
-        "StateFunding": 7694014.0,
-        "LocalFunding": 6395632.0
+        "LocalFunding": 5436169,
+        "StateFunding": 7927615,
+        "FederalFunding": 2557154,
+        "OtherLocalFunding": 1204998
     },
     "020905": {
         "NAME": "BRAZOSPORT ISD",
@@ -28408,8 +30012,10 @@ var DistrictsData = {
         "CostOfCharters": "83,730.40",
         "CharterTransfers": "10",
         "Attendance": 10810.149,
-        "StateFunding": 11968520.0,
-        "LocalFunding": 89590964.0
+        "LocalFunding": 90513974,
+        "StateFunding": 12260642,
+        "FederalFunding": 16280591,
+        "OtherLocalFunding": 24070818
     },
     "084908": {
         "NAME": "HITCHCOCK ISD",
@@ -28445,8 +30051,10 @@ var DistrictsData = {
         "CostOfCharters": "675,886.28",
         "CharterTransfers": "72",
         "Attendance": 1441.0440000000003,
-        "StateFunding": 7137297.0,
-        "LocalFunding": 8094413.0
+        "LocalFunding": 8494631,
+        "StateFunding": 10507516,
+        "FederalFunding": 7277676,
+        "OtherLocalFunding": 514604
     },
     "084902": {
         "NAME": "GALVESTON ISD",
@@ -28482,8 +30090,10 @@ var DistrictsData = {
         "CostOfCharters": "7,648,900.73",
         "CharterTransfers": "841",
         "Attendance": 6156.807000000001,
-        "StateFunding": 4722816.0,
-        "LocalFunding": 76608140.0
+        "LocalFunding": 58031785,
+        "StateFunding": 6292171,
+        "FederalFunding": 15325111,
+        "OtherLocalFunding": 12309812
     },
     "237905": {
         "NAME": "ROYAL ISD",
@@ -28515,8 +30125,10 @@ var DistrictsData = {
         "CostOfCharters": "727,637.87",
         "CharterTransfers": "66",
         "Attendance": 2292.096,
-        "StateFunding": 10622676.0,
-        "LocalFunding": 14578388.0
+        "LocalFunding": 16818198,
+        "StateFunding": 11188394,
+        "FederalFunding": 3682247,
+        "OtherLocalFunding": 706001
     },
     "237902": {
         "NAME": "HEMPSTEAD ISD",
@@ -28548,8 +30160,10 @@ var DistrictsData = {
         "CostOfCharters": "102,686.56",
         "CharterTransfers": "10",
         "Attendance": 1329.025,
-        "StateFunding": 8455093.0,
-        "LocalFunding": 6224039.0
+        "LocalFunding": 7488750,
+        "StateFunding": 8623851,
+        "FederalFunding": 2858279,
+        "OtherLocalFunding": 241268
     },
     "170906": {
         "NAME": "MAGNOLIA ISD",
@@ -28589,8 +30203,10 @@ var DistrictsData = {
         "CostOfCharters": "813,004.62",
         "CharterTransfers": "100",
         "Attendance": 12250.021,
-        "StateFunding": 38605574.0,
-        "LocalFunding": 66291102.0
+        "LocalFunding": 70406860,
+        "StateFunding": 39422957,
+        "FederalFunding": 28447994,
+        "OtherLocalFunding": 3413027
     },
     "093904": {
         "NAME": "NAVASOTA ISD",
@@ -28626,8 +30242,10 @@ var DistrictsData = {
         "CostOfCharters": "1,229,592.35",
         "CharterTransfers": "133",
         "Attendance": 2587.556,
-        "StateFunding": 7630046.0,
-        "LocalFunding": 18338693.0
+        "LocalFunding": 18747820,
+        "StateFunding": 8146487,
+        "FederalFunding": 7469501,
+        "OtherLocalFunding": 1229509
     },
     "101907": {
         "NAME": "CYPRESS-FAIRBANKS ISD",
@@ -28695,8 +30313,10 @@ var DistrictsData = {
         "CostOfCharters": "35,935,182.16",
         "CharterTransfers": "4,463",
         "Attendance": 108386.086,
-        "StateFunding": 349059284.0,
-        "LocalFunding": 559218249.0
+        "LocalFunding": 535744999,
+        "StateFunding": 368632776,
+        "FederalFunding": 190141981,
+        "OtherLocalFunding": 27599820
     },
     "237904": {
         "NAME": "WALLER ISD",
@@ -28740,8 +30360,10 @@ var DistrictsData = {
         "CostOfCharters": "89,405.04",
         "CharterTransfers": "10",
         "Attendance": 7307.584,
-        "StateFunding": 28414112.0,
-        "LocalFunding": 40730516.0
+        "LocalFunding": 44168114,
+        "StateFunding": 29516036,
+        "FederalFunding": 14058550,
+        "OtherLocalFunding": 715461
     },
     "101920": {
         "NAME": "SPRING BRANCH ISD",
@@ -28797,8 +30419,10 @@ var DistrictsData = {
         "CostOfCharters": "3,104,196.56",
         "CharterTransfers": "359",
         "Attendance": 30725.012,
-        "StateFunding": 20021711.0,
-        "LocalFunding": 345007278.0
+        "LocalFunding": 273929578,
+        "StateFunding": 21705742,
+        "FederalFunding": 65701560,
+        "OtherLocalFunding": 10103320
     },
     "101915": {
         "NAME": "KLEIN ISD",
@@ -28850,8 +30474,10 @@ var DistrictsData = {
         "CostOfCharters": "11,766,805.86",
         "CharterTransfers": "1,430",
         "Attendance": 50915.35300000001,
-        "StateFunding": 214360088.0,
-        "LocalFunding": 214070867.0
+        "LocalFunding": 222229449,
+        "StateFunding": 223888717,
+        "FederalFunding": 60361970,
+        "OtherLocalFunding": 11583759
     },
     "101902": {
         "NAME": "ALDINE ISD",
@@ -28911,8 +30537,10 @@ var DistrictsData = {
         "CostOfCharters": "41,730,530.75",
         "CharterTransfers": "4,410",
         "Attendance": 57706.6,
-        "StateFunding": 385189391.0,
-        "LocalFunding": 194865064.0
+        "LocalFunding": 227267729,
+        "StateFunding": 402548521,
+        "FederalFunding": 154132918,
+        "OtherLocalFunding": 14859159
     },
     "101921": {
         "NAME": "TOMBALL ISD",
@@ -28960,8 +30588,10 @@ var DistrictsData = {
         "CostOfCharters": "747,542.09",
         "CharterTransfers": "94",
         "Attendance": 18266.117,
-        "StateFunding": 35946576.0,
-        "LocalFunding": 110701054.0
+        "LocalFunding": 114391853,
+        "StateFunding": 40825521,
+        "FederalFunding": 13761709,
+        "OtherLocalFunding": 6251964
     },
     "101924": {
         "NAME": "SHELDON ISD",
@@ -29013,8 +30643,10 @@ var DistrictsData = {
         "CostOfCharters": "2,691,923.07",
         "CharterTransfers": "277",
         "Attendance": 9632.835000000001,
-        "StateFunding": 42258849.0,
-        "LocalFunding": 52250929.0
+        "LocalFunding": 59195822,
+        "StateFunding": 46321103,
+        "FederalFunding": 16607661,
+        "OtherLocalFunding": 880633
     },
     "101910": {
         "NAME": "GALENA PARK ISD",
@@ -29058,8 +30690,10 @@ var DistrictsData = {
         "CostOfCharters": "3,551,003.09",
         "CharterTransfers": "356",
         "Attendance": 20593.442,
-        "StateFunding": 112750702.0,
-        "LocalFunding": 94279107.0
+        "LocalFunding": 112249399,
+        "StateFunding": 127063460,
+        "FederalFunding": 40738459,
+        "OtherLocalFunding": 2821652
     },
     "101906": {
         "NAME": "CROSBY ISD",
@@ -29099,8 +30733,10 @@ var DistrictsData = {
         "CostOfCharters": "135,756.35",
         "CharterTransfers": "15",
         "Attendance": 5976.954000000001,
-        "StateFunding": 36184136.0,
-        "LocalFunding": 19109521.0
+        "LocalFunding": 22381534,
+        "StateFunding": 37411876,
+        "FederalFunding": 8035894,
+        "OtherLocalFunding": 1004294
     },
     "101905": {
         "NAME": "CHANNELVIEW ISD",
@@ -29148,8 +30784,10 @@ var DistrictsData = {
         "CostOfCharters": "928,287.21",
         "CharterTransfers": "101",
         "Attendance": 9107.209,
-        "StateFunding": 49989350.0,
-        "LocalFunding": 36441587.0
+        "LocalFunding": 41876506,
+        "StateFunding": 53768200,
+        "FederalFunding": 18112078,
+        "OtherLocalFunding": 1235546
     },
     "101913": {
         "NAME": "HUMBLE ISD",
@@ -29201,8 +30839,10 @@ var DistrictsData = {
         "CostOfCharters": "4,802,330.42",
         "CharterTransfers": "549",
         "Attendance": 43392.637,
-        "StateFunding": 223174660.0,
-        "LocalFunding": 158409745.0
+        "LocalFunding": 180243187,
+        "StateFunding": 224913066,
+        "FederalFunding": 82262057,
+        "OtherLocalFunding": 24305185
     },
     "101911": {
         "NAME": "GOOSE CREEK CONSOLIDATED ISD",
@@ -29250,8 +30890,10 @@ var DistrictsData = {
         "CostOfCharters": "806,733.63",
         "CharterTransfers": "87",
         "Attendance": 21311.176,
-        "StateFunding": 84639296.0,
-        "LocalFunding": 118390250.0
+        "LocalFunding": 132636514,
+        "StateFunding": 90409602,
+        "FederalFunding": 55399318,
+        "OtherLocalFunding": 5262955
     },
     "079907": {
         "NAME": "FORT BEND ISD",
@@ -29303,8 +30945,10 @@ var DistrictsData = {
         "CostOfCharters": "42,543,285.17",
         "CharterTransfers": "4,964",
         "Attendance": 74275.025,
-        "StateFunding": 244546207.0,
-        "LocalFunding": 392959164.0
+        "LocalFunding": 416008684,
+        "StateFunding": 257744616,
+        "FederalFunding": 81101539,
+        "OtherLocalFunding": 8770954
     },
     "101914": {
         "NAME": "KATY ISD",
@@ -29368,8 +31012,10 @@ var DistrictsData = {
         "CostOfCharters": "22,783,910.78",
         "CharterTransfers": "2,556",
         "Attendance": 81627.67,
-        "StateFunding": 317590488.0,
-        "LocalFunding": 395020390.0
+        "LocalFunding": 435011465,
+        "StateFunding": 334177761,
+        "FederalFunding": 79284651,
+        "OtherLocalFunding": 30425335
     },
     "101903": {
         "NAME": "ALIEF ISD",
@@ -29417,8 +31063,10 @@ var DistrictsData = {
         "CostOfCharters": "81,732,843.92",
         "CharterTransfers": "8,656",
         "Attendance": 37647.151,
-        "StateFunding": 220635332.0,
-        "LocalFunding": 156836268.0
+        "LocalFunding": 170881266,
+        "StateFunding": 225496259,
+        "FederalFunding": 107545820,
+        "OtherLocalFunding": 3147342
     },
     "079910": {
         "NAME": "STAFFORD MSD",
@@ -29462,8 +31110,10 @@ var DistrictsData = {
         "CostOfCharters": "1,507,656.36",
         "CharterTransfers": "157",
         "Attendance": 3096.027,
-        "StateFunding": 4392820.0,
-        "LocalFunding": 27093914.0
+        "LocalFunding": 28070077,
+        "StateFunding": 5467290,
+        "FederalFunding": 5976577,
+        "OtherLocalFunding": 472232
     },
     "020902": {
         "NAME": "ANGLETON ISD",
@@ -29503,8 +31153,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 6435.664000000001,
-        "StateFunding": 33161764.0,
-        "LocalFunding": 31119425.0
+        "LocalFunding": 33005847,
+        "StateFunding": 33829608,
+        "FederalFunding": 12728228,
+        "OtherLocalFunding": 4432330
     },
     "020901": {
         "NAME": "ALVIN ISD",
@@ -29540,8 +31192,10 @@ var DistrictsData = {
         "CostOfCharters": "1,562,376.39",
         "CharterTransfers": "166",
         "Attendance": 25903.179,
-        "StateFunding": 188641396.0,
-        "LocalFunding": 73224566.0
+        "LocalFunding": 85065794,
+        "StateFunding": 190300374,
+        "FederalFunding": 32085947,
+        "OtherLocalFunding": 23983099
     },
     "101912": {
         "NAME": "HOUSTON ISD",
@@ -29645,8 +31299,10 @@ var DistrictsData = {
         "CostOfCharters": "370,645,555.35",
         "CharterTransfers": "43,563",
         "Attendance": 177206.586,
-        "StateFunding": 128970401.0,
-        "LocalFunding": 1834257324.0
+        "LocalFunding": 1603618038,
+        "StateFunding": 230253260,
+        "FederalFunding": 341024809,
+        "OtherLocalFunding": 38564154
     },
     "079901": {
         "NAME": "LAMAR CONS ISD",
@@ -29690,8 +31346,10 @@ var DistrictsData = {
         "CostOfCharters": "6,009,402.65",
         "CharterTransfers": "697",
         "Attendance": 34257.479,
-        "StateFunding": 146349946.0,
-        "LocalFunding": 163627477.0
+        "LocalFunding": 173019343,
+        "StateFunding": 147130145,
+        "FederalFunding": 40864408,
+        "OtherLocalFunding": 7277255
     },
     "032902": {
         "NAME": "PITTSBURG ISD",
@@ -29727,8 +31385,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2178.13,
-        "StateFunding": 13832182.0,
-        "LocalFunding": 8029345.0
+        "LocalFunding": 8556617,
+        "StateFunding": 14020731,
+        "FederalFunding": 3437358,
+        "OtherLocalFunding": 366971
     },
     "230903": {
         "NAME": "ORE CITY ISD",
@@ -29764,8 +31424,10 @@ var DistrictsData = {
         "CostOfCharters": "137,420.42",
         "CharterTransfers": "12",
         "Attendance": 824.74,
-        "StateFunding": 9267850.0,
-        "LocalFunding": 1535160.0
+        "LocalFunding": 1775988,
+        "StateFunding": 8795136,
+        "FederalFunding": 2048776,
+        "OtherLocalFunding": 309822
     },
     "172902": {
         "NAME": "DAINGERFIELD-LONE STAR ISD",
@@ -29797,8 +31459,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 947.061,
-        "StateFunding": 4448185.0,
-        "LocalFunding": 6637801.0
+        "LocalFunding": 7148168,
+        "StateFunding": 4536460,
+        "FederalFunding": 3264761,
+        "OtherLocalFunding": 717435
     },
     "225906": {
         "NAME": "CHAPEL HILL ISD (TITUS)",
@@ -29830,8 +31494,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 916.695,
-        "StateFunding": 9556978.0,
-        "LocalFunding": 1312059.0
+        "LocalFunding": 1511180,
+        "StateFunding": 9554713,
+        "FederalFunding": 1167548,
+        "OtherLocalFunding": 381635
     },
     "250907": {
         "NAME": "WINNSBORO ISD",
@@ -29871,8 +31537,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1374.7720000000002,
-        "StateFunding": 11297446.0,
-        "LocalFunding": 4806670.0
+        "LocalFunding": 5635096,
+        "StateFunding": 11695676,
+        "FederalFunding": 2881453,
+        "OtherLocalFunding": 398209
     },
     "230902": {
         "NAME": "GILMER ISD",
@@ -29908,8 +31576,10 @@ var DistrictsData = {
         "CostOfCharters": "108,809.71",
         "CharterTransfers": "11",
         "Attendance": 2293.431,
-        "StateFunding": 16542162.0,
-        "LocalFunding": 8147856.0
+        "LocalFunding": 9610635,
+        "StateFunding": 16648647,
+        "FederalFunding": 7427191,
+        "OtherLocalFunding": 3767377
     },
     "230904": {
         "NAME": "UNION HILL ISD",
@@ -29940,8 +31610,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 294.177,
-        "StateFunding": 2872356.0,
-        "LocalFunding": 864062.0
+        "LocalFunding": 1024834,
+        "StateFunding": 3215374,
+        "FederalFunding": 700605,
+        "OtherLocalFunding": 120167
     },
     "225902": {
         "NAME": "MOUNT PLEASANT ISD",
@@ -29973,8 +31645,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 4699.147,
-        "StateFunding": 32385621.0,
-        "LocalFunding": 14268629.0
+        "LocalFunding": 14622430,
+        "StateFunding": 36248669,
+        "FederalFunding": 12498575,
+        "OtherLocalFunding": 2973575
     },
     "080901": {
         "NAME": "MOUNT VERNON ISD",
@@ -30014,8 +31688,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1458.065,
-        "StateFunding": 3937379.0,
-        "LocalFunding": 10686288.0
+        "LocalFunding": 10937909,
+        "StateFunding": 3805660,
+        "FederalFunding": 2280982,
+        "OtherLocalFunding": 487437
     },
     "250905": {
         "NAME": "YANTIS ISD",
@@ -30051,8 +31727,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 329.348,
-        "StateFunding": 827804.0,
-        "LocalFunding": 3299031.0
+        "LocalFunding": 3482234,
+        "StateFunding": 847201,
+        "FederalFunding": 562252,
+        "OtherLocalFunding": 44589
     },
     "112901": {
         "NAME": "SULPHUR SPRINGS ISD",
@@ -30084,8 +31762,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 4077.8880000000004,
-        "StateFunding": 22944057.0,
-        "LocalFunding": 14377051.0
+        "LocalFunding": 14095441,
+        "StateFunding": 24710063,
+        "FederalFunding": 10095864,
+        "OtherLocalFunding": 1181205
     },
     "112908": {
         "NAME": "COMO-PICKTON CONS ISD",
@@ -30125,8 +31805,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 654.201,
-        "StateFunding": 6173314.0,
-        "LocalFunding": 1725104.0
+        "LocalFunding": 1681346,
+        "StateFunding": 6288538,
+        "FederalFunding": 1067240,
+        "OtherLocalFunding": 361459
     },
     "250904": {
         "NAME": "QUITMAN ISD",
@@ -30153,8 +31835,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1103.616,
-        "StateFunding": 7798495.0,
-        "LocalFunding": 4867912.0
+        "LocalFunding": 6762053,
+        "StateFunding": 7886062,
+        "FederalFunding": 3841601,
+        "OtherLocalFunding": 542167
     },
     "190903": {
         "NAME": "RAINS ISD",
@@ -30190,8 +31874,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1610.2979999999998,
-        "StateFunding": 9255650.0,
-        "LocalFunding": 6145409.0
+        "LocalFunding": 6642945,
+        "StateFunding": 9233614,
+        "FederalFunding": 2928519,
+        "OtherLocalFunding": 854644
     },
     "250906": {
         "NAME": "ALBA-GOLDEN ISD",
@@ -30227,8 +31913,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 785.888,
-        "StateFunding": 6257173.0,
-        "LocalFunding": 3029663.0
+        "LocalFunding": 3495136,
+        "StateFunding": 6440141,
+        "FederalFunding": 931185,
+        "OtherLocalFunding": 439220
     },
     "071903": {
         "NAME": "FABENS ISD",
@@ -30260,8 +31948,10 @@ var DistrictsData = {
         "CostOfCharters": "130,796.07",
         "CharterTransfers": "12",
         "Attendance": 1952.885,
-        "StateFunding": 21622636.0,
-        "LocalFunding": 1970775.0
+        "LocalFunding": 2355943,
+        "StateFunding": 20820599,
+        "FederalFunding": 5848483,
+        "OtherLocalFunding": 165252
     },
     "153907": {
         "NAME": "WILSON ISD",
@@ -30288,8 +31978,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 140.459,
-        "StateFunding": 1485764.0,
-        "LocalFunding": 612707.0
+        "LocalFunding": 743969,
+        "StateFunding": 1440395,
+        "FederalFunding": 257251,
+        "OtherLocalFunding": 1399047
     },
     "152903": {
         "NAME": "SLATON ISD",
@@ -30316,8 +32008,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1209.169,
-        "StateFunding": 11110687.0,
-        "LocalFunding": 3935805.0
+        "LocalFunding": 4601341,
+        "StateFunding": 11202331,
+        "FederalFunding": 3666394,
+        "OtherLocalFunding": 1317511
     },
     "110906": {
         "NAME": "SMYER ISD",
@@ -30344,8 +32038,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 385.921,
-        "StateFunding": 4198063.0,
-        "LocalFunding": 988481.0
+        "LocalFunding": 1130210,
+        "StateFunding": 4322782,
+        "FederalFunding": 588707,
+        "OtherLocalFunding": 154468
     },
     "085902": {
         "NAME": "POST ISD",
@@ -30376,8 +32072,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 723.1,
-        "StateFunding": 4784475.0,
-        "LocalFunding": 3823793.0
+        "LocalFunding": 4132644,
+        "StateFunding": 4824330,
+        "FederalFunding": 1716609,
+        "OtherLocalFunding": 283578
     },
     "208902": {
         "NAME": "SNYDER ISD",
@@ -30408,8 +32106,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2275.2940000000003,
-        "StateFunding": 2262826.0,
-        "LocalFunding": 21568260.0
+        "LocalFunding": 20835365,
+        "StateFunding": 3471257,
+        "FederalFunding": 6130915,
+        "OtherLocalFunding": 2395231
     },
     "017901": {
         "NAME": "BORDEN COUNTY ISD",
@@ -30449,8 +32149,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 213.923,
-        "StateFunding": 2659594.0,
-        "LocalFunding": 7223042.0
+        "LocalFunding": 3010110,
+        "StateFunding": 2550953,
+        "FederalFunding": 241095,
+        "OtherLocalFunding": 1758733
     },
     "165901": {
         "NAME": "MIDLAND ISD",
@@ -30482,8 +32184,10 @@ var DistrictsData = {
         "CostOfCharters": "16,187,479.63",
         "CharterTransfers": "1,663",
         "Attendance": 23257.75,
-        "StateFunding": 76199593.0,
-        "LocalFunding": 332820877.0
+        "LocalFunding": 191638105,
+        "StateFunding": 77506192,
+        "FederalFunding": 36063282,
+        "OtherLocalFunding": 7036057
     },
     "165902": {
         "NAME": "GREENWOOD ISD",
@@ -30515,8 +32219,10 @@ var DistrictsData = {
         "CostOfCharters": "111,268.76",
         "CharterTransfers": "10",
         "Attendance": 2754.7850000000008,
-        "StateFunding": 6892384.0,
-        "LocalFunding": 25207202.0
+        "LocalFunding": 25954052,
+        "StateFunding": 6956469,
+        "FederalFunding": 1991416,
+        "OtherLocalFunding": 981705
     },
     "087901": {
         "NAME": "GLASSCOCK COUNTY ISD",
@@ -30548,8 +32254,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 270.911,
-        "StateFunding": 1932178.0,
-        "LocalFunding": 39516721.0
+        "LocalFunding": 6772376,
+        "StateFunding": 1941261,
+        "FederalFunding": 176215,
+        "OtherLocalFunding": 271363
     },
     "186902": {
         "NAME": "FORT STOCKTON ISD",
@@ -30581,8 +32289,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2052.726,
-        "StateFunding": 5167506.0,
-        "LocalFunding": 22918549.0
+        "LocalFunding": 19185544,
+        "StateFunding": 5247559,
+        "FederalFunding": 5613206,
+        "OtherLocalFunding": 927041
     },
     "068901": {
         "NAME": "ECTOR COUNTY ISD",
@@ -30614,8 +32324,10 @@ var DistrictsData = {
         "CostOfCharters": "26,284,550.75",
         "CharterTransfers": "2,998",
         "Attendance": 28669.263,
-        "StateFunding": 120976735.0,
-        "LocalFunding": 141402844.0
+        "LocalFunding": 157601471,
+        "StateFunding": 123343992,
+        "FederalFunding": 77839776,
+        "OtherLocalFunding": 33858117
     },
     "226905": {
         "NAME": "WATER VALLEY ISD",
@@ -30642,8 +32354,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 298.983,
-        "StateFunding": 2636873.0,
-        "LocalFunding": 1919839.0
+        "LocalFunding": 1986506,
+        "StateFunding": 2572538,
+        "FederalFunding": 265820,
+        "OtherLocalFunding": 482438
     },
     "041902": {
         "NAME": "ROBERT LEE ISD",
@@ -30670,8 +32384,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 228.92600000000002,
-        "StateFunding": 775342.0,
-        "LocalFunding": 2284873.0
+        "LocalFunding": 2389738,
+        "StateFunding": 808973,
+        "FederalFunding": 346260,
+        "OtherLocalFunding": 95054
     },
     "177903": {
         "NAME": "BLACKWELL CONS ISD",
@@ -30711,8 +32427,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 152.446,
-        "StateFunding": 220086.0,
-        "LocalFunding": 6970992.0
+        "LocalFunding": 2195377,
+        "StateFunding": 3260624,
+        "FederalFunding": 0,
+        "OtherLocalFunding": 167826
     },
     "118902": {
         "NAME": "IRION COUNTY ISD",
@@ -30744,8 +32462,10 @@ var DistrictsData = {
         "CostOfCharters": "184,851.26",
         "CharterTransfers": "16",
         "Attendance": 287.55,
-        "StateFunding": 137183.0,
-        "LocalFunding": 12201315.0
+        "LocalFunding": 4946321,
+        "StateFunding": 279834,
+        "FederalFunding": 203523,
+        "OtherLocalFunding": 194889
     },
     "070911": {
         "NAME": "RED OAK ISD",
@@ -30772,8 +32492,10 @@ var DistrictsData = {
         "CostOfCharters": "4,054,736.43",
         "CharterTransfers": "435",
         "Attendance": 5738.013000000001,
-        "StateFunding": 33998055.0,
-        "LocalFunding": 19587709.0
+        "LocalFunding": 22925780,
+        "StateFunding": 34285300,
+        "FederalFunding": 5201481,
+        "OtherLocalFunding": 1768812
     },
     "057904": {
         "NAME": "CEDAR HILL ISD",
@@ -30809,8 +32531,10 @@ var DistrictsData = {
         "CostOfCharters": "17,944,387.45",
         "CharterTransfers": "2,131",
         "Attendance": 6898.05,
-        "StateFunding": 22607014.0,
-        "LocalFunding": 37132301.0
+        "LocalFunding": 39154659,
+        "StateFunding": 23002365,
+        "FederalFunding": 10201004,
+        "OtherLocalFunding": 1951673
     },
     "111902": {
         "NAME": "LIPAN ISD",
@@ -30854,8 +32578,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 421.541,
-        "StateFunding": 3125210.0,
-        "LocalFunding": 1970014.0
+        "LocalFunding": 2344415,
+        "StateFunding": 3183605,
+        "FederalFunding": 352904,
+        "OtherLocalFunding": 137302
     },
     "161916": {
         "NAME": "WEST ISD",
@@ -30886,8 +32612,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1145.923,
-        "StateFunding": 7024643.0,
-        "LocalFunding": 4962416.0
+        "LocalFunding": 5353419,
+        "StateFunding": 7287537,
+        "FederalFunding": 1669300,
+        "OtherLocalFunding": 585259
     },
     "109912": {
         "NAME": "AQUILLA ISD",
@@ -30919,8 +32647,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 299.039,
-        "StateFunding": 3223604.0,
-        "LocalFunding": 889929.0
+        "LocalFunding": 1047400,
+        "StateFunding": 3336900,
+        "FederalFunding": 540085,
+        "OtherLocalFunding": 283761
     },
     "212910": {
         "NAME": "WINONA ISD",
@@ -30947,8 +32677,10 @@ var DistrictsData = {
         "CostOfCharters": "400,433.56",
         "CharterTransfers": "37",
         "Attendance": 950.13,
-        "StateFunding": 5538206.0,
-        "LocalFunding": 5688376.0
+        "LocalFunding": 6143744,
+        "StateFunding": 5578105,
+        "FederalFunding": 2892726,
+        "OtherLocalFunding": 271625
     },
     "234906": {
         "NAME": "VAN ISD",
@@ -30988,8 +32720,10 @@ var DistrictsData = {
         "CostOfCharters": "131,536.39",
         "CharterTransfers": "14",
         "Attendance": 2213.222,
-        "StateFunding": 14840560.0,
-        "LocalFunding": 6790701.0
+        "LocalFunding": 7586381,
+        "StateFunding": 14414796,
+        "FederalFunding": 2800557,
+        "OtherLocalFunding": 615405
     },
     "212903": {
         "NAME": "LINDALE ISD",
@@ -31029,8 +32763,10 @@ var DistrictsData = {
         "CostOfCharters": "312,942.06",
         "CharterTransfers": "34",
         "Attendance": 3941.366,
-        "StateFunding": 22616146.0,
-        "LocalFunding": 14590457.0
+        "LocalFunding": 16164429,
+        "StateFunding": 23044822,
+        "FederalFunding": 5234381,
+        "OtherLocalFunding": 1324301
     },
     "092908": {
         "NAME": "WHITE OAK ISD",
@@ -31057,8 +32793,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1358.2440000000001,
-        "StateFunding": 10533000.0,
-        "LocalFunding": 3564581.0
+        "LocalFunding": 3732085,
+        "StateFunding": 10117089,
+        "FederalFunding": 1419578,
+        "OtherLocalFunding": 1109657
     },
     "092904": {
         "NAME": "PINE TREE ISD",
@@ -31090,8 +32828,10 @@ var DistrictsData = {
         "CostOfCharters": "438,448.23",
         "CharterTransfers": "47",
         "Attendance": 4225.706,
-        "StateFunding": 25500543.0,
-        "LocalFunding": 15095651.0
+        "LocalFunding": 16599229,
+        "StateFunding": 25843614,
+        "FederalFunding": 7203270,
+        "OtherLocalFunding": 1065325
     },
     "212905": {
         "NAME": "TYLER ISD",
@@ -31122,8 +32862,10 @@ var DistrictsData = {
         "CostOfCharters": "18,409,273.89",
         "CharterTransfers": "2,178",
         "Attendance": 16377.933,
-        "StateFunding": 55626779.0,
-        "LocalFunding": 91186178.0
+        "LocalFunding": 97060954,
+        "StateFunding": 58948693,
+        "FederalFunding": 32375547,
+        "OtherLocalFunding": 4440266
     },
     "001907": {
         "NAME": "PALESTINE ISD",
@@ -31150,8 +32892,10 @@ var DistrictsData = {
         "CostOfCharters": "1,239,436.81",
         "CharterTransfers": "127",
         "Attendance": 3076.1290000000004,
-        "StateFunding": 21695086.0,
-        "LocalFunding": 10517691.0
+        "LocalFunding": 12288492,
+        "StateFunding": 22114051,
+        "FederalFunding": 9661394,
+        "OtherLocalFunding": 1743010
     },
     "001906": {
         "NAME": "NECHES ISD",
@@ -31178,8 +32922,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 311.103,
-        "StateFunding": 2918760.0,
-        "LocalFunding": 1051637.0
+        "LocalFunding": 1152558,
+        "StateFunding": 2933934,
+        "FederalFunding": 371465,
+        "OtherLocalFunding": 115151
     },
     "092902": {
         "NAME": "KILGORE ISD",
@@ -31215,8 +32961,10 @@ var DistrictsData = {
         "CostOfCharters": "167,334.57",
         "CharterTransfers": "20",
         "Attendance": 3582.9960000000005,
-        "StateFunding": 17131423.0,
-        "LocalFunding": 15407200.0
+        "LocalFunding": 16663796,
+        "StateFunding": 18635693,
+        "FederalFunding": 5985850,
+        "OtherLocalFunding": 846076
     },
     "092906": {
         "NAME": "SABINE ISD",
@@ -31243,8 +32991,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1435.362,
-        "StateFunding": 10016191.0,
-        "LocalFunding": 4147563.0
+        "LocalFunding": 4136641,
+        "StateFunding": 10106485,
+        "FederalFunding": 2002944,
+        "OtherLocalFunding": 1796725
     },
     "003903": {
         "NAME": "LUFKIN ISD",
@@ -31276,8 +33026,10 @@ var DistrictsData = {
         "CostOfCharters": "6,695,803.54",
         "CharterTransfers": "709",
         "Attendance": 6622.392000000001,
-        "StateFunding": 43121630.0,
-        "LocalFunding": 24082449.0
+        "LocalFunding": 28368456,
+        "StateFunding": 46349559,
+        "FederalFunding": 19264647,
+        "OtherLocalFunding": 1208535
     },
     "003902": {
         "NAME": "HUDSON ISD",
@@ -31309,8 +33061,10 @@ var DistrictsData = {
         "CostOfCharters": "445,724.06",
         "CharterTransfers": "47",
         "Attendance": 2635.139,
-        "StateFunding": 21321486.0,
-        "LocalFunding": 5051793.0
+        "LocalFunding": 5878579,
+        "StateFunding": 21070098,
+        "FederalFunding": 3443820,
+        "OtherLocalFunding": 1801884
     },
     "229901": {
         "NAME": "COLMESNEIL ISD",
@@ -31346,8 +33100,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 427.13500000000005,
-        "StateFunding": 3990844.0,
-        "LocalFunding": 1397309.0
+        "LocalFunding": 1618793,
+        "StateFunding": 4087187,
+        "FederalFunding": 474150,
+        "OtherLocalFunding": 100362
     },
     "121904": {
         "NAME": "JASPER ISD",
@@ -31379,8 +33135,10 @@ var DistrictsData = {
         "CostOfCharters": "1,013,832.44",
         "CharterTransfers": "104",
         "Attendance": 1985.035,
-        "StateFunding": 12378046.0,
-        "LocalFunding": 8419575.0
+        "LocalFunding": 9742341,
+        "StateFunding": 12543541,
+        "FederalFunding": 4925647,
+        "OtherLocalFunding": 723767
     },
     "189901": {
         "NAME": "MARFA ISD",
@@ -31412,8 +33170,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 270.934,
-        "StateFunding": 181589.0,
-        "LocalFunding": 3998802.0
+        "LocalFunding": 3580612,
+        "StateFunding": 240411,
+        "FederalFunding": 471834,
+        "OtherLocalFunding": 141956
     },
     "022902": {
         "NAME": "MARATHON ISD",
@@ -31445,8 +33205,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 56.312000000000005,
-        "StateFunding": 620114.0,
-        "LocalFunding": 903458.0
+        "LocalFunding": 1037466,
+        "StateFunding": 625778,
+        "FederalFunding": 42771,
+        "OtherLocalFunding": 36325
     },
     "022901": {
         "NAME": "ALPINE ISD",
@@ -31478,8 +33240,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 885.4810000000001,
-        "StateFunding": 4071287.0,
-        "LocalFunding": 6415994.0
+        "LocalFunding": 6429937,
+        "StateFunding": 4243185,
+        "FederalFunding": 2052999,
+        "OtherLocalFunding": 696205
     },
     "254901": {
         "NAME": "CRYSTAL CITY ISD",
@@ -31511,8 +33275,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1565.095,
-        "StateFunding": 7869371.0,
-        "LocalFunding": 9055195.0
+        "LocalFunding": 9819478,
+        "StateFunding": 8175302,
+        "FederalFunding": 5566750,
+        "OtherLocalFunding": 487608
     },
     "240903": {
         "NAME": "UNITED ISD",
@@ -31548,8 +33314,10 @@ var DistrictsData = {
         "CostOfCharters": "10,534,269.55",
         "CharterTransfers": "1,179",
         "Attendance": 39745.132,
-        "StateFunding": 206561076.0,
-        "LocalFunding": 160860713.0
+        "LocalFunding": 164840401,
+        "StateFunding": 224262721,
+        "FederalFunding": 96623495,
+        "OtherLocalFunding": 3538469
     },
     "246906": {
         "NAME": "HUTTO ISD",
@@ -31593,8 +33361,10 @@ var DistrictsData = {
         "CostOfCharters": "4,378,217.23",
         "CharterTransfers": "471",
         "Attendance": 7980.696999999999,
-        "StateFunding": 38190480.0,
-        "LocalFunding": 35656468.0
+        "LocalFunding": 40832300,
+        "StateFunding": 38783205,
+        "FederalFunding": 5975809,
+        "OtherLocalFunding": 3301418
     },
     "046902": {
         "NAME": "COMAL ISD",
@@ -31638,8 +33408,10 @@ var DistrictsData = {
         "CostOfCharters": "4,150,607.54",
         "CharterTransfers": "489",
         "Attendance": 24551.859,
-        "StateFunding": 25738626.0,
-        "LocalFunding": 189833230.0
+        "LocalFunding": 180206990,
+        "StateFunding": 32682123,
+        "FederalFunding": 21943537,
+        "OtherLocalFunding": 7800957
     },
     "105906": {
         "NAME": "HAYS CONS ISD",
@@ -31687,8 +33459,10 @@ var DistrictsData = {
         "CostOfCharters": "11,704,482.39",
         "CharterTransfers": "1,408",
         "Attendance": 18753.525999999998,
-        "StateFunding": 83596255.0,
-        "LocalFunding": 83302936.0
+        "LocalFunding": 88359348,
+        "StateFunding": 87796267,
+        "FederalFunding": 26151630,
+        "OtherLocalFunding": 3366150
     },
     "105905": {
         "NAME": "WIMBERLEY ISD",
@@ -31724,8 +33498,10 @@ var DistrictsData = {
         "CostOfCharters": "166,709.10",
         "CharterTransfers": "19",
         "Attendance": 2387.926,
-        "StateFunding": 1981142.0,
-        "LocalFunding": 21903058.0
+        "LocalFunding": 21003798,
+        "StateFunding": 2207134,
+        "FederalFunding": 2197362,
+        "OtherLocalFunding": 1121855
     },
     "105902": {
         "NAME": "SAN MARCOS CONS ISD",
@@ -31769,8 +33545,10 @@ var DistrictsData = {
         "CostOfCharters": "3,558,739.39",
         "CharterTransfers": "388",
         "Attendance": 7299.026999999999,
-        "StateFunding": 10043065.0,
-        "LocalFunding": 60159612.0
+        "LocalFunding": 64218336,
+        "StateFunding": 14458813,
+        "FederalFunding": 12184057,
+        "OtherLocalFunding": 2037636
     },
     "028902": {
         "NAME": "LOCKHART ISD",
@@ -31802,8 +33580,10 @@ var DistrictsData = {
         "CostOfCharters": "3,287,855.04",
         "CharterTransfers": "383",
         "Attendance": 5366.18,
-        "StateFunding": 36276320.0,
-        "LocalFunding": 16247360.0
+        "LocalFunding": 16664702,
+        "StateFunding": 37909491,
+        "FederalFunding": 12803882,
+        "OtherLocalFunding": 2954596
     },
     "246909": {
         "NAME": "ROUND ROCK ISD",
@@ -31863,8 +33643,10 @@ var DistrictsData = {
         "CostOfCharters": "34,975,778.55",
         "CharterTransfers": "4,311",
         "Attendance": 47053.606,
-        "StateFunding": 31276736.0,
-        "LocalFunding": 366787137.0
+        "LocalFunding": 363989189,
+        "StateFunding": 44877883,
+        "FederalFunding": 36017035,
+        "OtherLocalFunding": 12334481
     },
     "227904": {
         "NAME": "PFLUGERVILLE ISD",
@@ -31912,8 +33694,10 @@ var DistrictsData = {
         "CostOfCharters": "30,492,246.71",
         "CharterTransfers": "3,507",
         "Attendance": 23747.648999999998,
-        "StateFunding": 58442282.0,
-        "LocalFunding": 154533746.0
+        "LocalFunding": 163600682,
+        "StateFunding": 61469628,
+        "FederalFunding": 44815194,
+        "OtherLocalFunding": 4384565
     },
     "011904": {
         "NAME": "SMITHVILLE ISD",
@@ -31953,8 +33737,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1625.49,
-        "StateFunding": 7033751.0,
-        "LocalFunding": 8910059.0
+        "LocalFunding": 10301534,
+        "StateFunding": 7851849,
+        "FederalFunding": 3898813,
+        "OtherLocalFunding": 673190
     },
     "082903": {
         "NAME": "PEARSALL ISD",
@@ -31986,8 +33772,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1943.181,
-        "StateFunding": 7968660.0,
-        "LocalFunding": 11853499.0
+        "LocalFunding": 12389806,
+        "StateFunding": 7244680,
+        "FederalFunding": 9546744,
+        "OtherLocalFunding": 2888629
     },
     "094902": {
         "NAME": "SCHERTZ-CIBOLO-UNIVERSAL CITY ISD",
@@ -32031,8 +33819,10 @@ var DistrictsData = {
         "CostOfCharters": "5,330,454.94",
         "CharterTransfers": "681",
         "Attendance": 15119.124,
-        "StateFunding": 64858320.0,
-        "LocalFunding": 56614221.0
+        "LocalFunding": 58894906,
+        "StateFunding": 65017670,
+        "FederalFunding": 14189332,
+        "OtherLocalFunding": 1892356
     },
     "015916": {
         "NAME": "JUDSON ISD",
@@ -32088,8 +33878,10 @@ var DistrictsData = {
         "CostOfCharters": "30,452,810.29",
         "CharterTransfers": "3,562",
         "Attendance": 21812.255,
-        "StateFunding": 102965373.0,
-        "LocalFunding": 97902990.0
+        "LocalFunding": 102090991,
+        "StateFunding": 104897904,
+        "FederalFunding": 27409910,
+        "OtherLocalFunding": 3900450
     },
     "093905": {
         "NAME": "RICHARDS ISD",
@@ -32129,8 +33921,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 168.548,
-        "StateFunding": 450076.0,
-        "LocalFunding": 1690251.0
+        "LocalFunding": 1795232,
+        "StateFunding": 480935,
+        "FederalFunding": 330662,
+        "OtherLocalFunding": 32221
     },
     "187910": {
         "NAME": "ONALASKA ISD",
@@ -32157,8 +33951,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1041.736,
-        "StateFunding": 6396172.0,
-        "LocalFunding": 5369409.0
+        "LocalFunding": 6009396,
+        "StateFunding": 6576368,
+        "FederalFunding": 2267418,
+        "OtherLocalFunding": 629502
     },
     "026902": {
         "NAME": "SOMERVILLE ISD",
@@ -32190,8 +33986,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 485.63500000000005,
-        "StateFunding": 2696799.0,
-        "LocalFunding": 3307862.0
+        "LocalFunding": 3526776,
+        "StateFunding": 2772891,
+        "FederalFunding": 1248696,
+        "OtherLocalFunding": 547552
     },
     "229905": {
         "NAME": "SPURGER ISD",
@@ -32218,8 +34016,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 349.244,
-        "StateFunding": 4012456.0,
-        "LocalFunding": 842639.0
+        "LocalFunding": 1025815,
+        "StateFunding": 4020936,
+        "FederalFunding": 574717,
+        "OtherLocalFunding": 24458
     },
     "121905": {
         "NAME": "KIRBYVILLE CONS ISD",
@@ -32251,8 +34051,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1306.601,
-        "StateFunding": 10988975.0,
-        "LocalFunding": 3077161.0
+        "LocalFunding": 3254551,
+        "StateFunding": 10666523,
+        "FederalFunding": 1970239,
+        "OtherLocalFunding": 163143
     },
     "158906": {
         "NAME": "VAN VLECK ISD",
@@ -32284,8 +34086,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1002.735,
-        "StateFunding": 5816462.0,
-        "LocalFunding": 5773651.0
+        "LocalFunding": 5983502,
+        "StateFunding": 5948363,
+        "FederalFunding": 1788725,
+        "OtherLocalFunding": 2961720
     },
     "020906": {
         "NAME": "SWEENY ISD",
@@ -32317,8 +34121,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1771.3670000000002,
-        "StateFunding": 3791265.0,
-        "LocalFunding": 19388420.0
+        "LocalFunding": 15800750,
+        "StateFunding": 3146484,
+        "FederalFunding": 3176643,
+        "OtherLocalFunding": 2087286
     },
     "205905": {
         "NAME": "ODEM-EDROY ISD",
@@ -32350,8 +34156,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 746.9069999999999,
-        "StateFunding": 5970471.0,
-        "LocalFunding": 3342515.0
+        "LocalFunding": 3841922,
+        "StateFunding": 6419695,
+        "FederalFunding": 1945376,
+        "OtherLocalFunding": 572887
     },
     "131001": {
         "NAME": "KENEDY COUNTY-WIDE CSD",
@@ -32383,8 +34191,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 75.49600000000001,
-        "StateFunding": 30887.0,
-        "LocalFunding": 8210277.0
+        "LocalFunding": 1435504,
+        "StateFunding": 82234,
+        "FederalFunding": 22266,
+        "OtherLocalFunding": 254916
     },
     "178903": {
         "NAME": "CALALLEN ISD",
@@ -32416,8 +34226,10 @@ var DistrictsData = {
         "CostOfCharters": "131,120.15",
         "CharterTransfers": "14",
         "Attendance": 3762.6820000000002,
-        "StateFunding": 19237432.0,
-        "LocalFunding": 15866557.0
+        "LocalFunding": 19827400,
+        "StateFunding": 20222501,
+        "FederalFunding": 5281291,
+        "OtherLocalFunding": 654847
     },
     "004901": {
         "NAME": "ARANSAS COUNTY ISD",
@@ -32449,8 +34261,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2681.159,
-        "StateFunding": 4937925.0,
-        "LocalFunding": 28543600.0
+        "LocalFunding": 25743469,
+        "StateFunding": 5124763,
+        "FederalFunding": 7012593,
+        "OtherLocalFunding": 549136
     },
     "108912": {
         "NAME": "LA JOYA ISD",
@@ -32490,8 +34304,10 @@ var DistrictsData = {
         "CostOfCharters": "27,721,164.75",
         "CharterTransfers": "2,680",
         "Attendance": 24393.172,
-        "StateFunding": 256439533.0,
-        "LocalFunding": 24388232.0
+        "LocalFunding": 29973866,
+        "StateFunding": 254890401,
+        "FederalFunding": 70598675,
+        "OtherLocalFunding": 2508704
     },
     "214901": {
         "NAME": "RIO GRANDE CITY CONS ISD",
@@ -32523,8 +34339,10 @@ var DistrictsData = {
         "CostOfCharters": "8,116,032.56",
         "CharterTransfers": "833",
         "Attendance": 9307.296,
-        "StateFunding": 88917404.0,
-        "LocalFunding": 12153752.0
+        "LocalFunding": 11967377,
+        "StateFunding": 86380222,
+        "FederalFunding": 28946513,
+        "OtherLocalFunding": 758449
     },
     "245904": {
         "NAME": "SAN PERLITA ISD",
@@ -32556,8 +34374,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 213.22500000000002,
-        "StateFunding": 2033119.0,
-        "LocalFunding": 1094820.0
+        "LocalFunding": 1162054,
+        "StateFunding": 2023918,
+        "FederalFunding": 888897,
+        "OtherLocalFunding": 529444
     },
     "245903": {
         "NAME": "RAYMONDVILLE ISD",
@@ -32589,8 +34409,10 @@ var DistrictsData = {
         "CostOfCharters": "129,525.73",
         "CharterTransfers": "13",
         "Attendance": 1871.461,
-        "StateFunding": 18381000.0,
-        "LocalFunding": 2892927.0
+        "LocalFunding": 3396200,
+        "StateFunding": 18788298,
+        "FederalFunding": 6902772,
+        "OtherLocalFunding": 1205897
     },
     "178909": {
         "NAME": "ROBSTOWN ISD",
@@ -32622,8 +34444,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2056.82,
-        "StateFunding": 18539480.0,
-        "LocalFunding": 5542937.0
+        "LocalFunding": 6606380,
+        "StateFunding": 17721678,
+        "FederalFunding": 9512299,
+        "OtherLocalFunding": 275603
     },
     "178902": {
         "NAME": "BISHOP CONS ISD",
@@ -32659,8 +34483,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1490.951,
-        "StateFunding": 9190205.0,
-        "LocalFunding": 7497813.0
+        "LocalFunding": 7872500,
+        "StateFunding": 9294660,
+        "FederalFunding": 2402345,
+        "OtherLocalFunding": 769627
     },
     "178904": {
         "NAME": "CORPUS CHRISTI ISD",
@@ -32700,8 +34526,10 @@ var DistrictsData = {
         "CostOfCharters": "20,751,988.03",
         "CharterTransfers": "2,521",
         "Attendance": 31077.251,
-        "StateFunding": 116550160.0,
-        "LocalFunding": 159950142.0
+        "LocalFunding": 162154905,
+        "StateFunding": 126312375,
+        "FederalFunding": 68352305,
+        "OtherLocalFunding": 5071887
     },
     "205907": {
         "NAME": "TAFT ISD",
@@ -32733,8 +34561,10 @@ var DistrictsData = {
         "CostOfCharters": "825,968.92",
         "CharterTransfers": "58",
         "Attendance": 837.85,
-        "StateFunding": 6733407.0,
-        "LocalFunding": 5819108.0
+        "LocalFunding": 6813648,
+        "StateFunding": 6655762,
+        "FederalFunding": 3260694,
+        "OtherLocalFunding": 934307
     },
     "205903": {
         "NAME": "INGLESIDE ISD",
@@ -32766,8 +34596,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1969.683,
-        "StateFunding": 3492228.0,
-        "LocalFunding": 21910961.0
+        "LocalFunding": 17863073,
+        "StateFunding": 3817581,
+        "FederalFunding": 3671762,
+        "OtherLocalFunding": 1220403
     },
     "205902": {
         "NAME": "GREGORY-PORTLAND ISD",
@@ -32799,8 +34631,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 4350.9890000000005,
-        "StateFunding": 19888380.0,
-        "LocalFunding": 27321388.0
+        "LocalFunding": 50366690,
+        "StateFunding": 22059990,
+        "FederalFunding": 9588950,
+        "OtherLocalFunding": 928074
     },
     "178915": {
         "NAME": "WEST OSO ISD",
@@ -32836,8 +34670,10 @@ var DistrictsData = {
         "CostOfCharters": "253,722.62",
         "CharterTransfers": "28",
         "Attendance": 1699.277,
-        "StateFunding": 10098637.0,
-        "LocalFunding": 7440419.0
+        "LocalFunding": 7985741,
+        "StateFunding": 10165857,
+        "FederalFunding": 3158869,
+        "OtherLocalFunding": 180256
     },
     "178912": {
         "NAME": "TULOSO-MIDWAY ISD",
@@ -32869,8 +34705,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 3525.3979999999997,
-        "StateFunding": 5664549.0,
-        "LocalFunding": 30674312.0
+        "LocalFunding": 30700793,
+        "StateFunding": 6352895,
+        "FederalFunding": 7218901,
+        "OtherLocalFunding": 1304329
     },
     "178914": {
         "NAME": "FLOUR BLUFF ISD",
@@ -32906,8 +34744,10 @@ var DistrictsData = {
         "CostOfCharters": "510,546.83",
         "CharterTransfers": "63",
         "Attendance": 5223.462,
-        "StateFunding": 13631937.0,
-        "LocalFunding": 30090627.0
+        "LocalFunding": 31616391,
+        "StateFunding": 14132085,
+        "FederalFunding": 5268122,
+        "OtherLocalFunding": 827636
     },
     "205901": {
         "NAME": "ARANSAS PASS ISD",
@@ -32951,8 +34791,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1482.7340000000002,
-        "StateFunding": 7062541.0,
-        "LocalFunding": 7727407.0
+        "LocalFunding": 8207765,
+        "StateFunding": 7524377,
+        "FederalFunding": 3171216,
+        "OtherLocalFunding": 1196814
     },
     "178906": {
         "NAME": "LONDON ISD",
@@ -32988,8 +34830,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1205.0220000000002,
-        "StateFunding": 4908695.0,
-        "LocalFunding": 6024897.0
+        "LocalFunding": 6189035,
+        "StateFunding": 5023633,
+        "FederalFunding": 687290,
+        "OtherLocalFunding": 661002
     },
     "097903": {
         "NAME": "HICO ISD",
@@ -33033,8 +34877,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 529.7470000000001,
-        "StateFunding": 4500409.0,
-        "LocalFunding": 1987688.0
+        "LocalFunding": 2327429,
+        "StateFunding": 4672865,
+        "FederalFunding": 798279,
+        "OtherLocalFunding": 488170
     },
     "072903": {
         "NAME": "STEPHENVILLE ISD",
@@ -33066,8 +34912,10 @@ var DistrictsData = {
         "CostOfCharters": "474,684.55",
         "CharterTransfers": "54",
         "Attendance": 3432.9570000000003,
-        "StateFunding": 12721593.0,
-        "LocalFunding": 18462671.0
+        "LocalFunding": 19782591,
+        "StateFunding": 13522082,
+        "FederalFunding": 6361440,
+        "OtherLocalFunding": 1243568
     },
     "072904": {
         "NAME": "BLUFF DALE ISD",
@@ -33107,8 +34955,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 209.202,
-        "StateFunding": 741995.0,
-        "LocalFunding": 1703584.0
+        "LocalFunding": 1988926,
+        "StateFunding": 767433,
+        "FederalFunding": 187195,
+        "OtherLocalFunding": 86679
     },
     "213901": {
         "NAME": "GLEN ROSE ISD",
@@ -33144,8 +34994,10 @@ var DistrictsData = {
         "CostOfCharters": "227,741.97",
         "CharterTransfers": "26",
         "Attendance": 1879.4129999999998,
-        "StateFunding": 5571215.0,
-        "LocalFunding": 25556362.0
+        "LocalFunding": 16561534,
+        "StateFunding": 5755539,
+        "FederalFunding": 2313687,
+        "OtherLocalFunding": 1888266
     },
     "072901": {
         "NAME": "THREE WAY ISD",
@@ -33177,8 +35029,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 200.63,
-        "StateFunding": 1974437.0,
-        "LocalFunding": 527361.0
+        "LocalFunding": 569458,
+        "StateFunding": 1992803,
+        "FederalFunding": 220842,
+        "OtherLocalFunding": 62168
     },
     "018906": {
         "NAME": "IREDELL ISD",
@@ -33218,8 +35072,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 134.201,
-        "StateFunding": 704641.0,
-        "LocalFunding": 1323610.0
+        "LocalFunding": 1370978,
+        "StateFunding": 813961,
+        "FederalFunding": 195987,
+        "OtherLocalFunding": 70597
     },
     "018905": {
         "NAME": "WALNUT SPRINGS ISD",
@@ -33250,8 +35106,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 116.86,
-        "StateFunding": 1135491.0,
-        "LocalFunding": 1092770.0
+        "LocalFunding": 1166497,
+        "StateFunding": 1160362,
+        "FederalFunding": 391016,
+        "OtherLocalFunding": 28596
     },
     "111903": {
         "NAME": "TOLAR ISD",
@@ -33278,8 +35136,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 748.677,
-        "StateFunding": 4941717.0,
-        "LocalFunding": 2729299.0
+        "LocalFunding": 3053716,
+        "StateFunding": 4969168,
+        "FederalFunding": 918032,
+        "OtherLocalFunding": 502937
     },
     "126903": {
         "NAME": "CLEBURNE ISD",
@@ -33311,8 +35171,10 @@ var DistrictsData = {
         "CostOfCharters": "207,575.50",
         "CharterTransfers": "23",
         "Attendance": 6347.045999999999,
-        "StateFunding": 31966361.0,
-        "LocalFunding": 26495880.0
+        "LocalFunding": 30704524,
+        "StateFunding": 33386805,
+        "FederalFunding": 10604272,
+        "OtherLocalFunding": 1681121
     },
     "111901": {
         "NAME": "GRANBURY ISD",
@@ -33360,8 +35222,10 @@ var DistrictsData = {
         "CostOfCharters": "1,372,950.07",
         "CharterTransfers": "166",
         "Attendance": 6817.29,
-        "StateFunding": 4679166.0,
-        "LocalFunding": 61050519.0
+        "LocalFunding": 58723179,
+        "StateFunding": 5093288,
+        "FederalFunding": 11960623,
+        "OtherLocalFunding": 1149068
     },
     "018907": {
         "NAME": "KOPPERL ISD",
@@ -33393,8 +35257,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 161.889,
-        "StateFunding": 561937.0,
-        "LocalFunding": 1656600.0
+        "LocalFunding": 1799479,
+        "StateFunding": 589674,
+        "FederalFunding": 389040,
+        "OtherLocalFunding": 166294
     },
     "194902": {
         "NAME": "AVERY ISD",
@@ -33426,8 +35292,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 305.856,
-        "StateFunding": 3617642.0,
-        "LocalFunding": 507801.0
+        "LocalFunding": 600703,
+        "StateFunding": 3892703,
+        "FederalFunding": 385793,
+        "OtherLocalFunding": 390544
     },
     "172905": {
         "NAME": "PEWITT CONS ISD",
@@ -33463,8 +35331,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 771.8580000000001,
-        "StateFunding": 6524451.0,
-        "LocalFunding": 2862728.0
+        "LocalFunding": 3063546,
+        "StateFunding": 6598090,
+        "FederalFunding": 1138004,
+        "OtherLocalFunding": 762893
     },
     "019913": {
         "NAME": "HUBBARD ISD (BOWIE)",
@@ -33496,8 +35366,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 90.945,
-        "StateFunding": 1134304.0,
-        "LocalFunding": 212862.0
+        "LocalFunding": 232137,
+        "StateFunding": 1158373,
+        "FederalFunding": 260482,
+        "OtherLocalFunding": 12689
     },
     "019909": {
         "NAME": "SIMMS ISD",
@@ -33524,8 +35396,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 444.51599999999996,
-        "StateFunding": 4704760.0,
-        "LocalFunding": 1145109.0
+        "LocalFunding": 1335879,
+        "StateFunding": 4748551,
+        "FederalFunding": 1231776,
+        "OtherLocalFunding": 268228
     },
     "019910": {
         "NAME": "MALTA ISD",
@@ -33557,8 +35431,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 196.29,
-        "StateFunding": 2320866.0,
-        "LocalFunding": 211218.0
+        "LocalFunding": 220071,
+        "StateFunding": 2216270,
+        "FederalFunding": 92337,
+        "OtherLocalFunding": 32396
     },
     "019901": {
         "NAME": "DE KALB ISD",
@@ -33590,8 +35466,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 697.078,
-        "StateFunding": 6548554.0,
-        "LocalFunding": 1938186.0
+        "LocalFunding": 2311276,
+        "StateFunding": 6989954,
+        "FederalFunding": 1507384,
+        "OtherLocalFunding": 494955
     },
     "019905": {
         "NAME": "NEW BOSTON ISD",
@@ -33623,8 +35501,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1063.0620000000001,
-        "StateFunding": 9159051.0,
-        "LocalFunding": 3679876.0
+        "LocalFunding": 4300953,
+        "StateFunding": 11717300,
+        "FederalFunding": 3072611,
+        "OtherLocalFunding": 603209
     },
     "019903": {
         "NAME": "MAUD ISD",
@@ -33656,8 +35536,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 432.00100000000003,
-        "StateFunding": 5091741.0,
-        "LocalFunding": 611868.0
+        "LocalFunding": 708219,
+        "StateFunding": 5267790,
+        "FederalFunding": 665116,
+        "OtherLocalFunding": 153739
     },
     "034901": {
         "NAME": "ATLANTA ISD",
@@ -33689,8 +35571,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1702.315,
-        "StateFunding": 13114442.0,
-        "LocalFunding": 5011064.0
+        "LocalFunding": 5926539,
+        "StateFunding": 13278790,
+        "FederalFunding": 5928749,
+        "OtherLocalFunding": 840722
     },
     "019902": {
         "NAME": "HOOKS ISD",
@@ -33722,8 +35606,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 776.3970000000002,
-        "StateFunding": 8225261.0,
-        "LocalFunding": 1523370.0
+        "LocalFunding": 1827164,
+        "StateFunding": 8119556,
+        "FederalFunding": 2139677,
+        "OtherLocalFunding": 372611
     },
     "019914": {
         "NAME": "LEARY ISD",
@@ -33755,8 +35641,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 113.14299999999999,
-        "StateFunding": 1279454.0,
-        "LocalFunding": 415168.0
+        "LocalFunding": 466594,
+        "StateFunding": 1152366,
+        "FederalFunding": 222625,
+        "OtherLocalFunding": 21327
     },
     "019911": {
         "NAME": "RED LICK ISD",
@@ -33783,8 +35671,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 485.552,
-        "StateFunding": 2898232.0,
-        "LocalFunding": 2260542.0
+        "LocalFunding": 2403410,
+        "StateFunding": 2757558,
+        "FederalFunding": 309194,
+        "OtherLocalFunding": 202709
     },
     "019912": {
         "NAME": "PLEASANT GROVE ISD",
@@ -33816,8 +35706,10 @@ var DistrictsData = {
         "CostOfCharters": "134,725.79",
         "CharterTransfers": "15",
         "Attendance": 2088.361,
-        "StateFunding": 10823309.0,
-        "LocalFunding": 8969765.0
+        "LocalFunding": 9801694,
+        "StateFunding": 10901301,
+        "FederalFunding": 1565530,
+        "OtherLocalFunding": 1246659
     },
     "019908": {
         "NAME": "LIBERTY-EYLAU ISD",
@@ -33849,8 +35741,10 @@ var DistrictsData = {
         "CostOfCharters": "238,076.59",
         "CharterTransfers": "24",
         "Attendance": 2032.506,
-        "StateFunding": 16943302.0,
-        "LocalFunding": 5312662.0
+        "LocalFunding": 6280427,
+        "StateFunding": 16697272,
+        "FederalFunding": 5513760,
+        "OtherLocalFunding": 574596
     },
     "019907": {
         "NAME": "TEXARKANA ISD",
@@ -33877,8 +35771,10 @@ var DistrictsData = {
         "CostOfCharters": "240,827.32",
         "CharterTransfers": "27",
         "Attendance": 6388.223000000001,
-        "StateFunding": 45730183.0,
-        "LocalFunding": 20292721.0
+        "LocalFunding": 23683363,
+        "StateFunding": 46146476,
+        "FederalFunding": 15318004,
+        "OtherLocalFunding": 1778969
     },
     "019906": {
         "NAME": "REDWATER ISD",
@@ -33905,8 +35801,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1028.473,
-        "StateFunding": 8736608.0,
-        "LocalFunding": 2494121.0
+        "LocalFunding": 2870086,
+        "StateFunding": 9118913,
+        "FederalFunding": 1333239,
+        "OtherLocalFunding": 362841
     },
     "034907": {
         "NAME": "QUEEN CITY ISD",
@@ -33938,8 +35836,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 883.4870000000001,
-        "StateFunding": 5568433.0,
-        "LocalFunding": 4903405.0
+        "LocalFunding": 5580505,
+        "StateFunding": 5748806,
+        "FederalFunding": 1696558,
+        "OtherLocalFunding": 335281
     },
     "138902": {
         "NAME": "KNOX CITY-O'BRIEN CONS ISD",
@@ -33975,8 +35875,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 223.519,
-        "StateFunding": 2471647.0,
-        "LocalFunding": 618272.0
+        "LocalFunding": 721849,
+        "StateFunding": 2737368,
+        "FederalFunding": 690800,
+        "OtherLocalFunding": 356406
     },
     "135001": {
         "NAME": "GUTHRIE CSD",
@@ -34008,8 +35910,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 112.319,
-        "StateFunding": 502150.0,
-        "LocalFunding": 1495740.0
+        "LocalFunding": 1558917,
+        "StateFunding": 523797,
+        "FederalFunding": 11245,
+        "OtherLocalFunding": 246841
     },
     "244903": {
         "NAME": "VERNON ISD",
@@ -34036,8 +35940,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1724.0810000000001,
-        "StateFunding": 8672831.0,
-        "LocalFunding": 8149935.0
+        "LocalFunding": 8659415,
+        "StateFunding": 8798973,
+        "FederalFunding": 3476834,
+        "OtherLocalFunding": 3558912
     },
     "078901": {
         "NAME": "CROWELL ISD",
@@ -34073,8 +35979,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 211.579,
-        "StateFunding": 751247.0,
-        "LocalFunding": 2367042.0
+        "LocalFunding": 2695321,
+        "StateFunding": 756317,
+        "FederalFunding": 643522,
+        "OtherLocalFunding": 3986426
     },
     "224901": {
         "NAME": "THROCKMORTON COLLEGIATE ISD",
@@ -34101,8 +36009,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 155.256,
-        "StateFunding": 824187.0,
-        "LocalFunding": 1139351.0
+        "LocalFunding": 1317943,
+        "StateFunding": 1026185,
+        "FederalFunding": 636975,
+        "OtherLocalFunding": 232264
     },
     "138903": {
         "NAME": "MUNDAY CONS ISD",
@@ -34133,8 +36043,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 336.289,
-        "StateFunding": 3600452.0,
-        "LocalFunding": 1037479.0
+        "LocalFunding": 1214050,
+        "StateFunding": 3633453,
+        "FederalFunding": 904888,
+        "OtherLocalFunding": 173352
     },
     "138904": {
         "NAME": "BENJAMIN ISD",
@@ -34166,8 +36078,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 120.76100000000001,
-        "StateFunding": 1413556.0,
-        "LocalFunding": 746514.0
+        "LocalFunding": 887989,
+        "StateFunding": 1450930,
+        "FederalFunding": 190190,
+        "OtherLocalFunding": 222776
     },
     "252903": {
         "NAME": "OLNEY ISD",
@@ -34203,8 +36117,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 625.046,
-        "StateFunding": 6056020.0,
-        "LocalFunding": 2511320.0
+        "LocalFunding": 2880692,
+        "StateFunding": 6731304,
+        "FederalFunding": 2113814,
+        "OtherLocalFunding": 477390
     },
     "050909": {
         "NAME": "JONESBORO ISD",
@@ -34244,8 +36160,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 301.547,
-        "StateFunding": 3104600.0,
-        "LocalFunding": 895363.0
+        "LocalFunding": 1033013,
+        "StateFunding": 3121768,
+        "FederalFunding": 309447,
+        "OtherLocalFunding": 37005
     },
     "018904": {
         "NAME": "VALLEY MILLS ISD",
@@ -34280,8 +36198,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 565.126,
-        "StateFunding": 4367629.0,
-        "LocalFunding": 2319620.0
+        "LocalFunding": 2479296,
+        "StateFunding": 4419129,
+        "FederalFunding": 732128,
+        "OtherLocalFunding": 89018
     },
     "161901": {
         "NAME": "CRAWFORD ISD",
@@ -34321,8 +36241,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 553.948,
-        "StateFunding": 4575950.0,
-        "LocalFunding": 2083681.0
+        "LocalFunding": 2468872,
+        "StateFunding": 4649630,
+        "FederalFunding": 431828,
+        "OtherLocalFunding": 338276
     },
     "018901": {
         "NAME": "CLIFTON ISD",
@@ -34362,8 +36284,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 960.409,
-        "StateFunding": 4531402.0,
-        "LocalFunding": 5902078.0
+        "LocalFunding": 6205746,
+        "StateFunding": 4785161,
+        "FederalFunding": 1170373,
+        "OtherLocalFunding": 485208
     },
     "161903": {
         "NAME": "MIDWAY ISD (MCLENNAN)",
@@ -34395,8 +36319,10 @@ var DistrictsData = {
         "CostOfCharters": "487,833.31",
         "CharterTransfers": "60",
         "Attendance": 7882.186000000001,
-        "StateFunding": 12257903.0,
-        "LocalFunding": 52735141.0
+        "LocalFunding": 55802524,
+        "StateFunding": 13867876,
+        "FederalFunding": 9343424,
+        "OtherLocalFunding": 2844402
     },
     "161909": {
         "NAME": "MCGREGOR ISD",
@@ -34428,8 +36354,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1387.343,
-        "StateFunding": 8896033.0,
-        "LocalFunding": 4650977.0
+        "LocalFunding": 4940001,
+        "StateFunding": 9498094,
+        "FederalFunding": 2407014,
+        "OtherLocalFunding": 2159583
     },
     "050904": {
         "NAME": "OGLESBY ISD",
@@ -34465,8 +36393,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 171.983,
-        "StateFunding": 1475892.0,
-        "LocalFunding": 732590.0
+        "LocalFunding": 858264,
+        "StateFunding": 1475864,
+        "FederalFunding": 318322,
+        "OtherLocalFunding": 115231
     },
     "161907": {
         "NAME": "LORENA ISD",
@@ -34502,8 +36432,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1661.18,
-        "StateFunding": 9582736.0,
-        "LocalFunding": 5561454.0
+        "LocalFunding": 6453656,
+        "StateFunding": 9858324,
+        "FederalFunding": 1364053,
+        "OtherLocalFunding": 725854
     },
     "246905": {
         "NAME": "GRANGER ISD",
@@ -34535,8 +36467,10 @@ var DistrictsData = {
         "CostOfCharters": "141,647.50",
         "CharterTransfers": "12",
         "Attendance": 410.781,
-        "StateFunding": 3647981.0,
-        "LocalFunding": 1561231.0
+        "LocalFunding": 1727788,
+        "StateFunding": 3743097,
+        "FederalFunding": 505130,
+        "OtherLocalFunding": 164817
     },
     "026901": {
         "NAME": "CALDWELL ISD",
@@ -34568,8 +36502,10 @@ var DistrictsData = {
         "CostOfCharters": "104,295.83",
         "CharterTransfers": "10",
         "Attendance": 1563.636,
-        "StateFunding": 3301529.0,
-        "LocalFunding": 12853711.0
+        "LocalFunding": 16719071,
+        "StateFunding": 3510699,
+        "FederalFunding": 2464391,
+        "OtherLocalFunding": 819495
     },
     "166903": {
         "NAME": "MILANO ISD",
@@ -34601,8 +36537,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 352.546,
-        "StateFunding": 3380400.0,
-        "LocalFunding": 1212540.0
+        "LocalFunding": 1410944,
+        "StateFunding": 3596936,
+        "FederalFunding": 872319,
+        "OtherLocalFunding": 317058
     },
     "166905": {
         "NAME": "THORNDALE ISD",
@@ -34634,8 +36572,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 541.1610000000001,
-        "StateFunding": 4821186.0,
-        "LocalFunding": 1819745.0
+        "LocalFunding": 2095801,
+        "StateFunding": 4938050,
+        "FederalFunding": 771611,
+        "OtherLocalFunding": 446972
     },
     "144902": {
         "NAME": "LEXINGTON ISD",
@@ -34679,8 +36619,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1004.072,
-        "StateFunding": 6995079.0,
-        "LocalFunding": 4067213.0
+        "LocalFunding": 4797988,
+        "StateFunding": 7042816,
+        "FederalFunding": 1092151,
+        "OtherLocalFunding": 265269
     },
     "166904": {
         "NAME": "ROCKDALE ISD",
@@ -34712,8 +36654,10 @@ var DistrictsData = {
         "CostOfCharters": "556,897.41",
         "CharterTransfers": "56",
         "Attendance": 1311.547,
-        "StateFunding": 9674297.0,
-        "LocalFunding": 4292968.0
+        "LocalFunding": 5009644,
+        "StateFunding": 9928460,
+        "FederalFunding": 4353258,
+        "OtherLocalFunding": 1087712
     },
     "166907": {
         "NAME": "BUCKHOLTS ISD",
@@ -34745,8 +36689,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 128.89100000000002,
-        "StateFunding": 1722532.0,
-        "LocalFunding": 376674.0
+        "LocalFunding": 418837,
+        "StateFunding": 1742123,
+        "FederalFunding": 355817,
+        "OtherLocalFunding": 32598
     },
     "246908": {
         "NAME": "LIBERTY HILL ISD",
@@ -34778,8 +36724,10 @@ var DistrictsData = {
         "CostOfCharters": "1,669,230.47",
         "CharterTransfers": "198",
         "Attendance": 5362.5380000000005,
-        "StateFunding": 17402832.0,
-        "LocalFunding": 28957673.0
+        "LocalFunding": 29587191,
+        "StateFunding": 17889327,
+        "FederalFunding": 2652678,
+        "OtherLocalFunding": 2192963
     },
     "246904": {
         "NAME": "GEORGETOWN ISD",
@@ -34815,8 +36763,10 @@ var DistrictsData = {
         "CostOfCharters": "8,996,573.74",
         "CharterTransfers": "1,035",
         "Attendance": 11208.167,
-        "StateFunding": 8094522.0,
-        "LocalFunding": 105810867.0
+        "LocalFunding": 98637881,
+        "StateFunding": 11812616,
+        "FederalFunding": 16172156,
+        "OtherLocalFunding": 3557439
     },
     "161910": {
         "NAME": "MOODY ISD",
@@ -34860,8 +36810,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 621.903,
-        "StateFunding": 5955664.0,
-        "LocalFunding": 1916161.0
+        "LocalFunding": 2277016,
+        "StateFunding": 6034260,
+        "FederalFunding": 1228293,
+        "OtherLocalFunding": 158953
     },
     "050901": {
         "NAME": "EVANT ISD",
@@ -34897,8 +36849,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 253.28800000000004,
-        "StateFunding": 2073716.0,
-        "LocalFunding": 1042043.0
+        "LocalFunding": 1080506,
+        "StateFunding": 2110221,
+        "FederalFunding": 612208,
+        "OtherLocalFunding": 79861
     },
     "141902": {
         "NAME": "LOMETA ISD",
@@ -34934,8 +36888,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 322.283,
-        "StateFunding": 3057237.0,
-        "LocalFunding": 1373741.0
+        "LocalFunding": 1476481,
+        "StateFunding": 3121411,
+        "FederalFunding": 1978187,
+        "OtherLocalFunding": 187814
     },
     "206901": {
         "NAME": "SAN SABA ISD",
@@ -34962,8 +36918,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 642.712,
-        "StateFunding": 4862463.0,
-        "LocalFunding": 3035645.0
+        "LocalFunding": 3194789,
+        "StateFunding": 5108174,
+        "FederalFunding": 1040866,
+        "OtherLocalFunding": 119300
     },
     "167901": {
         "NAME": "GOLDTHWAITE CONS ISD",
@@ -34999,8 +36957,10 @@ var DistrictsData = {
         "CostOfCharters": "670,357.01",
         "CharterTransfers": "60",
         "Attendance": 482.28700000000003,
-        "StateFunding": 2974382.0,
-        "LocalFunding": 2912039.0
+        "LocalFunding": 3033569,
+        "StateFunding": 3036523,
+        "FederalFunding": 1167151,
+        "OtherLocalFunding": 1500309
     },
     "014909": {
         "NAME": "TEMPLE ISD",
@@ -35027,8 +36987,10 @@ var DistrictsData = {
         "CostOfCharters": "2,697,095.30",
         "CharterTransfers": "296",
         "Attendance": 7714.053000000001,
-        "StateFunding": 43249722.0,
-        "LocalFunding": 33729065.0
+        "LocalFunding": 37739325,
+        "StateFunding": 43479643,
+        "FederalFunding": 15070780,
+        "OtherLocalFunding": 8499142
     },
     "014901": {
         "NAME": "ACADEMY ISD",
@@ -35060,8 +37022,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1675.565,
-        "StateFunding": 10618488.0,
-        "LocalFunding": 4774583.0
+        "LocalFunding": 5013542,
+        "StateFunding": 11071440,
+        "FederalFunding": 1687703,
+        "OtherLocalFunding": 698897
     },
     "246907": {
         "NAME": "JARRELL ISD",
@@ -35093,8 +37057,10 @@ var DistrictsData = {
         "CostOfCharters": "895,362.98",
         "CharterTransfers": "93",
         "Attendance": 2188.1240000000003,
-        "StateFunding": 6918995.0,
-        "LocalFunding": 14866752.0
+        "LocalFunding": 15542928,
+        "StateFunding": 6960362,
+        "FederalFunding": 2092180,
+        "OtherLocalFunding": 521184
     },
     "014905": {
         "NAME": "HOLLAND ISD",
@@ -35138,8 +37104,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 621.999,
-        "StateFunding": 5982048.0,
-        "LocalFunding": 1261548.0
+        "LocalFunding": 1327943,
+        "StateFunding": 6614903,
+        "FederalFunding": 2068760,
+        "OtherLocalFunding": 1450753
     },
     "014902": {
         "NAME": "BARTLETT ISD",
@@ -35183,8 +37151,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 357.30800000000005,
-        "StateFunding": 3561375.0,
-        "LocalFunding": 1194505.0
+        "LocalFunding": 1265087,
+        "StateFunding": 3596332,
+        "FederalFunding": 1146099,
+        "OtherLocalFunding": 125013
     },
     "073905": {
         "NAME": "ROSEBUD-LOTT ISD",
@@ -35224,8 +37194,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 623.3530000000001,
-        "StateFunding": 5443400.0,
-        "LocalFunding": 2543969.0
+        "LocalFunding": 2311446,
+        "StateFunding": 5558600,
+        "FederalFunding": 1104723,
+        "OtherLocalFunding": 237652
     },
     "073901": {
         "NAME": "CHILTON ISD",
@@ -35257,8 +37229,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 468.259,
-        "StateFunding": 5922989.0,
-        "LocalFunding": 737135.0
+        "LocalFunding": 746489,
+        "StateFunding": 5821084,
+        "FederalFunding": 1160459,
+        "OtherLocalFunding": 248411
     },
     "198901": {
         "NAME": "BREMOND ISD",
@@ -35294,8 +37268,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 438.06600000000003,
-        "StateFunding": 2694483.0,
-        "LocalFunding": 2493816.0
+        "LocalFunding": 2583331,
+        "StateFunding": 2721404,
+        "FederalFunding": 688506,
+        "OtherLocalFunding": 287664
     },
     "166901": {
         "NAME": "CAMERON ISD",
@@ -35327,8 +37303,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1466.0440000000003,
-        "StateFunding": 11002595.0,
-        "LocalFunding": 4019750.0
+        "LocalFunding": 4304665,
+        "StateFunding": 11021694,
+        "FederalFunding": 2920308,
+        "OtherLocalFunding": 340226
     },
     "073904": {
         "NAME": "WESTPHALIA ISD",
@@ -35355,8 +37333,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 155.24800000000002,
-        "StateFunding": 1677652.0,
-        "LocalFunding": 181741.0
+        "LocalFunding": 186551,
+        "StateFunding": 1686394,
+        "FederalFunding": 96231,
+        "OtherLocalFunding": 301431
     },
     "073903": {
         "NAME": "MARLIN ISD",
@@ -35388,8 +37368,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 720.938,
-        "StateFunding": 6986584.0,
-        "LocalFunding": 2809728.0
+        "LocalFunding": 3072589,
+        "StateFunding": 6472382,
+        "FederalFunding": 4370599,
+        "OtherLocalFunding": 2862981
     },
     "014907": {
         "NAME": "ROGERS ISD",
@@ -35425,8 +37407,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 830.1560000000001,
-        "StateFunding": 7277113.0,
-        "LocalFunding": 1939009.0
+        "LocalFunding": 2048498,
+        "StateFunding": 7590376,
+        "FederalFunding": 851523,
+        "OtherLocalFunding": 274042
     },
     "014910": {
         "NAME": "TROY ISD",
@@ -35457,8 +37441,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1461.735,
-        "StateFunding": 10374671.0,
-        "LocalFunding": 3820869.0
+        "LocalFunding": 4332822,
+        "StateFunding": 10681314,
+        "FederalFunding": 1765133,
+        "OtherLocalFunding": 1056276
     },
     "161919": {
         "NAME": "BRUCEVILLE-EDDY ISD",
@@ -35502,8 +37488,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 593.013,
-        "StateFunding": 5749636.0,
-        "LocalFunding": 2069524.0
+        "LocalFunding": 2395511,
+        "StateFunding": 5872193,
+        "FederalFunding": 627146,
+        "OtherLocalFunding": 173741
     },
     "198902": {
         "NAME": "CALVERT ISD",
@@ -35535,8 +37523,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 137.578,
-        "StateFunding": 768690.0,
-        "LocalFunding": 1250794.0
+        "LocalFunding": 1437207,
+        "StateFunding": 774531,
+        "FederalFunding": 428769,
+        "OtherLocalFunding": 96156
     },
     "014906": {
         "NAME": "KILLEEN ISD",
@@ -35576,8 +37566,10 @@ var DistrictsData = {
         "CostOfCharters": "3,546,062.38",
         "CharterTransfers": "443",
         "Attendance": 38795.672,
-        "StateFunding": 281823085.0,
-        "LocalFunding": 80334375.0
+        "LocalFunding": 81466650,
+        "StateFunding": 294551325,
+        "FederalFunding": 129202951,
+        "OtherLocalFunding": 4349603
     },
     "014908": {
         "NAME": "SALADO ISD",
@@ -35608,8 +37600,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2029.835,
-        "StateFunding": 8841490.0,
-        "LocalFunding": 9173405.0
+        "LocalFunding": 9607792,
+        "StateFunding": 8932139,
+        "FederalFunding": 1158576,
+        "OtherLocalFunding": 1328310
     },
     "014903": {
         "NAME": "BELTON ISD",
@@ -35645,8 +37639,10 @@ var DistrictsData = {
         "CostOfCharters": "1,501,973.75",
         "CharterTransfers": "166",
         "Attendance": 11823.252,
-        "StateFunding": 78047374.0,
-        "LocalFunding": 34009768.0
+        "LocalFunding": 39195513,
+        "StateFunding": 82444597,
+        "FederalFunding": 17342001,
+        "OtherLocalFunding": 2935651
     },
     "246902": {
         "NAME": "FLORENCE ISD",
@@ -35686,8 +37682,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1010.455,
-        "StateFunding": 7657434.0,
-        "LocalFunding": 4241661.0
+        "LocalFunding": 4939994,
+        "StateFunding": 7786554,
+        "FederalFunding": 1728019,
+        "OtherLocalFunding": 276309
     },
     "141901": {
         "NAME": "LAMPASAS ISD",
@@ -35727,8 +37725,10 @@ var DistrictsData = {
         "CostOfCharters": "139,999.76",
         "CharterTransfers": "15",
         "Attendance": 3187.0160000000005,
-        "StateFunding": 18512702.0,
-        "LocalFunding": 12155543.0
+        "LocalFunding": 13930689,
+        "StateFunding": 18760992,
+        "FederalFunding": 5377412,
+        "OtherLocalFunding": 977091
     },
     "050902": {
         "NAME": "GATESVILLE ISD",
@@ -35764,8 +37764,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2557.186,
-        "StateFunding": 15640590.0,
-        "LocalFunding": 7895918.0
+        "LocalFunding": 8271018,
+        "StateFunding": 15876172,
+        "FederalFunding": 5884052,
+        "OtherLocalFunding": 630010
     },
     "050910": {
         "NAME": "COPPERAS COVE ISD",
@@ -35801,8 +37803,10 @@ var DistrictsData = {
         "CostOfCharters": "996,885.47",
         "CharterTransfers": "107",
         "Attendance": 7619.3,
-        "StateFunding": 60610477.0,
-        "LocalFunding": 13769217.0
+        "LocalFunding": 15755837,
+        "StateFunding": 60179348,
+        "FederalFunding": 17325596,
+        "OtherLocalFunding": 1475756
     },
     "027903": {
         "NAME": "BURNET CONS ISD",
@@ -35842,8 +37846,10 @@ var DistrictsData = {
         "CostOfCharters": "272,733.33",
         "CharterTransfers": "30",
         "Attendance": 2798.0640000000003,
-        "StateFunding": -383123.0,
-        "LocalFunding": 27679970.0
+        "LocalFunding": 26463336,
+        "StateFunding": 3159400,
+        "FederalFunding": 7777530,
+        "OtherLocalFunding": 1193123
     },
     "106901": {
         "NAME": "CANADIAN ISD",
@@ -35875,8 +37881,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 806.308,
-        "StateFunding": 557364.0,
-        "LocalFunding": 9443135.0
+        "LocalFunding": 8620266,
+        "StateFunding": 655329,
+        "FederalFunding": 1111951,
+        "OtherLocalFunding": 934074
     },
     "148901": {
         "NAME": "BOOKER ISD",
@@ -35908,8 +37916,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 336.71,
-        "StateFunding": 3054549.0,
-        "LocalFunding": 1412080.0
+        "LocalFunding": 1681491,
+        "StateFunding": 3173502,
+        "FederalFunding": 575748,
+        "OtherLocalFunding": 203202
     },
     "197902": {
         "NAME": "MIAMI ISD",
@@ -35941,8 +37951,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 182.303,
-        "StateFunding": 364280.0,
-        "LocalFunding": 3113923.0
+        "LocalFunding": 2265724,
+        "StateFunding": 451901,
+        "FederalFunding": 92126,
+        "OtherLocalFunding": 114853
     },
     "242906": {
         "NAME": "FORT ELLIOTT CONS ISD",
@@ -35978,8 +37990,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 130.63400000000001,
-        "StateFunding": 521487.0,
-        "LocalFunding": 7820313.0
+        "LocalFunding": -206076,
+        "StateFunding": 1913586,
+        "FederalFunding": 53099,
+        "OtherLocalFunding": 90435
     },
     "148902": {
         "NAME": "FOLLETT ISD",
@@ -36011,8 +38025,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 156.24800000000002,
-        "StateFunding": 1321167.0,
-        "LocalFunding": 816550.0
+        "LocalFunding": 876246,
+        "StateFunding": 1336189,
+        "FederalFunding": 226514,
+        "OtherLocalFunding": 64617
     },
     "243902": {
         "NAME": "ELECTRA ISD",
@@ -36044,8 +38060,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 407.285,
-        "StateFunding": 3857914.0,
-        "LocalFunding": 1664445.0
+        "LocalFunding": 2083123,
+        "StateFunding": 3905344,
+        "FederalFunding": 792832,
+        "OtherLocalFunding": 58087
     },
     "012901": {
         "NAME": "SEYMOUR ISD",
@@ -36072,8 +38090,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 574.817,
-        "StateFunding": 4481765.0,
-        "LocalFunding": 2642694.0
+        "LocalFunding": 2686273,
+        "StateFunding": 4464345,
+        "FederalFunding": 926590,
+        "OtherLocalFunding": 350038
     },
     "244901": {
         "NAME": "HARROLD ISD",
@@ -36105,8 +38125,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 101.153,
-        "StateFunding": 952422.0,
-        "LocalFunding": 751508.0
+        "LocalFunding": 893219,
+        "StateFunding": 943141,
+        "FederalFunding": 171012,
+        "OtherLocalFunding": 683260
     },
     "039902": {
         "NAME": "HENRIETTA ISD",
@@ -36138,8 +38160,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 836.971,
-        "StateFunding": 5792137.0,
-        "LocalFunding": 3831115.0
+        "LocalFunding": 3752385,
+        "StateFunding": 6356683,
+        "FederalFunding": 1992486,
+        "OtherLocalFunding": 367324
     },
     "039903": {
         "NAME": "PETROLIA CONS ISD",
@@ -36166,8 +38190,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 402.64,
-        "StateFunding": 3927327.0,
-        "LocalFunding": 1379082.0
+        "LocalFunding": 1578541,
+        "StateFunding": 4127587,
+        "FederalFunding": 676069,
+        "OtherLocalFunding": 99672
     },
     "005902": {
         "NAME": "HOLLIDAY ISD",
@@ -36199,8 +38225,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1026.303,
-        "StateFunding": 7319492.0,
-        "LocalFunding": 3607978.0
+        "LocalFunding": 4135863,
+        "StateFunding": 7455270,
+        "FederalFunding": 568513,
+        "OtherLocalFunding": 229181
     },
     "005901": {
         "NAME": "ARCHER CITY ISD",
@@ -36232,8 +38260,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 459.661,
-        "StateFunding": 3562827.0,
-        "LocalFunding": 2325464.0
+        "LocalFunding": 2327984,
+        "StateFunding": 3455274,
+        "FederalFunding": 469263,
+        "OtherLocalFunding": 807011
     },
     "243906": {
         "NAME": "CITY VIEW ISD",
@@ -36265,8 +38295,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 967.24,
-        "StateFunding": 10666672.0,
-        "LocalFunding": 1920985.0
+        "LocalFunding": 2224878,
+        "StateFunding": 12212316,
+        "FederalFunding": 2510676,
+        "OtherLocalFunding": 1403981
     },
     "243905": {
         "NAME": "WICHITA FALLS ISD",
@@ -36298,8 +38330,10 @@ var DistrictsData = {
         "CostOfCharters": "159,625.70",
         "CharterTransfers": "19",
         "Attendance": 12578.515,
-        "StateFunding": 69312438.0,
-        "LocalFunding": 43580727.0
+        "LocalFunding": 46541688,
+        "StateFunding": 71266797,
+        "FederalFunding": 22417031,
+        "OtherLocalFunding": 2576900
     },
     "243901": {
         "NAME": "BURKBURNETT ISD",
@@ -36331,8 +38365,10 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 2960.7330000000006,
-        "StateFunding": 19964873.0,
-        "LocalFunding": 8627143.0
+        "LocalFunding": 9897769,
+        "StateFunding": 18744089,
+        "FederalFunding": 4779712,
+        "OtherLocalFunding": 5970181
     },
     "243903": {
         "NAME": "IOWA PARK CONS ISD",
@@ -36364,7 +38400,9 @@ var DistrictsData = {
         "CostOfCharters": "0.00",
         "CharterTransfers": "0",
         "Attendance": 1819.0839999999998,
-        "StateFunding": 12118023.0,
-        "LocalFunding": 5645260.0
+        "LocalFunding": 6570844,
+        "StateFunding": 12496191,
+        "FederalFunding": 1307552,
+        "OtherLocalFunding": 497038
     }
 };

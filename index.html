@@ -303,7 +303,7 @@
                                   <canvas id="myBarChart2" style="display: block; height: 180px; width: 90%;"></canvas>
                                 </div>
                               </div>
-                            <div style="display: block; font-weight: normal; font-size: 0.85em; width: 65%; margin: auto;"><p>This chart represents the change in the average salary by professional staff type in the district between the 2009-2010 and 2020-2021 school years after being adjusted for the impact of inflation.</p><p>This figure does not capture changes in the local cost of living, nor does it capture the fairness of the actual salaries.</p><p>Click on the DATA: EMPLOYEE PAY button above to dig deeper into the data.</p></div>
+                            <div style="display: block; font-weight: normal; font-size: 0.85em; width: 65%; margin: auto;"><p>This chart represents the change in the average salary by professional staff type in the district between the 2009-2010 and 2020-2021 school years after being adjusted for the impact of inflation.</p><p>This figure does not capture changes in the local cost of living, nor does it capture the fairness of the actual salaries.</p><p>Click on the <a id="raw-data-link-2" href="" target="_blank">DATA: EMPLOYEE PAY</a> button above to dig deeper into the data.</p></div>
                       </p>
                   </div>
                   <br>
@@ -379,18 +379,33 @@
                   </div>
 
                   <div style="display: flex; flex-direction: row;">
-                      <div style="flex: 0.5; flex-direction: column; text-align: center;">
-                        <p style="font-weight: bold; flex: 0.5">Total State Funding:
+                      <div style="flex: 0.25; flex-direction: column; text-align: center;">
+                        <p style="font-weight: bold; flex: 0.5; padding: 5px;">Total Local Funding:
+                            <br>
+                            <br>
+                            <span id="detail-local-funding" style="font-weight: normal; flex: 0.5"></span>
+                        </p>
+                      </div>
+                      <div style="flex: 0.25; flex-direction: column; text-align: center;">
+                        <p style="font-weight: bold; flex: 0.5; padding: 5px;">Total State Funding:
                             <br>
                             <br>
                             <span id="detail-state-funding" style="font-weight: normal; flex: 0.5"></span>
                         </p>
                       </div>
-                      <div style="flex: 0.5; flex-direction: column; text-align: center;">
-                        <p style="font-weight: bold; flex: 0.5">Total Local Funding:
+
+                      <div style="flex: 0.25; flex-direction: column; text-align: center;">
+                        <p style="font-weight: bold; flex: 0.5; padding: 5px;">Total Federal Funding:
                             <br>
                             <br>
-                            <span id="detail-local-funding" style="font-weight: normal; flex: 0.5"></span>
+                            <span id="detail-federal-funding" style="font-weight: normal; flex: 0.5"></span>
+                        </p>
+                      </div>
+                      <div style="flex: 0.25; flex-direction: column; text-align: center;">
+                        <p style="font-weight: bold; flex: 0.5; padding: 5px;">Total Other Local Funding:
+                            <br>
+                            <br>
+                            <span id="detail-other-local-funding" style="font-weight: normal; flex: 0.5"></span>
                         </p>
                       </div>
                   </div>
@@ -600,8 +615,11 @@
             TexasDistrictsFeatureCollection['features'][i].properties["CostOfCharters"] = districtData[districtNumber]["CostOfCharters"]
             TexasDistrictsFeatureCollection['features'][i].properties["CharterTransfers"] = districtData[districtNumber]["CharterTransfers"]
             TexasDistrictsFeatureCollection['features'][i].properties["Attendance"] = districtData[districtNumber]["Attendance"]
-            TexasDistrictsFeatureCollection['features'][i].properties["StateFunding"] = districtData[districtNumber]["StateFunding"]
             TexasDistrictsFeatureCollection['features'][i].properties["LocalFunding"] = districtData[districtNumber]["LocalFunding"]
+            TexasDistrictsFeatureCollection['features'][i].properties["StateFunding"] = districtData[districtNumber]["StateFunding"]
+            TexasDistrictsFeatureCollection['features'][i].properties["FederalFunding"] = districtData[districtNumber]["FederalFunding"]
+            TexasDistrictsFeatureCollection['features'][i].properties["OtherLocalFunding"] = districtData[districtNumber]["OtherLocalFunding"]
+
         }
 
         window.geojson = L.geoJSON(TexasDistrictsFeatureCollection, {
@@ -920,10 +938,16 @@
                             charterCostPerStudent.innerText = `$${districtLocal.properties.PerStudentCostOfCharters}`
 
                             var stateFunding = document.getElementById('detail-state-funding');
-                            stateFunding.innerText = `$${districtLocal.properties.StateFunding.toLocaleString()} (${((districtLocal.properties.StateFunding/(districtLocal.properties.StateFunding + districtLocal.properties.LocalFunding)) * 100).toFixed(2)}%)`
+                            stateFunding.innerText = `$${districtLocal.properties.StateFunding.toLocaleString()} (${((districtLocal.properties.StateFunding/(districtLocal.properties.StateFunding + districtLocal.properties.LocalFunding + districtLocal.properties.FederalFunding + districtLocal.properties.OtherLocalFunding)) * 100).toFixed(2)}%)`
 
                             var localFunding = document.getElementById('detail-local-funding');
-                            localFunding.innerText = `$${districtLocal.properties.LocalFunding.toLocaleString()} (${((districtLocal.properties.LocalFunding/(districtLocal.properties.StateFunding + districtLocal.properties.LocalFunding)) * 100).toFixed(2)}%)`
+                            localFunding.innerText = `$${districtLocal.properties.LocalFunding.toLocaleString()} (${((districtLocal.properties.LocalFunding/(districtLocal.properties.StateFunding + districtLocal.properties.LocalFunding + districtLocal.properties.FederalFunding + districtLocal.properties.OtherLocalFunding)) * 100).toFixed(2)}%)`
+
+                            var federalFunding = document.getElementById('detail-federal-funding');
+                            federalFunding.innerText = `$${districtLocal.properties.FederalFunding.toLocaleString()} (${((districtLocal.properties.FederalFunding/(districtLocal.properties.StateFunding + districtLocal.properties.LocalFunding + districtLocal.properties.FederalFunding + districtLocal.properties.OtherLocalFunding)) * 100).toFixed(2)}%)`
+
+                            var otherLocalFunding = document.getElementById('detail-other-local-funding');
+                            otherLocalFunding.innerText = `$${districtLocal.properties.OtherLocalFunding.toLocaleString()} (${((districtLocal.properties.OtherLocalFunding/(districtLocal.properties.StateFunding + districtLocal.properties.LocalFunding + districtLocal.properties.FederalFunding + districtLocal.properties.OtherLocalFunding)) * 100).toFixed(2)}%)`
 
                             var charterTransfers = document.getElementById('detail-charter-transfers');
                             charterTransfers.innerText = `${districtLocal.properties.CharterTransfers.toLocaleString()}`
@@ -953,27 +977,38 @@
 
                             var localFundingRaw = districtLocal.properties.LocalFunding
 
-                            var stateShare = ((stateFundingRaw / (stateFundingRaw + localFundingRaw)) * 100).toFixed(2)
+                            var federalFundingRaw = districtLocal.properties.FederalFunding
 
-                            var localShare = ((localFundingRaw / (stateFundingRaw + localFundingRaw)) * 100).toFixed(2)
+                            var otherLocalFundingRaw = districtLocal.properties.OtherLocalFunding
 
+                            var stateShare = ((stateFundingRaw / (stateFundingRaw + localFundingRaw + federalFundingRaw + otherLocalFundingRaw)) * 100).toFixed(2)
+
+                            var localShare = ((localFundingRaw / (stateFundingRaw + localFundingRaw + federalFundingRaw + otherLocalFundingRaw)) * 100).toFixed(2)
+
+                            var federalShare = ((federalFundingRaw / (stateFundingRaw + localFundingRaw + federalFundingRaw + otherLocalFundingRaw)) * 100).toFixed(2)
+
+                            var otherLocalShare = ((otherLocalFundingRaw / (stateFundingRaw + localFundingRaw + federalFundingRaw + otherLocalFundingRaw)) * 100).toFixed(2)
 
                           var data1 = {
-                            labels: ["State", "Local"],
+                            labels: ["Local (excl. recapture)", "State", "Federal", "Other Local"],
                             datasets: [
                               {
-                                label: `${districtLocal.properties.NAME} State v. Local Funding`,
-                                data: [stateShare, localShare],
+                                label: `${districtLocal.properties.NAME} Funding Breakdown (All Funds)`,
+                                data: [localShare, stateShare, federalShare, otherLocalShare],
                                 backgroundColor: [
                                   "red",
                                   "blue",
+                                    "green",
+                                    "yellow"
 
                                 ],
                                 borderColor: [
-                                  "darkred",
-                                  "darkblue",
+                                  "black",
+                                  "black",
+                                  "black",
+                                  "black"
                                 ],
-                                borderWidth: [1, 1]
+                                borderWidth: [1, 1, 1, 1]
                               }
                             ]
                           };
@@ -1226,6 +1261,10 @@
             var districtRawData = document.getElementById('raw-data-link')
             districtRawData.href = rawDataLink
             districtRawData.target = '_blank'
+
+            var districtRawData2 = document.getElementById('raw-data-link-2')
+            districtRawData2.href = rawDataLink
+            districtRawData2.target = '_blank'
 
             var detailJoinTheUnionButton = document.getElementById('detail-join-union-button')
             var joinHoustonLocalDropdown = document.getElementById('detail-join-houston-local')
