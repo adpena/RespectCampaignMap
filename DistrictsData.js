@@ -28,9 +28,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,517.99",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15674.51089369677",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 389.94300000000004,
         "LocalFunding": 1961972,
         "StateFunding": 4260448,
@@ -58,9 +58,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "20,823.24",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "20975.490692514555",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 91.551,
         "LocalFunding": 938833,
         "StateFunding": 1024969,
@@ -88,9 +88,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,204.69",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13434.38105334644",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 222.75900000000001,
         "LocalFunding": 1404222,
         "StateFunding": 1477489,
@@ -123,9 +123,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,255.64",
-        "CostOfCharters": "104,572.99",
-        "CharterTransfers": "11",
+        "PerStudentCostOfCharters": "10302.494237095832",
+        "CostOfCharters": "105050.72745630793",
+        "CharterTransfers": "11.0",
         "Attendance": 6955.029,
         "LocalFunding": 38745684,
         "StateFunding": 34713634,
@@ -148,9 +148,9 @@ var DistrictsData = {
         "RawDataLink": "https://netorg5477163-my.sharepoint.com/:x:/g/personal/apena_texasaft_org/EQPLQfj0HgtItpqLO5LZ2GkBNxaISOaN3tkls9rJOrfQ0Q",
         "House": [],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,783.62",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11918.13871705963",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 912.974,
         "LocalFunding": 5126723,
         "StateFunding": 6216840,
@@ -178,9 +178,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "9,351.88",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9415.401856366334",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1340.6690000000003,
         "LocalFunding": 9997993,
         "StateFunding": 2849993,
@@ -208,9 +208,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "9,838.82",
-        "CostOfCharters": "6,722,103.22",
-        "CharterTransfers": "718",
+        "PerStudentCostOfCharters": "9908.177085135958",
+        "CostOfCharters": "6769492.559384101",
+        "CharterTransfers": "718.0",
         "Attendance": 9210.186,
         "LocalFunding": 50399150,
         "StateFunding": 43806028,
@@ -243,9 +243,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,102.64",
-        "CostOfCharters": "248,424.61",
-        "CharterTransfers": "22",
+        "PerStudentCostOfCharters": "12147.078421382052",
+        "CostOfCharters": "249336.72249958522",
+        "CharterTransfers": "22.0",
         "Attendance": 1162.545,
         "LocalFunding": 3834096,
         "StateFunding": 10479630,
@@ -282,9 +282,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,128.73",
-        "CostOfCharters": "99,868.22",
-        "CharterTransfers": "11",
+        "PerStudentCostOfCharters": "10195.505358965149",
+        "CostOfCharters": "100526.64162603207",
+        "CharterTransfers": "11.0",
         "Attendance": 5231.124,
         "LocalFunding": 26379818,
         "StateFunding": 27347589,
@@ -317,9 +317,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,245.32",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10312.287530242147",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 4158.534000000001,
         "LocalFunding": 22267158,
         "StateFunding": 21315077,
@@ -352,9 +352,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,805.72",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11893.026951331274",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 834.125,
         "LocalFunding": 3301371,
         "StateFunding": 6785091,
@@ -387,9 +387,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,217.71",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10295.714086352897",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1503.037,
         "LocalFunding": 9953727,
         "StateFunding": 5698429,
@@ -426,9 +426,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,294.29",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13320.544124052152",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 492.6960000000001,
         "LocalFunding": 2470125,
         "StateFunding": 4263996,
@@ -461,9 +461,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,916.31",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12948.595770736385",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 367.2,
         "LocalFunding": 3613851,
         "StateFunding": 1994011,
@@ -496,9 +496,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,842.31",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10984.144610692336",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1360.9,
         "LocalFunding": 4408217,
         "StateFunding": 10811315,
@@ -531,9 +531,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,532.79",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10532.793521949783",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 759.6339999999999,
         "LocalFunding": 965086,
         "StateFunding": 7096587,
@@ -570,9 +570,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,653.23",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13853.537731072127",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 387.463,
         "LocalFunding": 2847025,
         "StateFunding": 2735357,
@@ -605,9 +605,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,067.89",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12127.175119559632",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 605.855,
         "LocalFunding": 2087508,
         "StateFunding": 5863521,
@@ -640,9 +640,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,756.62",
-        "CostOfCharters": "3,000,808.17",
-        "CharterTransfers": "308",
+        "PerStudentCostOfCharters": "10777.673269327035",
+        "CostOfCharters": "3006680.624753683",
+        "CharterTransfers": "308.0",
         "Attendance": 2591.37,
         "LocalFunding": 9498011,
         "StateFunding": 18149356,
@@ -675,9 +675,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,419.38",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13595.905030771228",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 184.952,
         "LocalFunding": 518054,
         "StateFunding": 2050488,
@@ -714,9 +714,9 @@ var DistrictsData = {
                 "3%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,140.06",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12254.215797621917",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1058.415,
         "LocalFunding": 4739581,
         "StateFunding": 8603440,
@@ -749,9 +749,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,356.84",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14614.46340594437",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 207.625,
         "LocalFunding": 1314574,
         "StateFunding": 1875627,
@@ -784,9 +784,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,830.43",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12042.142150276693",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1083.689,
         "LocalFunding": 6410325,
         "StateFunding": 7384484,
@@ -819,9 +819,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "16,754.71",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "16929.331063162652",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 128.386,
         "LocalFunding": 838110,
         "StateFunding": 1448938,
@@ -858,9 +858,9 @@ var DistrictsData = {
                 "98%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,958.78",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10007.332839843157",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2411.335,
         "LocalFunding": 23667151,
         "StateFunding": 1393312,
@@ -893,9 +893,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,213.72",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14276.105619280395",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 140.744,
         "LocalFunding": 2533422,
         "StateFunding": 77854,
@@ -928,9 +928,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "17,437.59",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "17442.060204350957",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 111.056,
         "LocalFunding": 1821385,
         "StateFunding": 158288,
@@ -971,9 +971,9 @@ var DistrictsData = {
                 "2%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,304.62",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13335.766622154873",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 807.091,
         "LocalFunding": 10096177,
         "StateFunding": 763534,
@@ -1001,9 +1001,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "14,949.25",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15103.301209292405",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 270.07,
         "LocalFunding": 986605,
         "StateFunding": 3148677,
@@ -1031,9 +1031,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,635.79",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13738.58862710939",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 531.3140000000001,
         "LocalFunding": 2068921,
         "StateFunding": 5440813,
@@ -1065,9 +1065,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,505.08",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13735.837825731369",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 271.101,
         "LocalFunding": 1037578,
         "StateFunding": 2879099,
@@ -1104,9 +1104,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,260.57",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15371.90264941215",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 134.133,
         "LocalFunding": 859815,
         "StateFunding": 1281964,
@@ -1134,9 +1134,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,265.57",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13449.740153737592",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 170.056,
         "LocalFunding": 1488843,
         "StateFunding": 905582,
@@ -1169,9 +1169,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,328.56",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12380.463886047191",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 232.06800000000004,
         "LocalFunding": 823209,
         "StateFunding": 2446522,
@@ -1204,9 +1204,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,548.67",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14603.767399039005",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 194.382,
         "LocalFunding": 830389,
         "StateFunding": 2345484,
@@ -1239,9 +1239,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,994.81",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11048.600483004811",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1056.652,
         "LocalFunding": 3046716,
         "StateFunding": 9344233,
@@ -1273,9 +1273,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,158.38",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13162.057521437",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 561.893,
         "LocalFunding": 1094850,
         "StateFunding": 7484353,
@@ -1307,9 +1307,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "20,111.07",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "20341.554679949928",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 85.48100000000001,
         "LocalFunding": 1568178,
         "StateFunding": 224578,
@@ -1342,9 +1342,9 @@ var DistrictsData = {
                 "7%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,423.16",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11544.885837378783",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 995.2330000000001,
         "LocalFunding": 4404846,
         "StateFunding": 7173947,
@@ -1377,9 +1377,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,003.91",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13068.96626393414",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 648.533,
         "LocalFunding": 1496544,
         "StateFunding": 6960557,
@@ -1407,9 +1407,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "17,690.30",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "17964.635296781136",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 120.85,
         "LocalFunding": 2008663,
         "StateFunding": 344555,
@@ -1441,9 +1441,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,908.39",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14061.860389843678",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 287.742,
         "LocalFunding": 1567542,
         "StateFunding": 2537026,
@@ -1480,9 +1480,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,005.31",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14058.243182293585",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 383.13800000000003,
         "LocalFunding": 1555127,
         "StateFunding": 4010626,
@@ -1515,9 +1515,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,011.66",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15087.320730214708",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 135.76500000000001,
         "LocalFunding": 1434349,
         "StateFunding": 665093,
@@ -1554,9 +1554,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,130.78",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15393.40441309999",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 123.93900000000002,
         "LocalFunding": 1184222,
         "StateFunding": 768246,
@@ -1589,9 +1589,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,495.05",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12495.045013341727",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 139.787,
         "LocalFunding": 1724311,
         "StateFunding": 71765,
@@ -1624,9 +1624,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,026.28",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9081.722418406565",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 12168.136999999999,
         "LocalFunding": 59080356,
         "StateFunding": 55895943,
@@ -1663,9 +1663,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,662.24",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11822.961850114183",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1121.4270000000001,
         "LocalFunding": 10809977,
         "StateFunding": 2437482,
@@ -1698,9 +1698,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,494.96",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12583.253385525222",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 740.488,
         "LocalFunding": 2205242,
         "StateFunding": 7234329,
@@ -1733,9 +1733,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,703.39",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11790.835231089184",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 882.725,
         "LocalFunding": 9306117,
         "StateFunding": 1410624,
@@ -1768,9 +1768,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,359.93",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13523.687782826293",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 87.436,
         "LocalFunding": 1393206,
         "StateFunding": 77758,
@@ -1803,9 +1803,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,898.05",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9940.72071086072",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 3142.453,
         "LocalFunding": 13906090,
         "StateFunding": 18726946,
@@ -1842,9 +1842,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,369.46",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11447.278561936899",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1214.7250000000001,
         "LocalFunding": 12013915,
         "StateFunding": 2236490,
@@ -1872,9 +1872,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "15,799.51",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "16132.79065163208",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 134.889,
         "LocalFunding": 122183,
         "StateFunding": 2067650,
@@ -1906,9 +1906,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,585.02",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12717.872737977159",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 502.086,
         "LocalFunding": 2181339,
         "StateFunding": 4185471,
@@ -1936,9 +1936,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,350.51",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12486.568732250731",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 480.017,
         "LocalFunding": 1162573,
         "StateFunding": 4864933,
@@ -1971,9 +1971,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,279.69",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12371.610804834427",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 783.133,
         "LocalFunding": 3812160,
         "StateFunding": 6020170,
@@ -2006,9 +2006,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,999.91",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13088.90904714157",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 219.806,
         "LocalFunding": 1402718,
         "StateFunding": 1497336,
@@ -2041,9 +2041,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,486.68",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11650.734525668842",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 600.5880000000001,
         "LocalFunding": 4601225,
         "StateFunding": 2403371,
@@ -2076,9 +2076,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,622.98",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12643.22295063815",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 614.118,
         "LocalFunding": 1351136,
         "StateFunding": 6037844,
@@ -2106,9 +2106,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "9,506.90",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9634.71714200121",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1635.241,
         "LocalFunding": 6752123,
         "StateFunding": 9174084,
@@ -2149,9 +2149,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,920.24",
-        "CostOfCharters": "164,270.61",
-        "CharterTransfers": "20",
+        "PerStudentCostOfCharters": "9087.524744817289",
+        "CostOfCharters": "167351.18445787573",
+        "CharterTransfers": "20.0",
         "Attendance": 3675.731,
         "LocalFunding": 14317395,
         "StateFunding": 18512559,
@@ -2184,9 +2184,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,013.90",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12052.77182800472",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1540.019,
         "LocalFunding": 4998031,
         "StateFunding": 13514892,
@@ -2223,9 +2223,9 @@ var DistrictsData = {
                 "28%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,852.31",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12975.540118402772",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 241.393,
         "LocalFunding": 6009129,
         "StateFunding": 179923,
@@ -2253,9 +2253,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "14,121.56",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14304.307994242201",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 139.08100000000002,
         "LocalFunding": 951481,
         "StateFunding": 1108187,
@@ -2288,9 +2288,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,444.78",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12499.196490627373",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 724.77,
         "LocalFunding": 2682907,
         "StateFunding": 7228440,
@@ -2323,9 +2323,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,000.90",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14072.529031580842",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 155.47400000000002,
         "LocalFunding": 443982,
         "StateFunding": 1782259,
@@ -2358,9 +2358,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,710.95",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13877.142342871506",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 286.456,
         "LocalFunding": 2006368,
         "StateFunding": 2080178,
@@ -2388,9 +2388,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,225.08",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12225.08078451214",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 463.279,
         "LocalFunding": 5725465,
         "StateFunding": 378030,
@@ -2431,9 +2431,9 @@ var DistrictsData = {
                 "15%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,091.27",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15417.8030567444",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 121.182,
         "LocalFunding": 876758,
         "StateFunding": 1032225,
@@ -2466,9 +2466,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,676.54",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12781.621861194235",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 740.2919999999999,
         "LocalFunding": 3728161,
         "StateFunding": 5900196,
@@ -2500,9 +2500,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "10,612.15",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10670.754945350147",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1816.832,
         "LocalFunding": 8629377,
         "StateFunding": 10317064,
@@ -2530,9 +2530,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "14,203.00",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14272.833551210979",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 221.88600000000002,
         "LocalFunding": 1879897,
         "StateFunding": 1347133,
@@ -2568,9 +2568,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "10,809.55",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10838.192897310393",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1249.922,
         "LocalFunding": 3390660,
         "StateFunding": 10286095,
@@ -2607,9 +2607,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,518.67",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11614.738756433999",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 231.419,
         "LocalFunding": 1903047,
         "StateFunding": 971051,
@@ -2646,9 +2646,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "17,388.14",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "17910.40579337882",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 104.78500000000003,
         "LocalFunding": 1317435,
         "StateFunding": 563491,
@@ -2681,9 +2681,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,366.73",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11443.727793953867",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 636.44,
         "LocalFunding": 6719720,
         "StateFunding": 530066,
@@ -2711,9 +2711,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "17,984.10",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "17984.099816080805",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 99.0,
         "LocalFunding": 362538,
         "StateFunding": 1407943,
@@ -2746,9 +2746,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,608.30",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9645.859726606252",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2216.87,
         "LocalFunding": 5896956,
         "StateFunding": 16076391,
@@ -2780,9 +2780,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,264.61",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12324.308695444282",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 743.703,
         "LocalFunding": 3639511,
         "StateFunding": 5735650,
@@ -2815,9 +2815,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,473.63",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10595.620240176855",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1689.525,
         "LocalFunding": 12951527,
         "StateFunding": 5322186,
@@ -2850,9 +2850,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,682.62",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12850.988240535664",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 461.184,
         "LocalFunding": 3028415,
         "StateFunding": 3004738,
@@ -2885,9 +2885,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,310.74",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10376.927433556692",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 3201.71,
         "LocalFunding": 14503996,
         "StateFunding": 19594210,
@@ -2920,9 +2920,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,804.65",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13896.220690075195",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 857.488,
         "LocalFunding": 2029128,
         "StateFunding": 10114440,
@@ -2963,9 +2963,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,619.78",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11796.357889927833",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 254.96,
         "LocalFunding": 1836780,
         "StateFunding": 1192413,
@@ -2993,9 +2993,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,789.03",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13835.394409094646",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 303.915,
         "LocalFunding": 1535885,
         "StateFunding": 2833309,
@@ -3028,9 +3028,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,962.27",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11009.643320679965",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 982.168,
         "LocalFunding": 5301960,
         "StateFunding": 5589987,
@@ -3067,9 +3067,9 @@ var DistrictsData = {
                 "22%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,739.15",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13874.64570514818",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 336.89599999999996,
         "LocalFunding": 1846588,
         "StateFunding": 3036682,
@@ -3106,9 +3106,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,108.55",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12166.860705245306",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 775.932,
         "LocalFunding": 5576322,
         "StateFunding": 4349496,
@@ -3140,9 +3140,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "14,383.18",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14472.034915909411",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 162.979,
         "LocalFunding": 583586,
         "StateFunding": 1814574,
@@ -3187,9 +3187,9 @@ var DistrictsData = {
                 "97%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,381.86",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12545.592187712391",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 259.546,
         "LocalFunding": 1190782,
         "StateFunding": 2189316,
@@ -3230,9 +3230,9 @@ var DistrictsData = {
                 "86%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,334.82",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13463.616146158449",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 257.474,
         "LocalFunding": 1251970,
         "StateFunding": 2202777,
@@ -3277,9 +3277,9 @@ var DistrictsData = {
                 "2%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,122.71",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12202.596162770038",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 700.409,
         "LocalFunding": 2351841,
         "StateFunding": 6350390,
@@ -3307,9 +3307,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,181.66",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12346.833378805217",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 697.181,
         "LocalFunding": 2666418,
         "StateFunding": 6101610,
@@ -3342,9 +3342,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,246.59",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14324.659139737565",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 217.502,
         "LocalFunding": 354066,
         "StateFunding": 2838693,
@@ -3377,9 +3377,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,042.33",
-        "CostOfCharters": "1,221,719.31",
-        "CharterTransfers": "101",
+        "PerStudentCostOfCharters": "13057.72419878209",
+        "CostOfCharters": "1223161.0441915572",
+        "CharterTransfers": "101.0",
         "Attendance": 442.398,
         "LocalFunding": 814325,
         "StateFunding": 4900570,
@@ -3412,9 +3412,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,290.01",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13345.87161326779",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 380.41,
         "LocalFunding": 640649,
         "StateFunding": 4583491,
@@ -3447,9 +3447,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,620.23",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15888.613588953238",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 151.429,
         "LocalFunding": 1016398,
         "StateFunding": 1445865,
@@ -3482,9 +3482,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,515.13",
-        "CostOfCharters": "98,131.79",
-        "CharterTransfers": "11",
+        "PerStudentCostOfCharters": "9623.819504790117",
+        "CostOfCharters": "99252.76153587368",
+        "CharterTransfers": "11.0",
         "Attendance": 3135.2250000000004,
         "LocalFunding": 15025516,
         "StateFunding": 15519587,
@@ -3521,9 +3521,9 @@ var DistrictsData = {
                 "86%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,479.86",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12606.802133750389",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 636.8430000000001,
         "LocalFunding": 1577589,
         "StateFunding": 6092178,
@@ -3560,9 +3560,9 @@ var DistrictsData = {
                 "98%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,082.24",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12196.805816999611",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 528.565,
         "LocalFunding": 1750848,
         "StateFunding": 4968097,
@@ -3594,9 +3594,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "9,705.88",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9784.266160867459",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1390.0810000000001,
         "LocalFunding": 8298654,
         "StateFunding": 5690037,
@@ -3624,9 +3624,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "9,549.94",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9672.574452143694",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1834.101,
         "LocalFunding": 4407286,
         "StateFunding": 13799351,
@@ -3659,9 +3659,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,596.19",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11693.794280101236",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 127.62100000000001,
         "LocalFunding": 730020,
         "StateFunding": 1268759,
@@ -3694,9 +3694,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,321.44",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12600.949117505103",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 75.418,
         "LocalFunding": 810220,
         "StateFunding": 182337,
@@ -3733,9 +3733,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,749.39",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11833.921996035768",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 661.1120000000001,
         "LocalFunding": 7147435,
         "StateFunding": 974525,
@@ -3772,9 +3772,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,189.18",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13362.687909541155",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 261.069,
         "LocalFunding": 3359350,
         "StateFunding": 300705,
@@ -3797,9 +3797,9 @@ var DistrictsData = {
         "RawDataLink": "https://netorg5477163-my.sharepoint.com/:x:/g/personal/apena_texasaft_org/EaRM-lCqHxxHuKUFc1bn4joBB6XybVy0cRgdcWKY9D5dmA",
         "House": [],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,530.79",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12603.76377248578",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 476.619,
         "LocalFunding": 1857786,
         "StateFunding": 4369679,
@@ -3832,9 +3832,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,934.94",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13022.001594498202",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 500.2,
         "LocalFunding": 2840499,
         "StateFunding": 3738885,
@@ -3862,9 +3862,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "16,983.42",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "17166.67643712327",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 125.32300000000001,
         "LocalFunding": 748530,
         "StateFunding": 1397652,
@@ -3892,9 +3892,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,651.52",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11695.825918653962",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 524.918,
         "LocalFunding": 2456524,
         "StateFunding": 3685069,
@@ -3927,9 +3927,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,436.01",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9503.323224235315",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 3775.7130000000006,
         "LocalFunding": 18416026,
         "StateFunding": 17860814,
@@ -3962,9 +3962,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,314.02",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12459.022559852663",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 703.688,
         "LocalFunding": 8836131,
         "StateFunding": 915722,
@@ -3997,9 +3997,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,876.92",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11939.688522131506",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 985.7440000000001,
         "LocalFunding": 2862349,
         "StateFunding": 9074526,
@@ -4040,9 +4040,9 @@ var DistrictsData = {
                 "30%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,677.94",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11790.476760519085",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1477.8990000000003,
         "LocalFunding": 5461141,
         "StateFunding": 12116519,
@@ -4070,9 +4070,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "14,001.38",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14068.339797258404",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 245.988,
         "LocalFunding": 600311,
         "StateFunding": 2871414,
@@ -4100,9 +4100,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,277.23",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13374.137776582102",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 286.21700000000004,
         "LocalFunding": 1683696,
         "StateFunding": 2355553,
@@ -4139,9 +4139,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "1,927,472.45",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "1955856.45248",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1.0,
         "LocalFunding": 1795245,
         "StateFunding": 553432,
@@ -4174,9 +4174,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,987.25",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12202.49744419084",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 477.384,
         "LocalFunding": 2776080,
         "StateFunding": 3187771,
@@ -4209,9 +4209,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,051.33",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12106.973805474532",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 421.004,
         "LocalFunding": 1932578,
         "StateFunding": 3336140,
@@ -4244,9 +4244,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,752.71",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12906.491001815844",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 536.059,
         "LocalFunding": 3431976,
         "StateFunding": 3185384,
@@ -4279,9 +4279,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,580.22",
-        "CostOfCharters": "1,286,241.34",
-        "CharterTransfers": "125",
+        "PerStudentCostOfCharters": "11717.03281401464",
+        "CostOfCharters": "1301437.4349863315",
+        "CharterTransfers": "125.0",
         "Attendance": 1131.16,
         "LocalFunding": 4933263,
         "StateFunding": 8778779,
@@ -4309,9 +4309,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "10,791.73",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10824.577398715966",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2101.969,
         "LocalFunding": 20652070,
         "StateFunding": 7854228,
@@ -4344,9 +4344,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,039.82",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13071.899373165395",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 148.547,
         "LocalFunding": 1773626,
         "StateFunding": 237970,
@@ -4379,9 +4379,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,802.15",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12024.070535159693",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 208.86700000000002,
         "LocalFunding": 7265543,
         "StateFunding": 765322,
@@ -4414,9 +4414,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,405.48",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14529.458834762152",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 189.597,
         "LocalFunding": 825357,
         "StateFunding": 1960779,
@@ -4457,9 +4457,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,376.90",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9459.771450440485",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2195.3,
         "LocalFunding": 7338116,
         "StateFunding": 13736093,
@@ -4492,9 +4492,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,676.77",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12824.216837129281",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 235.52300000000002,
         "LocalFunding": 1862171,
         "StateFunding": 1166154,
@@ -4527,9 +4527,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,780.72",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14217.66538325364",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 152.04500000000002,
         "LocalFunding": 2002453,
         "StateFunding": 314619,
@@ -4562,9 +4562,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,992.04",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10043.218206111329",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1487.336,
         "LocalFunding": 12149682,
         "StateFunding": 3030419,
@@ -4601,9 +4601,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,794.33",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13070.062690348188",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 426.324,
         "LocalFunding": 3461302,
         "StateFunding": 2183065,
@@ -4636,9 +4636,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,010.85",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12219.991177177446",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 112.345,
         "LocalFunding": 1060666,
         "StateFunding": 332122,
@@ -4675,9 +4675,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,365.84",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12459.103731246925",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 205.393,
         "LocalFunding": 1684319,
         "StateFunding": 932059,
@@ -4714,9 +4714,9 @@ var DistrictsData = {
                 "97%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,984.43",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12067.781286805706",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 996.317,
         "LocalFunding": 4410743,
         "StateFunding": 7553385,
@@ -4757,9 +4757,9 @@ var DistrictsData = {
                 "7%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,972.39",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12118.758977049401",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 939.6880000000002,
         "LocalFunding": 10750300,
         "StateFunding": 950605,
@@ -4791,9 +4791,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "10,496.10",
-        "CostOfCharters": "19,793,212.48",
-        "CharterTransfers": "2,063",
+        "PerStudentCostOfCharters": "10550.124463272165",
+        "CostOfCharters": "19895094.91103409",
+        "CharterTransfers": "2,063.0",
         "Attendance": 13188.498,
         "LocalFunding": 65811898,
         "StateFunding": 81835417,
@@ -4826,9 +4826,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,468.07",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12562.582585590126",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 147.163,
         "LocalFunding": 859662,
         "StateFunding": 1018546,
@@ -4861,9 +4861,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,011.09",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13041.49443077003",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 691.998,
         "LocalFunding": 2283859,
         "StateFunding": 6879161,
@@ -4896,9 +4896,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,163.01",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13266.914122930839",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 280.13800000000003,
         "LocalFunding": 2946811,
         "StateFunding": 878954,
@@ -4931,9 +4931,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,609.65",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11722.104786144995",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 545.7090000000001,
         "LocalFunding": 3590938,
         "StateFunding": 2836059,
@@ -4961,9 +4961,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "10,467.83",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10550.47593380812",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2607.208,
         "LocalFunding": 10035832,
         "StateFunding": 19386456,
@@ -4996,9 +4996,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,312.74",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11366.327475930775",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1030.27,
         "LocalFunding": 9888439,
         "StateFunding": 2056644,
@@ -5026,9 +5026,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,575.26",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12643.456279143853",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 893.7270000000001,
         "LocalFunding": 1766344,
         "StateFunding": 10183549,
@@ -5061,9 +5061,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,187.36",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11285.258129588221",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 727.1339999999999,
         "LocalFunding": 4906581,
         "StateFunding": 3557296,
@@ -5096,9 +5096,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,874.77",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12997.874482554304",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 504.153,
         "LocalFunding": 3496298,
         "StateFunding": 3117225,
@@ -5135,9 +5135,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "17,711.58",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "17802.32889732836",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 112.066,
         "LocalFunding": 726077,
         "StateFunding": 1320562,
@@ -5170,9 +5170,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,379.98",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13652.254030739223",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 164.06400000000002,
         "LocalFunding": 2275019,
         "StateFunding": 525936,
@@ -5200,9 +5200,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,013.60",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12098.79361666258",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 677.158,
         "LocalFunding": 6093110,
         "StateFunding": 2125258,
@@ -5235,9 +5235,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "17,513.79",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "17584.127590521864",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 112.596,
         "LocalFunding": 1612708,
         "StateFunding": 372208,
@@ -5270,9 +5270,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,067.95",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13171.414071877085",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 381.26199999999994,
         "LocalFunding": 2803046,
         "StateFunding": 2280399,
@@ -5305,9 +5305,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "30,301.65",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "30439.48959701158",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 53.54,
         "LocalFunding": 828144,
         "StateFunding": 977701,
@@ -5340,9 +5340,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,686.17",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12762.369548865767",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 327.358,
         "LocalFunding": 8270126,
         "StateFunding": 775961,
@@ -5375,9 +5375,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "16,216.69",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "16234.53171607551",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 470.60400000000004,
         "LocalFunding": 2338850,
         "StateFunding": 5693340,
@@ -5409,9 +5409,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,834.77",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12963.602880446575",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 184.157,
         "LocalFunding": 597280,
         "StateFunding": 1814592,
@@ -5439,9 +5439,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "1,847,121.45",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "1862433.4532736",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1.0,
         "LocalFunding": 373100,
         "StateFunding": 1540617,
@@ -5469,9 +5469,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "17,219.64",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "17413.595158671586",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 97.831,
         "LocalFunding": 438055,
         "StateFunding": 1370380,
@@ -5508,9 +5508,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "3,869,621.95",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "3890356.9479936",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1.0,
         "LocalFunding": 1275514,
         "StateFunding": 2503030,
@@ -5547,9 +5547,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,083.72",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13246.516793382432",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 230.417,
         "LocalFunding": 1917983,
         "StateFunding": 1231354,
@@ -5582,9 +5582,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "2,118,949.04",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "2145166.0363008",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1.0,
         "LocalFunding": 814936,
         "StateFunding": 1423298,
@@ -5617,9 +5617,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,037.85",
-        "CostOfCharters": "323,184.51",
-        "CharterTransfers": "30",
+        "PerStudentCostOfCharters": "12110.796645368267",
+        "CostOfCharters": "325142.91301438544",
+        "CharterTransfers": "30.0",
         "Attendance": 1179.4940000000001,
         "LocalFunding": 4954324,
         "StateFunding": 9737653,
@@ -5656,9 +5656,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,876.22",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15094.403067187466",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 135.433,
         "LocalFunding": 757791,
         "StateFunding": 1385494,
@@ -5686,9 +5686,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,733.98",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11791.137539709704",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 752.1209999999999,
         "LocalFunding": 3865155,
         "StateFunding": 5205716,
@@ -5725,9 +5725,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,365.47",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10424.442585087043",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1069.875,
         "LocalFunding": 2451057,
         "StateFunding": 8749850,
@@ -5760,9 +5760,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,264.41",
-        "CostOfCharters": "909,851.56",
-        "CharterTransfers": "113",
+        "PerStudentCostOfCharters": "9352.823007113611",
+        "CostOfCharters": "918534.5732617808",
+        "CharterTransfers": "113.0",
         "Attendance": 4401.169,
         "LocalFunding": 25637335,
         "StateFunding": 16959089,
@@ -5795,9 +5795,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,447.46",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13862.889625344797",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 123.986,
         "LocalFunding": 1822430,
         "StateFunding": 116216,
@@ -5830,9 +5830,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,131.79",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12219.04963107377",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 684.41,
         "LocalFunding": 1813750,
         "StateFunding": 6586365,
@@ -5865,9 +5865,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,002.68",
-        "CostOfCharters": "484,574.88",
-        "CharterTransfers": "58",
+        "PerStudentCostOfCharters": "9036.884506043581",
+        "CostOfCharters": "486415.8625488864",
+        "CharterTransfers": "58.0",
         "Attendance": 14168.201000000001,
         "LocalFunding": 26406193,
         "StateFunding": 104183168,
@@ -5900,9 +5900,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,875.12",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13032.307538296624",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 821.8870000000002,
         "LocalFunding": 6962418,
         "StateFunding": 4620082,
@@ -5930,9 +5930,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,088.79",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12217.81183250697",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 209.43200000000002,
         "LocalFunding": 2382154,
         "StateFunding": 634667,
@@ -5965,9 +5965,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,564.22",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13678.804559482467",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 144.841,
         "LocalFunding": 1580149,
         "StateFunding": 462010,
@@ -6000,9 +6000,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,582.48",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11582.479447625523",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 264.69,
         "LocalFunding": 1387456,
         "StateFunding": 1758904,
@@ -6035,9 +6035,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,873.52",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12911.470249092406",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 765.597,
         "LocalFunding": 5456479,
         "StateFunding": 4557335,
@@ -6070,9 +6070,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,177.00",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10242.072955282094",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1159.294,
         "LocalFunding": 5138974,
         "StateFunding": 7010507,
@@ -6105,9 +6105,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,352.65",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12475.344294334192",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 525.5740000000001,
         "LocalFunding": 6286391,
         "StateFunding": 412987,
@@ -6140,9 +6140,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,909.51",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10024.664975027847",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1907.797,
         "LocalFunding": 13919020,
         "StateFunding": 5647875,
@@ -6170,9 +6170,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,058.18",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13168.775379582727",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 508.971,
         "LocalFunding": 2722712,
         "StateFunding": 4135248,
@@ -6205,9 +6205,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "36,870.30",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "37656.08912677418",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 41.357,
         "LocalFunding": 493334,
         "StateFunding": 1067189,
@@ -6240,9 +6240,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,842.27",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13887.795284228665",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 185.704,
         "LocalFunding": 2131910,
         "StateFunding": 491906,
@@ -6275,9 +6275,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,439.75",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12463.532305076067",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 875.008,
         "LocalFunding": 873767,
         "StateFunding": 10373716,
@@ -6310,9 +6310,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,267.90",
-        "CostOfCharters": "20,061,026.17",
-        "CharterTransfers": "2,097",
+        "PerStudentCostOfCharters": "10309.014003519562",
+        "CostOfCharters": "20141362.66200477",
+        "CharterTransfers": "2,097.0",
         "Attendance": 6685.835999999999,
         "LocalFunding": 35081583,
         "StateFunding": 37665692,
@@ -6349,9 +6349,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "7,696.34",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "7701.341918920751",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 6458.861,
         "LocalFunding": 48646486,
         "StateFunding": 7431247,
@@ -6392,9 +6392,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,182.37",
-        "CostOfCharters": "25,384,233.20",
-        "CharterTransfers": "2,652",
+        "PerStudentCostOfCharters": "10216.453518665898",
+        "CostOfCharters": "25469213.678967346",
+        "CharterTransfers": "2,652.0",
         "Attendance": 11043.476,
         "LocalFunding": 54670228,
         "StateFunding": 59690693,
@@ -6431,9 +6431,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,071.12",
-        "CostOfCharters": "26,855,696.61",
-        "CharterTransfers": "2,836",
+        "PerStudentCostOfCharters": "10090.84884725004",
+        "CostOfCharters": "26908315.86930281",
+        "CharterTransfers": "2,836.0",
         "Attendance": 7455.401000000001,
         "LocalFunding": 37932779,
         "StateFunding": 39144797,
@@ -6474,9 +6474,9 @@ var DistrictsData = {
                 "2%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,110.26",
-        "CostOfCharters": "632,553.89",
-        "CharterTransfers": "63",
+        "PerStudentCostOfCharters": "11171.381232669224",
+        "CostOfCharters": "636033.5574742274",
+        "CharterTransfers": "63.0",
         "Attendance": 2337.013,
         "LocalFunding": 5802490,
         "StateFunding": 20611898,
@@ -6509,9 +6509,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,401.35",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11479.82633448038",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1053.547,
         "LocalFunding": 5522891,
         "StateFunding": 6476004,
@@ -6544,9 +6544,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,203.30",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10229.934899186292",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 3361.4,
         "LocalFunding": 27849020,
         "StateFunding": 5969706,
@@ -6587,9 +6587,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,527.61",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10649.019325283953",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 745.813,
         "LocalFunding": 6843785,
         "StateFunding": 1340685,
@@ -6630,9 +6630,9 @@ var DistrictsData = {
                 "56%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,933.81",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13122.03916909752",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 253.54600000000002,
         "LocalFunding": 8409799,
         "StateFunding": 155168,
@@ -6660,9 +6660,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,491.75",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12824.276265768278",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 181.65900000000002,
         "LocalFunding": 838211,
         "StateFunding": 1543958,
@@ -6694,9 +6694,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "10,531.42",
-        "CostOfCharters": "104,581.10",
-        "CharterTransfers": "11",
+        "PerStudentCostOfCharters": "10600.582461737218",
+        "CostOfCharters": "105267.89668718267",
+        "CharterTransfers": "11.0",
         "Attendance": 4372.079000000001,
         "LocalFunding": 12556035,
         "StateFunding": 34810957,
@@ -6724,9 +6724,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "15,036.93",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15456.972825355475",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 147.40800000000002,
         "LocalFunding": 1271273,
         "StateFunding": 1045355,
@@ -6763,9 +6763,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,574.01",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13678.71383896759",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 416.96700000000004,
         "LocalFunding": 1254405,
         "StateFunding": 4499254,
@@ -6798,9 +6798,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,137.76",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13285.007986765922",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 621.426,
         "LocalFunding": 3278931,
         "StateFunding": 5435025,
@@ -6833,9 +6833,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "16,823.48",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "17373.90482701524",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 108.709,
         "LocalFunding": 975701,
         "StateFunding": 926558,
@@ -6903,9 +6903,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,784.96",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13873.876931497489",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 468.30400000000003,
         "LocalFunding": 4584171,
         "StateFunding": 816924,
@@ -6938,9 +6938,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,535.84",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14611.882832102845",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 497.987,
         "LocalFunding": 6026023,
         "StateFunding": 2007058,
@@ -6977,9 +6977,9 @@ var DistrictsData = {
                 "0%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,408.72",
-        "CostOfCharters": "105,630.47",
-        "CharterTransfers": "10",
+        "PerStudentCostOfCharters": "11546.396260829955",
+        "CostOfCharters": "106905.14464879331",
+        "CharterTransfers": "10.0",
         "Attendance": 774.957,
         "LocalFunding": 3984250,
         "StateFunding": 5224281,
@@ -7007,9 +7007,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,159.87",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13248.339644336947",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 201.764,
         "LocalFunding": 1826384,
         "StateFunding": 826680,
@@ -7042,9 +7042,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,420.28",
-        "CostOfCharters": "1,490,620.58",
-        "CharterTransfers": "191",
+        "PerStudentCostOfCharters": "8503.652387982176",
+        "CostOfCharters": "1505380.5660985452",
+        "CharterTransfers": "191.0",
         "Attendance": 9568.755000000001,
         "LocalFunding": 52902467,
         "StateFunding": 29839130,
@@ -7077,9 +7077,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,386.71",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11578.386060801624",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 622.4110000000001,
         "LocalFunding": 3480183,
         "StateFunding": 3837529,
@@ -7107,9 +7107,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "9,217.54",
-        "CostOfCharters": "89,227.43",
-        "CharterTransfers": "10",
+        "PerStudentCostOfCharters": "9432.161735977408",
+        "CostOfCharters": "91305.05008534182",
+        "CharterTransfers": "10.0",
         "Attendance": 1217.767,
         "LocalFunding": 4668359,
         "StateFunding": 9345076,
@@ -7137,9 +7137,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,203.14",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13380.015818783395",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 230.00100000000003,
         "LocalFunding": 1689653,
         "StateFunding": 1465154,
@@ -7167,9 +7167,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "8,813.14",
-        "CostOfCharters": "10,454,158.94",
-        "CharterTransfers": "1,332",
+        "PerStudentCostOfCharters": "8878.568963906882",
+        "CostOfCharters": "10531767.209762042",
+        "CharterTransfers": "1,332.0",
         "Attendance": 12556.632,
         "LocalFunding": 55645733,
         "StateFunding": 58180229,
@@ -7202,9 +7202,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,577.98",
-        "CostOfCharters": "895,595.05",
-        "CharterTransfers": "74",
+        "PerStudentCostOfCharters": "12645.586857645296",
+        "CostOfCharters": "900409.0254976582",
+        "CharterTransfers": "74.0",
         "Attendance": 1057.467,
         "LocalFunding": 3579279,
         "StateFunding": 10053297,
@@ -7237,9 +7237,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,509.14",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13687.604067805538",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 522.388,
         "LocalFunding": 2749230,
         "StateFunding": 4457014,
@@ -7272,9 +7272,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,245.08",
-        "CostOfCharters": "4,067,820.49",
-        "CharterTransfers": "422",
+        "PerStudentCostOfCharters": "10260.410079564932",
+        "CostOfCharters": "4073906.346630704",
+        "CharterTransfers": "422.0",
         "Attendance": 5701.728,
         "LocalFunding": 5963286,
         "StateFunding": 52849980,
@@ -7307,9 +7307,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,854.26",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10880.441386623796",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1164.4260000000002,
         "LocalFunding": 2332504,
         "StateFunding": 10254286,
@@ -7342,9 +7342,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "17,504.90",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "17510.339675757226",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 121.95800000000001,
         "LocalFunding": 530538,
         "StateFunding": 1647519,
@@ -7372,9 +7372,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "14,074.54",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14482.458710108003",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 183.518,
         "LocalFunding": 2141423,
         "StateFunding": 569915,
@@ -7407,9 +7407,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,470.99",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15470.99014031536",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 109.462,
         "LocalFunding": 1597678,
         "StateFunding": 503360,
@@ -7442,9 +7442,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,827.70",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12877.409832928764",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 341.598,
         "LocalFunding": 1315063,
         "StateFunding": 3142963,
@@ -7477,9 +7477,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,613.37",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11709.887286387686",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 659.594,
         "LocalFunding": 2434238,
         "StateFunding": 6160753,
@@ -7512,9 +7512,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,913.49",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9983.880393124668",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1402.405,
         "LocalFunding": 5607595,
         "StateFunding": 8573232,
@@ -7547,9 +7547,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,663.81",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10762.404680134201",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2662.8979999999997,
         "LocalFunding": 23965190,
         "StateFunding": 7278186,
@@ -7577,9 +7577,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,359.18",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12431.84749035922",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 684.7270000000001,
         "LocalFunding": 2421163,
         "StateFunding": 6135347,
@@ -7607,9 +7607,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "10,420.25",
-        "CostOfCharters": "2,371,901.79",
-        "CharterTransfers": "258",
+        "PerStudentCostOfCharters": "10543.233301430013",
+        "CostOfCharters": "2399894.960453521",
+        "CharterTransfers": "258.0",
         "Attendance": 5240.650000000001,
         "LocalFunding": 22897860,
         "StateFunding": 27978444,
@@ -7642,9 +7642,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,397.64",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13470.90168485307",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 317.16,
         "LocalFunding": 782403,
         "StateFunding": 3641578,
@@ -7677,9 +7677,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,460.71",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11534.579462152937",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 426.255,
         "LocalFunding": 1560094,
         "StateFunding": 3340054,
@@ -7712,9 +7712,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,048.11",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10112.030592118143",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1046.606,
         "LocalFunding": 1316537,
         "StateFunding": 9306535,
@@ -7747,9 +7747,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,842.39",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15959.949777767146",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 150.53400000000002,
         "LocalFunding": 1856720,
         "StateFunding": 656161,
@@ -7786,9 +7786,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,480.82",
-        "CostOfCharters": "2,472,754.43",
-        "CharterTransfers": "253",
+        "PerStudentCostOfCharters": "10593.036872768826",
+        "CostOfCharters": "2499229.888161312",
+        "CharterTransfers": "253.0",
         "Attendance": 3185.54,
         "LocalFunding": 14775102,
         "StateFunding": 19675339,
@@ -7821,9 +7821,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "3,251,204.00",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "3251204.0",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1.0,
         "LocalFunding": 0,
         "StateFunding": 3332871,
@@ -7851,9 +7851,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,554.01",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11665.561858106536",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 354.97900000000004,
         "LocalFunding": 2649619,
         "StateFunding": 2389251,
@@ -7886,9 +7886,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,244.30",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "16298.665531736739",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 125.35,
         "LocalFunding": 582717,
         "StateFunding": 1536079,
@@ -7921,9 +7921,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,995.06",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11053.200043771138",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1290.348,
         "LocalFunding": 5010448,
         "StateFunding": 8736832,
@@ -7951,9 +7951,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,263.53",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14810.362640038968",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 131.392,
         "LocalFunding": 650651,
         "StateFunding": 1321240,
@@ -7986,9 +7986,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,163.12",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11206.59809643079",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1080.0990000000002,
         "LocalFunding": 3733752,
         "StateFunding": 9310399,
@@ -8021,9 +8021,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,291.71",
-        "CostOfCharters": "332,413.00",
-        "CharterTransfers": "39",
+        "PerStudentCostOfCharters": "9316.007200661119",
+        "CostOfCharters": "333282.25431478076",
+        "CharterTransfers": "39.0",
         "Attendance": 3154.6410000000005,
         "LocalFunding": 15358502,
         "StateFunding": 15343363,
@@ -8056,9 +8056,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,875.53",
-        "CostOfCharters": "4,950,343.46",
-        "CharterTransfers": "543",
+        "PerStudentCostOfCharters": "9911.880334672072",
+        "CostOfCharters": "4968565.911271048",
+        "CharterTransfers": "543.0",
         "Attendance": 9115.244,
         "LocalFunding": 22247302,
         "StateFunding": 69193900,
@@ -8091,9 +8091,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "16,106.21",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "16343.360541317168",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 220.91300000000004,
         "LocalFunding": 2799368,
         "StateFunding": 890823,
@@ -8121,9 +8121,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "9,240.97",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9297.4016076989",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1329.229,
         "LocalFunding": 4134948,
         "StateFunding": 10605376,
@@ -8156,9 +8156,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,929.92",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13095.906790815892",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 199.86700000000002,
         "LocalFunding": 2075352,
         "StateFunding": 604053,
@@ -8191,9 +8191,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,500.06",
-        "CostOfCharters": "417,436.56",
-        "CharterTransfers": "39",
+        "PerStudentCostOfCharters": "11635.317501067175",
+        "CostOfCharters": "422346.08557632373",
+        "CharterTransfers": "39.0",
         "Attendance": 966.1020000000001,
         "LocalFunding": 4542568,
         "StateFunding": 6911329,
@@ -8226,9 +8226,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,398.11",
-        "CostOfCharters": "3,897,113.33",
-        "CharterTransfers": "460",
+        "PerStudentCostOfCharters": "9458.141696428671",
+        "CostOfCharters": "3922005.6486266316",
+        "CharterTransfers": "460.0",
         "Attendance": 9788.01,
         "LocalFunding": 36164771,
         "StateFunding": 47145403,
@@ -8261,9 +8261,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,729.42",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13752.929661980379",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 197.74,
         "LocalFunding": 2659675,
         "StateFunding": 218989,
@@ -8296,9 +8296,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,355.44",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12390.946402501966",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 657.0830000000001,
         "LocalFunding": 8244557,
         "StateFunding": 754463,
@@ -8331,9 +8331,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,027.73",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15159.665075277086",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 140.481,
         "LocalFunding": 641009,
         "StateFunding": 1505619,
@@ -8366,9 +8366,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,362.93",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13724.413166823178",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 75.607,
         "LocalFunding": 1392093,
         "StateFunding": 89470,
@@ -8405,9 +8405,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,736.33",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10796.709949958704",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2841.7090000000003,
         "LocalFunding": 9817572,
         "StateFunding": 21034562,
@@ -8444,9 +8444,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,752.70",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11847.25429202942",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 989.1880000000002,
         "LocalFunding": 4868419,
         "StateFunding": 7156179,
@@ -8474,9 +8474,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,431.49",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13562.63860006497",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 597.198,
         "LocalFunding": 1446665,
         "StateFunding": 6776189,
@@ -8509,9 +8509,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "17,066.83",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "17469.8983904729",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 66.589,
         "LocalFunding": 390549,
         "StateFunding": 801162,
@@ -8544,9 +8544,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,059.00",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11188.020795766684",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2214.435,
         "LocalFunding": 5906712,
         "StateFunding": 20280753,
@@ -8574,9 +8574,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,037.53",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13112.456559915288",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 413.634,
         "LocalFunding": 1327757,
         "StateFunding": 4158171,
@@ -8609,9 +8609,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,094.93",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14224.942715810415",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 297.576,
         "LocalFunding": 1239971,
         "StateFunding": 3194259,
@@ -8644,9 +8644,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,844.17",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13023.91924558172",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 265.70300000000003,
         "LocalFunding": 790951,
         "StateFunding": 2908848,
@@ -8679,9 +8679,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,950.27",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13080.356527497945",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 752.1470000000002,
         "LocalFunding": 6439018,
         "StateFunding": 3666434,
@@ -8718,9 +8718,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,666.58",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13748.577383746782",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 374.0060000000001,
         "LocalFunding": 1853308,
         "StateFunding": 3318521,
@@ -8748,9 +8748,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,937.28",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13994.94904813658",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 402.862,
         "LocalFunding": 3212539,
         "StateFunding": 3011941,
@@ -8783,9 +8783,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "17,584.40",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "17828.06868633969",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 117.135,
         "LocalFunding": 1992048,
         "StateFunding": 260033,
@@ -8813,9 +8813,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,794.30",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13794.301906861745",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 312.07800000000003,
         "LocalFunding": 4270201,
         "StateFunding": 1465871,
@@ -8852,9 +8852,9 @@ var DistrictsData = {
                 "19%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,156.30",
-        "CostOfCharters": "896,605.96",
-        "CharterTransfers": "103",
+        "PerStudentCostOfCharters": "9265.953846763594",
+        "CostOfCharters": "907343.9113621811",
+        "CharterTransfers": "103.0",
         "Attendance": 7493.436000000001,
         "LocalFunding": 39297029,
         "StateFunding": 30397717,
@@ -8887,9 +8887,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,461.19",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10596.441168284478",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 3747.2380000000003,
         "LocalFunding": 9837552,
         "StateFunding": 30870591,
@@ -8922,9 +8922,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,295.58",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12443.112762510156",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 306.451,
         "LocalFunding": 3998874,
         "StateFunding": 457051,
@@ -8957,9 +8957,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,249.93",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12376.498551649149",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 187.612,
         "LocalFunding": 2816699,
         "StateFunding": 269638,
@@ -8995,9 +8995,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,503.78",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12686.675867493555",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 300.242,
         "LocalFunding": 2607605,
         "StateFunding": 1593605,
@@ -9034,9 +9034,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "16,747.23",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "17067.809107185934",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 121.042,
         "LocalFunding": 841840,
         "StateFunding": 1299086,
@@ -9073,9 +9073,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,288.22",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12612.228991585971",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 292.773,
         "LocalFunding": 3962772,
         "StateFunding": 187846,
@@ -9108,9 +9108,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,556.15",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12684.558651852543",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 235.00100000000003,
         "LocalFunding": 1505938,
         "StateFunding": 1631733,
@@ -9147,9 +9147,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,745.43",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9846.16497374141",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1535.726,
         "LocalFunding": 9721110,
         "StateFunding": 6202271,
@@ -9177,9 +9177,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,884.19",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13041.139743748965",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 841.965,
         "LocalFunding": 2100327,
         "StateFunding": 9086360,
@@ -9212,9 +9212,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,822.96",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13924.925938173716",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 259.88300000000004,
         "LocalFunding": 1233427,
         "StateFunding": 2297092,
@@ -9242,9 +9242,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,118.34",
-        "CostOfCharters": "910,666.22",
-        "CharterTransfers": "97",
+        "PerStudentCostOfCharters": "11184.01655297921",
+        "CostOfCharters": "916045.372414523",
+        "CharterTransfers": "97.0",
         "Attendance": 2129.5730000000003,
         "LocalFunding": 19800569,
         "StateFunding": 5367464,
@@ -9272,9 +9272,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "9,897.06",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10005.073633699654",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1697.8690000000001,
         "LocalFunding": 6442893,
         "StateFunding": 10629673,
@@ -9307,9 +9307,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,412.12",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9533.554827986081",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2932.329,
         "LocalFunding": 10143733,
         "StateFunding": 18165094,
@@ -9342,9 +9342,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,814.11",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "8865.33021687311",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2836.442,
         "LocalFunding": 11070623,
         "StateFunding": 14289368,
@@ -9376,9 +9376,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "10,187.96",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10272.435899614193",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 3918.2830000000004,
         "LocalFunding": 13295822,
         "StateFunding": 28915372,
@@ -9411,9 +9411,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,800.56",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11866.975390608026",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 614.908,
         "LocalFunding": 4246164,
         "StateFunding": 3397314,
@@ -9450,9 +9450,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,687.73",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10837.511071068393",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1034.806,
         "LocalFunding": 7802555,
         "StateFunding": 3482597,
@@ -9480,9 +9480,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,255.57",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12415.970444337647",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 309.624,
         "LocalFunding": 3920300,
         "StateFunding": 574041,
@@ -9515,9 +9515,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,082.00",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13151.989346462591",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 336.348,
         "LocalFunding": 532762,
         "StateFunding": 4079066,
@@ -9554,9 +9554,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,214.41",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14379.079203511123",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 169.97400000000002,
         "LocalFunding": 635855,
         "StateFunding": 1692422,
@@ -9593,9 +9593,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,664.74",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9712.99363162786",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 3501.5710000000004,
         "LocalFunding": 15361523,
         "StateFunding": 19865309,
@@ -9628,9 +9628,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,329.34",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11383.83783605669",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 989.0980000000001,
         "LocalFunding": 4282220,
         "StateFunding": 7201926,
@@ -9663,9 +9663,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,150.72",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13202.335024488884",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 425.295,
         "LocalFunding": 1207120,
         "StateFunding": 4585104,
@@ -9698,9 +9698,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,362.83",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14513.093547212211",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 154.854,
         "LocalFunding": 1852301,
         "StateFunding": 442993,
@@ -9737,9 +9737,9 @@ var DistrictsData = {
                 "88%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,924.98",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12018.370488150298",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 456.84700000000004,
         "LocalFunding": 1788469,
         "StateFunding": 3778567,
@@ -9772,9 +9772,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,138.82",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11207.5071530351",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1063.194,
         "LocalFunding": 7336028,
         "StateFunding": 4697670,
@@ -9811,9 +9811,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,464.25",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13547.78991614154",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 175.863,
         "LocalFunding": 1646150,
         "StateFunding": 699127,
@@ -9850,9 +9850,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,498.03",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11616.845747549827",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1646.885,
         "LocalFunding": 5079892,
         "StateFunding": 15738453,
@@ -9889,9 +9889,9 @@ var DistrictsData = {
                 "4%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,851.81",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9971.059601268225",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1587.415,
         "LocalFunding": 12986451,
         "StateFunding": 3405759,
@@ -9928,9 +9928,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,486.30",
-        "CostOfCharters": "504,743.03",
-        "CharterTransfers": "59",
+        "PerStudentCostOfCharters": "9552.992718602045",
+        "CostOfCharters": "508291.53882784315",
+        "CharterTransfers": "59.0",
         "Attendance": 5464.147,
         "LocalFunding": 20789494,
         "StateFunding": 34546056,
@@ -9967,9 +9967,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,252.84",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12346.253364131737",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 874.712,
         "LocalFunding": 5106727,
         "StateFunding": 5901589,
@@ -10002,9 +10002,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,095.04",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12112.941560371559",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1195.828,
         "LocalFunding": 9930739,
         "StateFunding": 4528093,
@@ -10036,9 +10036,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,630.19",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11702.689209824108",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 375.851,
         "LocalFunding": 19073366,
         "StateFunding": 2320294,
@@ -10070,9 +10070,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,314.22",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12420.410860264943",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 338.565,
         "LocalFunding": 2040877,
         "StateFunding": 2345061,
@@ -10100,9 +10100,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,266.27",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12297.482345243205",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 390.41,
         "LocalFunding": 2097481,
         "StateFunding": 3090270,
@@ -10135,9 +10135,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,659.11",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9694.640216871549",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 3115.7540000000004,
         "LocalFunding": 10827522,
         "StateFunding": 20086515,
@@ -10165,9 +10165,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,000.47",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13067.963252345984",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 468.055,
         "LocalFunding": 2836107,
         "StateFunding": 3435495,
@@ -10200,9 +10200,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,887.45",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14033.257750596636",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 152.354,
         "LocalFunding": 865945,
         "StateFunding": 1315575,
@@ -10235,9 +10235,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "16,300.51",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "16797.403028790268",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 44.39,
         "LocalFunding": 730234,
         "StateFunding": 231360,
@@ -10274,9 +10274,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,945.34",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13137.967609712763",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 183.717,
         "LocalFunding": 771868,
         "StateFunding": 1697867,
@@ -10309,9 +10309,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,021.34",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14208.118701369513",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 187.22,
         "LocalFunding": 1485927,
         "StateFunding": 1174778,
@@ -10339,9 +10339,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,469.31",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13525.497100785597",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 489.69100000000003,
         "LocalFunding": 3315346,
         "StateFunding": 3933725,
@@ -10378,9 +10378,9 @@ var DistrictsData = {
                 "0%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,595.13",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10648.151167363445",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 925.784,
         "LocalFunding": 4573567,
         "StateFunding": 5227021,
@@ -10413,9 +10413,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,325.46",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12462.665310447797",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 415.925,
         "LocalFunding": 5452330,
         "StateFunding": 255733,
@@ -10448,9 +10448,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,053.24",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10096.82977328243",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1520.565,
         "LocalFunding": 11888580,
         "StateFunding": 4294191,
@@ -10491,9 +10491,9 @@ var DistrictsData = {
                 "0%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,346.49",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11404.923116815004",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1461.3020000000001,
         "LocalFunding": 6712018,
         "StateFunding": 10215209,
@@ -10530,9 +10530,9 @@ var DistrictsData = {
                 "98%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,684.59",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12818.67954222777",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 438.349,
         "LocalFunding": 1686430,
         "StateFunding": 3803286,
@@ -10565,9 +10565,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,326.40",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12327.353283720928",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 408.32800000000003,
         "LocalFunding": 940134,
         "StateFunding": 4178744,
@@ -10604,9 +10604,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "16,149.36",
-        "CostOfCharters": "332,555.79",
-        "CharterTransfers": "22",
+        "PerStudentCostOfCharters": "16289.349299803587",
+        "CostOfCharters": "335438.55075889226",
+        "CharterTransfers": "22.0",
         "Attendance": 243.366,
         "LocalFunding": 2822799,
         "StateFunding": 709259,
@@ -10639,9 +10639,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,988.68",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12122.9129794895",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 495.2,
         "LocalFunding": 3645789,
         "StateFunding": 2546711,
@@ -10674,9 +10674,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,161.87",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11325.008034736864",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 829.551,
         "LocalFunding": 7157549,
         "StateFunding": 2441411,
@@ -10713,9 +10713,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,595.96",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10712.696065844457",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2104.815,
         "LocalFunding": 9591516,
         "StateFunding": 12735669,
@@ -10748,9 +10748,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,928.35",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12005.434353981975",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 651.0840000000001,
         "LocalFunding": 4994299,
         "StateFunding": 3103510,
@@ -10783,9 +10783,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,383.69",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9468.62616635787",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1736.8580000000002,
         "LocalFunding": 12581791,
         "StateFunding": 5169664,
@@ -10818,9 +10818,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,715.55",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13857.362614817997",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 546.565,
         "LocalFunding": 4989617,
         "StateFunding": 2898143,
@@ -10853,9 +10853,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,894.54",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11894.539335171252",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 249.485,
         "LocalFunding": 2538637,
         "StateFunding": 599779,
@@ -10888,9 +10888,9 @@ var DistrictsData = {
                 "4%"
             ]
         ],
-        "PerStudentCostOfCharters": "16,163.24",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "16241.69430814728",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 143.77800000000002,
         "LocalFunding": 427011,
         "StateFunding": 2049660,
@@ -10923,9 +10923,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,261.80",
-        "CostOfCharters": "244,103.01",
-        "CharterTransfers": "22",
+        "PerStudentCostOfCharters": "12374.31458009213",
+        "CostOfCharters": "246342.81828736278",
+        "CharterTransfers": "22.0",
         "Attendance": 413.535,
         "LocalFunding": 1274891,
         "StateFunding": 3994893,
@@ -10970,9 +10970,9 @@ var DistrictsData = {
                 "99%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,491.56",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10583.829734688217",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1504.1850000000004,
         "LocalFunding": 6198579,
         "StateFunding": 9690729,
@@ -11005,9 +11005,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,851.88",
-        "CostOfCharters": "103,501.29",
-        "CharterTransfers": "12",
+        "PerStudentCostOfCharters": "8949.299682469025",
+        "CostOfCharters": "104640.42881751453",
+        "CharterTransfers": "12.0",
         "Attendance": 2079.331,
         "LocalFunding": 8321793,
         "StateFunding": 10757939,
@@ -11052,9 +11052,9 @@ var DistrictsData = {
                 "65%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,703.49",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9797.421105076126",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 3241.389,
         "LocalFunding": 13572549,
         "StateFunding": 18041623,
@@ -11086,9 +11086,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "9,501.94",
-        "CostOfCharters": "92,633.99",
-        "CharterTransfers": "10",
+        "PerStudentCostOfCharters": "9546.810242755468",
+        "CostOfCharters": "93071.38406261447",
+        "CharterTransfers": "10.0",
         "Attendance": 2341.6980000000003,
         "LocalFunding": 8549888,
         "StateFunding": 14241097,
@@ -11120,9 +11120,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,560.00",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11610.367991726946",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 597.216,
         "LocalFunding": 4502591,
         "StateFunding": 2144884,
@@ -11159,9 +11159,9 @@ var DistrictsData = {
                 "88%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,024.89",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12108.157672562833",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 481.194,
         "LocalFunding": 1428437,
         "StateFunding": 4786468,
@@ -11198,9 +11198,9 @@ var DistrictsData = {
                 "0%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,216.90",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10462.719574539864",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1416.646,
         "LocalFunding": 12548913,
         "StateFunding": 2385222,
@@ -11228,9 +11228,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "9,728.70",
-        "CostOfCharters": "214,980.23",
-        "CharterTransfers": "23",
+        "PerStudentCostOfCharters": "9756.595788718658",
+        "CostOfCharters": "215596.5651257747",
+        "CharterTransfers": "23.0",
         "Attendance": 1927.2879999999998,
         "LocalFunding": 5359549,
         "StateFunding": 13105977,
@@ -11263,9 +11263,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,374.04",
-        "CostOfCharters": "1,424,413.81",
-        "CharterTransfers": "162",
+        "PerStudentCostOfCharters": "9464.04002882545",
+        "CostOfCharters": "1438089.9899787877",
+        "CharterTransfers": "162.0",
         "Attendance": 7742.103,
         "LocalFunding": 45917006,
         "StateFunding": 42234920,
@@ -11302,9 +11302,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,250.95",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11380.427361808255",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1533.2320000000002,
         "LocalFunding": 5818798,
         "StateFunding": 11495188,
@@ -11337,9 +11337,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,729.06",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "16121.889724189608",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 124.10700000000001,
         "LocalFunding": 519376,
         "StateFunding": 1486472,
@@ -11371,9 +11371,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "20,027.45",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "20257.158408063257",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 83.34100000000001,
         "LocalFunding": 819958,
         "StateFunding": 808850,
@@ -11410,9 +11410,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,426.04",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12713.69847061846",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 412.606,
         "LocalFunding": 2352710,
         "StateFunding": 3174238,
@@ -11444,9 +11444,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "14,703.88",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14732.024728619544",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 139.53400000000002,
         "LocalFunding": 483621,
         "StateFunding": 1659769,
@@ -11474,9 +11474,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "14,179.66",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14210.420926452318",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 153.582,
         "LocalFunding": 401942,
         "StateFunding": 1951548,
@@ -11513,9 +11513,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,421.52",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10549.127003890351",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1290.6290000000001,
         "LocalFunding": 12952372,
         "StateFunding": 929190,
@@ -11552,9 +11552,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,057.52",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13149.135961594133",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 484.42600000000004,
         "LocalFunding": 2635973,
         "StateFunding": 3764385,
@@ -11587,9 +11587,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,359.37",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9438.350653095822",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1635.8010000000002,
         "LocalFunding": 3634813,
         "StateFunding": 11318415,
@@ -11622,9 +11622,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,966.99",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13003.38394202796",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 101.649,
         "LocalFunding": 454768,
         "StateFunding": 949683,
@@ -11657,9 +11657,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,140.53",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13182.286372952698",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 481.23100000000005,
         "LocalFunding": 974267,
         "StateFunding": 5557305,
@@ -11692,9 +11692,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,006.36",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10033.648186208513",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 4185.278,
         "LocalFunding": 11609623,
         "StateFunding": 33239617,
@@ -11727,9 +11727,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,262.69",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13524.181491757066",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 187.312,
         "LocalFunding": 1528281,
         "StateFunding": 1116120,
@@ -11766,9 +11766,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,651.67",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9752.494793917012",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1377.415,
         "LocalFunding": 12235945,
         "StateFunding": 1556754,
@@ -11801,9 +11801,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,742.84",
-        "CostOfCharters": "116,938.36",
-        "CharterTransfers": "11",
+        "PerStudentCostOfCharters": "11827.32345760053",
+        "CostOfCharters": "117779.66697869686",
+        "CharterTransfers": "11.0",
         "Attendance": 1151.538,
         "LocalFunding": 3067742,
         "StateFunding": 10509787,
@@ -11836,9 +11836,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,492.35",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11563.59711214359",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 799.673,
         "LocalFunding": 8999587,
         "StateFunding": 592988,
@@ -11875,9 +11875,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,703.65",
-        "CostOfCharters": "5,813,185.01",
-        "CharterTransfers": "667",
+        "PerStudentCostOfCharters": "9744.211854808385",
+        "CostOfCharters": "5837486.928097829",
+        "CharterTransfers": "667.0",
         "Attendance": 28191.424,
         "LocalFunding": 94980490,
         "StateFunding": 187207525,
@@ -11910,9 +11910,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,577.10",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "8702.952415989268",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 3047.3940000000002,
         "LocalFunding": 11901773,
         "StateFunding": 14771952,
@@ -11945,9 +11945,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,043.41",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12160.289531914497",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 430.165,
         "LocalFunding": 1275492,
         "StateFunding": 3938829,
@@ -11980,9 +11980,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,565.27",
-        "CostOfCharters": "290,533.65",
-        "CharterTransfers": "30",
+        "PerStudentCostOfCharters": "10737.973101733141",
+        "CostOfCharters": "295282.8868696871",
+        "CharterTransfers": "30.0",
         "Attendance": 2431.8230000000003,
         "LocalFunding": 22310937,
         "StateFunding": 3953213,
@@ -12015,9 +12015,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,385.21",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11469.164125868576",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 607.0840000000001,
         "LocalFunding": 3686726,
         "StateFunding": 3678070,
@@ -12045,9 +12045,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,438.49",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13576.358273484624",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 460.744,
         "LocalFunding": 1182237,
         "StateFunding": 5160140,
@@ -12084,9 +12084,9 @@ var DistrictsData = {
                 "95%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,927.19",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14070.681066697844",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 598.715,
         "LocalFunding": 2098947,
         "StateFunding": 6307976,
@@ -12119,9 +12119,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,872.53",
-        "CostOfCharters": "567,534.41",
-        "CharterTransfers": "56",
+        "PerStudentCostOfCharters": "10962.279057174721",
+        "CostOfCharters": "572219.0282210688",
+        "CharterTransfers": "56.0",
         "Attendance": 1465.2979999999998,
         "LocalFunding": 4085166,
         "StateFunding": 12422482,
@@ -12154,9 +12154,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,517.62",
-        "CostOfCharters": "392,616.13",
-        "CharterTransfers": "37",
+        "PerStudentCostOfCharters": "11603.382343681524",
+        "CostOfCharters": "395539.4860008615",
+        "CharterTransfers": "37.0",
         "Attendance": 1331.286,
         "LocalFunding": 3124740,
         "StateFunding": 11981305,
@@ -12188,9 +12188,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "14,398.74",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14531.292080742245",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 236.90200000000002,
         "LocalFunding": 1036713,
         "StateFunding": 2485244,
@@ -12218,9 +12218,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,765.16",
-        "CostOfCharters": "953,076.08",
-        "CharterTransfers": "90",
+        "PerStudentCostOfCharters": "11955.102961158658",
+        "CostOfCharters": "968462.8183363313",
+        "CharterTransfers": "90.0",
         "Attendance": 1216.925,
         "LocalFunding": 5549476,
         "StateFunding": 9382597,
@@ -12248,9 +12248,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,351.68",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13494.106366035347",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 336.70300000000003,
         "LocalFunding": 1317622,
         "StateFunding": 3308853,
@@ -12287,9 +12287,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,596.63",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11755.488517901436",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 434.18300000000005,
         "LocalFunding": 2050200,
         "StateFunding": 3153771,
@@ -12326,9 +12326,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,723.86",
-        "CostOfCharters": "104,439.50",
-        "CharterTransfers": "10",
+        "PerStudentCostOfCharters": "11815.856523629503",
+        "CostOfCharters": "105258.99773850666",
+        "CharterTransfers": "10.0",
         "Attendance": 1068.9940000000001,
         "LocalFunding": 3468489,
         "StateFunding": 9649897,
@@ -12361,9 +12361,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,960.07",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13154.261381188751",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 515.33,
         "LocalFunding": 3081356,
         "StateFunding": 4964406,
@@ -12412,9 +12412,9 @@ var DistrictsData = {
                 "97%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,052.78",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10130.63846115204",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2761.118,
         "LocalFunding": 15154117,
         "StateFunding": 13049995,
@@ -12447,9 +12447,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,321.20",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12498.807061260544",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 151.23600000000002,
         "LocalFunding": 745138,
         "StateFunding": 1171735,
@@ -12477,9 +12477,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,523.19",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12646.013272601584",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 475.92900000000003,
         "LocalFunding": 6912726,
         "StateFunding": 334349,
@@ -12515,9 +12515,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,089.36",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11176.083310204978",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1337.3769999999997,
         "LocalFunding": 7441724,
         "StateFunding": 8548907,
@@ -12550,9 +12550,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "956,645.99",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "969220.9888",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1.0,
         "LocalFunding": 1346333,
         "StateFunding": 35317,
@@ -12593,9 +12593,9 @@ var DistrictsData = {
                 "0%"
             ]
         ],
-        "PerStudentCostOfCharters": "1,874,813.07",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "1881521.0748031999",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1.0,
         "LocalFunding": 2332093,
         "StateFunding": 64966,
@@ -12632,9 +12632,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,583.95",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11709.447087915625",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1750.103,
         "LocalFunding": 11193415,
         "StateFunding": 9578923,
@@ -12667,9 +12667,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,802.90",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12919.22608570524",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 277.976,
         "LocalFunding": 2080901,
         "StateFunding": 1584318,
@@ -12706,9 +12706,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,061.09",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15214.015857032164",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 130.088,
         "LocalFunding": 1106799,
         "StateFunding": 1348580,
@@ -12741,9 +12741,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,537.95",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13640.945496501972",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 391.70599999999996,
         "LocalFunding": 2008536,
         "StateFunding": 3370359,
@@ -12780,9 +12780,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,021.75",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12102.936943428698",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 246.595,
         "LocalFunding": 867945,
         "StateFunding": 2112003,
@@ -12819,9 +12819,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,327.63",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11351.60827321725",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 469.78,
         "LocalFunding": 6251273,
         "StateFunding": 367531,
@@ -12854,9 +12854,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,630.23",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12749.629974209616",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 398.288,
         "LocalFunding": 969676,
         "StateFunding": 4040538,
@@ -12897,9 +12897,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,298.48",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11414.666984906227",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 990.965,
         "LocalFunding": 7379164,
         "StateFunding": 4032748,
@@ -12936,9 +12936,9 @@ var DistrictsData = {
                 "4%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,153.58",
-        "CostOfCharters": "187,639.83",
-        "CharterTransfers": "19",
+        "PerStudentCostOfCharters": "11256.376265206645",
+        "CostOfCharters": "189369.1193900262",
+        "CharterTransfers": "19.0",
         "Attendance": 3043.242,
         "LocalFunding": 23120115,
         "StateFunding": 13321923,
@@ -12975,9 +12975,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,111.41",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10148.127256751839",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1374.2920000000001,
         "LocalFunding": 16131820,
         "StateFunding": 1185143,
@@ -13014,9 +13014,9 @@ var DistrictsData = {
                 "3%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,648.38",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11706.724225628786",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1424.531,
         "LocalFunding": 9946093,
         "StateFunding": 7234707,
@@ -13049,9 +13049,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,678.27",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10787.781175466427",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1368.0520000000001,
         "LocalFunding": 12147906,
         "StateFunding": 2836018,
@@ -13088,9 +13088,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,316.56",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13416.391575177704",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 293.043,
         "LocalFunding": 3408043,
         "StateFunding": 625514,
@@ -13127,9 +13127,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,148.83",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12248.0146072673",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 564.859,
         "LocalFunding": 8463847,
         "StateFunding": 353785,
@@ -13162,9 +13162,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,443.19",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12564.443118511774",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 734.673,
         "LocalFunding": 2097439,
         "StateFunding": 7351073,
@@ -13205,9 +13205,9 @@ var DistrictsData = {
                 "4%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,954.87",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12006.165301340225",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 628.402,
         "LocalFunding": 3754902,
         "StateFunding": 5461497,
@@ -13244,9 +13244,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,959.56",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13126.39805123881",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 332.09200000000004,
         "LocalFunding": 4278360,
         "StateFunding": 243388,
@@ -13283,9 +13283,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,738.45",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11816.040458413625",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1357.8270000000002,
         "LocalFunding": 5959944,
         "StateFunding": 11811262,
@@ -13318,9 +13318,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,577.45",
-        "CostOfCharters": "3,448,914.21",
-        "CharterTransfers": "378",
+        "PerStudentCostOfCharters": "10681.205725019865",
+        "CostOfCharters": "3482743.5902954713",
+        "CharterTransfers": "378.0",
         "Attendance": 2723.228,
         "LocalFunding": 8746256,
         "StateFunding": 20876647,
@@ -13353,9 +13353,9 @@ var DistrictsData = {
                 "99%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,562.29",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12636.614921543047",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1204.2910000000002,
         "LocalFunding": 3306112,
         "StateFunding": 12317333,
@@ -13383,9 +13383,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,376.71",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12531.387137765547",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 444.12700000000007,
         "LocalFunding": 4966345,
         "StateFunding": 606369,
@@ -13422,9 +13422,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,117.75",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13166.842321510763",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 521.59,
         "LocalFunding": 1850619,
         "StateFunding": 5008566,
@@ -13457,9 +13457,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,295.15",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14369.296231780698",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 560.875,
         "LocalFunding": 1716093,
         "StateFunding": 6376559,
@@ -13492,9 +13492,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,657.78",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13742.000962843049",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 301.08500000000004,
         "LocalFunding": 1355560,
         "StateFunding": 2776709,
@@ -13527,9 +13527,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,579.99",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11731.837223116869",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 347.00200000000007,
         "LocalFunding": 4163975,
         "StateFunding": 894367,
@@ -13566,9 +13566,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,332.93",
-        "CostOfCharters": "167,152.54",
-        "CharterTransfers": "19",
+        "PerStudentCostOfCharters": "9353.44487168087",
+        "CostOfCharters": "167519.91990103372",
+        "CharterTransfers": "19.0",
         "Attendance": 4698.068,
         "LocalFunding": 26649648,
         "StateFunding": 16446773,
@@ -13605,9 +13605,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,358.52",
-        "CostOfCharters": "18,317,928.28",
-        "CharterTransfers": "2,017",
+        "PerStudentCostOfCharters": "10379.56376775259",
+        "CostOfCharters": "18355138.973112904",
+        "CharterTransfers": "2,017.0",
         "Attendance": 6976.25,
         "LocalFunding": 61994631,
         "StateFunding": 18470936,
@@ -13644,9 +13644,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,940.26",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "8958.650799155539",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 4783.649,
         "LocalFunding": 26656096,
         "StateFunding": 16636421,
@@ -13674,9 +13674,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "17,192.50",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "17482.71752524748",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 55.661,
         "LocalFunding": 169683,
         "StateFunding": 887953,
@@ -13709,9 +13709,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,390.97",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10390.970589248269",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1158.381,
         "LocalFunding": 8277886,
         "StateFunding": 3826329,
@@ -13744,9 +13744,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,882.13",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11932.692596606912",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 366.392,
         "LocalFunding": 359114,
         "StateFunding": 4196995,
@@ -13779,9 +13779,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,403.57",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13683.270187842223",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 573.822,
         "LocalFunding": 2851870,
         "StateFunding": 5242455,
@@ -13818,9 +13818,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,362.85",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11418.108315528007",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1079.179,
         "LocalFunding": 2863712,
         "StateFunding": 9670674,
@@ -13853,9 +13853,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,895.15",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13942.007810056142",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 225.852,
         "LocalFunding": 521201,
         "StateFunding": 2692824,
@@ -13888,9 +13888,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "17,575.01",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "17633.247459476643",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 123.28200000000001,
         "LocalFunding": 740208,
         "StateFunding": 1426073,
@@ -13918,9 +13918,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,262.09",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13262.089693249492",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 166.19500000000005,
         "LocalFunding": 559770,
         "StateFunding": 1648514,
@@ -13948,9 +13948,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,323.37",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11342.871137327746",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 528.8720000000001,
         "LocalFunding": 5520304,
         "StateFunding": 2639535,
@@ -13983,9 +13983,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,013.38",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10093.191702341917",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2580.7490000000003,
         "LocalFunding": 12578695,
         "StateFunding": 13628788,
@@ -14018,9 +14018,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "16,127.37",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "16686.154153018626",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 64.102,
         "LocalFunding": 1157756,
         "StateFunding": 58130,
@@ -14048,9 +14048,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,976.24",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13006.256777932585",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 227.37600000000003,
         "LocalFunding": 426264,
         "StateFunding": 2568980,
@@ -14078,9 +14078,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,643.42",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11708.382777824203",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 692.5930000000001,
         "LocalFunding": 1684907,
         "StateFunding": 6459918,
@@ -14117,9 +14117,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,040.55",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11174.922005194678",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 991.4760000000001,
         "LocalFunding": 4811000,
         "StateFunding": 6711816,
@@ -14156,9 +14156,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,298.59",
-        "CostOfCharters": "226,241.32",
-        "CharterTransfers": "20",
+        "PerStudentCostOfCharters": "12404.68156321814",
+        "CostOfCharters": "228192.8951627247",
+        "CharterTransfers": "20.0",
         "Attendance": 591.422,
         "LocalFunding": 2304550,
         "StateFunding": 5138324,
@@ -14191,9 +14191,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,493.49",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11573.772875692695",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 480.7650000000001,
         "LocalFunding": 3803645,
         "StateFunding": 1899622,
@@ -14226,9 +14226,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,754.18",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10792.050648355053",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 490.47200000000004,
         "LocalFunding": 3256006,
         "StateFunding": 2178559,
@@ -14261,9 +14261,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,533.51",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10604.029162949848",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2753.9320000000002,
         "LocalFunding": 14139504,
         "StateFunding": 15612150,
@@ -14296,9 +14296,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,839.41",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12929.97457676588",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 205.37900000000002,
         "LocalFunding": 2598124,
         "StateFunding": 836366,
@@ -14331,9 +14331,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,834.71",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11857.80377607528",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 550.903,
         "LocalFunding": 1232277,
         "StateFunding": 6711021,
@@ -14366,9 +14366,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,450.70",
-        "CostOfCharters": "498,453.96",
-        "CharterTransfers": "38",
+        "PerStudentCostOfCharters": "14505.10434148582",
+        "CostOfCharters": "500330.45863557496",
+        "CharterTransfers": "38.0",
         "Attendance": 654.467,
         "LocalFunding": 5349433,
         "StateFunding": 4359274,
@@ -14401,9 +14401,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,522.48",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10634.395331646037",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1149.057,
         "LocalFunding": 11842606,
         "StateFunding": 694939,
@@ -14440,9 +14440,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,608.92",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11794.092552121601",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 676.5640000000001,
         "LocalFunding": 7808658,
         "StateFunding": 324079,
@@ -14475,9 +14475,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,766.41",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11883.447107414428",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 717.52,
         "LocalFunding": 2535499,
         "StateFunding": 6056564,
@@ -14510,9 +14510,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,148.59",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11230.76843420729",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 815.5220000000002,
         "LocalFunding": 3433695,
         "StateFunding": 6073098,
@@ -14549,9 +14549,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,744.15",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11847.645639866201",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 374.894,
         "LocalFunding": 4662697,
         "StateFunding": 189467,
@@ -14579,9 +14579,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "14,381.10",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14524.807177404147",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 173.731,
         "LocalFunding": 1495218,
         "StateFunding": 1105946,
@@ -14614,9 +14614,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,670.85",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9785.55274922153",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 3250.606,
         "LocalFunding": 29034281,
         "StateFunding": 4370492,
@@ -14649,9 +14649,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,023.33",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11176.851120792518",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 938.578,
         "LocalFunding": 7356783,
         "StateFunding": 2827249,
@@ -14683,9 +14683,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,325.48",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13479.741128621405",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 528.248,
         "LocalFunding": 4232485,
         "StateFunding": 2309075,
@@ -14718,9 +14718,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,363.36",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9396.030892029945",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1965.708,
         "LocalFunding": 10094316,
         "StateFunding": 8884892,
@@ -14753,9 +14753,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,993.63",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12103.826108697725",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 100.62400000000001,
         "LocalFunding": 532953,
         "StateFunding": 717338,
@@ -14788,9 +14788,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,651.30",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12719.259108564065",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 608.426,
         "LocalFunding": 2955545,
         "StateFunding": 5282499,
@@ -14823,9 +14823,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,276.54",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11337.635930413433",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1189.402,
         "LocalFunding": 3778748,
         "StateFunding": 9582983,
@@ -14874,9 +14874,9 @@ var DistrictsData = {
                 "48%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,815.93",
-        "CostOfCharters": "15,492,486.87",
-        "CharterTransfers": "1,656",
+        "PerStudentCostOfCharters": "9858.169173588452",
+        "CostOfCharters": "15559159.636331253",
+        "CharterTransfers": "1,656.0",
         "Attendance": 36014.049,
         "LocalFunding": 269135596,
         "StateFunding": 86433075,
@@ -14925,9 +14925,9 @@ var DistrictsData = {
                 "0%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,523.14",
-        "CostOfCharters": "20,636,308.61",
-        "CharterTransfers": "2,307",
+        "PerStudentCostOfCharters": "9552.549723788217",
+        "CostOfCharters": "20700039.52223303",
+        "CharterTransfers": "2,307.0",
         "Attendance": 36188.407,
         "LocalFunding": 94505861,
         "StateFunding": 259234618,
@@ -14960,9 +14960,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,310.10",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9369.114767036892",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 4595.307,
         "LocalFunding": 11568169,
         "StateFunding": 32264791,
@@ -14999,9 +14999,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,268.48",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9309.667419056837",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1986.3630000000003,
         "LocalFunding": 13318743,
         "StateFunding": 5189606,
@@ -15029,9 +15029,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,709.89",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12979.176217948898",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 895.821,
         "LocalFunding": 3270909,
         "StateFunding": 9075968,
@@ -15064,9 +15064,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,723.01",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11921.482741088239",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 802.692,
         "LocalFunding": 5437814,
         "StateFunding": 3937366,
@@ -15099,9 +15099,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,448.25",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14680.99444075732",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 228.27800000000002,
         "LocalFunding": 2496023,
         "StateFunding": 556078,
@@ -15134,9 +15134,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,573.37",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13840.617541508947",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 333.398,
         "LocalFunding": 6153828,
         "StateFunding": 197266,
@@ -15164,9 +15164,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,898.08",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13007.677885368299",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 495.64300000000003,
         "LocalFunding": 1472182,
         "StateFunding": 5045330,
@@ -15207,9 +15207,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,934.69",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13040.270843181519",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 328.7610000000001,
         "LocalFunding": 3061473,
         "StateFunding": 914270,
@@ -15242,9 +15242,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,086.32",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15802.553654156538",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 78.587,
         "LocalFunding": 699805,
         "StateFunding": 392492,
@@ -15281,9 +15281,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,385.15",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13485.124644227366",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 363.309,
         "LocalFunding": 2358670,
         "StateFunding": 2564883,
@@ -15315,9 +15315,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,230.26",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13378.904280465627",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 597.1270000000001,
         "LocalFunding": 4318572,
         "StateFunding": 4267196,
@@ -15350,9 +15350,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,335.91",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9409.316161904091",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1676.894,
         "LocalFunding": 8632040,
         "StateFunding": 7422337,
@@ -15389,9 +15389,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,620.60",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "8652.727484769339",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1373.381,
         "LocalFunding": 0,
         "StateFunding": 12099079,
@@ -15428,9 +15428,9 @@ var DistrictsData = {
                 "48%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,900.43",
-        "CostOfCharters": "6,046,489.56",
-        "CharterTransfers": "606",
+        "PerStudentCostOfCharters": "11026.230120713564",
+        "CostOfCharters": "6116272.704477587",
+        "CharterTransfers": "606.0",
         "Attendance": 5121.383,
         "LocalFunding": 18798756,
         "StateFunding": 40768539,
@@ -15471,9 +15471,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,144.49",
-        "CostOfCharters": "15,262,394.54",
-        "CharterTransfers": "1,682",
+        "PerStudentCostOfCharters": "11185.86800210045",
+        "CostOfCharters": "15319058.944069436",
+        "CharterTransfers": "1,682.0",
         "Attendance": 10195.537,
         "LocalFunding": 20775468,
         "StateFunding": 96196026,
@@ -15514,9 +15514,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,263.30",
-        "CostOfCharters": "9,503,608.74",
-        "CharterTransfers": "1,178",
+        "PerStudentCostOfCharters": "9374.3074949176",
+        "CostOfCharters": "9617499.393424861",
+        "CharterTransfers": "1,178.0",
         "Attendance": 8508.877,
         "LocalFunding": 42712645,
         "StateFunding": 40571537,
@@ -15549,9 +15549,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,490.22",
-        "CostOfCharters": "151,752.73",
-        "CharterTransfers": "17",
+        "PerStudentCostOfCharters": "9515.288180918658",
+        "CostOfCharters": "152153.559539507",
+        "CharterTransfers": "17.0",
         "Attendance": 1411.861,
         "LocalFunding": 0,
         "StateFunding": 13604220,
@@ -15596,9 +15596,9 @@ var DistrictsData = {
                 "14%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,116.64",
-        "CostOfCharters": "864,538.92",
-        "CharterTransfers": "112",
+        "PerStudentCostOfCharters": "8152.37671301204",
+        "CostOfCharters": "868344.9785193548",
+        "CharterTransfers": "112.0",
         "Attendance": 4608.647,
         "LocalFunding": 36787334,
         "StateFunding": 2401304,
@@ -15643,9 +15643,9 @@ var DistrictsData = {
                 "11%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,688.71",
-        "CostOfCharters": "15,421,160.89",
-        "CharterTransfers": "1,790",
+        "PerStudentCostOfCharters": "9695.354591978774",
+        "CostOfCharters": "15431742.827549232",
+        "CharterTransfers": "1,790.0",
         "Attendance": 7350.996,
         "LocalFunding": 18121570,
         "StateFunding": 54308919,
@@ -15682,9 +15682,9 @@ var DistrictsData = {
                 "10%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,783.86",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13904.852274617513",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 255.43600000000004,
         "LocalFunding": 1993142,
         "StateFunding": 1722318,
@@ -15721,9 +15721,9 @@ var DistrictsData = {
                 "3%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,769.21",
-        "CostOfCharters": "388,671.91",
-        "CharterTransfers": "40",
+        "PerStudentCostOfCharters": "10850.803952309492",
+        "CostOfCharters": "391616.71705137",
+        "CharterTransfers": "40.0",
         "Attendance": 2394.64,
         "LocalFunding": 18569788,
         "StateFunding": 8111867,
@@ -15760,9 +15760,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,413.03",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13454.916514083377",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 196.28100000000003,
         "LocalFunding": 1536268,
         "StateFunding": 1130349,
@@ -15799,9 +15799,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,637.29",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10685.846825108274",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1245.454,
         "LocalFunding": 5333472,
         "StateFunding": 8213991,
@@ -15834,9 +15834,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,707.36",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13866.393616993355",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 470.019,
         "LocalFunding": 822669,
         "StateFunding": 5865572,
@@ -15893,9 +15893,9 @@ var DistrictsData = {
                 "62%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,174.13",
-        "CostOfCharters": "28,973,815.17",
-        "CharterTransfers": "3,315",
+        "PerStudentCostOfCharters": "9264.382779910022",
+        "CostOfCharters": "29258841.720111344",
+        "CharterTransfers": "3,315.0",
         "Attendance": 51370.648,
         "LocalFunding": 214186323,
         "StateFunding": 264800880,
@@ -15932,9 +15932,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,444.57",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "8476.670354070584",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 4256.688,
         "LocalFunding": 30202208,
         "StateFunding": 6500313,
@@ -15967,9 +15967,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,833.90",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9881.821267217345",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1850.082,
         "LocalFunding": 17587177,
         "StateFunding": 1407415,
@@ -16002,9 +16002,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,395.21",
-        "CostOfCharters": "281,658.77",
-        "CharterTransfers": "30",
+        "PerStudentCostOfCharters": "10412.527308709681",
+        "CostOfCharters": "282128.0509341181",
+        "CharterTransfers": "30.0",
         "Attendance": 12669.65,
         "LocalFunding": 28694363,
         "StateFunding": 112017653,
@@ -16037,9 +16037,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,220.90",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10245.247566360462",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2961.206,
         "LocalFunding": 8545286,
         "StateFunding": 24141131,
@@ -16076,9 +16076,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,194.85",
-        "CostOfCharters": "9,872,466.10",
-        "CharterTransfers": "1,049",
+        "PerStudentCostOfCharters": "10202.817680135895",
+        "CostOfCharters": "9880184.797428487",
+        "CharterTransfers": "1,049.0",
         "Attendance": 20347.017,
         "LocalFunding": 24165480,
         "StateFunding": 186071586,
@@ -16111,9 +16111,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "21,222.38",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "21490.238765025828",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 36.587,
         "LocalFunding": 263244,
         "StateFunding": 533742,
@@ -16154,9 +16154,9 @@ var DistrictsData = {
                 "80%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,761.27",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10801.932685348347",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1367.286,
         "LocalFunding": 3048641,
         "StateFunding": 11699402,
@@ -16197,9 +16197,9 @@ var DistrictsData = {
                 "5%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,355.28",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14519.27750606583",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 611.705,
         "LocalFunding": 1692384,
         "StateFunding": 7455566,
@@ -16232,9 +16232,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,663.92",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12819.437524899075",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 467.68,
         "LocalFunding": 1427854,
         "StateFunding": 4633535,
@@ -16267,9 +16267,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,529.19",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14590.23147841746",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 251.44400000000002,
         "LocalFunding": 623874,
         "StateFunding": 3219529,
@@ -16302,9 +16302,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,797.41",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11859.806405718871",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 315.307,
         "LocalFunding": 760038,
         "StateFunding": 3023269,
@@ -16337,9 +16337,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,968.39",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10997.225488639386",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1045.454,
         "LocalFunding": 3292620,
         "StateFunding": 8475898,
@@ -16372,9 +16372,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,390.01",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14437.026342088624",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 692.092,
         "LocalFunding": 3568131,
         "StateFunding": 6493096,
@@ -16407,9 +16407,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,815.66",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11930.156341690135",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1138.346,
         "LocalFunding": 14873084,
         "StateFunding": 1162954,
@@ -16442,9 +16442,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,495.10",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12860.549711783433",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 273.579,
         "LocalFunding": 4883182,
         "StateFunding": 645793,
@@ -16477,9 +16477,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,414.46",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13608.702055642127",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 242.70100000000002,
         "LocalFunding": 4411451,
         "StateFunding": 1978904,
@@ -16512,9 +16512,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,811.40",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13929.70811844036",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 221.769,
         "LocalFunding": 2384965,
         "StateFunding": 919367,
@@ -16555,9 +16555,9 @@ var DistrictsData = {
                 "44%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,447.58",
-        "CostOfCharters": "94,058.04",
-        "CharterTransfers": "10",
+        "PerStudentCostOfCharters": "10520.566208862374",
+        "CostOfCharters": "94715.14388203292",
+        "CharterTransfers": "10.0",
         "Attendance": 1257.699,
         "LocalFunding": 5116093,
         "StateFunding": 8021104,
@@ -16590,9 +16590,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,327.53",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12397.857690085113",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 747.24,
         "LocalFunding": 1864594,
         "StateFunding": 7534726,
@@ -16629,9 +16629,9 @@ var DistrictsData = {
                 "33%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,173.32",
-        "CostOfCharters": "4,740,443.83",
-        "CharterTransfers": "568",
+        "PerStudentCostOfCharters": "9264.813833724858",
+        "CostOfCharters": "4787725.697187561",
+        "CharterTransfers": "568.0",
         "Attendance": 14265.608,
         "LocalFunding": 48297706,
         "StateFunding": 85822957,
@@ -16668,9 +16668,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,581.41",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12660.652152185408",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 753.9540000000001,
         "LocalFunding": 2242778,
         "StateFunding": 7450324,
@@ -16711,9 +16711,9 @@ var DistrictsData = {
                 "1%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,209.82",
-        "CostOfCharters": "97,255.93",
-        "CharterTransfers": "11",
+        "PerStudentCostOfCharters": "9315.81926129053",
+        "CostOfCharters": "98375.26881226592",
+        "CharterTransfers": "11.0",
         "Attendance": 1357.443,
         "LocalFunding": 6053538,
         "StateFunding": 6280850,
@@ -16746,9 +16746,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,599.60",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14733.11952944477",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 256.65,
         "LocalFunding": 2585490,
         "StateFunding": 1321093,
@@ -16789,9 +16789,9 @@ var DistrictsData = {
                 "5%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,419.94",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13517.60866263313",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 414.06200000000007,
         "LocalFunding": 2985135,
         "StateFunding": 2693843,
@@ -16823,9 +16823,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "21,442.91",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "21772.4704676054",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 97.081,
         "LocalFunding": 809695,
         "StateFunding": 1323287,
@@ -16858,9 +16858,9 @@ var DistrictsData = {
                 "5%"
             ]
         ],
-        "PerStudentCostOfCharters": "18,953.21",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "19045.972265526583",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 104.78800000000001,
         "LocalFunding": 508448,
         "StateFunding": 1546628,
@@ -16893,9 +16893,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,408.97",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11441.989607342271",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 478.76199999999994,
         "LocalFunding": 3266775,
         "StateFunding": 2343653,
@@ -16923,9 +16923,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "8,210.69",
-        "CostOfCharters": "489,070.47",
-        "CharterTransfers": "63",
+        "PerStudentCostOfCharters": "8302.740400958233",
+        "CostOfCharters": "494553.25449769717",
+        "CharterTransfers": "63.0",
         "Attendance": 4642.293000000001,
         "LocalFunding": 21888795,
         "StateFunding": 16986053,
@@ -16958,9 +16958,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,956.42",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12079.24046953821",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1006.589,
         "LocalFunding": 4504846,
         "StateFunding": 8384447,
@@ -16993,9 +16993,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,909.29",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "8975.894525603262",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 3871.288,
         "LocalFunding": 12651477,
         "StateFunding": 22515447,
@@ -17028,9 +17028,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,045.59",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11079.249940608914",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1370.374,
         "LocalFunding": 3368821,
         "StateFunding": 12288243,
@@ -17067,9 +17067,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,979.60",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10077.840276983705",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1783.845,
         "LocalFunding": 7600146,
         "StateFunding": 10674907,
@@ -17106,9 +17106,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,201.03",
-        "CostOfCharters": "15,887,365.00",
-        "CharterTransfers": "1,995",
+        "PerStudentCostOfCharters": "9255.359776408508",
+        "CostOfCharters": "15981169.248351814",
+        "CharterTransfers": "1,995.0",
         "Attendance": 14824.464,
         "LocalFunding": 104899199,
         "StateFunding": 35896692,
@@ -17141,9 +17141,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,165.97",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15334.557624601464",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 148.544,
         "LocalFunding": 1698039,
         "StateFunding": 607529,
@@ -17176,9 +17176,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,216.65",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12351.350257233771",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 434.63500000000005,
         "LocalFunding": 5223510,
         "StateFunding": 393413,
@@ -17211,9 +17211,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,403.78",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12580.452740698365",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 240.53300000000002,
         "LocalFunding": 2951695,
         "StateFunding": 158832,
@@ -17250,9 +17250,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,309.05",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10375.938700900739",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1748.231,
         "LocalFunding": 9396194,
         "StateFunding": 9036496,
@@ -17285,9 +17285,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,079.78",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10236.283971007195",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2057.614,
         "LocalFunding": 15062610,
         "StateFunding": 6329385,
@@ -17320,9 +17320,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,506.12",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13653.637142424437",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 467.49,
         "LocalFunding": 3349946,
         "StateFunding": 3104889,
@@ -17359,9 +17359,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,571.38",
-        "CostOfCharters": "8,718,820.75",
-        "CharterTransfers": "982",
+        "PerStudentCostOfCharters": "9672.846542556652",
+        "CostOfCharters": "8811251.304294344",
+        "CharterTransfers": "982.0",
         "Attendance": 14620.276000000002,
         "LocalFunding": 88214955,
         "StateFunding": 57792845,
@@ -17398,9 +17398,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,375.80",
-        "CostOfCharters": "5,908,939.32",
-        "CharterTransfers": "743",
+        "PerStudentCostOfCharters": "8442.474429559545",
+        "CostOfCharters": "5955975.015415936",
+        "CharterTransfers": "743.0",
         "Attendance": 12973.948,
         "LocalFunding": 101546718,
         "StateFunding": 12394611,
@@ -17433,9 +17433,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,349.63",
-        "CostOfCharters": "342,179.19",
-        "CharterTransfers": "40",
+        "PerStudentCostOfCharters": "9442.65268036681",
+        "CostOfCharters": "345583.82240963104",
+        "CharterTransfers": "40.0",
         "Attendance": 4523.534000000001,
         "LocalFunding": 30864858,
         "StateFunding": 12965695,
@@ -17476,9 +17476,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,675.13",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9731.057423509928",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1788.674,
         "LocalFunding": 8638895,
         "StateFunding": 9207408,
@@ -17535,9 +17535,9 @@ var DistrictsData = {
                 "31%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,244.99",
-        "CostOfCharters": "34,346,915.67",
-        "CharterTransfers": "3,659",
+        "PerStudentCostOfCharters": "10296.010346713181",
+        "CostOfCharters": "34517952.41021936",
+        "CharterTransfers": "3,659.0",
         "Attendance": 46375.041,
         "LocalFunding": 173835014,
         "StateFunding": 304793291,
@@ -17598,9 +17598,9 @@ var DistrictsData = {
                 "46%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,373.91",
-        "CostOfCharters": "27,387,773.28",
-        "CharterTransfers": "3,162",
+        "PerStudentCostOfCharters": "9454.03839369483",
+        "CostOfCharters": "27621892.126583196",
+        "CharterTransfers": "3,162.0",
         "Attendance": 31016.066999999995,
         "LocalFunding": 139110149,
         "StateFunding": 156138128,
@@ -17637,9 +17637,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,610.01",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9733.676206951623",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 3293.562,
         "LocalFunding": 13876458,
         "StateFunding": 18747182,
@@ -17680,9 +17680,9 @@ var DistrictsData = {
                 "0%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,999.11",
-        "CostOfCharters": "146,304.51",
-        "CharterTransfers": "16",
+        "PerStudentCostOfCharters": "10127.273952526748",
+        "CostOfCharters": "148179.73837601874",
+        "CharterTransfers": "16.0",
         "Attendance": 8127.937000000001,
         "LocalFunding": 20156053,
         "StateFunding": 69471092,
@@ -17727,9 +17727,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,303.51",
-        "CostOfCharters": "392,092.90",
-        "CharterTransfers": "42",
+        "PerStudentCostOfCharters": "10376.441136751917",
+        "CostOfCharters": "394868.2255014666",
+        "CharterTransfers": "42.0",
         "Attendance": 14745.136,
         "LocalFunding": 51934404,
         "StateFunding": 105616078,
@@ -17762,9 +17762,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "17,009.51",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "17123.41420617285",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 102.805,
         "LocalFunding": 1064306,
         "StateFunding": 1376133,
@@ -17801,9 +17801,9 @@ var DistrictsData = {
                 "95%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,699.32",
-        "CostOfCharters": "89,115.08",
-        "CharterTransfers": "10",
+        "PerStudentCostOfCharters": "9872.208862716894",
+        "CostOfCharters": "90703.5733923954",
+        "CharterTransfers": "10.0",
         "Attendance": 2639.646,
         "LocalFunding": 13728274,
         "StateFunding": 11445619,
@@ -17840,9 +17840,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,177.92",
-        "CostOfCharters": "1,621,100.69",
-        "CharterTransfers": "206",
+        "PerStudentCostOfCharters": "8232.099124802624",
+        "CostOfCharters": "1631840.6793302372",
+        "CharterTransfers": "206.0",
         "Attendance": 20272.282,
         "LocalFunding": 77425192,
         "StateFunding": 92953793,
@@ -17879,9 +17879,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,021.90",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12053.688675046249",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 745.447,
         "LocalFunding": 3565128,
         "StateFunding": 5990315,
@@ -17918,9 +17918,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,869.89",
-        "CostOfCharters": "222,502.48",
-        "CharterTransfers": "25",
+        "PerStudentCostOfCharters": "8971.581069240998",
+        "CostOfCharters": "225053.3918910246",
+        "CharterTransfers": "25.0",
         "Attendance": 4357.791,
         "LocalFunding": 16846574,
         "StateFunding": 30335838,
@@ -17957,9 +17957,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,741.53",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "8797.616872437013",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 5951.311000000001,
         "LocalFunding": 34587660,
         "StateFunding": 18384277,
@@ -17987,9 +17987,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,694.03",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11887.476137429201",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1163.188,
         "LocalFunding": 3538950,
         "StateFunding": 10848712,
@@ -18022,9 +18022,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,863.87",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14961.209782788255",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 225.625,
         "LocalFunding": 1445525,
         "StateFunding": 2056098,
@@ -18057,9 +18057,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,177.98",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13395.57002552827",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 457.814,
         "LocalFunding": 2031801,
         "StateFunding": 4245429,
@@ -18087,9 +18087,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,231.76",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11358.080899097535",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1729.7060000000001,
         "LocalFunding": 5294127,
         "StateFunding": 15310918,
@@ -18122,9 +18122,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,403.32",
-        "CostOfCharters": "143,606.42",
-        "CharterTransfers": "14",
+        "PerStudentCostOfCharters": "11659.145291188823",
+        "CostOfCharters": "146828.14189098083",
+        "CharterTransfers": "14.0",
         "Attendance": 1378.976,
         "LocalFunding": 13847500,
         "StateFunding": 2669263,
@@ -18157,9 +18157,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,685.43",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13942.55487534991",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 160.75400000000002,
         "LocalFunding": 379251,
         "StateFunding": 1880135,
@@ -18192,9 +18192,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,043.38",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12263.70475101254",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 697.2560000000001,
         "LocalFunding": 3170010,
         "StateFunding": 5306666,
@@ -18227,9 +18227,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,050.10",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10252.900303225619",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 3586.04,
         "LocalFunding": 19304876,
         "StateFunding": 19134506,
@@ -18262,9 +18262,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,689.77",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13855.205451163272",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 193.46300000000002,
         "LocalFunding": 908679,
         "StateFunding": 1877558,
@@ -18297,9 +18297,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,762.91",
-        "CostOfCharters": "1,161,946.01",
-        "CharterTransfers": "109",
+        "PerStudentCostOfCharters": "11844.3260543104",
+        "CostOfCharters": "1169988.67093875",
+        "CharterTransfers": "109.0",
         "Attendance": 1553.3010000000002,
         "LocalFunding": 3246886,
         "StateFunding": 14810678,
@@ -18332,9 +18332,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,476.15",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13542.566595759352",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 188.50900000000001,
         "LocalFunding": 906035,
         "StateFunding": 1719806,
@@ -18367,9 +18367,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,795.84",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11908.210844033862",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 732.618,
         "LocalFunding": 4011762,
         "StateFunding": 5020967,
@@ -18397,9 +18397,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,227.48",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11385.85818561247",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1130.4650000000001,
         "LocalFunding": 5633304,
         "StateFunding": 7704295,
@@ -18427,9 +18427,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "14,535.48",
-        "CostOfCharters": "169,182.63",
-        "CharterTransfers": "13",
+        "PerStudentCostOfCharters": "14809.90101687646",
+        "CostOfCharters": "172376.73280671999",
+        "CharterTransfers": "13.0",
         "Attendance": 268.599,
         "LocalFunding": 1201184,
         "StateFunding": 2796392,
@@ -18462,9 +18462,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,859.29",
-        "CostOfCharters": "896,463.82",
-        "CharterTransfers": "98",
+        "PerStudentCostOfCharters": "10070.4888180747",
+        "CostOfCharters": "915666.9508161368",
+        "CharterTransfers": "98.0",
         "Attendance": 1606.046,
         "LocalFunding": 16176075,
         "StateFunding": 1532054,
@@ -18501,9 +18501,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,268.76",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12381.954256687657",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 714.914,
         "LocalFunding": 3011103,
         "StateFunding": 6055256,
@@ -18536,9 +18536,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,663.11",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12697.943963677442",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 323.105,
         "LocalFunding": 1138249,
         "StateFunding": 3025860,
@@ -18571,9 +18571,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,522.15",
-        "CostOfCharters": "3,185,856.91",
-        "CharterTransfers": "372",
+        "PerStudentCostOfCharters": "9714.758648293207",
+        "CostOfCharters": "3250298.9563420955",
+        "CharterTransfers": "372.0",
         "Attendance": 10257.550000000001,
         "LocalFunding": 43498583,
         "StateFunding": 59284755,
@@ -18618,9 +18618,9 @@ var DistrictsData = {
                 "67%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,093.51",
-        "CostOfCharters": "24,254,541.53",
-        "CharterTransfers": "2,621",
+        "PerStudentCostOfCharters": "10211.680430228938",
+        "CostOfCharters": "24538498.85649971",
+        "CharterTransfers": "2,621.0",
         "Attendance": 9767.793,
         "LocalFunding": 73663747,
         "StateFunding": 26863327,
@@ -18661,9 +18661,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,599.16",
-        "CostOfCharters": "18,693,309.97",
-        "CharterTransfers": "2,115",
+        "PerStudentCostOfCharters": "9665.284134696023",
+        "CostOfCharters": "18822084.57633472",
+        "CharterTransfers": "2,115.0",
         "Attendance": 8505.908000000001,
         "LocalFunding": 58547011,
         "StateFunding": 29310139,
@@ -18708,9 +18708,9 @@ var DistrictsData = {
                 "5%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,479.51",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12629.304858104859",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 174.636,
         "LocalFunding": 1001261,
         "StateFunding": 1243242,
@@ -18747,9 +18747,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,376.53",
-        "CostOfCharters": "280,009.66",
-        "CharterTransfers": "29",
+        "PerStudentCostOfCharters": "10440.180411041283",
+        "CostOfCharters": "281727.27459071914",
+        "CharterTransfers": "29.0",
         "Attendance": 2766.4179999999997,
         "LocalFunding": 13654083,
         "StateFunding": 17594952,
@@ -18790,9 +18790,9 @@ var DistrictsData = {
                 "1%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,775.89",
-        "CostOfCharters": "1,992,186.93",
-        "CharterTransfers": "202",
+        "PerStudentCostOfCharters": "10864.421127276915",
+        "CostOfCharters": "2008554.6443636385",
+        "CharterTransfers": "202.0",
         "Attendance": 4235.64,
         "LocalFunding": 16252952,
         "StateFunding": 29841149,
@@ -18829,9 +18829,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,009.30",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "8089.903848346269",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 10583.393999999998,
         "LocalFunding": 83469406,
         "StateFunding": 6374567,
@@ -18876,9 +18876,9 @@ var DistrictsData = {
                 "1%"
             ]
         ],
-        "PerStudentCostOfCharters": "7,865.25",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "7899.9198892728955",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 7820.1630000000005,
         "LocalFunding": 65693546,
         "StateFunding": 4171613,
@@ -18943,9 +18943,9 @@ var DistrictsData = {
                 "13%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,651.72",
-        "CostOfCharters": "140,023,856.37",
-        "CharterTransfers": "15,798",
+        "PerStudentCostOfCharters": "9707.62545000046",
+        "CostOfCharters": "140834975.88412336",
+        "CharterTransfers": "15,798.0",
         "Attendance": 68755.75200000001,
         "LocalFunding": 686100668,
         "StateFunding": 40375377,
@@ -18986,9 +18986,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,215.21",
-        "CostOfCharters": "498,566.03",
-        "CharterTransfers": "57",
+        "PerStudentCostOfCharters": "9305.73669039557",
+        "CostOfCharters": "503463.4857689238",
+        "CharterTransfers": "57.0",
         "Attendance": 6912.779,
         "LocalFunding": 56941171,
         "StateFunding": 9049961,
@@ -19029,9 +19029,9 @@ var DistrictsData = {
                 "97%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,621.18",
-        "CostOfCharters": "154,390.17",
-        "CharterTransfers": "17",
+        "PerStudentCostOfCharters": "9750.700932960852",
+        "CostOfCharters": "156468.61295764707",
+        "CharterTransfers": "17.0",
         "Attendance": 3869.1930000000007,
         "LocalFunding": 35920698,
         "StateFunding": 5036758,
@@ -19088,9 +19088,9 @@ var DistrictsData = {
                 "0%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,348.45",
-        "CostOfCharters": "12,653,940.30",
-        "CharterTransfers": "1,534",
+        "PerStudentCostOfCharters": "8410.813845937848",
+        "CostOfCharters": "12748468.719693335",
+        "CharterTransfers": "1,534.0",
         "Attendance": 39874.201,
         "LocalFunding": 269813709,
         "StateFunding": 68562847,
@@ -19127,9 +19127,9 @@ var DistrictsData = {
                 "0%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,129.84",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9189.518299090472",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1550.585,
         "LocalFunding": 13759192,
         "StateFunding": 770312,
@@ -19174,9 +19174,9 @@ var DistrictsData = {
                 "11%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,546.43",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11716.137304885367",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 584.787,
         "LocalFunding": 6626189,
         "StateFunding": 514031,
@@ -19204,9 +19204,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,084.72",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11261.316306277558",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 959.7360000000001,
         "LocalFunding": 3210902,
         "StateFunding": 7460728,
@@ -19243,9 +19243,9 @@ var DistrictsData = {
                 "24%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,395.90",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13519.430796284936",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 558.4830000000001,
         "LocalFunding": 1380948,
         "StateFunding": 6631000,
@@ -19282,9 +19282,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,015.33",
-        "CostOfCharters": "356,232.13",
-        "CharterTransfers": "32",
+        "PerStudentCostOfCharters": "12099.393471391715",
+        "CostOfCharters": "358724.5855877261",
+        "CharterTransfers": "32.0",
         "Attendance": 811.618,
         "LocalFunding": 3991239,
         "StateFunding": 5833826,
@@ -19312,9 +19312,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,482.19",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13546.743323366416",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 501.459,
         "LocalFunding": 827945,
         "StateFunding": 5980818,
@@ -19359,9 +19359,9 @@ var DistrictsData = {
                 "33%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,769.70",
-        "CostOfCharters": "568,969.34",
-        "CharterTransfers": "62",
+        "PerStudentCostOfCharters": "9835.58525617934",
+        "CostOfCharters": "572806.6599302316",
+        "CharterTransfers": "62.0",
         "Attendance": 2512.696,
         "LocalFunding": 12779571,
         "StateFunding": 12182886,
@@ -19393,9 +19393,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "9,005.68",
-        "CostOfCharters": "2,582,480.35",
-        "CharterTransfers": "304",
+        "PerStudentCostOfCharters": "9055.46537476104",
+        "CostOfCharters": "2596758.0014428776",
+        "CharterTransfers": "304.0",
         "Attendance": 4544.791,
         "LocalFunding": 22574882,
         "StateFunding": 19121822,
@@ -19436,9 +19436,9 @@ var DistrictsData = {
                 "98%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,999.13",
-        "CostOfCharters": "352,450.39",
-        "CharterTransfers": "37",
+        "PerStudentCostOfCharters": "10154.503891766299",
+        "CostOfCharters": "357926.9752847748",
+        "CharterTransfers": "37.0",
         "Attendance": 2470.225,
         "LocalFunding": 7997841,
         "StateFunding": 16958797,
@@ -19475,9 +19475,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,383.45",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12453.189833242317",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 688.153,
         "LocalFunding": 2891369,
         "StateFunding": 5715571,
@@ -19509,9 +19509,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,229.00",
-        "CostOfCharters": "359,116.61",
-        "CharterTransfers": "33",
+        "PerStudentCostOfCharters": "11282.41120395071",
+        "CostOfCharters": "360824.6124572903",
+        "CharterTransfers": "33.0",
         "Attendance": 991.416,
         "LocalFunding": 4457330,
         "StateFunding": 7025584,
@@ -19544,9 +19544,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,691.10",
-        "CostOfCharters": "273,370.32",
-        "CharterTransfers": "30",
+        "PerStudentCostOfCharters": "9792.195823117647",
+        "CostOfCharters": "276222.1741395578",
+        "CharterTransfers": "30.0",
         "Attendance": 4389.227,
         "LocalFunding": 13230499,
         "StateFunding": 30819160,
@@ -19579,9 +19579,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,743.40",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13869.520948509196",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 496.00699999999995,
         "LocalFunding": 2853895,
         "StateFunding": 4158017,
@@ -19614,9 +19614,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,079.39",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10181.582485316496",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2042.428,
         "LocalFunding": 10941410,
         "StateFunding": 12104491,
@@ -19649,9 +19649,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,122.85",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10321.520117456788",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1167.626,
         "LocalFunding": 4607366,
         "StateFunding": 7194677,
@@ -19684,9 +19684,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,564.84",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12628.644593975765",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 182.961,
         "LocalFunding": 2025687,
         "StateFunding": 791155,
@@ -19714,9 +19714,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,892.95",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13103.667722510618",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 529.75,
         "LocalFunding": 2640575,
         "StateFunding": 4359491,
@@ -19761,9 +19761,9 @@ var DistrictsData = {
                 "51%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,084.63",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9246.356281201877",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2308.619,
         "LocalFunding": 9719683,
         "StateFunding": 11203979,
@@ -19800,9 +19800,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,961.54",
-        "CostOfCharters": "164,939.97",
-        "CharterTransfers": "19",
+        "PerStudentCostOfCharters": "9051.882933516345",
+        "CostOfCharters": "166602.80073232058",
+        "CharterTransfers": "19.0",
         "Attendance": 2780.172,
         "LocalFunding": 10381056,
         "StateFunding": 15453200,
@@ -19834,9 +19834,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,324.18",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12382.706879234833",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 719.32,
         "LocalFunding": 3521943,
         "StateFunding": 5553179,
@@ -19869,9 +19869,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,147.84",
-        "CostOfCharters": "122,866.44",
-        "CharterTransfers": "10",
+        "PerStudentCostOfCharters": "13209.579355642707",
+        "CostOfCharters": "123443.41272115942",
+        "CharterTransfers": "10.0",
         "Attendance": 580.3240000000001,
         "LocalFunding": 1664605,
         "StateFunding": 7419532,
@@ -19904,9 +19904,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,302.05",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14363.453451948322",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 304.672,
         "LocalFunding": 525881,
         "StateFunding": 3888140,
@@ -19939,9 +19939,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,009.50",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12147.378770060173",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 790.8530000000001,
         "LocalFunding": 2581396,
         "StateFunding": 7328868,
@@ -19978,9 +19978,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,451.48",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13504.431226227613",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 380.759,
         "LocalFunding": 2057384,
         "StateFunding": 3152192,
@@ -20013,9 +20013,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,456.29",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13541.327362968892",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 574.706,
         "LocalFunding": 2530644,
         "StateFunding": 5334430,
@@ -20052,9 +20052,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,489.93",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14557.267159596287",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 222.237,
         "LocalFunding": 1112563,
         "StateFunding": 2116449,
@@ -20087,9 +20087,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,131.02",
-        "CostOfCharters": "122,769.94",
-        "CharterTransfers": "13",
+        "PerStudentCostOfCharters": "10184.666765749134",
+        "CostOfCharters": "123420.00249269251",
+        "CharterTransfers": "13.0",
         "Attendance": 1082.25,
         "LocalFunding": 4044991,
         "StateFunding": 7369962,
@@ -20122,9 +20122,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,884.72",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14238.929947825052",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 268.926,
         "LocalFunding": 1067604,
         "StateFunding": 2729630,
@@ -20152,9 +20152,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "10,764.70",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10857.20567186748",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1354.237,
         "LocalFunding": 7436042,
         "StateFunding": 7642675,
@@ -20187,9 +20187,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,000.12",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14150.707952787914",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 346.35200000000003,
         "LocalFunding": 2180661,
         "StateFunding": 2786107,
@@ -20222,9 +20222,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,247.37",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15371.591981018984",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 125.262,
         "LocalFunding": 692789,
         "StateFunding": 1301333,
@@ -20257,9 +20257,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,907.70",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13008.730340546834",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 388.124,
         "LocalFunding": 2054553,
         "StateFunding": 3107235,
@@ -20292,9 +20292,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,943.88",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13101.232086539414",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 477.156,
         "LocalFunding": 1893303,
         "StateFunding": 4478381,
@@ -20327,9 +20327,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,553.64",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15651.49648312982",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 141.75900000000001,
         "LocalFunding": 584512,
         "StateFunding": 1760510,
@@ -20362,9 +20362,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,756.82",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14805.661490904115",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 284.997,
         "LocalFunding": 579772,
         "StateFunding": 3693043,
@@ -20405,9 +20405,9 @@ var DistrictsData = {
                 "98%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,417.14",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13497.986099793297",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 372.029,
         "LocalFunding": 1125146,
         "StateFunding": 4064636,
@@ -20440,9 +20440,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,022.73",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15195.360860064995",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 190.78,
         "LocalFunding": 1056780,
         "StateFunding": 1905161,
@@ -20475,9 +20475,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,745.85",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10816.98266487441",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1718.9489999999998,
         "LocalFunding": 7975987,
         "StateFunding": 11569407,
@@ -20514,9 +20514,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "17,940.33",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "18134.99490433251",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 246.43900000000002,
         "LocalFunding": 3430577,
         "StateFunding": 1406728,
@@ -20553,9 +20553,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,154.55",
-        "CostOfCharters": "656,058.45",
-        "CharterTransfers": "52",
+        "PerStudentCostOfCharters": "14301.245743054962",
+        "CostOfCharters": "662857.5397376",
+        "CharterTransfers": "52.0",
         "Attendance": 254.923,
         "LocalFunding": 3518649,
         "StateFunding": 226797,
@@ -20631,9 +20631,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,347.31",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13432.89238081776",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 530.595,
         "LocalFunding": 4697450,
         "StateFunding": 2784973,
@@ -20666,9 +20666,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "28,025.06",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "28025.05857186513",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 19.634,
         "LocalFunding": 574774,
         "StateFunding": 15159,
@@ -20701,9 +20701,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,951.43",
-        "CostOfCharters": "223,568.54",
-        "CharterTransfers": "27",
+        "PerStudentCostOfCharters": "9021.545873023117",
+        "CostOfCharters": "225319.62950536545",
+        "CharterTransfers": "27.0",
         "Attendance": 4422.553,
         "LocalFunding": 28645650,
         "StateFunding": 11985398,
@@ -20744,9 +20744,9 @@ var DistrictsData = {
                 "9%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,633.62",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11777.696727431903",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 531.826,
         "LocalFunding": 4943327,
         "StateFunding": 1449531,
@@ -20787,9 +20787,9 @@ var DistrictsData = {
                 "0%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,971.29",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10053.168866455902",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2827.186,
         "LocalFunding": 25691509,
         "StateFunding": 4237504,
@@ -20822,9 +20822,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,282.78",
-        "CostOfCharters": "1,191,978.56",
-        "CharterTransfers": "111",
+        "PerStudentCostOfCharters": "11340.544713391886",
+        "CostOfCharters": "1198081.0462889117",
+        "CharterTransfers": "111.0",
         "Attendance": 1048.844,
         "LocalFunding": 6026325,
         "StateFunding": 6189218,
@@ -20857,9 +20857,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,739.79",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12859.836729443348",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 171.34599999999998,
         "LocalFunding": 2313101,
         "StateFunding": 109769,
@@ -20900,9 +20900,9 @@ var DistrictsData = {
                 "79%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,748.16",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11865.696824595616",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 986.192,
         "LocalFunding": 9005426,
         "StateFunding": 2780228,
@@ -20935,9 +20935,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,614.42",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12706.70939926441",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 499.463,
         "LocalFunding": 3585664,
         "StateFunding": 2988959,
@@ -20965,9 +20965,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,191.30",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13269.39722894775",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 544.443,
         "LocalFunding": 1429007,
         "StateFunding": 5807693,
@@ -21000,9 +21000,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,369.83",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13417.207416688188",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 549.826,
         "LocalFunding": 1043449,
         "StateFunding": 6369029,
@@ -21035,9 +21035,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "21,276.39",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "21562.54484686222",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 90.0,
         "LocalFunding": 413465,
         "StateFunding": 1012110,
@@ -21070,9 +21070,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,739.34",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14776.249220337311",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 162.28300000000002,
         "LocalFunding": 704723,
         "StateFunding": 1715100,
@@ -21104,9 +21104,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,622.13",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12726.565550111445",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 444.158,
         "LocalFunding": 1212696,
         "StateFunding": 4500549,
@@ -21143,9 +21143,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,138.55",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12180.543052035282",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 759.846,
         "LocalFunding": 5470486,
         "StateFunding": 3910121,
@@ -21177,9 +21177,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "15,028.01",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15035.59348702466",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 260.07800000000003,
         "LocalFunding": 1057833,
         "StateFunding": 2948964,
@@ -21207,9 +21207,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,711.51",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11782.937674458743",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 519.16,
         "LocalFunding": 1302474,
         "StateFunding": 4833293,
@@ -21237,9 +21237,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "9,625.97",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9719.43397814965",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1546.41,
         "LocalFunding": 4001934,
         "StateFunding": 11385764,
@@ -21267,9 +21267,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,328.02",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12407.411684855915",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 704.658,
         "LocalFunding": 4189629,
         "StateFunding": 4680309,
@@ -21310,9 +21310,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,764.40",
-        "CostOfCharters": "674,361.75",
-        "CharterTransfers": "81",
+        "PerStudentCostOfCharters": "8814.53669614577",
+        "CostOfCharters": "678219.4282215892",
+        "CharterTransfers": "81.0",
         "Attendance": 9834.492,
         "LocalFunding": 45137539,
         "StateFunding": 43100620,
@@ -21344,9 +21344,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "9,381.09",
-        "CostOfCharters": "10,572,304.54",
-        "CharterTransfers": "1,235",
+        "PerStudentCostOfCharters": "9439.305851499845",
+        "CostOfCharters": "10637912.54135886",
+        "CharterTransfers": "1,235.0",
         "Attendance": 24137.455999999995,
         "LocalFunding": 114437415,
         "StateFunding": 130190209,
@@ -21379,9 +21379,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,474.40",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11509.360836692298",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 904.495,
         "LocalFunding": 3284217,
         "StateFunding": 7363588,
@@ -21413,9 +21413,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "15,699.15",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15769.36820473866",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 134.173,
         "LocalFunding": 2153255,
         "StateFunding": 1337978,
@@ -21447,9 +21447,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,504.64",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11680.419257456406",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 942.572,
         "LocalFunding": 2775415,
         "StateFunding": 8690583,
@@ -21481,9 +21481,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "14,128.62",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14232.919768004103",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 194.9,
         "LocalFunding": 1818209,
         "StateFunding": 928010,
@@ -21515,9 +21515,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "8,444.09",
-        "CostOfCharters": "162,338.44",
-        "CharterTransfers": "20",
+        "PerStudentCostOfCharters": "8489.902448510242",
+        "CostOfCharters": "163219.26353639356",
+        "CharterTransfers": "20.0",
         "Attendance": 6839.331,
         "LocalFunding": 34889825,
         "StateFunding": 25239254,
@@ -21550,9 +21550,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,656.18",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11738.75474250116",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1286.739,
         "LocalFunding": 5416447,
         "StateFunding": 10748518,
@@ -21585,9 +21585,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,546.09",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15870.876942722887",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 189.615,
         "LocalFunding": 1631306,
         "StateFunding": 1367530,
@@ -21628,9 +21628,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,744.58",
-        "CostOfCharters": "21,140,415.00",
-        "CharterTransfers": "2,174",
+        "PerStudentCostOfCharters": "10761.252095590937",
+        "CostOfCharters": "21173211.99135381",
+        "CharterTransfers": "2,174.0",
         "Attendance": 13615.316,
         "LocalFunding": 24940535,
         "StateFunding": 124411785,
@@ -21675,9 +21675,9 @@ var DistrictsData = {
                 "9%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,408.30",
-        "CostOfCharters": "32,560,822.28",
-        "CharterTransfers": "3,392",
+        "PerStudentCostOfCharters": "10427.133777582485",
+        "CostOfCharters": "32619748.112849254",
+        "CharterTransfers": "3,392.0",
         "Attendance": 19922.956,
         "LocalFunding": 82428876,
         "StateFunding": 130142563,
@@ -21718,9 +21718,9 @@ var DistrictsData = {
                 "0%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,206.94",
-        "CostOfCharters": "4,022,737.63",
-        "CharterTransfers": "387",
+        "PerStudentCostOfCharters": "11243.41453447709",
+        "CostOfCharters": "4035829.8838170846",
+        "CharterTransfers": "387.0",
         "Attendance": 3832.5160000000005,
         "LocalFunding": 7631838,
         "StateFunding": 35828343,
@@ -21765,9 +21765,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,827.09",
-        "CostOfCharters": "10,907,123.59",
-        "CharterTransfers": "1,148",
+        "PerStudentCostOfCharters": "9856.512378388998",
+        "CostOfCharters": "10939781.695213832",
+        "CharterTransfers": "1,148.0",
         "Attendance": 9440.951000000001,
         "LocalFunding": 37196406,
         "StateFunding": 57651934,
@@ -21816,9 +21816,9 @@ var DistrictsData = {
                 "92%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,002.11",
-        "CostOfCharters": "58,360,807.88",
-        "CharterTransfers": "5,825",
+        "PerStudentCostOfCharters": "11007.608221421091",
+        "CostOfCharters": "58389995.91664561",
+        "CharterTransfers": "5,825.0",
         "Attendance": 28443.115,
         "LocalFunding": 55400591,
         "StateFunding": 264549180,
@@ -21859,9 +21859,9 @@ var DistrictsData = {
                 "51%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,226.88",
-        "CostOfCharters": "2,605,008.52",
-        "CharterTransfers": "249",
+        "PerStudentCostOfCharters": "11241.685395122237",
+        "CostOfCharters": "2608444.9065224584",
+        "CharterTransfers": "249.0",
         "Attendance": 2791.8540000000003,
         "LocalFunding": 6109130,
         "StateFunding": 27091942,
@@ -21906,9 +21906,9 @@ var DistrictsData = {
                 "14%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,378.37",
-        "CostOfCharters": "49,461,956.58",
-        "CharterTransfers": "5,143",
+        "PerStudentCostOfCharters": "10412.228670133141",
+        "CostOfCharters": "49623311.16720851",
+        "CharterTransfers": "5,143.0",
         "Attendance": 30392.025,
         "LocalFunding": 79137616,
         "StateFunding": 255571724,
@@ -21945,9 +21945,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,398.19",
-        "CostOfCharters": "6,970,395.06",
-        "CharterTransfers": "700",
+        "PerStudentCostOfCharters": "11414.392749085682",
+        "CostOfCharters": "6980304.115761446",
+        "CharterTransfers": "700.0",
         "Attendance": 3964.4960000000005,
         "LocalFunding": 4206840,
         "StateFunding": 42250482,
@@ -21980,9 +21980,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,398.02",
-        "CostOfCharters": "1,939,062.23",
-        "CharterTransfers": "193",
+        "PerStudentCostOfCharters": "11398.017370730991",
+        "CostOfCharters": "1939062.2250876324",
+        "CharterTransfers": "193.0",
         "Attendance": 1351.286,
         "LocalFunding": 1817329,
         "StateFunding": 14123608,
@@ -22023,9 +22023,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,204.63",
-        "CostOfCharters": "24,318,603.23",
-        "CharterTransfers": "2,613",
+        "PerStudentCostOfCharters": "10220.055291481693",
+        "CostOfCharters": "24355370.193440553",
+        "CharterTransfers": "2,613.0",
         "Attendance": 15113.004,
         "LocalFunding": 26534476,
         "StateFunding": 134877890,
@@ -22062,9 +22062,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,889.29",
-        "CostOfCharters": "40,320,370.90",
-        "CharterTransfers": "4,023",
+        "PerStudentCostOfCharters": "10918.575905510474",
+        "CostOfCharters": "40428794.712102026",
+        "CharterTransfers": "4,023.0",
         "Attendance": 12750.247,
         "LocalFunding": 17623780,
         "StateFunding": 132079878,
@@ -22097,9 +22097,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,914.97",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11950.454553487245",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1906.045,
         "LocalFunding": 8023724,
         "StateFunding": 15914810,
@@ -22140,9 +22140,9 @@ var DistrictsData = {
                 "87%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,909.44",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15043.832873743733",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 161.988,
         "LocalFunding": 408644,
         "StateFunding": 2235073,
@@ -22183,9 +22183,9 @@ var DistrictsData = {
                 "92%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,549.51",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13638.282483481114",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 714.0010000000001,
         "LocalFunding": 1761553,
         "StateFunding": 8052151,
@@ -22222,9 +22222,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,880.91",
-        "CostOfCharters": "659,223.09",
-        "CharterTransfers": "68",
+        "PerStudentCostOfCharters": "10940.965312277805",
+        "CostOfCharters": "662861.6311535067",
+        "CharterTransfers": "68.0",
         "Attendance": 2734.357,
         "LocalFunding": 10862097,
         "StateFunding": 19851922,
@@ -22261,9 +22261,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,090.87",
-        "CostOfCharters": "832,855.11",
-        "CharterTransfers": "83",
+        "PerStudentCostOfCharters": "11168.474458714718",
+        "CostOfCharters": "838682.4738988734",
+        "CharterTransfers": "83.0",
         "Attendance": 2118.91,
         "LocalFunding": 8660802,
         "StateFunding": 15136462,
@@ -22296,9 +22296,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,544.00",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14651.667326040908",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 184.118,
         "LocalFunding": 388511,
         "StateFunding": 2371500,
@@ -22331,9 +22331,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,638.49",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12741.766072396693",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 258.498,
         "LocalFunding": 1057494,
         "StateFunding": 2345211,
@@ -22366,9 +22366,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,110.59",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13191.84363105965",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 211.68300000000002,
         "LocalFunding": 640067,
         "StateFunding": 2203861,
@@ -22401,9 +22401,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,712.15",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11738.490494354352",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 658.2589999999999,
         "LocalFunding": 1763270,
         "StateFunding": 6480562,
@@ -22435,9 +22435,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,965.38",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13135.434233482032",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 609.957,
         "LocalFunding": 2629998,
         "StateFunding": 5970749,
@@ -22470,9 +22470,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,632.75",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14820.47888701513",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 417.81699999999995,
         "LocalFunding": 2552682,
         "StateFunding": 3934803,
@@ -22529,9 +22529,9 @@ var DistrictsData = {
                 "1%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,127.92",
-        "CostOfCharters": "37,487,026.61",
-        "CharterTransfers": "3,999",
+        "PerStudentCostOfCharters": "10158.767195027931",
+        "CostOfCharters": "37601190.82562736",
+        "CharterTransfers": "3,999.0",
         "Attendance": 30249.473,
         "LocalFunding": 157112022,
         "StateFunding": 154619846,
@@ -22628,9 +22628,9 @@ var DistrictsData = {
                 "58%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,025.06",
-        "CostOfCharters": "348,893,340.68",
-        "CharterTransfers": "35,660",
+        "PerStudentCostOfCharters": "11074.678768603402",
+        "CostOfCharters": "350463483.5615741",
+        "CharterTransfers": "35,660.0",
         "Attendance": 128776.5,
         "LocalFunding": 1325366830,
         "StateFunding": 143352797,
@@ -22663,9 +22663,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,664.99",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11686.610300375602",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 686.9,
         "LocalFunding": 1410788,
         "StateFunding": 7441120,
@@ -22698,9 +22698,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,289.35",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10475.665343679679",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1098.9,
         "LocalFunding": 8232619,
         "StateFunding": 3657781,
@@ -22737,9 +22737,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,093.45",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11689.936810500241",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 937.807,
         "LocalFunding": 4637676,
         "StateFunding": 6513368,
@@ -22788,9 +22788,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,730.14",
-        "CostOfCharters": "195,503.93",
-        "CharterTransfers": "21",
+        "PerStudentCostOfCharters": "9821.825923042352",
+        "CostOfCharters": "197346.20125504822",
+        "CharterTransfers": "21.0",
         "Attendance": 2834.0160000000005,
         "LocalFunding": 17686280,
         "StateFunding": 11134037,
@@ -22835,9 +22835,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,919.81",
-        "CostOfCharters": "2,294,539.63",
-        "CharterTransfers": "267",
+        "PerStudentCostOfCharters": "8953.075556241285",
+        "CostOfCharters": "2303096.615672272",
+        "CharterTransfers": "267.0",
         "Attendance": 20826.873,
         "LocalFunding": 156917155,
         "StateFunding": 32485065,
@@ -22870,9 +22870,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,138.63",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13339.138243278052",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 151.407,
         "LocalFunding": 1868054,
         "StateFunding": 184205,
@@ -22909,9 +22909,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,551.08",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12691.296834628114",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 698.831,
         "LocalFunding": 4494991,
         "StateFunding": 4677029,
@@ -22944,9 +22944,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,765.50",
-        "CostOfCharters": "6,782,541.95",
-        "CharterTransfers": "785",
+        "PerStudentCostOfCharters": "8808.389819403305",
+        "CostOfCharters": "6815728.407290739",
+        "CharterTransfers": "785.0",
         "Attendance": 12865.396,
         "LocalFunding": 104667466,
         "StateFunding": 10789354,
@@ -22999,9 +22999,9 @@ var DistrictsData = {
                 "68%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,971.44",
-        "CostOfCharters": "36,631,188.60",
-        "CharterTransfers": "3,597",
+        "PerStudentCostOfCharters": "11011.081945040376",
+        "CostOfCharters": "36763547.00368389",
+        "CharterTransfers": "3,597.0",
         "Attendance": 23073.482999999997,
         "LocalFunding": 218887345,
         "StateFunding": 41827701,
@@ -23042,9 +23042,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,119.05",
-        "CostOfCharters": "10,893,158.63",
-        "CharterTransfers": "1,243",
+        "PerStudentCostOfCharters": "9165.040243016312",
+        "CostOfCharters": "10948091.002389105",
+        "CharterTransfers": "1,243.0",
         "Attendance": 48199.049000000006,
         "LocalFunding": 420996097,
         "StateFunding": 44075416,
@@ -23085,9 +23085,9 @@ var DistrictsData = {
                 "11%"
             ]
         ],
-        "PerStudentCostOfCharters": "7,433.63",
-        "CostOfCharters": "1,090,198.66",
-        "CharterTransfers": "151",
+        "PerStudentCostOfCharters": "7433.631885340836",
+        "CostOfCharters": "1090198.6648125094",
+        "CharterTransfers": "151.0",
         "Attendance": 8084.622,
         "LocalFunding": 62247454,
         "StateFunding": 12663160,
@@ -23140,9 +23140,9 @@ var DistrictsData = {
                 "0%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,346.56",
-        "CostOfCharters": "778,562.52",
-        "CharterTransfers": "99",
+        "PerStudentCostOfCharters": "8379.27038026399",
+        "CostOfCharters": "781613.598530265",
+        "CharterTransfers": "99.0",
         "Attendance": 13129.787,
         "LocalFunding": 101676490,
         "StateFunding": 12700884,
@@ -23183,9 +23183,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,853.00",
-        "CostOfCharters": "3,047,319.50",
-        "CharterTransfers": "327",
+        "PerStudentCostOfCharters": "9876.154723367712",
+        "CostOfCharters": "3054482.0749601447",
+        "CharterTransfers": "327.0",
         "Attendance": 3661.2140000000004,
         "LocalFunding": 23275660,
         "StateFunding": 12794468,
@@ -23222,9 +23222,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,310.45",
-        "CostOfCharters": "596,785.21",
-        "CharterTransfers": "64",
+        "PerStudentCostOfCharters": "9377.020763635808",
+        "CostOfCharters": "601052.5317770288",
+        "CharterTransfers": "64.0",
         "Attendance": 3800.8380000000006,
         "LocalFunding": 25770880,
         "StateFunding": 10832075,
@@ -23265,9 +23265,9 @@ var DistrictsData = {
                 "22%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,648.70",
-        "CostOfCharters": "364,057.30",
-        "CharterTransfers": "39",
+        "PerStudentCostOfCharters": "9727.876880411417",
+        "CostOfCharters": "367044.9177517507",
+        "CharterTransfers": "39.0",
         "Attendance": 2557.985,
         "LocalFunding": 13244083,
         "StateFunding": 12152923,
@@ -23304,9 +23304,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,494.69",
-        "CostOfCharters": "4,984,123.39",
-        "CharterTransfers": "549",
+        "PerStudentCostOfCharters": "9576.518996362063",
+        "CostOfCharters": "5027079.860425037",
+        "CharterTransfers": "549.0",
         "Attendance": 7752.638000000001,
         "LocalFunding": 56166337,
         "StateFunding": 21759892,
@@ -23355,9 +23355,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,820.46",
-        "CostOfCharters": "28,432,133.44",
-        "CharterTransfers": "3,396",
+        "PerStudentCostOfCharters": "8874.407859888363",
+        "CostOfCharters": "28606037.451414406",
+        "CharterTransfers": "3,396.0",
         "Attendance": 46852.695999999996,
         "LocalFunding": 374800774,
         "StateFunding": 46804225,
@@ -23398,9 +23398,9 @@ var DistrictsData = {
                 "27%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,856.28",
-        "CostOfCharters": "1,811,937.57",
-        "CharterTransfers": "205",
+        "PerStudentCostOfCharters": "8907.728971025663",
+        "CostOfCharters": "1822463.185186752",
+        "CharterTransfers": "205.0",
         "Attendance": 19100.048000000003,
         "LocalFunding": 109787749,
         "StateFunding": 68841894,
@@ -23453,9 +23453,9 @@ var DistrictsData = {
                 "33%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,775.74",
-        "CostOfCharters": "16,649,315.43",
-        "CharterTransfers": "1,951",
+        "PerStudentCostOfCharters": "8802.16158134254",
+        "CostOfCharters": "16699443.835091382",
+        "CharterTransfers": "1,951.0",
         "Attendance": 61742.079,
         "LocalFunding": 450968616,
         "StateFunding": 108749020,
@@ -23492,9 +23492,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,257.43",
-        "CostOfCharters": "510,532.35",
-        "CharterTransfers": "53",
+        "PerStudentCostOfCharters": "10403.024816949172",
+        "CostOfCharters": "517778.84500853944",
+        "CharterTransfers": "53.0",
         "Attendance": 2412.531,
         "LocalFunding": 13180733,
         "StateFunding": 12568172,
@@ -23535,9 +23535,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,499.92",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12627.98438436812",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 310.161,
         "LocalFunding": 2581012,
         "StateFunding": 1327738,
@@ -23565,9 +23565,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,904.21",
-        "CostOfCharters": "1,208,571.74",
-        "CharterTransfers": "108",
+        "PerStudentCostOfCharters": "12197.474572159459",
+        "CostOfCharters": "1238345.6047540007",
+        "CharterTransfers": "108.0",
         "Attendance": 832.8790000000001,
         "LocalFunding": 3515793,
         "StateFunding": 8114687,
@@ -23604,9 +23604,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,740.32",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11856.148313167878",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 460.788,
         "LocalFunding": 1956721,
         "StateFunding": 3743281,
@@ -23642,9 +23642,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,152.41",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11270.492601860617",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1251.305,
         "LocalFunding": 9534749,
         "StateFunding": 4662773,
@@ -23681,9 +23681,9 @@ var DistrictsData = {
                 "93%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,188.96",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9247.367155311676",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1544.475,
         "LocalFunding": 7010867,
         "StateFunding": 6836897,
@@ -23716,9 +23716,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,311.29",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9403.138887949866",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 3274.038,
         "LocalFunding": 24007785,
         "StateFunding": 7778856,
@@ -23763,9 +23763,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,194.31",
-        "CostOfCharters": "163,473.62",
-        "CharterTransfers": "17",
+        "PerStudentCostOfCharters": "10255.438158173773",
+        "CostOfCharters": "164453.887726119",
+        "CharterTransfers": "17.0",
         "Attendance": 1981.833,
         "LocalFunding": 10074666,
         "StateFunding": 10415961,
@@ -23810,9 +23810,9 @@ var DistrictsData = {
                 "50%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,424.12",
-        "CostOfCharters": "13,137,442.74",
-        "CharterTransfers": "1,453",
+        "PerStudentCostOfCharters": "9485.348606570902",
+        "CostOfCharters": "13222801.818668224",
+        "CharterTransfers": "1,453.0",
         "Attendance": 29038.485,
         "LocalFunding": 196237460,
         "StateFunding": 85585232,
@@ -23849,9 +23849,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,994.04",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "16273.190577708545",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 143.804,
         "LocalFunding": 1276656,
         "StateFunding": 952552,
@@ -23879,9 +23879,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,152.56",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13437.281628936054",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 247.22099999999998,
         "LocalFunding": 1038208,
         "StateFunding": 2426022,
@@ -23918,9 +23918,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,503.46",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11605.556011327433",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 904.0,
         "LocalFunding": 3838421,
         "StateFunding": 6815237,
@@ -23952,9 +23952,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "17,252.44",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "17760.917654285673",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 135.078,
         "LocalFunding": 1360685,
         "StateFunding": 1044512,
@@ -23982,9 +23982,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,292.30",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13435.495579813969",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 251.679,
         "LocalFunding": 1904807,
         "StateFunding": 1467027,
@@ -24021,9 +24021,9 @@ var DistrictsData = {
                 "1%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,399.34",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12514.458082441586",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 658.9150000000002,
         "LocalFunding": 4798427,
         "StateFunding": 3726388,
@@ -24060,9 +24060,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,755.14",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15943.720964282578",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 218.78400000000002,
         "LocalFunding": 1970953,
         "StateFunding": 1710158,
@@ -24090,9 +24090,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,730.15",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13884.414015517168",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 186.632,
         "LocalFunding": 954176,
         "StateFunding": 1657584,
@@ -24125,9 +24125,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "21,116.03",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "21254.499893344717",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 93.7,
         "LocalFunding": 809718,
         "StateFunding": 1226386,
@@ -24155,9 +24155,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "18,769.03",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "18915.204522110755",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 105.763,
         "LocalFunding": 1001488,
         "StateFunding": 1108697,
@@ -24185,9 +24185,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "16,650.34",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "16907.626759492283",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 219.02,
         "LocalFunding": 1042427,
         "StateFunding": 2726339,
@@ -24224,9 +24224,9 @@ var DistrictsData = {
                 "49%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,313.30",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9399.294024252677",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1782.7640000000001,
         "LocalFunding": 11215449,
         "StateFunding": 5821112,
@@ -24267,9 +24267,9 @@ var DistrictsData = {
                 "19%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,572.75",
-        "CostOfCharters": "144,006.96",
-        "CharterTransfers": "12",
+        "PerStudentCostOfCharters": "12720.312694315284",
+        "CostOfCharters": "145697.17824569735",
+        "CharterTransfers": "12.0",
         "Attendance": 964.9910000000001,
         "LocalFunding": 10532280,
         "StateFunding": 1904947,
@@ -24306,9 +24306,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,800.46",
-        "CostOfCharters": "1,211,105.06",
-        "CharterTransfers": "143",
+        "PerStudentCostOfCharters": "8864.818090265615",
+        "CostOfCharters": "1219962.186165387",
+        "CharterTransfers": "143.0",
         "Attendance": 8932.686,
         "LocalFunding": 57172306,
         "StateFunding": 22424832,
@@ -24345,9 +24345,9 @@ var DistrictsData = {
                 "14%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,261.35",
-        "CostOfCharters": "1,571,036.22",
-        "CharterTransfers": "185",
+        "PerStudentCostOfCharters": "9406.389785425741",
+        "CostOfCharters": "1595640.5511928245",
+        "CharterTransfers": "185.0",
         "Attendance": 6325.960999999999,
         "LocalFunding": 35779535,
         "StateFunding": 25664399,
@@ -24384,9 +24384,9 @@ var DistrictsData = {
                 "81%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,118.41",
-        "CostOfCharters": "195,384.26",
-        "CharterTransfers": "19",
+        "PerStudentCostOfCharters": "11216.34351281038",
+        "CostOfCharters": "197105.25078410786",
+        "CharterTransfers": "19.0",
         "Attendance": 1371.622,
         "LocalFunding": 7838814,
         "StateFunding": 7723762,
@@ -24419,9 +24419,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,232.84",
-        "CostOfCharters": "862,971.14",
-        "CharterTransfers": "84",
+        "PerStudentCostOfCharters": "11271.18562689307",
+        "CostOfCharters": "865916.723143473",
+        "CharterTransfers": "84.0",
         "Attendance": 2918.462,
         "LocalFunding": 2687737,
         "StateFunding": 31363949,
@@ -24458,9 +24458,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,194.71",
-        "CostOfCharters": "8,577,812.70",
-        "CharterTransfers": "871",
+        "PerStudentCostOfCharters": "10225.06747232818",
+        "CostOfCharters": "8603358.080577495",
+        "CharterTransfers": "871.0",
         "Attendance": 10300.613,
         "LocalFunding": 16310370,
         "StateFunding": 90415183,
@@ -24493,9 +24493,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,907.50",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10972.89904008671",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 3352.757,
         "LocalFunding": 10115880,
         "StateFunding": 26798455,
@@ -24536,9 +24536,9 @@ var DistrictsData = {
                 "0%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,449.02",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9615.517956239046",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2148.71,
         "LocalFunding": 13358090,
         "StateFunding": 7776782,
@@ -24575,9 +24575,9 @@ var DistrictsData = {
                 "95%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,937.41",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14107.802320405797",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 200.29600000000002,
         "LocalFunding": 1191702,
         "StateFunding": 1673114,
@@ -24610,9 +24610,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,628.40",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10770.612872501266",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 957.975,
         "LocalFunding": 3257415,
         "StateFunding": 7480746,
@@ -24653,9 +24653,9 @@ var DistrictsData = {
                 "2%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,965.14",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11101.61281466139",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 992.648,
         "LocalFunding": 10357108,
         "StateFunding": 1384650,
@@ -24696,9 +24696,9 @@ var DistrictsData = {
                 "99%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,548.01",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12666.648673790334",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 555.4440000000001,
         "LocalFunding": 2242593,
         "StateFunding": 5195798,
@@ -24731,9 +24731,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,022.57",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12100.274079960825",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1016.993,
         "LocalFunding": 3190807,
         "StateFunding": 9246431,
@@ -24766,9 +24766,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,692.73",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13738.530025867018",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 388.17,
         "LocalFunding": 564275,
         "StateFunding": 5017339,
@@ -24801,9 +24801,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,183.80",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12247.597484896813",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 891.388,
         "LocalFunding": 3053353,
         "StateFunding": 8367232,
@@ -24840,9 +24840,9 @@ var DistrictsData = {
                 "57%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,139.29",
-        "CostOfCharters": "1,747,193.81",
-        "CharterTransfers": "198",
+        "PerStudentCostOfCharters": "9203.083891824976",
+        "CostOfCharters": "1759390.3115040052",
+        "CharterTransfers": "198.0",
         "Attendance": 16879.311999999998,
         "LocalFunding": 77251476,
         "StateFunding": 81513545,
@@ -24875,9 +24875,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,136.30",
-        "CostOfCharters": "143,007.71",
-        "CharterTransfers": "13",
+        "PerStudentCostOfCharters": "12187.496948272174",
+        "CostOfCharters": "143610.97539648082",
+        "CharterTransfers": "13.0",
         "Attendance": 713.3530000000001,
         "LocalFunding": 1931944,
         "StateFunding": 6907761,
@@ -24922,9 +24922,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,469.22",
-        "CostOfCharters": "32,009,189.43",
-        "CharterTransfers": "3,339",
+        "PerStudentCostOfCharters": "10493.58149640949",
+        "CostOfCharters": "32083661.105263043",
+        "CharterTransfers": "3,339.0",
         "Attendance": 46389.268,
         "LocalFunding": 182837972,
         "StateFunding": 309220974,
@@ -24957,9 +24957,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,096.26",
-        "CostOfCharters": "4,096,458.72",
-        "CharterTransfers": "427",
+        "PerStudentCostOfCharters": "10129.130174431773",
+        "CostOfCharters": "4109794.7002552054",
+        "CharterTransfers": "427.0",
         "Attendance": 5734.524,
         "LocalFunding": 26950431,
         "StateFunding": 31297456,
@@ -25008,9 +25008,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,381.98",
-        "CostOfCharters": "17,102,318.59",
-        "CharterTransfers": "1,754",
+        "PerStudentCostOfCharters": "10406.626198597924",
+        "CostOfCharters": "17142917.682395883",
+        "CharterTransfers": "1,754.0",
         "Attendance": 36054.818,
         "LocalFunding": 76020056,
         "StateFunding": 305457900,
@@ -25051,9 +25051,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,211.23",
-        "CostOfCharters": "29,280,343.16",
-        "CharterTransfers": "3,406",
+        "PerStudentCostOfCharters": "9218.937774759608",
+        "CostOfCharters": "29304846.66130477",
+        "CharterTransfers": "3,406.0",
         "Attendance": 43921.289,
         "LocalFunding": 108525920,
         "StateFunding": 301133226,
@@ -25086,9 +25086,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,802.31",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13861.445298341432",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 376.59,
         "LocalFunding": 4061405,
         "StateFunding": 2372019,
@@ -25125,9 +25125,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,121.08",
-        "CostOfCharters": "363,467.32",
-        "CharterTransfers": "42",
+        "PerStudentCostOfCharters": "10243.486445212005",
+        "CostOfCharters": "367863.08802321885",
+        "CharterTransfers": "42.0",
         "Attendance": 3548.438,
         "LocalFunding": 13282335,
         "StateFunding": 24908722,
@@ -25164,9 +25164,9 @@ var DistrictsData = {
                 "48%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,456.61",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12823.552542205864",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 192.895,
         "LocalFunding": 2138552,
         "StateFunding": 471488,
@@ -25199,9 +25199,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,444.16",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15699.945860609252",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 233.63099999999997,
         "LocalFunding": 2766060,
         "StateFunding": 1327674,
@@ -25234,9 +25234,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,131.68",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10224.755953230726",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1157.17,
         "LocalFunding": 7000160,
         "StateFunding": 5533453,
@@ -25269,9 +25269,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,290.71",
-        "CostOfCharters": "106,321.91",
-        "CharterTransfers": "11",
+        "PerStudentCostOfCharters": "10389.747174683718",
+        "CostOfCharters": "107345.09934122798",
+        "CharterTransfers": "11.0",
         "Attendance": 3399.172,
         "LocalFunding": 16186598,
         "StateFunding": 19564306,
@@ -25304,9 +25304,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,893.35",
-        "CostOfCharters": "1,031,579.14",
-        "CharterTransfers": "114",
+        "PerStudentCostOfCharters": "9994.994017188337",
+        "CostOfCharters": "1042177.2364381544",
+        "CharterTransfers": "114.0",
         "Attendance": 7339.139,
         "LocalFunding": 54479685,
         "StateFunding": 20582529,
@@ -25359,9 +25359,9 @@ var DistrictsData = {
                 "1%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,130.47",
-        "CostOfCharters": "13,384,697.20",
-        "CharterTransfers": "1,535",
+        "PerStudentCostOfCharters": "9183.885817690565",
+        "CostOfCharters": "13462995.439412883",
+        "CharterTransfers": "1,535.0",
         "Attendance": 32774.907,
         "LocalFunding": 212968931,
         "StateFunding": 93677159,
@@ -25418,9 +25418,9 @@ var DistrictsData = {
                 "8%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,367.09",
-        "CostOfCharters": "5,950,143.94",
-        "CharterTransfers": "734",
+        "PerStudentCostOfCharters": "8477.808347280386",
+        "CostOfCharters": "6028879.617901882",
+        "CharterTransfers": "734.0",
         "Attendance": 24592.343000000004,
         "LocalFunding": 190112071,
         "StateFunding": 28860722,
@@ -25461,9 +25461,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,123.27",
-        "CostOfCharters": "632,592.70",
-        "CharterTransfers": "63",
+        "PerStudentCostOfCharters": "11273.442301980815",
+        "CostOfCharters": "641132.9716996489",
+        "CharterTransfers": "63.0",
         "Attendance": 3629.82,
         "LocalFunding": 6379809,
         "StateFunding": 35863758,
@@ -25496,9 +25496,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,980.26",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12087.235071898618",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 303.01,
         "LocalFunding": 2045901,
         "StateFunding": 2133288,
@@ -25539,9 +25539,9 @@ var DistrictsData = {
                 "0%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,135.16",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14267.949486115094",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 388.92600000000004,
         "LocalFunding": 3599130,
         "StateFunding": 2455218,
@@ -25578,9 +25578,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,457.45",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9576.521298289319",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1661.385,
         "LocalFunding": 7695592,
         "StateFunding": 9121838,
@@ -25645,9 +25645,9 @@ var DistrictsData = {
                 "56%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,676.63",
-        "CostOfCharters": "92,235,892.60",
-        "CharterTransfers": "11,343",
+        "PerStudentCostOfCharters": "8729.963662151606",
+        "CostOfCharters": "92802833.44489032",
+        "CharterTransfers": "11,343.0",
         "Attendance": 96670.577,
         "LocalFunding": 577684110,
         "StateFunding": 260766668,
@@ -25692,9 +25692,9 @@ var DistrictsData = {
                 "19%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,571.84",
-        "CostOfCharters": "15,846,500.51",
-        "CharterTransfers": "1,645",
+        "PerStudentCostOfCharters": "10663.488133910187",
+        "CostOfCharters": "15983879.622204944",
+        "CharterTransfers": "1,645.0",
         "Attendance": 12277.602000000003,
         "LocalFunding": 40329802,
         "StateFunding": 94854111,
@@ -25727,9 +25727,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,137.90",
-        "CostOfCharters": "141,085.77",
-        "CharterTransfers": "15",
+        "PerStudentCostOfCharters": "10317.41702838238",
+        "CostOfCharters": "143584.11566733275",
+        "CharterTransfers": "15.0",
         "Attendance": 2057.812,
         "LocalFunding": 16425229,
         "StateFunding": 3698091,
@@ -25770,9 +25770,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,220.59",
-        "CostOfCharters": "1,014,866.22",
-        "CharterTransfers": "128",
+        "PerStudentCostOfCharters": "8325.270093663681",
+        "CostOfCharters": "1027789.7518981338",
+        "CharterTransfers": "128.0",
         "Attendance": 9275.463,
         "LocalFunding": 71977880,
         "StateFunding": 6621171,
@@ -25833,9 +25833,9 @@ var DistrictsData = {
                 "25%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,643.91",
-        "CostOfCharters": "62,053,873.22",
-        "CharterTransfers": "7,493",
+        "PerStudentCostOfCharters": "8711.054072131323",
+        "CostOfCharters": "62535918.17857797",
+        "CharterTransfers": "7,493.0",
         "Attendance": 57947.72800000001,
         "LocalFunding": 415159842,
         "StateFunding": 102699512,
@@ -25884,9 +25884,9 @@ var DistrictsData = {
                 "99%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,857.29",
-        "CostOfCharters": "26,289,935.02",
-        "CharterTransfers": "2,739",
+        "PerStudentCostOfCharters": "10875.34247217672",
+        "CostOfCharters": "26333637.81403867",
+        "CharterTransfers": "2,739.0",
         "Attendance": 8090.808000000001,
         "LocalFunding": 18016106,
         "StateFunding": 73150907,
@@ -25959,9 +25959,9 @@ var DistrictsData = {
                 "73%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,912.06",
-        "CostOfCharters": "99,697,963.12",
-        "CharterTransfers": "10,681",
+        "PerStudentCostOfCharters": "10959.830974128437",
+        "CostOfCharters": "100134423.3550236",
+        "CharterTransfers": "10,681.0",
         "Attendance": 39178.885,
         "LocalFunding": 215802756,
         "StateFunding": 227209273,
@@ -25994,9 +25994,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,302.54",
-        "CostOfCharters": "146,037.75",
-        "CharterTransfers": "13",
+        "PerStudentCostOfCharters": "10342.536423487561",
+        "CostOfCharters": "146604.6519658427",
+        "CharterTransfers": "13.0",
         "Attendance": 970.437,
         "LocalFunding": 0,
         "StateFunding": 9819389,
@@ -26029,9 +26029,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,145.73",
-        "CostOfCharters": "112,487.29",
-        "CharterTransfers": "10",
+        "PerStudentCostOfCharters": "12273.792334220885",
+        "CostOfCharters": "113673.29620287499",
+        "CharterTransfers": "10.0",
         "Attendance": 948.3740000000001,
         "LocalFunding": 2669748,
         "StateFunding": 9171004,
@@ -26064,9 +26064,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,114.05",
-        "CostOfCharters": "115,875.47",
-        "CharterTransfers": "12",
+        "PerStudentCostOfCharters": "11184.99782261205",
+        "CostOfCharters": "116615.13617559076",
+        "CharterTransfers": "12.0",
         "Attendance": 1392.7440000000001,
         "LocalFunding": 4356000,
         "StateFunding": 11272562,
@@ -26103,9 +26103,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,692.31",
-        "CostOfCharters": "112,084.48",
-        "CharterTransfers": "12",
+        "PerStudentCostOfCharters": "10752.767122712306",
+        "CostOfCharters": "112718.27629832727",
+        "CharterTransfers": "12.0",
         "Attendance": 1537.4660000000001,
         "LocalFunding": 4093759,
         "StateFunding": 12811263,
@@ -26142,9 +26142,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,322.04",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10382.126844010978",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1822.218,
         "LocalFunding": 5420119,
         "StateFunding": 13850112,
@@ -26185,9 +26185,9 @@ var DistrictsData = {
                 "1%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,685.42",
-        "CostOfCharters": "1,497,845.46",
-        "CharterTransfers": "181",
+        "PerStudentCostOfCharters": "8840.613593743505",
+        "CostOfCharters": "1524609.791484995",
+        "CharterTransfers": "181.0",
         "Attendance": 5844.420999999999,
         "LocalFunding": 22321947,
         "StateFunding": 31400787,
@@ -26228,9 +26228,9 @@ var DistrictsData = {
                 "85%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,820.41",
-        "CostOfCharters": "3,721,949.40",
-        "CharterTransfers": "457",
+        "PerStudentCostOfCharters": "8857.606360463351",
+        "CostOfCharters": "3737643.2980547715",
+        "CharterTransfers": "457.0",
         "Attendance": 6187.353,
         "LocalFunding": 23723921,
         "StateFunding": 31309687,
@@ -26271,9 +26271,9 @@ var DistrictsData = {
                 "65%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,324.56",
-        "CostOfCharters": "3,036,082.86",
-        "CharterTransfers": "294",
+        "PerStudentCostOfCharters": "11375.83779560558",
+        "CostOfCharters": "3049829.1158571295",
+        "CharterTransfers": "294.0",
         "Attendance": 3019.284,
         "LocalFunding": 12089876,
         "StateFunding": 23270272,
@@ -26322,9 +26322,9 @@ var DistrictsData = {
                 "25%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,174.84",
-        "CostOfCharters": "12,179,712.78",
-        "CharterTransfers": "1,416",
+        "PerStudentCostOfCharters": "9196.194932090693",
+        "CostOfCharters": "12208059.35737542",
+        "CharterTransfers": "1,416.0",
         "Attendance": 21527.07,
         "LocalFunding": 152609301,
         "StateFunding": 46207181,
@@ -26377,9 +26377,9 @@ var DistrictsData = {
                 "79%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,341.22",
-        "CostOfCharters": "13,334,552.36",
-        "CharterTransfers": "1,496",
+        "PerStudentCostOfCharters": "9368.975521745211",
+        "CostOfCharters": "13374174.569832996",
+        "CharterTransfers": "1,496.0",
         "Attendance": 20272.16,
         "LocalFunding": 117858539,
         "StateFunding": 78301537,
@@ -26420,9 +26420,9 @@ var DistrictsData = {
                 "91%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,090.76",
-        "CostOfCharters": "1,559,821.60",
-        "CharterTransfers": "152",
+        "PerStudentCostOfCharters": "11100.605849260692",
+        "CostOfCharters": "1561206.0739139381",
+        "CharterTransfers": "152.0",
         "Attendance": 3346.7130000000006,
         "LocalFunding": 9721034,
         "StateFunding": 27943487,
@@ -26471,9 +26471,9 @@ var DistrictsData = {
                 "3%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,020.26",
-        "CostOfCharters": "11,543,580.32",
-        "CharterTransfers": "1,363",
+        "PerStudentCostOfCharters": "9065.274547169734",
+        "CostOfCharters": "11601181.221094383",
+        "CharterTransfers": "1,363.0",
         "Attendance": 21347.128000000004,
         "LocalFunding": 111193672,
         "StateFunding": 86912155,
@@ -26514,9 +26514,9 @@ var DistrictsData = {
                 "42%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,554.53",
-        "CostOfCharters": "716,448.36",
-        "CharterTransfers": "81",
+        "PerStudentCostOfCharters": "9649.487675433871",
+        "CostOfCharters": "723568.8382995339",
+        "CharterTransfers": "81.0",
         "Attendance": 6188.594,
         "LocalFunding": 34982103,
         "StateFunding": 26483826,
@@ -26557,9 +26557,9 @@ var DistrictsData = {
                 "94%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,042.70",
-        "CostOfCharters": "434,856.45",
-        "CharterTransfers": "50",
+        "PerStudentCostOfCharters": "9146.208897696562",
+        "CostOfCharters": "439834.1524378997",
+        "CharterTransfers": "50.0",
         "Attendance": 6466.078,
         "LocalFunding": 44212105,
         "StateFunding": 15602744,
@@ -26608,9 +26608,9 @@ var DistrictsData = {
                 "1%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,059.76",
-        "CostOfCharters": "24,881,877.91",
-        "CharterTransfers": "2,612",
+        "PerStudentCostOfCharters": "10161.757408865513",
+        "CostOfCharters": "25134151.018269956",
+        "CharterTransfers": "2,612.0",
         "Attendance": 14896.305,
         "LocalFunding": 80195436,
         "StateFunding": 71934625,
@@ -26679,9 +26679,9 @@ var DistrictsData = {
                 "15%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,900.25",
-        "CostOfCharters": "120,283,552.34",
-        "CharterTransfers": "12,438",
+        "PerStudentCostOfCharters": "10963.699926683601",
+        "CostOfCharters": "120983748.88563976",
+        "CharterTransfers": "12,438.0",
         "Attendance": 68188.074,
         "LocalFunding": 454710798,
         "StateFunding": 302825144,
@@ -26726,9 +26726,9 @@ var DistrictsData = {
                 "94%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,495.77",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9622.36889878299",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2297.108,
         "LocalFunding": 9957609,
         "StateFunding": 12761736,
@@ -26761,9 +26761,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,174.76",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12174.763237953455",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1021.0400000000002,
         "LocalFunding": 2094792,
         "StateFunding": 10466272,
@@ -26796,9 +26796,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,280.93",
-        "CostOfCharters": "125,824.16",
-        "CharterTransfers": "14",
+        "PerStudentCostOfCharters": "9368.561212156443",
+        "CostOfCharters": "127012.21915439097",
+        "CharterTransfers": "14.0",
         "Attendance": 5316.3910000000005,
         "LocalFunding": 18627900,
         "StateFunding": 32156331,
@@ -26835,9 +26835,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,778.38",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9821.766142294724",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1270.636,
         "LocalFunding": 3488946,
         "StateFunding": 9490441,
@@ -26886,9 +26886,9 @@ var DistrictsData = {
                 "28%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,570.30",
-        "CostOfCharters": "12,000,271.58",
-        "CharterTransfers": "1,482",
+        "PerStudentCostOfCharters": "8650.721117044872",
+        "CostOfCharters": "12112874.639831085",
+        "CharterTransfers": "1,482.0",
         "Attendance": 33188.511,
         "LocalFunding": 153000644,
         "StateFunding": 138216969,
@@ -26921,9 +26921,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,237.48",
-        "CostOfCharters": "827,502.35",
-        "CharterTransfers": "103",
+        "PerStudentCostOfCharters": "8298.27240810427",
+        "CostOfCharters": "833609.519652857",
+        "CharterTransfers": "103.0",
         "Attendance": 9594.991,
         "LocalFunding": 44652200,
         "StateFunding": 40151631,
@@ -26964,9 +26964,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,815.87",
-        "CostOfCharters": "1,118,166.59",
-        "CharterTransfers": "121",
+        "PerStudentCostOfCharters": "9863.145593543572",
+        "CostOfCharters": "1123551.7414876465",
+        "CharterTransfers": "121.0",
         "Attendance": 2716.052,
         "LocalFunding": 17567587,
         "StateFunding": 10365855,
@@ -27007,9 +27007,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,609.26",
-        "CostOfCharters": "8,066,719.47",
-        "CharterTransfers": "787",
+        "PerStudentCostOfCharters": "10637.706518670555",
+        "CostOfCharters": "8088345.948080509",
+        "CharterTransfers": "787.0",
         "Attendance": 5456.72,
         "LocalFunding": 16803178,
         "StateFunding": 43130269,
@@ -27070,9 +27070,9 @@ var DistrictsData = {
                 "21%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,272.67",
-        "CostOfCharters": "68,521,134.13",
-        "CharterTransfers": "7,355",
+        "PerStudentCostOfCharters": "10329.315396399552",
+        "CostOfCharters": "68898973.18879186",
+        "CharterTransfers": "7,355.0",
         "Attendance": 51548.093,
         "LocalFunding": 347696109,
         "StateFunding": 194088682,
@@ -27121,9 +27121,9 @@ var DistrictsData = {
                 "9%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,337.20",
-        "CostOfCharters": "27,553,158.32",
-        "CharterTransfers": "2,901",
+        "PerStudentCostOfCharters": "10392.144896055546",
+        "CostOfCharters": "27699618.745671205",
+        "CharterTransfers": "2,901.0",
         "Attendance": 25937.717,
         "LocalFunding": 94411384,
         "StateFunding": 184508299,
@@ -27151,9 +27151,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "10,350.68",
-        "CostOfCharters": "292,849.99",
-        "CharterTransfers": "30",
+        "PerStudentCostOfCharters": "10431.664379452857",
+        "CostOfCharters": "295141.12880217016",
+        "CharterTransfers": "30.0",
         "Attendance": 2071.9770000000003,
         "LocalFunding": 4050991,
         "StateFunding": 18950360,
@@ -27198,9 +27198,9 @@ var DistrictsData = {
                 "68%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,166.47",
-        "CostOfCharters": "691,188.17",
-        "CharterTransfers": "79",
+        "PerStudentCostOfCharters": "9220.591894231273",
+        "CostOfCharters": "695269.0313132408",
+        "CharterTransfers": "79.0",
         "Attendance": 11975.865,
         "LocalFunding": 56123934,
         "StateFunding": 56228481,
@@ -27233,9 +27233,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,061.65",
-        "CostOfCharters": "86,096.78",
-        "CharterTransfers": "10",
+        "PerStudentCostOfCharters": "9138.378952801602",
+        "CostOfCharters": "86825.80193549285",
+        "CharterTransfers": "10.0",
         "Attendance": 3387.187,
         "LocalFunding": 14331736,
         "StateFunding": 17425052,
@@ -27268,9 +27268,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,872.33",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13968.738075402056",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 379.3,
         "LocalFunding": 920049,
         "StateFunding": 4473116,
@@ -27303,9 +27303,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,659.96",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13745.176240323635",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 515.638,
         "LocalFunding": 1077099,
         "StateFunding": 6140050,
@@ -27338,9 +27338,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,022.27",
-        "CostOfCharters": "127,556.28",
-        "CharterTransfers": "10",
+        "PerStudentCostOfCharters": "14098.30545172077",
+        "CostOfCharters": "128247.91274592334",
+        "CharterTransfers": "10.0",
         "Attendance": 261.075,
         "LocalFunding": 1157693,
         "StateFunding": 2593714,
@@ -27377,9 +27377,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,609.25",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12760.413361668936",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 753.822,
         "LocalFunding": 2603585,
         "StateFunding": 7343175,
@@ -27416,9 +27416,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,817.85",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13913.482411600655",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 298.397,
         "LocalFunding": 751769,
         "StateFunding": 3481262,
@@ -27451,9 +27451,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,265.86",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13272.791953165304",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 463.17800000000005,
         "LocalFunding": 244054,
         "StateFunding": 6132043,
@@ -27490,9 +27490,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,822.68",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10904.329622138861",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 915.675,
         "LocalFunding": 2881294,
         "StateFunding": 6147647,
@@ -27529,9 +27529,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,627.43",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10727.97169062248",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 4333.075,
         "LocalFunding": 22300414,
         "StateFunding": 26714885,
@@ -27564,9 +27564,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,220.80",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10316.084568032693",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 3728.215,
         "LocalFunding": 10707949,
         "StateFunding": 28404504,
@@ -27603,9 +27603,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,469.68",
-        "CostOfCharters": "407,232.38",
-        "CharterTransfers": "43",
+        "PerStudentCostOfCharters": "10587.7847091482",
+        "CostOfCharters": "411826.21571785916",
+        "CharterTransfers": "43.0",
         "Attendance": 2344.636,
         "LocalFunding": 10643849,
         "StateFunding": 14677973,
@@ -27642,9 +27642,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,642.80",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10740.504737394589",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2296.121,
         "LocalFunding": 8683719,
         "StateFunding": 16409238,
@@ -27677,9 +27677,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,609.63",
-        "CostOfCharters": "525,750.21",
-        "CharterTransfers": "64",
+        "PerStudentCostOfCharters": "8653.86748827701",
+        "CostOfCharters": "528451.4085523242",
+        "CharterTransfers": "64.0",
         "Attendance": 12179.673999999999,
         "LocalFunding": 48721938,
         "StateFunding": 57619338,
@@ -27720,9 +27720,9 @@ var DistrictsData = {
                 "91%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,290.47",
-        "CostOfCharters": "2,160,084.02",
-        "CharterTransfers": "241",
+        "PerStudentCostOfCharters": "9359.342958228322",
+        "CostOfCharters": "2176097.4270268413",
+        "CharterTransfers": "241.0",
         "Attendance": 6643.286,
         "LocalFunding": 25442019,
         "StateFunding": 37038800,
@@ -27763,9 +27763,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,302.24",
-        "CostOfCharters": "1,170,311.24",
-        "CharterTransfers": "147",
+        "PerStudentCostOfCharters": "8389.956825294565",
+        "CostOfCharters": "1182676.0670848663",
+        "CharterTransfers": "147.0",
         "Attendance": 16289.413,
         "LocalFunding": 105419460,
         "StateFunding": 33878316,
@@ -27810,9 +27810,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "16,600.28",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "16941.08776200232",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 143.114,
         "LocalFunding": 824836,
         "StateFunding": 1743124,
@@ -27849,9 +27849,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,961.12",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11021.831630248751",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1408.402,
         "LocalFunding": 5726091,
         "StateFunding": 10214233,
@@ -27884,9 +27884,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,999.57",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10094.638550993739",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1899.7979999999998,
         "LocalFunding": 6698508,
         "StateFunding": 12854383,
@@ -27931,9 +27931,9 @@ var DistrictsData = {
                 "99%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,351.16",
-        "CostOfCharters": "96,559.12",
-        "CharterTransfers": "10",
+        "PerStudentCostOfCharters": "10431.130276953847",
+        "CostOfCharters": "97305.07918438881",
+        "CharterTransfers": "10.0",
         "Attendance": 2571.822,
         "LocalFunding": 11841993,
         "StateFunding": 15731159,
@@ -27966,9 +27966,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,996.35",
-        "CostOfCharters": "3,010,424.18",
-        "CharterTransfers": "329",
+        "PerStudentCostOfCharters": "10028.704976935822",
+        "CostOfCharters": "3020169.1736202743",
+        "CharterTransfers": "329.0",
         "Attendance": 4830.339,
         "LocalFunding": 25128149,
         "StateFunding": 23998408,
@@ -28001,9 +28001,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,634.89",
-        "CostOfCharters": "95,242.61",
-        "CharterTransfers": "10",
+        "PerStudentCostOfCharters": "9731.328043568732",
+        "CostOfCharters": "96195.96522112079",
+        "CharterTransfers": "10.0",
         "Attendance": 6350.242000000001,
         "LocalFunding": 74510615,
         "StateFunding": 15516450,
@@ -28044,9 +28044,9 @@ var DistrictsData = {
                 "0%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,008.68",
-        "CostOfCharters": "338,232.74",
-        "CharterTransfers": "41",
+        "PerStudentCostOfCharters": "9185.768218886435",
+        "CostOfCharters": "344881.5401326716",
+        "CharterTransfers": "41.0",
         "Attendance": 5018.237,
         "LocalFunding": 21198175,
         "StateFunding": 25972086,
@@ -28091,9 +28091,9 @@ var DistrictsData = {
                 "99%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,459.67",
-        "CostOfCharters": "2,479,198.85",
-        "CharterTransfers": "309",
+        "PerStudentCostOfCharters": "8518.588262889183",
+        "CostOfCharters": "2496465.8198839724",
+        "CharterTransfers": "309.0",
         "Attendance": 38635.68,
         "LocalFunding": 239024847,
         "StateFunding": 92497378,
@@ -28134,9 +28134,9 @@ var DistrictsData = {
                 "85%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,984.71",
-        "CostOfCharters": "1,469,560.39",
-        "CharterTransfers": "132",
+        "PerStudentCostOfCharters": "12009.18904312719",
+        "CostOfCharters": "1472561.4230509035",
+        "CharterTransfers": "132.0",
         "Attendance": 827.682,
         "LocalFunding": 1423636,
         "StateFunding": 9070068,
@@ -28169,9 +28169,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,111.03",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14124.901211511182",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 286.64300000000003,
         "LocalFunding": 403842,
         "StateFunding": 3457422,
@@ -28204,9 +28204,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,019.94",
-        "CostOfCharters": "580,691.30",
-        "CharterTransfers": "46",
+        "PerStudentCostOfCharters": "14052.898213031815",
+        "CostOfCharters": "582056.3555273542",
+        "CharterTransfers": "46.0",
         "Attendance": 537.546,
         "LocalFunding": 1226669,
         "StateFunding": 6543901,
@@ -28243,9 +28243,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,682.62",
-        "CostOfCharters": "6,308,465.66",
-        "CharterTransfers": "644",
+        "PerStudentCostOfCharters": "10711.834123983566",
+        "CostOfCharters": "6325716.637231624",
+        "CharterTransfers": "644.0",
         "Attendance": 4292.385,
         "LocalFunding": 6457415,
         "StateFunding": 38872186,
@@ -28278,9 +28278,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,981.27",
-        "CostOfCharters": "207,085.77",
-        "CharterTransfers": "16",
+        "PerStudentCostOfCharters": "14014.89902561036",
+        "CostOfCharters": "207583.82786757135",
+        "CharterTransfers": "16.0",
         "Attendance": 865.556,
         "LocalFunding": 1130698,
         "StateFunding": 11160280,
@@ -28313,9 +28313,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,958.92",
-        "CostOfCharters": "1,310,119.41",
-        "CharterTransfers": "129",
+        "PerStudentCostOfCharters": "11005.440629454628",
+        "CostOfCharters": "1315681.3793732882",
+        "CharterTransfers": "129.0",
         "Attendance": 2867.305,
         "LocalFunding": 4964522,
         "StateFunding": 27769362,
@@ -28348,9 +28348,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,762.47",
-        "CostOfCharters": "230,860.69",
-        "CharterTransfers": "18",
+        "PerStudentCostOfCharters": "13826.290038118756",
+        "CostOfCharters": "231931.29980045563",
+        "CharterTransfers": "18.0",
         "Attendance": 562.883,
         "LocalFunding": 765365,
         "StateFunding": 7415210,
@@ -28391,9 +28391,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,465.67",
-        "CostOfCharters": "1,045,430.42",
-        "CharterTransfers": "99",
+        "PerStudentCostOfCharters": "11547.573040325067",
+        "CostOfCharters": "1052898.1435431598",
+        "CharterTransfers": "99.0",
         "Attendance": 1594.2540000000001,
         "LocalFunding": 3545008,
         "StateFunding": 15356387,
@@ -28430,9 +28430,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,831.16",
-        "CostOfCharters": "102,153.95",
-        "CharterTransfers": "10",
+        "PerStudentCostOfCharters": "11888.030072836325",
+        "CostOfCharters": "102644.97640087234",
+        "CharterTransfers": "10.0",
         "Attendance": 1251.112,
         "LocalFunding": 2626402,
         "StateFunding": 12692842,
@@ -28469,9 +28469,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,332.77",
-        "CostOfCharters": "14,964,373.05",
-        "CharterTransfers": "1,566",
+        "PerStudentCostOfCharters": "10382.772167395911",
+        "CostOfCharters": "15036786.752756806",
+        "CharterTransfers": "1,566.0",
         "Attendance": 16537.355,
         "LocalFunding": 42395802,
         "StateFunding": 133709649,
@@ -28508,9 +28508,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,884.50",
-        "CostOfCharters": "86,299,102.28",
-        "CharterTransfers": "8,598",
+        "PerStudentCostOfCharters": "10918.721136334994",
+        "CostOfCharters": "86570397.91351481",
+        "CharterTransfers": "8,598.0",
         "Attendance": 37591.326,
         "LocalFunding": 67479374,
         "StateFunding": 355007664,
@@ -28543,9 +28543,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,553.36",
-        "CostOfCharters": "10,770,021.02",
-        "CharterTransfers": "1,105",
+        "PerStudentCostOfCharters": "10615.367581382981",
+        "CostOfCharters": "10833304.42241159",
+        "CharterTransfers": "1,105.0",
         "Attendance": 8984.361,
         "LocalFunding": 12558065,
         "StateFunding": 84466215,
@@ -28578,9 +28578,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,396.99",
-        "CostOfCharters": "256,799.49",
-        "CharterTransfers": "27",
+        "PerStudentCostOfCharters": "10430.59798559815",
+        "CostOfCharters": "257629.61357374516",
+        "CharterTransfers": "27.0",
         "Attendance": 1895.451,
         "LocalFunding": 20955103,
         "StateFunding": 1737789,
@@ -28617,9 +28617,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,402.85",
-        "CostOfCharters": "6,349,083.55",
-        "CharterTransfers": "663",
+        "PerStudentCostOfCharters": "10509.673224581304",
+        "CostOfCharters": "6414280.899911465",
+        "CharterTransfers": "663.0",
         "Attendance": 9692.423,
         "LocalFunding": 24115415,
         "StateFunding": 80536227,
@@ -28656,9 +28656,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,571.42",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12646.712731644253",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 604.9060000000001,
         "LocalFunding": 1535267,
         "StateFunding": 6330920,
@@ -28686,9 +28686,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,220.80",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12459.421276679886",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 267.027,
         "LocalFunding": 8861769,
         "StateFunding": 317993,
@@ -28716,9 +28716,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,442.43",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12480.2791901632",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 803.188,
         "LocalFunding": 15027069,
         "StateFunding": 514605,
@@ -28751,9 +28751,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,371.52",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9396.319592665517",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 4068.126,
         "LocalFunding": 34785415,
         "StateFunding": 3967205,
@@ -28785,9 +28785,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "10,947.89",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11022.381941192914",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 980.773,
         "LocalFunding": 14330928,
         "StateFunding": 600317,
@@ -28820,9 +28820,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,098.03",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10168.384583906301",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1616.3470000000002,
         "LocalFunding": 8238193,
         "StateFunding": 8807005,
@@ -28867,9 +28867,9 @@ var DistrictsData = {
                 "96%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,526.96",
-        "CostOfCharters": "5,913,211.22",
-        "CharterTransfers": "729",
+        "PerStudentCostOfCharters": "8628.27016720793",
+        "CostOfCharters": "5983469.633298086",
+        "CharterTransfers": "729.0",
         "Attendance": 61416.566,
         "LocalFunding": 379881671,
         "StateFunding": 158798886,
@@ -28906,9 +28906,9 @@ var DistrictsData = {
                 "99%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,735.98",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13098.088211200706",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 280.64300000000003,
         "LocalFunding": 656602,
         "StateFunding": 2760166,
@@ -28941,9 +28941,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,253.97",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10343.199157134151",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1534.3310000000001,
         "LocalFunding": 7060955,
         "StateFunding": 9481355,
@@ -28976,9 +28976,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,512.66",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12637.251221248624",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 596.368,
         "LocalFunding": 6643556,
         "StateFunding": 1038486,
@@ -29023,9 +29023,9 @@ var DistrictsData = {
                 "97%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,475.74",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12611.906800279128",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 868.414,
         "LocalFunding": 3367236,
         "StateFunding": 7721358,
@@ -29066,9 +29066,9 @@ var DistrictsData = {
                 "5%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,295.73",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12391.379621641501",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 666.682,
         "LocalFunding": 2909430,
         "StateFunding": 5535195,
@@ -29113,9 +29113,9 @@ var DistrictsData = {
                 "6%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,382.53",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12436.374535025343",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 766.0310000000001,
         "LocalFunding": 2646262,
         "StateFunding": 6982478,
@@ -29156,9 +29156,9 @@ var DistrictsData = {
                 "89%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,035.36",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12091.937325032917",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 703.9970000000001,
         "LocalFunding": 3655156,
         "StateFunding": 5979195,
@@ -29191,9 +29191,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,510.43",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13609.0989153634",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 447.414,
         "LocalFunding": 1421730,
         "StateFunding": 4696348,
@@ -29234,9 +29234,9 @@ var DistrictsData = {
                 "7%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,905.55",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12021.726231386263",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 684.841,
         "LocalFunding": 2402081,
         "StateFunding": 6189173,
@@ -29277,9 +29277,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,529.08",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10614.590694446944",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1776.6080000000002,
         "LocalFunding": 7783756,
         "StateFunding": 12037482,
@@ -29312,9 +29312,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,424.16",
-        "CostOfCharters": "399,279.76",
-        "CharterTransfers": "44",
+        "PerStudentCostOfCharters": "9491.977168906222",
+        "CostOfCharters": "402153.0449685458",
+        "CharterTransfers": "44.0",
         "Attendance": 3951.7490000000003,
         "LocalFunding": 17352181,
         "StateFunding": 21392563,
@@ -29359,9 +29359,9 @@ var DistrictsData = {
                 "6%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,237.07",
-        "CostOfCharters": "6,621,966.82",
-        "CharterTransfers": "758",
+        "PerStudentCostOfCharters": "9302.12290544618",
+        "CostOfCharters": "6668599.045529067",
+        "CharterTransfers": "758.0",
         "Attendance": 22129.014,
         "LocalFunding": 182825611,
         "StateFunding": 32481374,
@@ -29398,9 +29398,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,088.77",
-        "CostOfCharters": "180,008.50",
-        "CharterTransfers": "19",
+        "PerStudentCostOfCharters": "10148.347944916819",
+        "CostOfCharters": "181071.601076609",
+        "CharterTransfers": "19.0",
         "Attendance": 3736.5890000000004,
         "LocalFunding": 16497821,
         "StateFunding": 22720175,
@@ -29437,9 +29437,9 @@ var DistrictsData = {
                 "0%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,795.11",
-        "CostOfCharters": "316,342.83",
-        "CharterTransfers": "34",
+        "PerStudentCostOfCharters": "9856.10062034897",
+        "CostOfCharters": "318312.4223463624",
+        "CharterTransfers": "34.0",
         "Attendance": 5526.412,
         "LocalFunding": 17224025,
         "StateFunding": 38068453,
@@ -29476,9 +29476,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,440.29",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10598.031909023824",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1029.896,
         "LocalFunding": 4342229,
         "StateFunding": 6766046,
@@ -29515,9 +29515,9 @@ var DistrictsData = {
                 "58%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,842.88",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9942.481898992939",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 3196.731,
         "LocalFunding": 12318132,
         "StateFunding": 19832001,
@@ -29558,9 +29558,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,528.57",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12714.80865288957",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 766.8090000000001,
         "LocalFunding": 3513707,
         "StateFunding": 6519658,
@@ -29593,9 +29593,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,322.99",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11405.325688186887",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 885.846,
         "LocalFunding": 4475286,
         "StateFunding": 5824424,
@@ -29628,9 +29628,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,888.26",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11036.075746502323",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1181.928,
         "LocalFunding": 8276124,
         "StateFunding": 5447213,
@@ -29663,9 +29663,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,451.19",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9531.950372915338",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2582.362,
         "LocalFunding": 14100264,
         "StateFunding": 10143754,
@@ -29714,9 +29714,9 @@ var DistrictsData = {
                 "1%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,497.33",
-        "CostOfCharters": "578,245.66",
-        "CharterTransfers": "60",
+        "PerStudentCostOfCharters": "10570.960429948618",
+        "CostOfCharters": "582301.3638293627",
+        "CharterTransfers": "60.0",
         "Attendance": 11356.691,
         "LocalFunding": 106355385,
         "StateFunding": 21507364,
@@ -29757,9 +29757,9 @@ var DistrictsData = {
                 "39%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,164.68",
-        "CostOfCharters": "353,764.96",
-        "CharterTransfers": "46",
+        "PerStudentCostOfCharters": "8285.449697734883",
+        "CostOfCharters": "358997.54696452024",
+        "CharterTransfers": "46.0",
         "Attendance": 8401.995,
         "LocalFunding": 63168301,
         "StateFunding": 8642144,
@@ -29812,9 +29812,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,570.23",
-        "CostOfCharters": "467,513.06",
-        "CharterTransfers": "54",
+        "PerStudentCostOfCharters": "9637.445123511932",
+        "CostOfCharters": "470796.57211338665",
+        "CharterTransfers": "54.0",
         "Attendance": 6331.602,
         "LocalFunding": 66119706,
         "StateFunding": 4306435,
@@ -29855,9 +29855,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,426.36",
-        "CostOfCharters": "6,973,892.97",
-        "CharterTransfers": "748",
+        "PerStudentCostOfCharters": "10491.621715817795",
+        "CostOfCharters": "7017545.52064352",
+        "CharterTransfers": "748.0",
         "Attendance": 7193.05,
         "LocalFunding": 56629756,
         "StateFunding": 41729700,
@@ -29890,9 +29890,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,025.60",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14193.109098538196",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 171.70600000000002,
         "LocalFunding": 1541775,
         "StateFunding": 995926,
@@ -29933,9 +29933,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,311.05",
-        "CostOfCharters": "1,296,355.45",
-        "CharterTransfers": "151",
+        "PerStudentCostOfCharters": "9406.383092849432",
+        "CostOfCharters": "1309629.077109062",
+        "CharterTransfers": "151.0",
         "Attendance": 10724.220999999998,
         "LocalFunding": 42925661,
         "StateFunding": 61021040,
@@ -29968,9 +29968,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,340.74",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11459.55988840887",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1254.58,
         "LocalFunding": 5436169,
         "StateFunding": 7927615,
@@ -30007,9 +30007,9 @@ var DistrictsData = {
                 "99%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,848.50",
-        "CostOfCharters": "83,730.40",
-        "CharterTransfers": "10",
+        "PerStudentCostOfCharters": "8888.815210978202",
+        "CostOfCharters": "84111.88450992716",
+        "CharterTransfers": "10.0",
         "Attendance": 10810.149,
         "LocalFunding": 90513974,
         "StateFunding": 12260642,
@@ -30046,9 +30046,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,709.41",
-        "CostOfCharters": "675,886.28",
-        "CharterTransfers": "72",
+        "PerStudentCostOfCharters": "10778.549238157888",
+        "CostOfCharters": "680249.5054752701",
+        "CharterTransfers": "72.0",
         "Attendance": 1441.0440000000003,
         "LocalFunding": 8494631,
         "StateFunding": 10507516,
@@ -30085,9 +30085,9 @@ var DistrictsData = {
                 "96%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,894.47",
-        "CostOfCharters": "7,648,900.73",
-        "CharterTransfers": "841",
+        "PerStudentCostOfCharters": "9960.421309315168",
+        "CostOfCharters": "7699882.557384057",
+        "CharterTransfers": "841.0",
         "Attendance": 6156.807000000001,
         "LocalFunding": 58031785,
         "StateFunding": 6292171,
@@ -30120,9 +30120,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,909.38",
-        "CostOfCharters": "727,637.87",
-        "CharterTransfers": "66",
+        "PerStudentCostOfCharters": "11993.925651555257",
+        "CostOfCharters": "732803.3581078332",
+        "CharterTransfers": "66.0",
         "Attendance": 2292.096,
         "LocalFunding": 16818198,
         "StateFunding": 11188394,
@@ -30155,9 +30155,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,674.68",
-        "CostOfCharters": "102,686.56",
-        "CharterTransfers": "10",
+        "PerStudentCostOfCharters": "11774.647852360942",
+        "CostOfCharters": "103565.85944397091",
+        "CharterTransfers": "10.0",
         "Attendance": 1329.025,
         "LocalFunding": 7488750,
         "StateFunding": 8623851,
@@ -30198,9 +30198,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,708.76",
-        "CostOfCharters": "813,004.62",
-        "CharterTransfers": "100",
+        "PerStudentCostOfCharters": "8836.52075734845",
+        "CostOfCharters": "824931.9070603141",
+        "CharterTransfers": "100.0",
         "Attendance": 12250.021,
         "LocalFunding": 70406860,
         "StateFunding": 39422957,
@@ -30237,9 +30237,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,172.02",
-        "CostOfCharters": "1,229,592.35",
-        "CharterTransfers": "133",
+        "PerStudentCostOfCharters": "10383.120305585657",
+        "CostOfCharters": "1255110.0799590868",
+        "CharterTransfers": "133.0",
         "Attendance": 2587.556,
         "LocalFunding": 18747820,
         "StateFunding": 8146487,
@@ -30308,9 +30308,9 @@ var DistrictsData = {
                 "5%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,534.29",
-        "CostOfCharters": "35,935,182.16",
-        "CharterTransfers": "4,463",
+        "PerStudentCostOfCharters": "8592.267737641823",
+        "CostOfCharters": "36179287.87853329",
+        "CharterTransfers": "4,463.0",
         "Attendance": 108386.086,
         "LocalFunding": 535744999,
         "StateFunding": 368632776,
@@ -30355,9 +30355,9 @@ var DistrictsData = {
                 "96%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,496.46",
-        "CostOfCharters": "89,405.04",
-        "CharterTransfers": "10",
+        "PerStudentCostOfCharters": "9678.917187894658",
+        "CostOfCharters": "91122.77812365883",
+        "CharterTransfers": "10.0",
         "Attendance": 7307.584,
         "LocalFunding": 44168114,
         "StateFunding": 29516036,
@@ -30414,9 +30414,9 @@ var DistrictsData = {
                 "19%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,368.08",
-        "CostOfCharters": "3,104,196.56",
-        "CharterTransfers": "359",
+        "PerStudentCostOfCharters": "9398.38685891523",
+        "CostOfCharters": "3114240.3298026845",
+        "CharterTransfers": "359.0",
         "Attendance": 30725.012,
         "LocalFunding": 273929578,
         "StateFunding": 21705742,
@@ -30469,9 +30469,9 @@ var DistrictsData = {
                 "20%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,537.00",
-        "CostOfCharters": "11,766,805.86",
-        "CharterTransfers": "1,430",
+        "PerStudentCostOfCharters": "8588.368460984786",
+        "CostOfCharters": "11837614.171507332",
+        "CharterTransfers": "1,430.0",
         "Attendance": 50915.35300000001,
         "LocalFunding": 222229449,
         "StateFunding": 223888717,
@@ -30532,9 +30532,9 @@ var DistrictsData = {
                 "51%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,380.24",
-        "CostOfCharters": "41,730,530.75",
-        "CharterTransfers": "4,410",
+        "PerStudentCostOfCharters": "10433.749611108886",
+        "CostOfCharters": "41945662.21462379",
+        "CharterTransfers": "4,410.0",
         "Attendance": 57706.6,
         "LocalFunding": 227267729,
         "StateFunding": 402548521,
@@ -30583,9 +30583,9 @@ var DistrictsData = {
                 "72%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,126.67",
-        "CostOfCharters": "747,542.09",
-        "CharterTransfers": "94",
+        "PerStudentCostOfCharters": "8196.204252738336",
+        "CostOfCharters": "753937.9421741726",
+        "CharterTransfers": "94.0",
         "Attendance": 18266.117,
         "LocalFunding": 114391853,
         "StateFunding": 40825521,
@@ -30638,9 +30638,9 @@ var DistrictsData = {
                 "38%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,296.37",
-        "CostOfCharters": "2,691,923.07",
-        "CharterTransfers": "277",
+        "PerStudentCostOfCharters": "10405.444502829581",
+        "CostOfCharters": "2720438.8212114237",
+        "CharterTransfers": "277.0",
         "Attendance": 9632.835000000001,
         "LocalFunding": 59195822,
         "StateFunding": 46321103,
@@ -30685,9 +30685,9 @@ var DistrictsData = {
                 "42%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,616.30",
-        "CostOfCharters": "3,551,003.09",
-        "CharterTransfers": "356",
+        "PerStudentCostOfCharters": "10658.817612514897",
+        "CostOfCharters": "3565225.853450033",
+        "CharterTransfers": "356.0",
         "Attendance": 20593.442,
         "LocalFunding": 112249399,
         "StateFunding": 127063460,
@@ -30728,9 +30728,9 @@ var DistrictsData = {
                 "17%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,595.61",
-        "CostOfCharters": "135,756.35",
-        "CharterTransfers": "15",
+        "PerStudentCostOfCharters": "9672.910207536479",
+        "CostOfCharters": "136849.94324580085",
+        "CharterTransfers": "15.0",
         "Attendance": 5976.954000000001,
         "LocalFunding": 22381534,
         "StateFunding": 37411876,
@@ -30779,9 +30779,9 @@ var DistrictsData = {
                 "23%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,660.03",
-        "CostOfCharters": "928,287.21",
-        "CharterTransfers": "101",
+        "PerStudentCostOfCharters": "9699.127252707169",
+        "CostOfCharters": "932044.49224906",
+        "CharterTransfers": "101.0",
         "Attendance": 9107.209,
         "LocalFunding": 41876506,
         "StateFunding": 53768200,
@@ -30834,9 +30834,9 @@ var DistrictsData = {
                 "52%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,177.88",
-        "CostOfCharters": "4,802,330.42",
-        "CharterTransfers": "549",
+        "PerStudentCostOfCharters": "9234.402587080753",
+        "CostOfCharters": "4831907.586008781",
+        "CharterTransfers": "549.0",
         "Attendance": 43392.637,
         "LocalFunding": 180243187,
         "StateFunding": 224913066,
@@ -30885,9 +30885,9 @@ var DistrictsData = {
                 "48%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,146.00",
-        "CostOfCharters": "806,733.63",
-        "CharterTransfers": "87",
+        "PerStudentCostOfCharters": "10236.04432216531",
+        "CostOfCharters": "813893.4026130674",
+        "CharterTransfers": "87.0",
         "Attendance": 21311.176,
         "LocalFunding": 132636514,
         "StateFunding": 90409602,
@@ -30940,9 +30940,9 @@ var DistrictsData = {
                 "32%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,854.21",
-        "CostOfCharters": "42,543,285.17",
-        "CharterTransfers": "4,964",
+        "PerStudentCostOfCharters": "8900.421020889346",
+        "CostOfCharters": "42765310.815237805",
+        "CharterTransfers": "4,964.0",
         "Attendance": 74275.025,
         "LocalFunding": 416008684,
         "StateFunding": 257744616,
@@ -31007,9 +31007,9 @@ var DistrictsData = {
                 "47%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,192.18",
-        "CostOfCharters": "22,783,910.78",
-        "CharterTransfers": "2,556",
+        "PerStudentCostOfCharters": "9239.15811885996",
+        "CostOfCharters": "22900362.9087927",
+        "CharterTransfers": "2,556.0",
         "Attendance": 81627.67,
         "LocalFunding": 435011465,
         "StateFunding": 334177761,
@@ -31058,9 +31058,9 @@ var DistrictsData = {
                 "38%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,464.85",
-        "CostOfCharters": "81,732,843.92",
-        "CharterTransfers": "8,656",
+        "PerStudentCostOfCharters": "10513.640826523058",
+        "CostOfCharters": "82113878.03736179",
+        "CharterTransfers": "8,656.0",
         "Attendance": 37647.151,
         "LocalFunding": 170881266,
         "StateFunding": 225496259,
@@ -31105,9 +31105,9 @@ var DistrictsData = {
                 "4%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,285.19",
-        "CostOfCharters": "1,507,656.36",
-        "CharterTransfers": "157",
+        "PerStudentCostOfCharters": "10323.3058677403",
+        "CostOfCharters": "1513242.9705180447",
+        "CharterTransfers": "157.0",
         "Attendance": 3096.027,
         "LocalFunding": 28070077,
         "StateFunding": 5467290,
@@ -31148,9 +31148,9 @@ var DistrictsData = {
                 "14%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,133.86",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10217.919786010456",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 6435.664000000001,
         "LocalFunding": 33005847,
         "StateFunding": 33829608,
@@ -31187,9 +31187,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,812.62",
-        "CostOfCharters": "1,562,376.39",
-        "CharterTransfers": "166",
+        "PerStudentCostOfCharters": "9918.258059468979",
+        "CostOfCharters": "1579196.945290473",
+        "CharterTransfers": "166.0",
         "Attendance": 25903.179,
         "LocalFunding": 85065794,
         "StateFunding": 190300374,
@@ -31294,9 +31294,9 @@ var DistrictsData = {
                 "21%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,455.87",
-        "CostOfCharters": "370,645,555.35",
-        "CharterTransfers": "43,563",
+        "PerStudentCostOfCharters": "9494.792299789398",
+        "CostOfCharters": "372171025.0207195",
+        "CharterTransfers": "43,563.0",
         "Attendance": 177206.586,
         "LocalFunding": 1603618038,
         "StateFunding": 230253260,
@@ -31341,9 +31341,9 @@ var DistrictsData = {
                 "77%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,190.98",
-        "CostOfCharters": "6,009,402.65",
-        "CharterTransfers": "697",
+        "PerStudentCostOfCharters": "9266.13146306851",
+        "CostOfCharters": "6058536.923056332",
+        "CharterTransfers": "697.0",
         "Attendance": 34257.479,
         "LocalFunding": 173019343,
         "StateFunding": 147130145,
@@ -31380,9 +31380,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,108.37",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10219.33227184787",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2178.13,
         "LocalFunding": 8556617,
         "StateFunding": 14020731,
@@ -31419,9 +31419,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,885.49",
-        "CostOfCharters": "137,420.42",
-        "CharterTransfers": "12",
+        "PerStudentCostOfCharters": "13000.09845119674",
+        "CostOfCharters": "138642.6878875862",
+        "CharterTransfers": "12.0",
         "Attendance": 824.74,
         "LocalFunding": 1775988,
         "StateFunding": 8795136,
@@ -31454,9 +31454,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,891.76",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12012.072138011807",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 947.061,
         "LocalFunding": 7148168,
         "StateFunding": 4536460,
@@ -31489,9 +31489,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,808.40",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11865.773929853658",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 916.695,
         "LocalFunding": 1511180,
         "StateFunding": 9554713,
@@ -31532,9 +31532,9 @@ var DistrictsData = {
                 "5%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,814.22",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11892.060765378403",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1374.7720000000002,
         "LocalFunding": 5635096,
         "StateFunding": 11695676,
@@ -31571,9 +31571,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,825.88",
-        "CostOfCharters": "108,809.71",
-        "CharterTransfers": "11",
+        "PerStudentCostOfCharters": "10958.259214968666",
+        "CostOfCharters": "110140.28895860272",
+        "CharterTransfers": "11.0",
         "Attendance": 2293.431,
         "LocalFunding": 9610635,
         "StateFunding": 16648647,
@@ -31605,9 +31605,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,016.34",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13132.871824753123",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 294.177,
         "LocalFunding": 1024834,
         "StateFunding": 3215374,
@@ -31640,9 +31640,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,833.92",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9936.9565727036",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 4699.147,
         "LocalFunding": 14622430,
         "StateFunding": 36248669,
@@ -31683,9 +31683,9 @@ var DistrictsData = {
                 "0%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,251.56",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10396.335107957464",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1458.065,
         "LocalFunding": 10937909,
         "StateFunding": 3805660,
@@ -31722,9 +31722,9 @@ var DistrictsData = {
                 "3%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,045.07",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13120.530119523424",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 329.348,
         "LocalFunding": 3482234,
         "StateFunding": 847201,
@@ -31757,9 +31757,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,230.02",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9303.585110818149",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 4077.8880000000004,
         "LocalFunding": 14095441,
         "StateFunding": 24710063,
@@ -31800,9 +31800,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,085.73",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12194.997478071724",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 654.201,
         "LocalFunding": 1681346,
         "StateFunding": 6288538,
@@ -31830,9 +31830,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,042.29",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12118.775398242866",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1103.616,
         "LocalFunding": 6762053,
         "StateFunding": 7886062,
@@ -31869,9 +31869,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,650.54",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9763.593944474875",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1610.2979999999998,
         "LocalFunding": 6642945,
         "StateFunding": 9233614,
@@ -31908,9 +31908,9 @@ var DistrictsData = {
                 "4%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,299.76",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12378.324739541513",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 785.888,
         "LocalFunding": 3495136,
         "StateFunding": 6440141,
@@ -31943,9 +31943,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,430.54",
-        "CostOfCharters": "130,796.07",
-        "CharterTransfers": "12",
+        "PerStudentCostOfCharters": "11441.2937304765",
+        "CostOfCharters": "130919.12640727499",
+        "CharterTransfers": "12.0",
         "Attendance": 1952.885,
         "LocalFunding": 2355943,
         "StateFunding": 20820599,
@@ -31973,9 +31973,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "15,494.77",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15684.754897357947",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 140.459,
         "LocalFunding": 743969,
         "StateFunding": 1440395,
@@ -32003,9 +32003,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,821.74",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12916.205096227242",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1209.169,
         "LocalFunding": 4601341,
         "StateFunding": 11202331,
@@ -32033,9 +32033,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,626.42",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13715.815007228943",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 385.921,
         "LocalFunding": 1130210,
         "StateFunding": 4322782,
@@ -32067,9 +32067,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,995.54",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12125.258117151154",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 723.1,
         "LocalFunding": 4132644,
         "StateFunding": 4824330,
@@ -32101,9 +32101,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "9,629.54",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9687.712471918616",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2275.2940000000003,
         "LocalFunding": 20835365,
         "StateFunding": 3471257,
@@ -32144,9 +32144,9 @@ var DistrictsData = {
                 "5%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,204.03",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12690.109508965375",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 213.923,
         "LocalFunding": 3010110,
         "StateFunding": 2550953,
@@ -32179,9 +32179,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,705.40",
-        "CostOfCharters": "16,187,479.63",
-        "CharterTransfers": "1,663",
+        "PerStudentCostOfCharters": "10771.821674849612",
+        "CostOfCharters": "16287916.72986991",
+        "CharterTransfers": "1,663.0",
         "Attendance": 23257.75,
         "LocalFunding": 191638105,
         "StateFunding": 77506192,
@@ -32214,9 +32214,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,491.26",
-        "CostOfCharters": "111,268.76",
-        "CharterTransfers": "10",
+        "PerStudentCostOfCharters": "11563.779179663601",
+        "CostOfCharters": "111970.91538646609",
+        "CharterTransfers": "10.0",
         "Attendance": 2754.7850000000008,
         "LocalFunding": 25954052,
         "StateFunding": 6956469,
@@ -32249,9 +32249,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,475.36",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12877.32575001532",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 270.911,
         "LocalFunding": 6772376,
         "StateFunding": 1941261,
@@ -32284,9 +32284,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,484.13",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11539.972888107619",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2052.726,
         "LocalFunding": 19185544,
         "StateFunding": 5247559,
@@ -32319,9 +32319,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,749.54",
-        "CostOfCharters": "26,284,550.75",
-        "CharterTransfers": "2,998",
+        "PerStudentCostOfCharters": "9814.886043744787",
+        "CostOfCharters": "26460709.413470097",
+        "CharterTransfers": "2,998.0",
         "Attendance": 28669.263,
         "LocalFunding": 157601471,
         "StateFunding": 123343992,
@@ -32349,9 +32349,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "15,969.56",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "16157.036573311527",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 298.983,
         "LocalFunding": 1986506,
         "StateFunding": 2572538,
@@ -32379,9 +32379,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,138.79",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13400.386423448623",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 228.92600000000002,
         "LocalFunding": 2389738,
         "StateFunding": 808973,
@@ -32422,9 +32422,9 @@ var DistrictsData = {
                 "89%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,097.71",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13551.153133977934",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 152.446,
         "LocalFunding": 2195377,
         "StateFunding": 3260624,
@@ -32457,9 +32457,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,977.52",
-        "CostOfCharters": "184,851.26",
-        "CharterTransfers": "16",
+        "PerStudentCostOfCharters": "13105.980607054076",
+        "CostOfCharters": "186681.10085738203",
+        "CharterTransfers": "16.0",
         "Attendance": 287.55,
         "LocalFunding": 4946321,
         "StateFunding": 279834,
@@ -32487,9 +32487,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "9,748.45",
-        "CostOfCharters": "4,054,736.43",
-        "CharterTransfers": "435",
+        "PerStudentCostOfCharters": "9823.320252552094",
+        "CostOfCharters": "4085878.62037221",
+        "CharterTransfers": "435.0",
         "Attendance": 5738.013000000001,
         "LocalFunding": 22925780,
         "StateFunding": 34285300,
@@ -32526,9 +32526,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,853.94",
-        "CostOfCharters": "17,944,387.45",
-        "CharterTransfers": "2,131",
+        "PerStudentCostOfCharters": "8907.471853189814",
+        "CostOfCharters": "18052883.059176255",
+        "CharterTransfers": "2,131.0",
         "Attendance": 6898.05,
         "LocalFunding": 39154659,
         "StateFunding": 23002365,
@@ -32573,9 +32573,9 @@ var DistrictsData = {
                 "32%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,752.06",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12809.554435612194",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 421.541,
         "LocalFunding": 2344415,
         "StateFunding": 3183605,
@@ -32607,9 +32607,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "10,554.73",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10651.13912610184",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1145.923,
         "LocalFunding": 5353419,
         "StateFunding": 7287537,
@@ -32642,9 +32642,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,937.40",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14025.278509871956",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 299.039,
         "LocalFunding": 1047400,
         "StateFunding": 3336900,
@@ -32672,9 +32672,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,994.28",
-        "CostOfCharters": "400,433.56",
-        "CharterTransfers": "37",
+        "PerStudentCostOfCharters": "12117.956197057665",
+        "CostOfCharters": "404562.62839115364",
+        "CharterTransfers": "37.0",
         "Attendance": 950.13,
         "LocalFunding": 6143744,
         "StateFunding": 5578105,
@@ -32715,9 +32715,9 @@ var DistrictsData = {
                 "84%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,993.08",
-        "CostOfCharters": "131,536.39",
-        "CharterTransfers": "14",
+        "PerStudentCostOfCharters": "10154.649132213577",
+        "CostOfCharters": "133663.08413922854",
+        "CharterTransfers": "14.0",
         "Attendance": 2213.222,
         "LocalFunding": 7586381,
         "StateFunding": 14414796,
@@ -32758,9 +32758,9 @@ var DistrictsData = {
                 "1%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,686.73",
-        "CostOfCharters": "312,942.06",
-        "CharterTransfers": "34",
+        "PerStudentCostOfCharters": "9750.992087297247",
+        "CostOfCharters": "315018.26786182297",
+        "CharterTransfers": "34.0",
         "Attendance": 3941.366,
         "LocalFunding": 16164429,
         "StateFunding": 23044822,
@@ -32788,9 +32788,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "10,407.42",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10445.132335574463",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1358.2440000000001,
         "LocalFunding": 3732085,
         "StateFunding": 10117089,
@@ -32823,9 +32823,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,033.56",
-        "CostOfCharters": "438,448.23",
-        "CharterTransfers": "47",
+        "PerStudentCostOfCharters": "10072.947403057382",
+        "CostOfCharters": "440169.3665792845",
+        "CharterTransfers": "47.0",
         "Attendance": 4225.706,
         "LocalFunding": 16599229,
         "StateFunding": 25843614,
@@ -32857,9 +32857,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "9,145.51",
-        "CostOfCharters": "18,409,273.89",
-        "CharterTransfers": "2,178",
+        "PerStudentCostOfCharters": "9237.479946818099",
+        "CostOfCharters": "18594403.39928642",
+        "CharterTransfers": "2,178.0",
         "Attendance": 16377.933,
         "LocalFunding": 97060954,
         "StateFunding": 58948693,
@@ -32887,9 +32887,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "10,786.86",
-        "CostOfCharters": "1,239,436.81",
-        "CharterTransfers": "127",
+        "PerStudentCostOfCharters": "10898.49477470106",
+        "CostOfCharters": "1252263.9208136506",
+        "CharterTransfers": "127.0",
         "Attendance": 3076.1290000000004,
         "LocalFunding": 12288492,
         "StateFunding": 22114051,
@@ -32917,9 +32917,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,020.10",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13160.17381921743",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 311.103,
         "LocalFunding": 1152558,
         "StateFunding": 2933934,
@@ -32956,9 +32956,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,219.06",
-        "CostOfCharters": "167,334.57",
-        "CharterTransfers": "20",
+        "PerStudentCostOfCharters": "9284.06095680821",
+        "CostOfCharters": "168514.45426545086",
+        "CharterTransfers": "20.0",
         "Attendance": 3582.9960000000005,
         "LocalFunding": 16663796,
         "StateFunding": 18635693,
@@ -32986,9 +32986,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "9,841.05",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9904.192723441194",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1435.362,
         "LocalFunding": 4136641,
         "StateFunding": 10106485,
@@ -33021,9 +33021,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,598.57",
-        "CostOfCharters": "6,695,803.54",
-        "CharterTransfers": "709",
+        "PerStudentCostOfCharters": "10662.463507571281",
+        "CostOfCharters": "6736169.031253753",
+        "CharterTransfers": "709.0",
         "Attendance": 6622.392000000001,
         "LocalFunding": 28368456,
         "StateFunding": 46349559,
@@ -33056,9 +33056,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,979.63",
-        "CostOfCharters": "445,724.06",
-        "CharterTransfers": "47",
+        "PerStudentCostOfCharters": "10055.895527937464",
+        "CostOfCharters": "449130.2116202305",
+        "CharterTransfers": "47.0",
         "Attendance": 2635.139,
         "LocalFunding": 5878579,
         "StateFunding": 21070098,
@@ -33095,9 +33095,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,751.12",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12909.437745484682",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 427.13500000000005,
         "LocalFunding": 1618793,
         "StateFunding": 4087187,
@@ -33130,9 +33130,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,971.04",
-        "CostOfCharters": "1,013,832.44",
-        "CharterTransfers": "104",
+        "PerStudentCostOfCharters": "11071.433840086043",
+        "CostOfCharters": "1023109.7143986307",
+        "CharterTransfers": "104.0",
         "Attendance": 1985.035,
         "LocalFunding": 9742341,
         "StateFunding": 12543541,
@@ -33165,9 +33165,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,233.45",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13236.808594766251",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 270.934,
         "LocalFunding": 3580612,
         "StateFunding": 240411,
@@ -33200,9 +33200,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "29,445.74",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "29445.73881130842",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 56.312000000000005,
         "LocalFunding": 1037466,
         "StateFunding": 625778,
@@ -33235,9 +33235,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,679.87",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12759.813707173387",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 885.4810000000001,
         "LocalFunding": 6429937,
         "StateFunding": 4243185,
@@ -33270,9 +33270,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,091.09",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11114.180563352385",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1565.095,
         "LocalFunding": 9819478,
         "StateFunding": 8175302,
@@ -33309,9 +33309,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,419.79",
-        "CostOfCharters": "10,534,269.55",
-        "CharterTransfers": "1,179",
+        "PerStudentCostOfCharters": "9438.937041116724",
+        "CostOfCharters": "10555676.831541024",
+        "CharterTransfers": "1,179.0",
         "Attendance": 39745.132,
         "LocalFunding": 164840401,
         "StateFunding": 224262721,
@@ -33356,9 +33356,9 @@ var DistrictsData = {
                 "0%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,808.42",
-        "CostOfCharters": "4,378,217.23",
-        "CharterTransfers": "471",
+        "PerStudentCostOfCharters": "9905.289374829894",
+        "CostOfCharters": "4421455.209141566",
+        "CharterTransfers": "471.0",
         "Attendance": 7980.696999999999,
         "LocalFunding": 40832300,
         "StateFunding": 38783205,
@@ -33403,9 +33403,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,801.56",
-        "CostOfCharters": "4,150,607.54",
-        "CharterTransfers": "489",
+        "PerStudentCostOfCharters": "8909.795695790532",
+        "CostOfCharters": "4201647.798297954",
+        "CharterTransfers": "489.0",
         "Attendance": 24551.859,
         "LocalFunding": 180206990,
         "StateFunding": 32682123,
@@ -33454,9 +33454,9 @@ var DistrictsData = {
                 "66%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,008.10",
-        "CostOfCharters": "11,704,482.39",
-        "CharterTransfers": "1,408",
+        "PerStudentCostOfCharters": "9107.569713942094",
+        "CostOfCharters": "11833729.749115916",
+        "CharterTransfers": "1,408.0",
         "Attendance": 18753.525999999998,
         "LocalFunding": 88359348,
         "StateFunding": 87796267,
@@ -33493,9 +33493,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,413.78",
-        "CostOfCharters": "166,709.10",
-        "CharterTransfers": "19",
+        "PerStudentCostOfCharters": "9468.576608136767",
+        "CostOfCharters": "167679.52577895016",
+        "CharterTransfers": "19.0",
         "Attendance": 2387.926,
         "LocalFunding": 21003798,
         "StateFunding": 2207134,
@@ -33540,9 +33540,9 @@ var DistrictsData = {
                 "45%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,069.19",
-        "CostOfCharters": "3,558,739.39",
-        "CharterTransfers": "388",
+        "PerStudentCostOfCharters": "10162.358890928339",
+        "CostOfCharters": "3591667.139434355",
+        "CharterTransfers": "388.0",
         "Attendance": 7299.026999999999,
         "LocalFunding": 64218336,
         "StateFunding": 14458813,
@@ -33575,9 +33575,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,667.21",
-        "CostOfCharters": "3,287,855.04",
-        "CharterTransfers": "383",
+        "PerStudentCostOfCharters": "9825.448449092948",
+        "CostOfCharters": "3341671.828417347",
+        "CharterTransfers": "383.0",
         "Attendance": 5366.18,
         "LocalFunding": 16664702,
         "StateFunding": 37909491,
@@ -33638,9 +33638,9 @@ var DistrictsData = {
                 "18%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,328.40",
-        "CostOfCharters": "34,975,778.55",
-        "CharterTransfers": "4,311",
+        "PerStudentCostOfCharters": "8354.64399872462",
+        "CostOfCharters": "35085992.78368878",
+        "CharterTransfers": "4,311.0",
         "Attendance": 47053.606,
         "LocalFunding": 363989189,
         "StateFunding": 44877883,
@@ -33689,9 +33689,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,312.83",
-        "CostOfCharters": "30,492,246.71",
-        "CharterTransfers": "3,507",
+        "PerStudentCostOfCharters": "9366.81282168656",
+        "CostOfCharters": "30668985.668554757",
+        "CharterTransfers": "3,507.0",
         "Attendance": 23747.648999999998,
         "LocalFunding": 163600682,
         "StateFunding": 61469628,
@@ -33732,9 +33732,9 @@ var DistrictsData = {
                 "2%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,463.46",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10620.391160327039",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1625.49,
         "LocalFunding": 10301534,
         "StateFunding": 7851849,
@@ -33767,9 +33767,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,948.06",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11038.281710382307",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1943.181,
         "LocalFunding": 12389806,
         "StateFunding": 7244680,
@@ -33814,9 +33814,9 @@ var DistrictsData = {
                 "86%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,114.14",
-        "CostOfCharters": "5,330,454.94",
-        "CharterTransfers": "681",
+        "PerStudentCostOfCharters": "8180.812094886555",
+        "CostOfCharters": "5374251.974805092",
+        "CharterTransfers": "681.0",
         "Attendance": 15119.124,
         "LocalFunding": 58894906,
         "StateFunding": 65017670,
@@ -33873,9 +33873,9 @@ var DistrictsData = {
                 "36%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,338.26",
-        "CostOfCharters": "30,452,810.29",
-        "CharterTransfers": "3,562",
+        "PerStudentCostOfCharters": "9419.842648882437",
+        "CostOfCharters": "30718868.89088855",
+        "CharterTransfers": "3,562.0",
         "Attendance": 21812.255,
         "LocalFunding": 102090991,
         "StateFunding": 104897904,
@@ -33916,9 +33916,9 @@ var DistrictsData = {
                 "76%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,224.52",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13344.002893419085",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 168.548,
         "LocalFunding": 1795232,
         "StateFunding": 480935,
@@ -33946,9 +33946,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,526.63",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11603.318877221867",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1041.736,
         "LocalFunding": 6009396,
         "StateFunding": 6576368,
@@ -33981,9 +33981,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,588.33",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12706.262409192088",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 485.63500000000005,
         "LocalFunding": 3526776,
         "StateFunding": 2772891,
@@ -34011,9 +34011,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,950.57",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14134.878843783714",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 349.244,
         "LocalFunding": 1025815,
         "StateFunding": 4020936,
@@ -34046,9 +34046,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,436.76",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10522.731535209907",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1306.601,
         "LocalFunding": 3254551,
         "StateFunding": 10666523,
@@ -34081,9 +34081,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,342.65",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11419.374885145127",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1002.735,
         "LocalFunding": 5983502,
         "StateFunding": 5948363,
@@ -34116,9 +34116,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,677.04",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10746.231441652462",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1771.3670000000002,
         "LocalFunding": 15800750,
         "StateFunding": 3146484,
@@ -34151,9 +34151,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,992.28",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13127.771638075425",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 746.9069999999999,
         "LocalFunding": 3841922,
         "StateFunding": 6419695,
@@ -34186,9 +34186,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,186.56",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14186.5597673837",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 75.49600000000001,
         "LocalFunding": 1435504,
         "StateFunding": 82234,
@@ -34221,9 +34221,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,846.91",
-        "CostOfCharters": "131,120.15",
-        "CharterTransfers": "14",
+        "PerStudentCostOfCharters": "9940.139759222384",
+        "CostOfCharters": "132361.52408825723",
+        "CharterTransfers": "14.0",
         "Attendance": 3762.6820000000002,
         "LocalFunding": 19827400,
         "StateFunding": 20222501,
@@ -34256,9 +34256,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,145.26",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11225.64227400225",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2681.159,
         "LocalFunding": 25743469,
         "StateFunding": 5124763,
@@ -34299,9 +34299,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,295.62",
-        "CostOfCharters": "27,721,164.75",
-        "CharterTransfers": "2,680",
+        "PerStudentCostOfCharters": "11310.121667770834",
+        "CostOfCharters": "27756757.704409752",
+        "CharterTransfers": "2,680.0",
         "Attendance": 24393.172,
         "LocalFunding": 29973866,
         "StateFunding": 254890401,
@@ -34334,9 +34334,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,465.14",
-        "CostOfCharters": "8,116,032.56",
-        "CharterTransfers": "833",
+        "PerStudentCostOfCharters": "10545.985525523201",
+        "CostOfCharters": "8178732.540945691",
+        "CharterTransfers": "833.0",
         "Attendance": 9307.296,
         "LocalFunding": 11967377,
         "StateFunding": 86380222,
@@ -34369,9 +34369,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,809.02",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14859.705162647908",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 213.22500000000002,
         "LocalFunding": 1162054,
         "StateFunding": 2023918,
@@ -34404,9 +34404,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,073.76",
-        "CostOfCharters": "129,525.73",
-        "CharterTransfers": "13",
+        "PerStudentCostOfCharters": "11108.876789802192",
+        "CostOfCharters": "129936.43541199999",
+        "CharterTransfers": "13.0",
         "Attendance": 1871.461,
         "LocalFunding": 3396200,
         "StateFunding": 18788298,
@@ -34439,9 +34439,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,441.92",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11508.793196145503",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2056.82,
         "LocalFunding": 6606380,
         "StateFunding": 17721678,
@@ -34478,9 +34478,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,405.74",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11469.779073571164",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1490.951,
         "LocalFunding": 7872500,
         "StateFunding": 9294660,
@@ -34521,9 +34521,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,141.17",
-        "CostOfCharters": "20,751,988.03",
-        "CharterTransfers": "2,521",
+        "PerStudentCostOfCharters": "9184.031946882922",
+        "CostOfCharters": "20849290.626158595",
+        "CharterTransfers": "2,521.0",
         "Attendance": 31077.251,
         "LocalFunding": 162154905,
         "StateFunding": 126312375,
@@ -34556,9 +34556,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,977.08",
-        "CostOfCharters": "825,968.92",
-        "CharterTransfers": "58",
+        "PerStudentCostOfCharters": "16055.341409606017",
+        "CostOfCharters": "830015.0344704546",
+        "CharterTransfers": "58.0",
         "Attendance": 837.85,
         "LocalFunding": 6813648,
         "StateFunding": 6655762,
@@ -34591,9 +34591,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,321.56",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10348.56154107722",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1969.683,
         "LocalFunding": 17863073,
         "StateFunding": 3817581,
@@ -34626,9 +34626,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,735.94",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11761.444890386068",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 4350.9890000000005,
         "LocalFunding": 50366690,
         "StateFunding": 22059990,
@@ -34665,9 +34665,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,542.50",
-        "CostOfCharters": "253,722.62",
-        "CharterTransfers": "28",
+        "PerStudentCostOfCharters": "10557.44765187924",
+        "CostOfCharters": "254082.33852260356",
+        "CharterTransfers": "28.0",
         "Attendance": 1699.277,
         "LocalFunding": 7985741,
         "StateFunding": 10165857,
@@ -34700,9 +34700,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,555.07",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10605.734625457893",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 3525.3979999999997,
         "LocalFunding": 30700793,
         "StateFunding": 6352895,
@@ -34739,9 +34739,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,615.18",
-        "CostOfCharters": "510,546.83",
-        "CharterTransfers": "63",
+        "PerStudentCostOfCharters": "8663.598343352818",
+        "CostOfCharters": "513416.2675986464",
+        "CharterTransfers": "63.0",
         "Attendance": 5223.462,
         "LocalFunding": 31616391,
         "StateFunding": 14132085,
@@ -34786,9 +34786,9 @@ var DistrictsData = {
                 "80%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,123.32",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10161.34317776108",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1482.7340000000002,
         "LocalFunding": 8207765,
         "StateFunding": 7524377,
@@ -34825,9 +34825,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,996.66",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9062.615570201373",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1205.0220000000002,
         "LocalFunding": 6189035,
         "StateFunding": 5023633,
@@ -34872,9 +34872,9 @@ var DistrictsData = {
                 "24%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,707.84",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12806.296807458652",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 529.7470000000001,
         "LocalFunding": 2327429,
         "StateFunding": 4672865,
@@ -34907,9 +34907,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,369.26",
-        "CostOfCharters": "474,684.55",
-        "CharterTransfers": "54",
+        "PerStudentCostOfCharters": "9430.750635563683",
+        "CostOfCharters": "477799.8130962261",
+        "CharterTransfers": "54.0",
         "Attendance": 3432.9570000000003,
         "LocalFunding": 19782591,
         "StateFunding": 13522082,
@@ -34950,9 +34950,9 @@ var DistrictsData = {
                 "97%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,720.61",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12915.058427907956",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 209.202,
         "LocalFunding": 1988926,
         "StateFunding": 767433,
@@ -34989,9 +34989,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,953.13",
-        "CostOfCharters": "227,741.97",
-        "CharterTransfers": "26",
+        "PerStudentCostOfCharters": "9053.639631182716",
+        "CostOfCharters": "230298.66138686103",
+        "CharterTransfers": "26.0",
         "Attendance": 1879.4129999999998,
         "LocalFunding": 16561534,
         "StateFunding": 5755539,
@@ -35024,9 +35024,9 @@ var DistrictsData = {
                 "89%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,461.71",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12623.592534779445",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 200.63,
         "LocalFunding": 569458,
         "StateFunding": 1992803,
@@ -35067,9 +35067,9 @@ var DistrictsData = {
                 "9%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,297.82",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15680.646196603602",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 134.201,
         "LocalFunding": 1370978,
         "StateFunding": 813961,
@@ -35101,9 +35101,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "19,587.84",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "19587.837319185353",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 116.86,
         "LocalFunding": 1166497,
         "StateFunding": 1160362,
@@ -35131,9 +35131,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "10,344.40",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10399.478945982846",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 748.677,
         "LocalFunding": 3053716,
         "StateFunding": 4969168,
@@ -35166,9 +35166,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,752.98",
-        "CostOfCharters": "207,575.50",
-        "CharterTransfers": "23",
+        "PerStudentCostOfCharters": "9818.537790795657",
+        "CostOfCharters": "208970.74693849296",
+        "CharterTransfers": "23.0",
         "Attendance": 6347.045999999999,
         "LocalFunding": 30704524,
         "StateFunding": 33386805,
@@ -35217,9 +35217,9 @@ var DistrictsData = {
                 "1%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,061.44",
-        "CostOfCharters": "1,372,950.07",
-        "CharterTransfers": "166",
+        "PerStudentCostOfCharters": "9201.650726788152",
+        "CostOfCharters": "1394193.7831323403",
+        "CharterTransfers": "166.0",
         "Attendance": 6817.29,
         "LocalFunding": 58723179,
         "StateFunding": 5093288,
@@ -35252,9 +35252,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,072.25",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14305.083916609527",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 161.889,
         "LocalFunding": 1799479,
         "StateFunding": 589674,
@@ -35287,9 +35287,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,603.00",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13737.316247687802",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 305.856,
         "LocalFunding": 600703,
         "StateFunding": 3892703,
@@ -35326,9 +35326,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,224.10",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12346.537852208048",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 771.8580000000001,
         "LocalFunding": 3063546,
         "StateFunding": 6598090,
@@ -35361,9 +35361,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,634.01",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14634.00727152455",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 90.945,
         "LocalFunding": 232137,
         "StateFunding": 1158373,
@@ -35391,9 +35391,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,490.44",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13490.436158914417",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 444.51599999999996,
         "LocalFunding": 1335879,
         "StateFunding": 4748551,
@@ -35426,9 +35426,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,239.67",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12239.674257965256",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 196.29,
         "LocalFunding": 220071,
         "StateFunding": 2216270,
@@ -35461,9 +35461,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,586.40",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12586.404557538757",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 697.078,
         "LocalFunding": 2311276,
         "StateFunding": 6989954,
@@ -35496,9 +35496,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,441.36",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12556.755236176252",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1063.0620000000001,
         "LocalFunding": 4300953,
         "StateFunding": 11717300,
@@ -35531,9 +35531,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,301.76",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13349.62777571348",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 432.00100000000003,
         "LocalFunding": 708219,
         "StateFunding": 5267790,
@@ -35566,9 +35566,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,857.86",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10990.646488021312",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1702.315,
         "LocalFunding": 5926539,
         "StateFunding": 13278790,
@@ -35601,9 +35601,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,481.75",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12481.753756521983",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 776.3970000000002,
         "LocalFunding": 1827164,
         "StateFunding": 8119556,
@@ -35636,9 +35636,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,038.37",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14038.37275269703",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 113.14299999999999,
         "LocalFunding": 466594,
         "StateFunding": 1152366,
@@ -35666,9 +35666,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "10,510.80",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10510.798305888555",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 485.552,
         "LocalFunding": 2403410,
         "StateFunding": 2757558,
@@ -35701,9 +35701,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,603.79",
-        "CostOfCharters": "134,725.79",
-        "CharterTransfers": "15",
+        "PerStudentCostOfCharters": "9607.568708234641",
+        "CostOfCharters": "134778.8074010139",
+        "CharterTransfers": "15.0",
         "Attendance": 2088.361,
         "LocalFunding": 9801694,
         "StateFunding": 10901301,
@@ -35736,9 +35736,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,137.54",
-        "CostOfCharters": "238,076.59",
-        "CharterTransfers": "24",
+        "PerStudentCostOfCharters": "11149.424560323461",
+        "CostOfCharters": "238330.64661249568",
+        "CharterTransfers": "24.0",
         "Attendance": 2032.506,
         "LocalFunding": 6280427,
         "StateFunding": 16697272,
@@ -35766,9 +35766,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "10,686.87",
-        "CostOfCharters": "240,827.32",
-        "CharterTransfers": "27",
+        "PerStudentCostOfCharters": "10693.901335910157",
+        "CostOfCharters": "240985.8524683021",
+        "CharterTransfers": "27.0",
         "Attendance": 6388.223000000001,
         "LocalFunding": 23683363,
         "StateFunding": 46146476,
@@ -35796,9 +35796,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,071.73",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11088.554867460402",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1028.473,
         "LocalFunding": 2870086,
         "StateFunding": 9118913,
@@ -35831,9 +35831,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,507.35",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12660.31296072947",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 883.4870000000001,
         "LocalFunding": 5580505,
         "StateFunding": 5748806,
@@ -35870,9 +35870,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,106.30",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14232.150754003014",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 223.519,
         "LocalFunding": 721849,
         "StateFunding": 2737368,
@@ -35905,9 +35905,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,999.90",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15605.831795624961",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 112.319,
         "LocalFunding": 1558917,
         "StateFunding": 523797,
@@ -35935,9 +35935,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "9,946.32",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10004.323125009554",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1724.0810000000001,
         "LocalFunding": 8659415,
         "StateFunding": 8798973,
@@ -35974,9 +35974,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "16,263.73",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "16399.91924975541",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 211.579,
         "LocalFunding": 2695321,
         "StateFunding": 756317,
@@ -36004,9 +36004,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,532.81",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13817.060037965684",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 155.256,
         "LocalFunding": 1317943,
         "StateFunding": 1026185,
@@ -36038,9 +36038,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "14,224.65",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14273.802064105574",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 336.289,
         "LocalFunding": 1214050,
         "StateFunding": 3633453,
@@ -36073,9 +36073,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "18,844.38",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "18925.144193612177",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 120.76100000000001,
         "LocalFunding": 887989,
         "StateFunding": 1450930,
@@ -36112,9 +36112,9 @@ var DistrictsData = {
                 "99%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,391.88",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14437.893467040825",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 625.046,
         "LocalFunding": 2880692,
         "StateFunding": 6731304,
@@ -36155,9 +36155,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,576.21",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13698.968883778647",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 301.547,
         "LocalFunding": 1033013,
         "StateFunding": 3121768,
@@ -36193,9 +36193,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,900.39",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12036.795130629276",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 565.126,
         "LocalFunding": 2479296,
         "StateFunding": 4419129,
@@ -36236,9 +36236,9 @@ var DistrictsData = {
                 "6%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,473.31",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12588.853365863944",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 553.948,
         "LocalFunding": 2468872,
         "StateFunding": 4649630,
@@ -36279,9 +36279,9 @@ var DistrictsData = {
                 "1%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,040.29",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11135.7969613296",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 960.409,
         "LocalFunding": 6205746,
         "StateFunding": 4785161,
@@ -36314,9 +36314,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,513.05",
-        "CostOfCharters": "487,833.31",
-        "CharterTransfers": "60",
+        "PerStudentCostOfCharters": "8576.311644285075",
+        "CostOfCharters": "491458.2593545678",
+        "CharterTransfers": "60.0",
         "Attendance": 7882.186000000001,
         "LocalFunding": 55802524,
         "StateFunding": 13867876,
@@ -36349,9 +36349,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,885.96",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9922.6868625394",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1387.343,
         "LocalFunding": 4940001,
         "StateFunding": 9498094,
@@ -36388,9 +36388,9 @@ var DistrictsData = {
                 "2%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,443.82",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13539.899314699707",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 171.983,
         "LocalFunding": 858264,
         "StateFunding": 1475864,
@@ -36427,9 +36427,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,533.13",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9594.319592902393",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1661.18,
         "LocalFunding": 6453656,
         "StateFunding": 9858324,
@@ -36462,9 +36462,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,902.20",
-        "CostOfCharters": "141,647.50",
-        "CharterTransfers": "12",
+        "PerStudentCostOfCharters": "13075.461959177275",
+        "CostOfCharters": "143549.70171187885",
+        "CharterTransfers": "12.0",
         "Attendance": 410.781,
         "LocalFunding": 1727788,
         "StateFunding": 3743097,
@@ -36497,9 +36497,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,392.50",
-        "CostOfCharters": "104,295.83",
-        "CharterTransfers": "10",
+        "PerStudentCostOfCharters": "11569.723890153464",
+        "CostOfCharters": "105918.2481540047",
+        "CharterTransfers": "10.0",
         "Attendance": 1563.636,
         "LocalFunding": 16719071,
         "StateFunding": 3510699,
@@ -36532,9 +36532,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,286.52",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13347.214352555411",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 352.546,
         "LocalFunding": 1410944,
         "StateFunding": 3596936,
@@ -36567,9 +36567,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,630.24",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12793.07139806453",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 541.1610000000001,
         "LocalFunding": 2095801,
         "StateFunding": 4938050,
@@ -36614,9 +36614,9 @@ var DistrictsData = {
                 "98%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,510.44",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11657.210381731988",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1004.072,
         "LocalFunding": 4797988,
         "StateFunding": 7042816,
@@ -36649,9 +36649,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,017.14",
-        "CostOfCharters": "556,897.41",
-        "CharterTransfers": "56",
+        "PerStudentCostOfCharters": "11131.199829209323",
+        "CostOfCharters": "562662.8613726085",
+        "CharterTransfers": "56.0",
         "Attendance": 1311.547,
         "LocalFunding": 5009644,
         "StateFunding": 9928460,
@@ -36684,9 +36684,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,889.51",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "15954.04999789279",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 128.89100000000002,
         "LocalFunding": 418837,
         "StateFunding": 1742123,
@@ -36719,9 +36719,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "8,707.87",
-        "CostOfCharters": "1,669,230.47",
-        "CharterTransfers": "198",
+        "PerStudentCostOfCharters": "8795.361440235052",
+        "CostOfCharters": "1686001.2763143256",
+        "CharterTransfers": "198.0",
         "Attendance": 5362.5380000000005,
         "LocalFunding": 29587191,
         "StateFunding": 17889327,
@@ -36758,9 +36758,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,202.52",
-        "CostOfCharters": "8,996,573.74",
-        "CharterTransfers": "1,035",
+        "PerStudentCostOfCharters": "9323.468553073773",
+        "CostOfCharters": "9114820.268141976",
+        "CharterTransfers": "1,035.0",
         "Attendance": 11208.167,
         "LocalFunding": 98637881,
         "StateFunding": 11812616,
@@ -36805,9 +36805,9 @@ var DistrictsData = {
                 "39%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,928.01",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13045.460885160546",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 621.903,
         "LocalFunding": 2277016,
         "StateFunding": 6034260,
@@ -36844,9 +36844,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,340.11",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12518.01454872556",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 253.28800000000004,
         "LocalFunding": 1080506,
         "StateFunding": 2110221,
@@ -36883,9 +36883,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,848.61",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13918.981101801832",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 322.283,
         "LocalFunding": 1476481,
         "StateFunding": 3121411,
@@ -36913,9 +36913,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,463.28",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12514.819413634723",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 642.712,
         "LocalFunding": 3194789,
         "StateFunding": 5108174,
@@ -36952,9 +36952,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,930.44",
-        "CostOfCharters": "670,357.01",
-        "CharterTransfers": "60",
+        "PerStudentCostOfCharters": "12106.319850080969",
+        "CostOfCharters": "680239.3027032234",
+        "CharterTransfers": "60.0",
         "Attendance": 482.28700000000003,
         "LocalFunding": 3033569,
         "StateFunding": 3036523,
@@ -36982,9 +36982,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "9,925.59",
-        "CostOfCharters": "2,697,095.30",
-        "CharterTransfers": "296",
+        "PerStudentCostOfCharters": "9994.078270058864",
+        "CostOfCharters": "2715705.7527751033",
+        "CharterTransfers": "296.0",
         "Attendance": 7714.053000000001,
         "LocalFunding": 37739325,
         "StateFunding": 43479643,
@@ -37017,9 +37017,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,118.77",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9214.882992757666",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1675.565,
         "LocalFunding": 5013542,
         "StateFunding": 11071440,
@@ -37052,9 +37052,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,141.80",
-        "CostOfCharters": "895,362.98",
-        "CharterTransfers": "93",
+        "PerStudentCostOfCharters": "10225.16932624586",
+        "CostOfCharters": "902722.8945051987",
+        "CharterTransfers": "93.0",
         "Attendance": 2188.1240000000003,
         "LocalFunding": 15542928,
         "StateFunding": 6960362,
@@ -37099,9 +37099,9 @@ var DistrictsData = {
                 "97%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,287.09",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11363.022560640773",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 621.999,
         "LocalFunding": 1327943,
         "StateFunding": 6614903,
@@ -37146,9 +37146,9 @@ var DistrictsData = {
                 "40%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,307.43",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13443.672529559932",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 357.30800000000005,
         "LocalFunding": 1265087,
         "StateFunding": 3596332,
@@ -37189,9 +37189,9 @@ var DistrictsData = {
                 "3%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,891.55",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12985.8400079313",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 623.3530000000001,
         "LocalFunding": 2311446,
         "StateFunding": 5558600,
@@ -37224,9 +37224,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,734.73",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13866.233650146607",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 468.259,
         "LocalFunding": 746489,
         "StateFunding": 5821084,
@@ -37263,9 +37263,9 @@ var DistrictsData = {
                 "17%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,988.98",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12110.054974306155",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 438.06600000000003,
         "LocalFunding": 2583331,
         "StateFunding": 2721404,
@@ -37298,9 +37298,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,093.95",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10163.179185187892",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1466.0440000000003,
         "LocalFunding": 4304665,
         "StateFunding": 11021694,
@@ -37328,9 +37328,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "11,503.16",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11532.509471297535",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 155.24800000000002,
         "LocalFunding": 186551,
         "StateFunding": 1686394,
@@ -37363,9 +37363,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,033.96",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14124.189362431722",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 720.938,
         "LocalFunding": 3072589,
         "StateFunding": 6472382,
@@ -37402,9 +37402,9 @@ var DistrictsData = {
                 "5%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,815.46",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10966.833706119813",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 830.1560000000001,
         "LocalFunding": 2048498,
         "StateFunding": 7590376,
@@ -37436,9 +37436,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "9,394.00",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9504.971887462501",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1461.735,
         "LocalFunding": 4332822,
         "StateFunding": 10681314,
@@ -37483,9 +37483,9 @@ var DistrictsData = {
                 "0%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,430.75",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13681.496847104532",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 593.013,
         "LocalFunding": 2395511,
         "StateFunding": 5872193,
@@ -37518,9 +37518,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "15,943.56",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "16035.939998778875",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 137.578,
         "LocalFunding": 1437207,
         "StateFunding": 774531,
@@ -37561,9 +37561,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,045.03",
-        "CostOfCharters": "3,546,062.38",
-        "CharterTransfers": "443",
+        "PerStudentCostOfCharters": "9128.583801577208",
+        "CostOfCharters": "3578818.5488569867",
+        "CharterTransfers": "443.0",
         "Attendance": 38795.672,
         "LocalFunding": 81466650,
         "StateFunding": 294551325,
@@ -37595,9 +37595,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "8,832.06",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "8892.528513017463",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2029.835,
         "LocalFunding": 9607792,
         "StateFunding": 8932139,
@@ -37634,9 +37634,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,649.35",
-        "CostOfCharters": "1,501,973.75",
-        "CharterTransfers": "166",
+        "PerStudentCostOfCharters": "9733.625244159899",
+        "CostOfCharters": "1515092.0204975675",
+        "CharterTransfers": "166.0",
         "Attendance": 11823.252,
         "LocalFunding": 39195513,
         "StateFunding": 82444597,
@@ -37677,9 +37677,9 @@ var DistrictsData = {
                 "19%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,351.87",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12441.412146181274",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1010.455,
         "LocalFunding": 4939994,
         "StateFunding": 7786554,
@@ -37720,9 +37720,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,003.91",
-        "CostOfCharters": "139,999.76",
-        "CharterTransfers": "15",
+        "PerStudentCostOfCharters": "10145.014099227614",
+        "CostOfCharters": "141974.48296749414",
+        "CharterTransfers": "15.0",
         "Attendance": 3187.0160000000005,
         "LocalFunding": 13930689,
         "StateFunding": 18760992,
@@ -37759,9 +37759,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,229.50",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9286.983205130013",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2557.186,
         "LocalFunding": 8271018,
         "StateFunding": 15876172,
@@ -37798,9 +37798,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,845.78",
-        "CostOfCharters": "996,885.47",
-        "CharterTransfers": "107",
+        "PerStudentCostOfCharters": "9916.443219383196",
+        "CostOfCharters": "1004039.9991175813",
+        "CharterTransfers": "107.0",
         "Attendance": 7619.3,
         "LocalFunding": 15755837,
         "StateFunding": 60179348,
@@ -37841,9 +37841,9 @@ var DistrictsData = {
                 "99%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,114.36",
-        "CostOfCharters": "272,733.33",
-        "CharterTransfers": "30",
+        "PerStudentCostOfCharters": "10305.05047229227",
+        "CostOfCharters": "277875.2721943849",
+        "CharterTransfers": "30.0",
         "Attendance": 2798.0640000000003,
         "LocalFunding": 26463336,
         "StateFunding": 3159400,
@@ -37876,9 +37876,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,121.30",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11206.508970924262",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 806.308,
         "LocalFunding": 8620266,
         "StateFunding": 655329,
@@ -37911,9 +37911,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,847.09",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13900.36748164771",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 336.71,
         "LocalFunding": 1681491,
         "StateFunding": 3173502,
@@ -37946,9 +37946,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,473.96",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12846.166352097332",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 182.303,
         "LocalFunding": 2265724,
         "StateFunding": 451901,
@@ -37985,9 +37985,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,370.50",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13824.680453541956",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 130.63400000000001,
         "LocalFunding": -206076,
         "StateFunding": 1913586,
@@ -38020,9 +38020,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "13,346.29",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13640.804089416823",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 156.24800000000002,
         "LocalFunding": 876246,
         "StateFunding": 1336189,
@@ -38055,9 +38055,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "14,107.35",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "14148.67898189818",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 407.285,
         "LocalFunding": 2083123,
         "StateFunding": 3905344,
@@ -38085,9 +38085,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "12,320.90",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12424.529916797866",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 574.817,
         "LocalFunding": 2686273,
         "StateFunding": 4464345,
@@ -38120,9 +38120,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "17,951.49",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "17976.322094126717",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 101.153,
         "LocalFunding": 893219,
         "StateFunding": 943141,
@@ -38155,9 +38155,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,515.67",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11694.957602000548",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 836.971,
         "LocalFunding": 3752385,
         "StateFunding": 6356683,
@@ -38185,9 +38185,9 @@ var DistrictsData = {
             ]
         ],
         "Senate": [],
-        "PerStudentCostOfCharters": "13,528.37",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "13667.25821577588",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 402.64,
         "LocalFunding": 1578541,
         "StateFunding": 4127587,
@@ -38220,9 +38220,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "11,075.11",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "11145.74484705433",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1026.303,
         "LocalFunding": 4135863,
         "StateFunding": 7455270,
@@ -38255,9 +38255,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,411.01",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12558.510328848435",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 459.661,
         "LocalFunding": 2327984,
         "StateFunding": 3455274,
@@ -38290,9 +38290,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "12,943.06",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "12960.83925283487",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 967.24,
         "LocalFunding": 2224878,
         "StateFunding": 12212316,
@@ -38325,9 +38325,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,083.62",
-        "CostOfCharters": "159,625.70",
-        "CharterTransfers": "19",
+        "PerStudentCostOfCharters": "9132.741692703788",
+        "CostOfCharters": "160488.98816788234",
+        "CharterTransfers": "19.0",
         "Attendance": 12578.515,
         "LocalFunding": 46541688,
         "StateFunding": 71266797,
@@ -38360,9 +38360,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "9,815.64",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "9870.05732545285",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 2960.7330000000006,
         "LocalFunding": 9897769,
         "StateFunding": 18744089,
@@ -38395,9 +38395,9 @@ var DistrictsData = {
                 "100%"
             ]
         ],
-        "PerStudentCostOfCharters": "10,097.66",
-        "CostOfCharters": "0.00",
-        "CharterTransfers": "0",
+        "PerStudentCostOfCharters": "10171.235524361931",
+        "CostOfCharters": "0.0",
+        "CharterTransfers": "0.0",
         "Attendance": 1819.0839999999998,
         "LocalFunding": 6570844,
         "StateFunding": 12496191,

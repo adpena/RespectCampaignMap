@@ -468,7 +468,11 @@ with open("Districts2020to2021.geojson", "r") as json_file:
 
                                     else:
                                         if pad_district_number(row[header_indexes["CDN"]]) == district_number_local:
-                                            return row[header_indexes["Est. Per Student Revenue Loss"]], row[header_indexes["Total Estimated Revenue Loss to Charters"]], row[header_indexes["Charter Transfers"]]
+                                            try:
+                                                return row[header_indexes["Est. Per Student Revenue Loss"]], row[header_indexes["Total Estimated Revenue Loss to Charters"]], row[header_indexes["Charter Transfers"]]
+                                            except Exception:
+                                                print("CHARTER COST ERROR:", row)
+                                                return default, default, default
 
                             return default, default, default
 
