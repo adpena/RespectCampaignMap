@@ -543,6 +543,32 @@ with open("Districts2020to2021.geojson", "r") as json_file:
                         feature["properties"]["LocalFunding"], feature["properties"]["StateFunding"], feature["properties"]["FederalFunding"], feature["properties"]["OtherLocalFunding"], feature["properties"]["RecaptureAmount"] = get_state_and_local_funding(district_number)
                         new_json[district_number]["LocalFunding"], new_json[district_number]["StateFunding"], new_json[district_number]["FederalFunding"], new_json[district_number]["OtherLocalFunding"], new_json[district_number]["RecaptureAmount"] = get_state_and_local_funding(district_number)
 
+                        def get_charter_cost_link(district_number_local):
+                            with open("Cost of Charters reports.csv", "r") as csvfile:
+                                reader = csv.reader(csvfile)
+
+                                header = False
+                                header_indexes = {}
+
+                                for row in reader:
+                                    if header is False:
+                                        header = True
+
+                                        for i, header_label in enumerate(row):
+                                            header_indexes[header_label] = i
+
+                                    else:
+
+                                        document_name = row[header_indexes["\ufeffDocumentName"]]
+
+                                        if district_number_local in document_name:
+                                            return row[header_indexes["Link"]]
+
+                        charter_cost_link = get_charter_cost_link(district_number)
+
+                        feature["properties"]["CharterCostLink"] = charter_cost_link
+                        new_json[district_number]["CharterCostLink"] = charter_cost_link
+
     # with open("DistrictsFinal.geojson", "w", encoding="utf-8") as f:
         # json.dump(json_raw, f, ensure_ascii=False, indent=4)
 

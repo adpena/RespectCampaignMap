@@ -348,7 +348,7 @@
                   </div>
                   <br>
                   <div style="text-align: center; border: 1px solid lightgrey; border-radius: 4px; padding: 15px;">
-                      <h4 class="modal-subheader">2020-2021 COST OF CHARTERS</h4>
+                      <h4 class="modal-subheader"><a id="detail-charter-cost-link">2020-2021 COST OF CHARTERS</a></h4>
                       <div style="display: flex; flex-direction: row;">
                           <div style="flex: 0.33; flex-direction: column">
                             <p style="font-weight: bold;">Estimated Revenue Loss, Per Student:
@@ -637,6 +637,7 @@
             TexasDistrictsFeatureCollection['features'][i].properties["FederalFunding"] = districtData[districtNumber]["FederalFunding"]
             TexasDistrictsFeatureCollection['features'][i].properties["OtherLocalFunding"] = districtData[districtNumber]["OtherLocalFunding"]
 
+            TexasDistrictsFeatureCollection['features'][i].properties["CharterCostLink"] = districtData[districtNumber]["CharterCostLink"]
         }
 
         window.geojson = L.geoJSON(TexasDistrictsFeatureCollection, {
@@ -956,6 +957,10 @@
 
                             var charterCostPerStudent = document.getElementById('detail-district-charter-cost-per-student');
                             charterCostPerStudent.innerText = `$${districtLocal.properties.PerStudentCostOfCharters}`
+
+                            var charterCostLink = document.getElementById('detail-charter-cost-link');
+                            charterCostLink.href = districtLocal.properties.CharterCostLink;
+                            charterCostLink.target = "_blank";
 
                             var stateFunding = document.getElementById('detail-state-funding');
                             stateFunding.innerText = `$${districtLocal.properties.StateFunding.toLocaleString()} (${((districtLocal.properties.StateFunding/(districtLocal.properties.StateFunding + districtLocal.properties.LocalFunding + districtLocal.properties.FederalFunding + districtLocal.properties.OtherLocalFunding)) * 100).toFixed(2)}%)`
