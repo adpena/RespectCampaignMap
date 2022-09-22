@@ -358,7 +358,7 @@
                             </p>
                           </div>
                           <div style="flex: 0.33; flex-direction: column">
-                            <p style="font-weight: bold;"><a href="https://rptsvr1.tea.texas.gov/adhocrpt/Standard_Reports/Transfer_Reports/district_transfer_report.html" target="_blank">Charter Transfers Out, Total:</a>
+                            <p style="font-weight: bold;">Charter Transfers Out, Total:
                                 <br>
                                 <br>
                                 <span id="detail-charter-transfers" style="font-weight: normal;"></span>
@@ -974,8 +974,8 @@
                             var otherLocalFunding = document.getElementById('detail-other-local-funding');
                             otherLocalFunding.innerText = `$${districtLocal.properties.OtherLocalFunding.toLocaleString()} (${((districtLocal.properties.OtherLocalFunding/(districtLocal.properties.StateFunding + districtLocal.properties.LocalFunding + districtLocal.properties.FederalFunding + districtLocal.properties.OtherLocalFunding)) * 100).toFixed(2)}%)`
 
-                            var charterTransfers = document.getElementById('detail-charter-transfers');
-                            charterTransfers.innerText = `${districtLocal.properties.CharterTransfers.toLocaleString()}`
+                            // var charterTransfers = document.getElementById('detail-charter-transfers');
+                            // charterTransfers.innerText = `${districtLocal.properties.CharterTransfers.toLocaleString()}`
 
                             var pieChart = document.getElementById('pie-chartcanvas-1');
 
