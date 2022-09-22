@@ -974,8 +974,8 @@
                             var otherLocalFunding = document.getElementById('detail-other-local-funding');
                             otherLocalFunding.innerText = `$${districtLocal.properties.OtherLocalFunding.toLocaleString()} (${((districtLocal.properties.OtherLocalFunding/(districtLocal.properties.StateFunding + districtLocal.properties.LocalFunding + districtLocal.properties.FederalFunding + districtLocal.properties.OtherLocalFunding)) * 100).toFixed(2)}%)`
 
-                            // var charterTransfers = document.getElementById('detail-charter-transfers');
-                            // charterTransfers.innerText = `${districtLocal.properties.CharterTransfers.toLocaleString()}`
+                            var charterTransfers = document.getElementById('detail-charter-transfers');
+                            charterTransfers.innerText = `${districtLocal.properties.CharterTransfers.toLocaleString()}`
 
                             var pieChart = document.getElementById('pie-chartcanvas-1');
 
