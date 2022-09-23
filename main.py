@@ -544,7 +544,7 @@ with open("Districts2020to2021.geojson", "r") as json_file:
                         new_json[district_number]["LocalFunding"], new_json[district_number]["StateFunding"], new_json[district_number]["FederalFunding"], new_json[district_number]["OtherLocalFunding"], new_json[district_number]["RecaptureAmount"] = get_state_and_local_funding(district_number)
 
                         def get_charter_cost_link(district_number_local):
-                            with open("Cost of Charters reports.csv", "r") as csvfile:
+                            with open("Cost of Charters reports_2020-2021.csv", "r") as csvfile:
                                 reader = csv.reader(csvfile)
 
                                 header = False
