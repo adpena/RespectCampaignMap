@@ -1056,7 +1056,7 @@
                         recaptureAmountFloat = parseInt(districtLocal.properties.RecaptureAmount)
                     }
 
-                    var costOfChartersFloat = parseFloat(districtLocal.properties.CostOfCharters.replaceAll(",", ""))
+                    var costOfChartersFloat = parseFloat(districtLocal.properties.CostOfCharters.replaceAll(",", "").replaceAll("$", ""))
 
                     var barChartElement = document.getElementById('myBarChart');
 
