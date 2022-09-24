@@ -950,15 +950,15 @@
                             attendance.innerText = `${districtLocal.properties.Attendance.toLocaleString()}`
 
                             var charterCost = document.getElementById('detail-district-charter-cost');
-                            var charterCostText = parseFloat(parseFloat(districtLocal.properties.CostOfCharters).toFixed(2))
-                            charterCost.innerText = `$${charterCostText.toLocaleString()}`
+                            var charterCostText = districtLocal.properties.CostOfCharters
+                            charterCost.innerText = `${charterCostText}`
 
                             var charterCost2 = document.getElementById('detail-district-charter-cost-2');
-                            charterCost2.innerText = `$${charterCostText.toLocaleString()}`
+                            charterCost2.innerText = `${charterCostText}`
 
                             var charterCostPerStudent = document.getElementById('detail-district-charter-cost-per-student');
-                            var charterCostPerStudentText = parseFloat(parseFloat(districtLocal.properties.PerStudentCostOfCharters).toFixed(2))
-                            charterCostPerStudent.innerText = `$${charterCostPerStudentText.toLocaleString()}`
+                            var charterCostPerStudentText = districtLocal.properties.PerStudentCostOfCharters
+                            charterCostPerStudent.innerText = `${charterCostPerStudentText}`
 
                             var charterCostLink = document.getElementById('detail-charter-cost-link');
                             charterCostLink.href = districtLocal.properties.CharterCostLink;
