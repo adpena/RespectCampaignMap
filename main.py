@@ -469,15 +469,15 @@ with open("Districts2020to2021.geojson", "r") as json_file:
                                     else:
                                         if pad_district_number(row[header_indexes["CDN"]]) == district_number_local:
                                             try:
-                                                return row[header_indexes["Est. Per Student Revenue Loss"]], row[header_indexes["Total Estimated Revenue Loss to Charters"]], row[header_indexes["Charter Transfers"]]
+                                                return row[header_indexes["Est. Per Student Revenue Loss"]], row[header_indexes["Total Estimated Revenue Loss to Charters"]], row[header_indexes["Charter Transfers Out"]], row[header_indexes["Total Transfers Out"]]
                                             except Exception:
                                                 print("CHARTER COST ERROR:", row)
-                                                return default, default, default
+                                                return default, default, default, default
 
-                            return default, default, default
+                            return default, default, default, default
 
-                        feature["properties"]["PerStudentCostOfCharters"], feature["properties"]["CostOfCharters"], feature["properties"]["CharterTransfers"] = get_cost_of_charters_and_charter_transfers(district_number)
-                        new_json[district_number]["PerStudentCostOfCharters"], new_json[district_number]["CostOfCharters"], new_json[district_number]["CharterTransfers"] = get_cost_of_charters_and_charter_transfers(district_number)
+                        feature["properties"]["PerStudentCostOfCharters"], feature["properties"]["CostOfCharters"], feature["properties"]["CharterTransfers"], feature["properties"]["TotalTransfers"] = get_cost_of_charters_and_charter_transfers(district_number)
+                        new_json[district_number]["PerStudentCostOfCharters"], new_json[district_number]["CostOfCharters"], new_json[district_number]["CharterTransfers"], new_json[district_number]["TotalTransfers"] = get_cost_of_charters_and_charter_transfers(district_number)
 
                         def get_current_year_attendance(district_number_local):
                             attendance_local = 0.0
