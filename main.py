@@ -16,7 +16,7 @@ school_districts_url = (
     "/Users/adpena/PycharmProjects/RespectCampaign/district reports/all_districts/all_files"
 )
 
-peims_actual_funding_breakdown = "/Users/adpena/PycharmProjects/CharterTransfers/2020-2021 PEIMS Actual_funding_breakdown.csv"
+peims_actual_funding_breakdown = "/Users/adpena/PycharmProjects/CharterCost/2020-2021 PEIMS Actual_funding_breakdown.csv"
 
 # create a list of the district folders in the directory
 
@@ -163,45 +163,7 @@ with open("Districts2020to2021.geojson", "r") as json_file:
                         feature["properties"]["PercentChangeSupportStaffPay"] = percent_change_support_staff
                         new_json[district_number]["PercentChangeSupportStaffPay"] = percent_change_support_staff
 
-                        # TODO: pull in recapture and enrollment
-
-                        recapture_url = "/Users/adpena/PycharmProjects/CharterCostTracker/reports/recapture reports/2020-2021 recapture amounts_w links.csv"
-
-                        def get_recapture_amount(district_number_local):
-                            recapture_amount_local = f"No 2020-2021 cost of recapture report"
-                            with open(recapture_url, "r") as csvfile:
-                                reader = csv.reader(csvfile, quotechar='"')
-
-                                header = False
-                                header_indexes = {}
-
-                                for row in reader:
-                                    if header is False:
-                                        header = True
-                                        for i, header_label in enumerate(row):
-                                            header_indexes[header_label] = i
-
-                                    else:
-                                        if (
-                                            pad_district_number(
-                                                row[header_indexes["District Number"]]
-                                            )
-                                            == district_number_local
-                                        ):
-
-                                            recapture_amount_local = (
-                                                row[header_indexes["Recapture Amount"]]
-                                                .replace(",", "")
-                                                .replace("$", "")
-                                            )
-
-                            return recapture_amount_local
-
-                        # recapture_amount = get_recapture_amount(district_number)
-
-                        # feature["properties"]["RecaptureAmount"] = recapture_amount
-
-                        # new_json[district_number]["RecaptureAmount"] = recapture_amount
+                        # TODO: Enrollment - GET LONGITUDINAL CHANGE
 
                         def get_enrollment_change(year_delta, district_number_local):
                             enrollment_url = "/Users/adpena/PycharmProjects/CharterCostTracker/enrollment_reports/statewide_reports_consolidated/"
@@ -500,26 +462,6 @@ with open("Districts2020to2021.geojson", "r") as json_file:
 
                         feature["properties"]["Attendance"] = attendance
                         new_json[district_number]["Attendance"] = attendance
-
-                        def get_state_and_local_funding_sof(district_number_local):
-                            total_state_funding = 0.0
-                            total_local_funding = 0.0
-
-                            xls_url = f"/Users/adpena/PycharmProjects/CharterCostTracker/reports/summaries of finances/excel/2020-2021 {district_number_local} SOF.xls"
-
-                            wb = xlrd.open_workbook(xls_url)
-                            sh = wb.sheet_by_index(0)
-
-                            for row in range(sh.nrows):
-                                row = sh.row_values(row)
-                                if row[1].strip() == "TOTAL FSP/ASF STATE AID":
-
-                                    total_state_funding = float(row[13])
-                                elif row[1].strip() == "Local Fund Assignment":
-
-                                    total_local_funding = float(row[13].strip().replace("(", "").replace(")", "").replace(",", "").replace("$", ""))
-
-                            return total_state_funding, total_local_funding
 
                         def get_state_and_local_funding(district_number_local):
 
