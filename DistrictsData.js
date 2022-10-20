@@ -38,7 +38,7 @@ var DistrictsData = {
         "FederalFunding": 1165187,
         "OtherLocalFunding": 1603630,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbtupS4rZ-tBhzk3FZOyGTIBUM3iSy2g33tluMSFEcT7KA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdMh1UbcAkpGoGMAbwLE0-MBEbuT9jVlUjFx9OCB8N4GNQ"
     },
     "063906": {
         "NAME": "PATTON SPRINGS ISD",
@@ -70,7 +70,7 @@ var DistrictsData = {
         "FederalFunding": 474418,
         "OtherLocalFunding": 54778,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUB4ZgjdmmNPqK5kfaPFxjMBMy8IwZxfJFx6wDRxS5qoLw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZYkLLOaY4xNrc6Twv_PULMBRulglEjyvH0vy1AnH0lMDw"
     },
     "063903": {
         "NAME": "SPUR ISD",
@@ -102,7 +102,7 @@ var DistrictsData = {
         "FederalFunding": 352029,
         "OtherLocalFunding": 103311,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbXtzxKsAY9PhW0Jg9rEMLkBfW6zQSrEZb2oGjYhJ_FSFA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfO98DBJJkRLtqkUBxmbMx4B5J3HlCMrBHTnXnSDalBXew"
     },
     "091906": {
         "NAME": "SHERMAN ISD",
@@ -139,7 +139,7 @@ var DistrictsData = {
         "FederalFunding": 13145353,
         "OtherLocalFunding": 1032783,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETPva_NwyBFNlwnnxcokQ0cBUQxNJwJ8PJDRxB_A9bma0g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb0QshWLasFKmglLlKFa8mYBTu8juUwRt0CfOfvLywBL2w"
     },
     "091914": {
         "NAME": "S AND S CONS ISD",
@@ -166,7 +166,7 @@ var DistrictsData = {
         "FederalFunding": 1439823,
         "OtherLocalFunding": 262009,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUcNCzaYX9JEtVELwpqZ5G8BvFQVEiHXOpQ3_UyNFFTZ6w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU0UvR34uwhLiJineTG_7ggB9OdjrvXqYHFkA_-57S2TUQ"
     },
     "091913": {
         "NAME": "POTTSBORO ISD",
@@ -198,7 +198,7 @@ var DistrictsData = {
         "FederalFunding": 1950535,
         "OtherLocalFunding": 554378,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec-61e91CVRHts6jupjiN8cBbbd5bQkG8lPhSPAafgLA9A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWqi1UkImNdJrEbx2_IPZHQBWS_c7NPuTleohryYR4Aacw"
     },
     "070912": {
         "NAME": "WAXAHACHIE ISD",
@@ -230,7 +230,7 @@ var DistrictsData = {
         "FederalFunding": 6147219,
         "OtherLocalFunding": 2058503,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeMyq1iAGmFDlFSe3J6npFkBqsm3eiKoLI3ELb5l4Va-JA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUbC6ouyKNFMh7vJAImktTgByE-4Qaacm4--0nKEfRR03A"
     },
     "070910": {
         "NAME": "PALMER ISD",
@@ -267,7 +267,7 @@ var DistrictsData = {
         "FederalFunding": 1431657,
         "OtherLocalFunding": 210287,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWbxFNAvym1FrqhK_hvLc6MB0IhRy2WuGZ23TqG-ZeGqCg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQJ4YJ6cvsFEmIZp3KK_wvMBjaqVushdirHAUUZNfFPVeg"
     },
     "070903": {
         "NAME": "ENNIS ISD",
@@ -308,7 +308,7 @@ var DistrictsData = {
         "FederalFunding": 8917635,
         "OtherLocalFunding": 1047046,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY7Wt7yadbVNgXdNeTz_aIQB4uSz2mrBZ9Cr9i2N3ATq8w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYxTFQvM-XBKgaoaroC-3wcBdxE-GDWnOcu-BRXw3WBP6w"
     },
     "091903": {
         "NAME": "DENISON ISD",
@@ -345,7 +345,7 @@ var DistrictsData = {
         "FederalFunding": 8537581,
         "OtherLocalFunding": 1319567,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb7h6pSQXa1MtStjR-PMAg0BRUa4Wjun4cQcGCUls5Dpzg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYLt344frehKr_XRpP9SvGsB-mxJekZah33_-HncgEl-Xw"
     },
     "091901": {
         "NAME": "BELLS ISD",
@@ -382,7 +382,7 @@ var DistrictsData = {
         "FederalFunding": 795309,
         "OtherLocalFunding": 379481,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfSiy7FyQmhMmes0gCfPNAwB-BR_gqlsoLyeC1d05t3Q3g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eer3SsC1DFdMkCKwi74KEJUBJPwQAgCP0VvYqJNqoi2CYQ"
     },
     "091909": {
         "NAME": "WHITESBORO ISD",
@@ -419,7 +419,7 @@ var DistrictsData = {
         "FederalFunding": 2348132,
         "OtherLocalFunding": 576039,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef5tLFQKcwRNjpbvD-OQ3DABd3SDIEeAtjmRvrMHm_2jSg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYG7gcm_ciJPsYRyOZlSMS8Baazk6L5GL2zv1EMCf00vxw"
     },
     "091902": {
         "NAME": "COLLINSVILLE ISD",
@@ -460,7 +460,7 @@ var DistrictsData = {
         "FederalFunding": 952592,
         "OtherLocalFunding": 435433,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdxREZfFEIZLmUirxfc0E4sBoTS2FcQ5pE_sC6OP5OXl8A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eas4H-HrGfhMp4fhw1miWrABPl8w_3emN1OizjcO97K_Sw"
     },
     "121906": {
         "NAME": "EVADALE ISD",
@@ -497,7 +497,7 @@ var DistrictsData = {
         "FederalFunding": 623336,
         "OtherLocalFunding": 119567,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERnt3CjpZrFPjhzNKNkfcpcBgwQnHNBtOTJvrrQpO5jD-A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERyTUfUfKlBKnBXpz92D4nEBFep9BdjKzXaFoMC9cJjC8Q"
     },
     "121903": {
         "NAME": "BUNA ISD",
@@ -534,7 +534,7 @@ var DistrictsData = {
         "FederalFunding": 2492629,
         "OtherLocalFunding": 1812859,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee3mffYQDZpAuNZSkFjbEo4BTbnnmss-kKwK4OkvEBvx9A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU5fmOxbcqlPl4f4FO2rgbQB1UxG4ujsUaTJzJJqaId1_g"
     },
     "137904": {
         "NAME": "SANTA GERTRUDIS ISD",
@@ -571,7 +571,7 @@ var DistrictsData = {
         "FederalFunding": 608528,
         "OtherLocalFunding": 443082,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eay_GIUaXC1Ko9BP5X9z4ggBCsgCNDXJNZrv3ivKNeFddQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZOKreSIOkNMoxB2tcUbEMABIpId15ycAsnGiNwNlxgwpA"
     },
     "137903": {
         "NAME": "RIVIERA ISD",
@@ -612,7 +612,7 @@ var DistrictsData = {
         "FederalFunding": 678449,
         "OtherLocalFunding": 137895,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYv2OxHI2GJAhR03_le6mhgB8q88Of5gVLuqRlNFOHQl1w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbG1SyUiMFVBsuplh-3sSRgBo5qGKjH58G9IwnFbBw457A"
     },
     "137902": {
         "NAME": "RICARDO ISD",
@@ -649,7 +649,7 @@ var DistrictsData = {
         "FederalFunding": 1194633,
         "OtherLocalFunding": 105630,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETtBECSZDVlFrnOjHHqkplUBtdL-McQRfA9aycngeW9FuQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWSngK4ZnKZLhd08Seb7L2wBPhIbHubBCiImz_0XLrXg7g"
     },
     "137901": {
         "NAME": "KINGSVILLE ISD",
@@ -686,7 +686,7 @@ var DistrictsData = {
         "FederalFunding": 6767878,
         "OtherLocalFunding": 820719,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESD26SW9LY1Nl5TXHrzYzfIBbbcO0tE-SgSpKrid-wM7Mg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQpC8UGM7WZOn0PdKZEuOnUB2i1AzQ6FT2VdmafK8DkH6w"
     },
     "228905": {
         "NAME": "APPLE SPRINGS ISD",
@@ -723,7 +723,7 @@ var DistrictsData = {
         "FederalFunding": 399193,
         "OtherLocalFunding": 33269,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfC7vHmIntZHgmRHgEZMsRsB0C_U6zNolktR3Za4OXCd9Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbDClud2VhpFoVFWhghJXSkBPGAI7uHXNl3B5o5a0GAA2A"
     },
     "228903": {
         "NAME": "TRINITY ISD",
@@ -764,7 +764,7 @@ var DistrictsData = {
         "FederalFunding": 1701145,
         "OtherLocalFunding": 332001,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcXgf8cOZcxEg2CsPmtoHT8BxXyWFs9h_hSJpoeUvx_OnQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVkFMoEUKDROhf5XT1TC5XABPGPCjAy8F8mvIPG-rnjFeQ"
     },
     "113906": {
         "NAME": "KENNARD ISD",
@@ -801,7 +801,7 @@ var DistrictsData = {
         "FederalFunding": 548439,
         "OtherLocalFunding": 44028,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUnPGbOQXXFIjDa_bew01MgBxuvxXJx9iO7BfrL8XMGVzg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZpuIVLTmPlCs4ZHnwfjip8BMkzALmHl5_tcOr10UJP-_g"
     },
     "155901": {
         "NAME": "JEFFERSON ISD",
@@ -838,7 +838,7 @@ var DistrictsData = {
         "FederalFunding": 4574414,
         "OtherLocalFunding": 502645,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EezXl66QMDtAmsnEk62AMkEBVf066wOhUJ_Pr9wZ6-qYYw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYvtFXAa3d1LgYsfyvgsIMIBrmTxvMs3th22t0ry1v2ZEQ"
     },
     "034902": {
         "NAME": "AVINGER ISD",
@@ -875,7 +875,7 @@ var DistrictsData = {
         "FederalFunding": 188820,
         "OtherLocalFunding": 12157,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQoioae50RFBuFAuYpTjlx4Brx0htdzWxS_k1kPTCxIJgw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EasloHhQdiBPqomweDFaP_kBX6hDAQ59l3T9zgZ9TPawcw"
     },
     "195901": {
         "NAME": "PECOS-BARSTOW-TOYAH ISD",
@@ -916,7 +916,7 @@ var DistrictsData = {
         "FederalFunding": 7353774,
         "OtherLocalFunding": 4571733,
         "RecaptureAmount": 106052955,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERV-VOIWr7RCiiwWcrPt63gBMasFh02yqE7wE2NXMKWVyg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EajExzSxm5NEk7Odz2LjCK0BgVsMJD-Nv5bNIr_u4LyvZg"
     },
     "195902": {
         "NAME": "BALMORHEA ISD",
@@ -953,7 +953,7 @@ var DistrictsData = {
         "FederalFunding": 215859,
         "OtherLocalFunding": 63378,
         "RecaptureAmount": 2604436,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbMdSv8EuCJFu2sb5f1no6sBEPDeGHKefto1djrg8jF-aA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQIGcK-CODhNuyAzHOd0t8wBM15HGUCMty8871uxyzpeLA"
     },
     "222901": {
         "NAME": "TERRELL COUNTY ISD",
@@ -990,7 +990,7 @@ var DistrictsData = {
         "FederalFunding": 159026,
         "OtherLocalFunding": 802022,
         "RecaptureAmount": 382,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZWNanwHwONIql8ySvvOzlIB8tIFNVbCitNmK-2BYgkRNA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUkpkU2aJhlFg3rX6yWB9iQBuLW9yfxOQbA2JQiqLZeqvw"
     },
     "082902": {
         "NAME": "DILLEY ISD",
@@ -1035,7 +1035,7 @@ var DistrictsData = {
         "FederalFunding": 2238874,
         "OtherLocalFunding": 312103,
         "RecaptureAmount": 2485517,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec35vouXvqdDh_l5Tq7ZEZwB7N6zJfGoLbW5lg_rVuXoYg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXk2qkr4ZG9OpkkPevB_U8gBnDsaZmDuZtrTYpzPnjIkZg"
     },
     "140907": {
         "NAME": "SPRINGLAKE-EARTH ISD",
@@ -1067,7 +1067,7 @@ var DistrictsData = {
         "FederalFunding": 839380,
         "OtherLocalFunding": 140494,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed7R5SNTHB1AuaKwTOVQDowBtu2BCDlsTQlUZvc5UDxVBg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfkGbMomd71CuuKawxZg4GUBMimQPpvYljlQEYxGticEyA"
     },
     "153904": {
         "NAME": "TAHOKA ISD",
@@ -1099,7 +1099,7 @@ var DistrictsData = {
         "FederalFunding": 1456017,
         "OtherLocalFunding": 824018,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcZx9WgTR61Mp6DvacyIM4UBMSeHUwzWs-t336meRNan7w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ER2zRIKU-R9DrmxaOn0RqbgB4ie8Zvvy3cuGN69DFyNGqg"
     },
     "153903": {
         "NAME": "O'DONNELL ISD",
@@ -1135,7 +1135,7 @@ var DistrictsData = {
         "FederalFunding": 565501,
         "OtherLocalFunding": 239239,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfEB4-qKWfFGqqAx3V3Hf4wBTgQZqF7DTSyaG1FYtG3PaA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVEoiS4xYI5PpauHuAnR1wgBrDO6tLQJ7Kpki9IgQ-O6Hg"
     },
     "058902": {
         "NAME": "DAWSON ISD (DAWSON)",
@@ -1176,7 +1176,7 @@ var DistrictsData = {
         "FederalFunding": 258346,
         "OtherLocalFunding": 80623,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ9JM41kciRAvDIJJKeVvu8Bv95KAz79DocvMGGXUT3BDQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eep-qD1suWtGlPOiNmqJvvUB0OVmf1tSW-RmM13KblO8cg"
     },
     "023902": {
         "NAME": "SILVERTON ISD",
@@ -1208,7 +1208,7 @@ var DistrictsData = {
         "FederalFunding": 413175,
         "OtherLocalFunding": 51337,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfP-eQSPNcJHo0OlzpOhjjMBXD79khLyhQJJdHlu2oW0oQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWyMf5v3IW1NvO0aOpDVnDMBb1hPGA1iXwoTf7M30q-YDg"
     },
     "035903": {
         "NAME": "NAZARETH ISD",
@@ -1245,7 +1245,7 @@ var DistrictsData = {
         "FederalFunding": 241496,
         "OtherLocalFunding": 196575,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESmV6LkUT49BmZuyeLF0c0IBUsF_CqTljmJBy0bS6ob44A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcibK1meXclButiri0Aa9qgBH6iRvsn2hD99nYARIsEjGQ"
     },
     "035902": {
         "NAME": "HART ISD",
@@ -1282,7 +1282,7 @@ var DistrictsData = {
         "FederalFunding": 522706,
         "OtherLocalFunding": 40410,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWjj9FS_NqZHnSzuHJ3hT2EBefevOqXBAO9MbnijYnt35A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWGu0OlWmfVPrlkq9MAJ-c0BRjOfYYnopfptrm5c_0PmQA"
     },
     "035901": {
         "NAME": "DIMMITT ISD",
@@ -1319,7 +1319,7 @@ var DistrictsData = {
         "FederalFunding": 2313172,
         "OtherLocalFunding": 423867,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfEH9OHMNPJCsofgmf8EWv4BRU9QuuA7h904PilF-HgS2Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeBwfwHhl7ZKvKRhHor3WbMBrh2gnIbcx1xzyt_-FlzUdw"
     },
     "127906": {
         "NAME": "STAMFORD ISD",
@@ -1355,7 +1355,7 @@ var DistrictsData = {
         "FederalFunding": 3559056,
         "OtherLocalFunding": 232653,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXhni2ProBxIpLB47iHb2XsBlQeI3YzrO9URLtA1VEld4g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQYmRcvgFhlBvc992fwGEa4BEIdvqYMpJmssTRa07hdRRg"
     },
     "104907": {
         "NAME": "PAINT CREEK ISD",
@@ -1391,7 +1391,7 @@ var DistrictsData = {
         "FederalFunding": 233334,
         "OtherLocalFunding": 132586,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUW8lfn0mwpGmslpIuEtoYsBcxKvPXerS3KU89tq7de8mg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVh96IQ3otBOq395DoW2rAkB6DnyU8VueOoznww_-N5vcw"
     },
     "221904": {
         "NAME": "MERKEL ISD",
@@ -1428,7 +1428,7 @@ var DistrictsData = {
         "FederalFunding": 1360539,
         "OtherLocalFunding": 146477,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaRRE7aqHeFEhAcriZz_nrwBHloS_hQ2bN2ag-eNN3AmzQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ebl2oxbLDDlLrhBQQKzpKjsBb60nmA96VsIPV6IAsULKmQ"
     },
     "127901": {
         "NAME": "ANSON ISD",
@@ -1465,7 +1465,7 @@ var DistrictsData = {
         "FederalFunding": 1331735,
         "OtherLocalFunding": 384586,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW_jBnH5XTpPkvJEZrdytWoBqnIrKFyUkjsp-1fxqYkBcg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERlod1wx0CdLud6emLhGDTkBcTffvCtJXNxN2LSd6ktszA"
     },
     "221905": {
         "NAME": "TRENT ISD",
@@ -1497,7 +1497,7 @@ var DistrictsData = {
         "FederalFunding": 335311,
         "OtherLocalFunding": 393143,
         "RecaptureAmount": 27103,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU3RU4Kv13dDrh6iN2yWzJQBdI-x7_env1kHBgqsuR8c-A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVOtxwCPTOdMktpp6sFc_4UBFLTSQ1rLnrh9PMZUhptMtw"
     },
     "076903": {
         "NAME": "ROBY CONS ISD",
@@ -1533,7 +1533,7 @@ var DistrictsData = {
         "FederalFunding": 409151,
         "OtherLocalFunding": 1981561,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVrVnwPmSMtMhqKHz_T3WJ4B-KVdHvSPUgwc5sZyc2bw_g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVT7e9cv4wlLod2wCWkWQyIBleogpBVYBOBQ2ye5STWETg"
     },
     "127903": {
         "NAME": "HAMLIN ISD",
@@ -1574,7 +1574,7 @@ var DistrictsData = {
         "FederalFunding": 2137690,
         "OtherLocalFunding": 391131,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec5w-BCu54JJrNttCCACxPgBLKQf40z3ZbIvhJ8AIsai7g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX4oiuvjo6FLiupd-IyRyRYBugdIMMnQrQvPfDaOcOcYUw"
     },
     "039904": {
         "NAME": "BELLEVUE ISD",
@@ -1611,7 +1611,7 @@ var DistrictsData = {
         "FederalFunding": 175951,
         "OtherLocalFunding": 63197,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdkuUGU7AnpLueouSfTlBBMB3DmFV-FSTE7L1yqzB8kvqw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERBo0gw8KiNDi_3g3xv7IJQBNmO-ln56IvDqlFY_p_VNww"
     },
     "169906": {
         "NAME": "GOLD-BURG ISD",
@@ -1652,7 +1652,7 @@ var DistrictsData = {
         "FederalFunding": 230205,
         "OtherLocalFunding": 90507,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVCml3zVL_tFh43D1fXupOIBiHlVRnLdb5Et5dvLBqtT9g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfgoSxAxSJdCkZnnW_z2aroBD0p2VDDvAM2NgJaezZ-0wg"
     },
     "235904": {
         "NAME": "NURSERY ISD",
@@ -1689,7 +1689,7 @@ var DistrictsData = {
         "FederalFunding": 183127,
         "OtherLocalFunding": 58810,
         "RecaptureAmount": 886613,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESGZ1nEvuApCh0hEH6GbrmoBEo_BuNAMRjtNtITvUnI3tQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXZdwTr6oXdNkTUnUJODyBUBc2uKPVlADBUz2Z1V4iBGbg"
     },
     "235902": {
         "NAME": "VICTORIA ISD",
@@ -1726,7 +1726,7 @@ var DistrictsData = {
         "FederalFunding": 22991437,
         "OtherLocalFunding": 2347309,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaxNURpCMjRFrS_rkd7nKfQB7zb737SIM9fRwlYn1J8Jgg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZp99Vi82lNGgvDX3dHAahkB8AeJscLtu94d1yvz_wZXhQ"
     },
     "120905": {
         "NAME": "INDUSTRIAL ISD",
@@ -1767,7 +1767,7 @@ var DistrictsData = {
         "FederalFunding": 872956,
         "OtherLocalFunding": 799305,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfsRe85lRkFIk3-o45hT5dEBVH6stS-6SG4S-tm71F0D3g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbejitET14RDowltOggcU-EB1YczvmpbfUv7Y8cNlAlw1Q"
     },
     "235901": {
         "NAME": "BLOOMINGTON ISD",
@@ -1804,7 +1804,7 @@ var DistrictsData = {
         "FederalFunding": 1945966,
         "OtherLocalFunding": 340949,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERLeqFTQaw1Ls5d2TDr7J8MBPhcL6plFj0U8SIRGhAOG_A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ9WGHoJJiVMv3AYJAlnIRwBLZnWwzytNb5qqmHQ7P2BiA"
     },
     "158902": {
         "NAME": "TIDEHAVEN ISD",
@@ -1841,7 +1841,7 @@ var DistrictsData = {
         "FederalFunding": 1660552,
         "OtherLocalFunding": 482456,
         "RecaptureAmount": 2633180,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQZfTHE1JPhCjN-LCYEJc74BlNXm754FkLyAfnSrtvTa_g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ebt3CfJuvAZBrwZm8UTXW8gB3Xk63ZM33c4ekK7KqqwdJQ"
     },
     "158904": {
         "NAME": "MATAGORDA ISD",
@@ -1878,7 +1878,7 @@ var DistrictsData = {
         "FederalFunding": 290681,
         "OtherLocalFunding": 86346,
         "RecaptureAmount": 1560043,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYNUTHA77_BJumOzYicyu6EBNW5NYMlvnxlu9adpp9AE-g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EejjXKVieyBIlLXzx3C4KUkBoqI4yWdV957hMkPdVKfQ7Q"
     },
     "158901": {
         "NAME": "BAY CITY ISD",
@@ -1915,7 +1915,7 @@ var DistrictsData = {
         "FederalFunding": 6317907,
         "OtherLocalFunding": 2088381,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESAypTsJ-cFLoeM4sMmVgcsBbRzqz8dJt7iF5xoOhWBBlw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef7KS_qBC-5Mpd8W9_xWvLABmxdmI8S9QHofx1JYOPkjrQ"
     },
     "158905": {
         "NAME": "PALACIOS ISD",
@@ -1956,7 +1956,7 @@ var DistrictsData = {
         "FederalFunding": 2735064,
         "OtherLocalFunding": 2536247,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeLMSTmR9AtBi_TTDvGODhYBoCd31WBBmpvcbbnuKx5Guw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXCXks1Kw_lAh9x4_Nqc1vABH8mNrxAp06DlvSDi50dLqA"
     },
     "200906": {
         "NAME": "OLFEN ISD",
@@ -1988,7 +1988,7 @@ var DistrictsData = {
         "FederalFunding": 427283,
         "OtherLocalFunding": 40634,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZN5u858WuZCr3jXfUNGd9ABSg3wmYqiPAQ7iOU3KayuwQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdvXClScmZRGr8JmlDwgwy8Bu8-TKC9fl0v61jzGeaDROQ"
     },
     "200904": {
         "NAME": "WINTERS ISD",
@@ -2024,7 +2024,7 @@ var DistrictsData = {
         "FederalFunding": 1049881,
         "OtherLocalFunding": 122849,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZqNmfcCaudFjhKO9o_Y_30BXABPy29TW599FRsct4_Chw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcIS1-ihVKZHli9tkqDYlfoB2XeSLUMRE5kGhHvghFO_9w"
     },
     "200902": {
         "NAME": "MILES ISD",
@@ -2056,7 +2056,7 @@ var DistrictsData = {
         "FederalFunding": 449200,
         "OtherLocalFunding": 257258,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES9GBPtgv65Nr0S8xvIuD6YBQsMksVwtwxnGSs5gE-JEKQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcdPDYlfsTtBqu76s_dQQ3cB9k1S9Odc81KZOYNUDz3ChA"
     },
     "200901": {
         "NAME": "BALLINGER ISD",
@@ -2093,7 +2093,7 @@ var DistrictsData = {
         "FederalFunding": 2600660,
         "OtherLocalFunding": 459866,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfuZljTOve5FoFlpWMT9bBQBAinYS6d5MCmmhUG5G8NEBQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYe5HoxU_LtDmfCRcDd-d1gBn2C-SWcrJOJ6OqpFTj5XQA"
     },
     "041901": {
         "NAME": "BRONTE ISD",
@@ -2130,7 +2130,7 @@ var DistrictsData = {
         "FederalFunding": 368074,
         "OtherLocalFunding": 236005,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaUmhaCwij9JuvEm7vwbrjgBY2kdkwLRmaBL-y4HSzPbMQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ET_p_AAtx3tAoPsqEvp0U6sB8I3DgxNk9C8yrBdzbu91sw"
     },
     "033902": {
         "NAME": "PANHANDLE ISD",
@@ -2167,7 +2167,7 @@ var DistrictsData = {
         "FederalFunding": 629367,
         "OtherLocalFunding": 529659,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec8uxLVymlpFlqj6pUa9Rw8BZ3oTOZnRHE1PxXuUx5LNOA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZrbR4wy-MJKqumiabH1NogB_vu1tTdn7DxgUdjfmnM3CQ"
     },
     "117903": {
         "NAME": "SANFORD-FRITCH ISD",
@@ -2204,7 +2204,7 @@ var DistrictsData = {
         "FederalFunding": 924201,
         "OtherLocalFunding": 283201,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES5-fVper7dMiMSB7YCVXggBJqFwptLbnT8FDMJZw0E0ng"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXh6-wI6YwlKjU0zsBMPqIkB8a0zdvXUPGuKjgvK4pH3Eg"
     },
     "146907": {
         "NAME": "TARKINGTON ISD",
@@ -2236,7 +2236,7 @@ var DistrictsData = {
         "FederalFunding": 3988767,
         "OtherLocalFunding": 437794,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWEXDODrFR5Fpi3zuU3LJxoBGVIzNrs0_OrPYDo3xJUQKA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETEvZPHCTTRLsLN0G3t--VQBSxMjSsXJdrTouWe2Uy7iog"
     },
     "247901": {
         "NAME": "FLORESVILLE ISD",
@@ -2281,7 +2281,7 @@ var DistrictsData = {
         "FederalFunding": 4498185,
         "OtherLocalFunding": 1702294,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERgTdwzIoQ1OiD0X93hOwxwBAxMdszGmYEFcEJaq9RV5Bg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETbMT7i1unFMrkpW4Xe8kFsBkAShQrujTLxxLWk5J9OHxg"
     },
     "058906": {
         "NAME": "LAMESA ISD",
@@ -2318,7 +2318,7 @@ var DistrictsData = {
         "FederalFunding": 7131463,
         "OtherLocalFunding": 2770968,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUkjTsjH8lZFloq-QGxyQkIBTilIHTYrcXgkSqVZMUD5dw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW-MxVxrXuZPi9lNi-tFlrABJnqYbKvE8WukuC0q9bAwBQ"
     },
     "058905": {
         "NAME": "KLONDIKE ISD",
@@ -2359,7 +2359,7 @@ var DistrictsData = {
         "FederalFunding": 242560,
         "OtherLocalFunding": 365950,
         "RecaptureAmount": 14058054,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQv5bnF0KRVGq0Pc6enMkMEBv4QfGO6hSbC6I_lUTcS7mQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeSF9MX5NX9PhkxIH8NKgVMB_T8GywcA3DfzUIosaw08nQ"
     },
     "169909": {
         "NAME": "PRAIRIE VALLEY ISD",
@@ -2391,7 +2391,7 @@ var DistrictsData = {
         "FederalFunding": 349186,
         "OtherLocalFunding": 67882,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQqYKL1g6I5HnIOuDBikozYBvveX5la_BaVGFhsMN2hB1g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUG-oHxQ6thOhNu37ZJaFmMBLod8UNDBKqUZrSG25vkGfw"
     },
     "169902": {
         "NAME": "NOCONA ISD",
@@ -2428,7 +2428,7 @@ var DistrictsData = {
         "FederalFunding": 2013065,
         "OtherLocalFunding": 252416,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWQyVD3tImRAtZiDqWZBjGEBb2v1aLQNJX7zyLzLdSbmKA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUZHd1uv_k5MleiMXdMXlMgBYfFSogpVbD3qXQ8ZsX3xAg"
     },
     "169908": {
         "NAME": "MONTAGUE ISD",
@@ -2465,7 +2465,7 @@ var DistrictsData = {
         "FederalFunding": 336268,
         "OtherLocalFunding": 31091,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZeDiD9gXW9GnCJ_ZtxGjHEBpwJsoabTzzb9-QyHMjBV-g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXG_n_TV4atFroOTI7KKGmMBIuyxcq5iHlZf94HNEAHbJw"
     },
     "169911": {
         "NAME": "SAINT JO ISD",
@@ -2502,7 +2502,7 @@ var DistrictsData = {
         "FederalFunding": 347765,
         "OtherLocalFunding": 317988,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX2du04tZzlBk-M7AQRxNkUBDrEZiwr3DV8Xs8Rz8Bqn-Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU-9v1x-Sv1DiVS2U7IbXpcB4HCLKpcIZ1eYYX30Be5skA"
     },
     "231901": {
         "NAME": "MCCAMEY ISD",
@@ -2534,7 +2534,7 @@ var DistrictsData = {
         "FederalFunding": 1026474,
         "OtherLocalFunding": 2161859,
         "RecaptureAmount": 3556213,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXz6AsO898RKuMMyg-m1PLYBPZ5YdGC8P3ZaK_6tmgYiqw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETEm2WhQMiVJtKKaqIxoQ-ABTNcHARHRJUG4iTGxFEGLdw"
     },
     "018908": {
         "NAME": "CRANFILLS GAP ISD",
@@ -2579,7 +2579,7 @@ var DistrictsData = {
         "FederalFunding": 331012,
         "OtherLocalFunding": 194769,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbOpkN7euSJHi7sbTE0tdZEBl-hv4VoKaCTgZggF30oS0w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW-NsY3l1KpNkHJplnBdLt8BsSxVr8n2mFQ7_50PAOYuxQ"
     },
     "097902": {
         "NAME": "HAMILTON ISD",
@@ -2616,7 +2616,7 @@ var DistrictsData = {
         "FederalFunding": 963717,
         "OtherLocalFunding": 116198,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EayrYZk2bkVOtWRckAxAZ2MB_op0dqU0QB7ol2Q-SnN03Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUFzrVUYqyZPmcLr-GReCLoBIrvM3soZ9qQdqjevjCNAkw"
     },
     "177902": {
         "NAME": "SWEETWATER ISD",
@@ -2652,7 +2652,7 @@ var DistrictsData = {
         "FederalFunding": 7681611,
         "OtherLocalFunding": 1311762,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ60R8YMY2pFgU0SJLlhXqsBYC5O6BRRNKCaW69Mj9-5Yw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQxSvxQt9_RBqJNdiHUBGHEBHJs5KPfduWhCszqYzTK7vQ"
     },
     "076904": {
         "NAME": "ROTAN ISD",
@@ -2684,7 +2684,7 @@ var DistrictsData = {
         "FederalFunding": 480963,
         "OtherLocalFunding": 206702,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXvRd36gNS9GvtP7ZCpK8ZYBBF0udIv7xfSocy_-h655ew"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfIeq6p3jE9FhrToAT2N_MwBTWfR9Ef8xAoJiH7PVM3Afg"
     },
     "177901": {
         "NAME": "ROSCOE COLLEGIATE ISD",
@@ -2724,7 +2724,7 @@ var DistrictsData = {
         "FederalFunding": 1364459,
         "OtherLocalFunding": 2453662,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbhU94DF4dxMgGzq_RLL5vQB3MOfEGK2NBXa1ZoIggbkVw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdwnUDPpXaZKm9jrWen0OpgBDIBopEZifUmQvdc4G2gW_A"
     },
     "208901": {
         "NAME": "HERMLEIGH ISD",
@@ -2765,7 +2765,7 @@ var DistrictsData = {
         "FederalFunding": 211399,
         "OtherLocalFunding": 217130,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQZ_sQRyjjNOpcBaeNKC7XIB5-pojMz_x7uWY2T4rUBAxQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVK3bgeJ0x9KkQxe5_EjOsIBk3udCM3ruJj1YFxVUJZM-g"
     },
     "098903": {
         "NAME": "PRINGLE-MORSE CONS ISD",
@@ -2806,7 +2806,7 @@ var DistrictsData = {
         "FederalFunding": 213896,
         "OtherLocalFunding": 44575,
         "RecaptureAmount": 2534,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaQ-5csQOSBPgWioUA-wtkoBe39iB6S1xlY517hflQhn6g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Edz78eU2xghKmriDgcGEJv0B0aQGMCpC-mrPVjbTo8vEGQ"
     },
     "117904": {
         "NAME": "PLEMONS-STINNETT-PHILLIPS CONS ISD",
@@ -2843,7 +2843,7 @@ var DistrictsData = {
         "FederalFunding": 934566,
         "OtherLocalFunding": 488429,
         "RecaptureAmount": 4611128,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXjDqBmLMstOmZ7HaCPcH3YBtVUoOqhNq7iqNsHXmQzYzg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY1_n5N4NypOrwIH1tXOM4sB87jzo5JQJy7SZILuvvRUmQ"
     },
     "117907": {
         "NAME": "SPRING CREEK ISD",
@@ -2875,7 +2875,7 @@ var DistrictsData = {
         "FederalFunding": 55758,
         "OtherLocalFunding": 26814,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESXgQmz4QuRAkAWgZvT9WiEBUxUwzPc5WWTrhM3Z2vgOIw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUn_NaPraLZJt-m21819ZwQBjpsk5sE19Y1Kd9ROwmtfFQ"
     },
     "117901": {
         "NAME": "BORGER ISD",
@@ -2912,7 +2912,7 @@ var DistrictsData = {
         "FederalFunding": 4215306,
         "OtherLocalFunding": 1969989,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EciHu6R3ihhMpIlVkSaX1YwBr9TMYr0HvfCtxaQ4Nhu6Gw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeqIc1oAcjVCk28rVm0D1FIBb8Zw8GJpLjmngty8DnBcmA"
     },
     "098904": {
         "NAME": "SPEARMAN ISD",
@@ -2948,7 +2948,7 @@ var DistrictsData = {
         "FederalFunding": 1219416,
         "OtherLocalFunding": 318282,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ6_DFWpC7pKqUVpbBD5WskBZV3y4YcMs0gwrI5bIm2yVg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXN7jr46ln1Ht3UgmyxkRcMBJ1EjldmYkypbuCW5pSGFvw"
     },
     "241904": {
         "NAME": "WHARTON ISD",
@@ -2985,7 +2985,7 @@ var DistrictsData = {
         "FederalFunding": 3105204,
         "OtherLocalFunding": 743198,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee68z8ZNjilFgAJCJ3Ac6YYBupeL20RdgMHQGYqmDdENpA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ER_jCU7BN2BApn9KrRvLrAIBslck-iLZOwjhd2NlwEPx9g"
     },
     "241906": {
         "NAME": "LOUISE ISD",
@@ -3022,7 +3022,7 @@ var DistrictsData = {
         "FederalFunding": 528465,
         "OtherLocalFunding": 319587,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETOIl164A0tJjQn4GabPmugBWcFzZWtIN1_d7EvVhpBDgQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY6rQBh9g5NOpfHCSgw1pC4BIsyMcUuRGQmyeYMx1x_1pg"
     },
     "241903": {
         "NAME": "EL CAMPO ISD",
@@ -3059,7 +3059,7 @@ var DistrictsData = {
         "FederalFunding": 5412596,
         "OtherLocalFunding": 1842500,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQfIvgSEhyNJrpSGuNJquiwB_4lnu51YD7KBRWxxBMKtvA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVjD_2wlEklEhjD3veveo5gBpsXCTJEvAM9iKwlyIzkjDA"
     },
     "189902": {
         "NAME": "PRESIDIO ISD",
@@ -3096,7 +3096,7 @@ var DistrictsData = {
         "FederalFunding": 2085688,
         "OtherLocalFunding": 248768,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaMJiuLloZ1OlmeLP0saDAgBdwNskvnn1YxjhD3G59wQvQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXtPvL-RrfpDtcFV4LQUPLgBeHS4Nn4L0sjiSnxxPKZCog"
     },
     "072908": {
         "NAME": "HUCKABAY ISD",
@@ -3141,7 +3141,7 @@ var DistrictsData = {
         "FederalFunding": 92062,
         "OtherLocalFunding": 124239,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETI3CmMmdtJOjFY8sOun_SQBKzxBmY9egyv0CZ0Mp3ClJA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU0oDM_3JEdFpKpCcBrH-_YBfU75ko1VI2cY2O9c5bCkJw"
     },
     "067907": {
         "NAME": "RANGER ISD",
@@ -3173,7 +3173,7 @@ var DistrictsData = {
         "FederalFunding": 920873,
         "OtherLocalFunding": 129137,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ97PxLtD7FIhGmpoMrLYY4BBL5g8NeyS3GbaleBgD7tyQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXIqgRuQqfpNkCCnYk6Li4UBbfV6A6QdwrKKmpc1uAK4vw"
     },
     "067903": {
         "NAME": "EASTLAND ISD",
@@ -3210,7 +3210,7 @@ var DistrictsData = {
         "FederalFunding": 2530161,
         "OtherLocalFunding": 301340,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVjyDcXdFh5Mq5gLZwzk0W8Biv-Q01w3vab2VvzaKiT1Fg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERbDmbkrdqhDh6ulXQu932wBTKb6eApAjxSou-VTqjVaSQ"
     },
     "030901": {
         "NAME": "CROSS PLAINS ISD",
@@ -3251,7 +3251,7 @@ var DistrictsData = {
         "FederalFunding": 535135,
         "OtherLocalFunding": 31435,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZmeYDhPUM9GrPC8c11pZqYB0E1VR41jKRnnu9VLw3S-BQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXsT0YKiVm9HqQ6_rivuqscBVJfRRLUuYWo4wCFvYWO98g"
     },
     "067902": {
         "NAME": "CISCO ISD",
@@ -3292,7 +3292,7 @@ var DistrictsData = {
         "FederalFunding": 1055012,
         "OtherLocalFunding": 1112546,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQnJ2jp62-tMggEj3Ry6KW8B6zAQ4MnNLW5kMq4BfBATew"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYpmoijklANPq_ig68zQQeMBmbzq8IKAcYuiB8OS2ryMqw"
     },
     "067908": {
         "NAME": "RISING STAR ISD",
@@ -3328,7 +3328,7 @@ var DistrictsData = {
         "FederalFunding": 254526,
         "OtherLocalFunding": 49495,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaihBaWgBWZBgBKrkT64FdwB9IFNJfT-wIJ0bd9WOjWFbA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXHrml46GbNJucvrTjwmMhgB6TXj9LycByn9e1Fkgpe5Kg"
     },
     "072909": {
         "NAME": "LINGLEVILLE ISD",
@@ -3377,7 +3377,7 @@ var DistrictsData = {
         "FederalFunding": 358787,
         "OtherLocalFunding": 36621,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUlgNHX4pfxFvQ4PQZ9oMXsBlJZZ9ZEhBkzTMNeMduLYWQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdozxdOcPYhFsTSosLeoGUcBwC-tFFbnPqfz--654H_kfA"
     },
     "067904": {
         "NAME": "GORMAN ISD",
@@ -3422,7 +3422,7 @@ var DistrictsData = {
         "FederalFunding": 1573457,
         "OtherLocalFunding": 811998,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVOrjCcUThRFo37NmEMntfQBFnvoHy9XX2u0TWrcQI6d6w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ_KS2UWJq1LmHxQxwnF2-oBXUQN-W7AWGITM8Dfic4Rlg"
     },
     "047902": {
         "NAME": "DE LEON ISD",
@@ -3471,7 +3471,7 @@ var DistrictsData = {
         "FederalFunding": 2350127,
         "OtherLocalFunding": 681927,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES-r-E7IpO1BqbYV3awZBi8BNBvCo1SrgGMAkmKhu3-SEw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeGbHgZLguRMoUJ6RY0t30kB5_ZaE8UqKDzurFWNIi0Opw"
     },
     "210903": {
         "NAME": "SHELBYVILLE ISD",
@@ -3503,7 +3503,7 @@ var DistrictsData = {
         "FederalFunding": 1843285,
         "OtherLocalFunding": 225785,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ1AysVkTipJrJKmqQxYJn0BjI__1uKmTdoKSdBLrOYA3A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec8JAqDVNTdBpCqlPL7Tz94BQiu42NhDV168S20wU_QEXg"
     },
     "201904": {
         "NAME": "LEVERETTS CHAPEL ISD",
@@ -3540,7 +3540,7 @@ var DistrictsData = {
         "FederalFunding": 375697,
         "OtherLocalFunding": 40889,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ecq3hZ-RGopMo_QxYfwFR3kB0xm8LC_L7gYruEfczAbukw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETF-anVPTHhArgT2LYrKN7wBFSkx_XZ6HQXDXdZjZUBkfg"
     },
     "201908": {
         "NAME": "OVERTON ISD",
@@ -3577,7 +3577,7 @@ var DistrictsData = {
         "FederalFunding": 904733,
         "OtherLocalFunding": 408226,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ER2WwO3E50RMkOYdFyt7HRYBB0SsNrybny-daq_VNRQ11A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETn55hYeT2xLiV4EGBUC2YcBZjZdB1disePx-LcPwyXnHQ"
     },
     "201907": {
         "NAME": "MOUNT ENTERPRISE ISD",
@@ -3614,7 +3614,7 @@ var DistrictsData = {
         "FederalFunding": 451159,
         "OtherLocalFunding": 342497,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb7XI-HRLblMpJfh7VKCTn4B00HHDFGqyQ7Tw7oP2hamdA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EakgkgoHxw1Js-x7nn4gdqABwZQP7HyYKWz1kO4lcIt2kA"
     },
     "201903": {
         "NAME": "LANEVILLE ISD",
@@ -3651,7 +3651,7 @@ var DistrictsData = {
         "FederalFunding": 270201,
         "OtherLocalFunding": 44408,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZH3WpIzyzBJjmwBE4DRsGkBSA20BIITwzTnx5yLCwrvHA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVXsB-Rryj1Krw7OXY6Ah1QB0tgZvx6vhjM_nq133e8NLA"
     },
     "201902": {
         "NAME": "HENDERSON ISD",
@@ -3688,7 +3688,7 @@ var DistrictsData = {
         "FederalFunding": 5491848,
         "OtherLocalFunding": 1498092,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ7q2Pc2IatBsLYZQRPYbLoBNiyF7_JEXl81Yw_tfY8uFg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee_MB9Fg08BBkwnNp7eTeTcBmn7oqD8PbuskdbeCd5KS3w"
     },
     "174903": {
         "NAME": "GARRISON ISD",
@@ -3729,7 +3729,7 @@ var DistrictsData = {
         "FederalFunding": 881766,
         "OtherLocalFunding": 232010,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdGIDlV7Z9dPudeFL7TezFoBmME62Zb8ZT-4C1mFo1KzZQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUdkRK9Jwa9Bkgp9F7EXftABCSvrd_NOEy0XczPPmltT0Q"
     },
     "174902": {
         "NAME": "CUSHING ISD",
@@ -3770,7 +3770,7 @@ var DistrictsData = {
         "FederalFunding": 1042498,
         "OtherLocalFunding": 308515,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaQT9TnCsDlKotfO80L97IcBuEQmKCrTGERkWhQ-_VFM6g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETxAVyNCJ6dFpwbqSELXvKgBZfvQtojDU93-xFpWtZiWhA"
     },
     "201910": {
         "NAME": "TATUM ISD",
@@ -3806,7 +3806,7 @@ var DistrictsData = {
         "FederalFunding": 2297647,
         "OtherLocalFunding": 1302427,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETUT-6SflH1JhSHuuD09QZoBOV64IvCi7cKUwMOtt6hugw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERFD6Dd5qPtNpyfqOwCvZo4Bt48iPvHvAShpemgUMDn61A"
     },
     "037907": {
         "NAME": "RUSK ISD",
@@ -3838,7 +3838,7 @@ var DistrictsData = {
         "FederalFunding": 4679981,
         "OtherLocalFunding": 937264,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU767dhC_45KmdoUBeZJLRYB5xS5rsBXavBpZHfv7RRsyw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUpVxuX--mhAnidXrwk0sJgB7kMpY8hK1A0Zdpjs2liOXg"
     },
     "143905": {
         "NAME": "SWEET HOME ISD",
@@ -3875,7 +3875,7 @@ var DistrictsData = {
         "FederalFunding": 47178,
         "OtherLocalFunding": 124861,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESR_bfXGsCZAgqI5ebAq-H4Bv6UwTuF5Y1tWKDufF0dq_A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWl_nUNsvJhKn0W9ph6W9lYBcDGHBRj31ANQOvlQeWVp-A"
     },
     "143906": {
         "NAME": "EZZELL ISD",
@@ -3912,7 +3912,7 @@ var DistrictsData = {
         "FederalFunding": 117211,
         "OtherLocalFunding": 47055,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERyq_g-zuwpMiF1xLTyj5P0BjYvNbPKzUWdr8hdYAJRaXA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWT30wj1yJNLoAV2cqwZrVABEhWckWWyMYOU6OhIAtawgA"
     },
     "143903": {
         "NAME": "SHINER ISD",
@@ -3953,7 +3953,7 @@ var DistrictsData = {
         "FederalFunding": 351900,
         "OtherLocalFunding": 871992,
         "RecaptureAmount": 135651,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ3Q4yQkSsNAmlCOhhvRrTUBnIt5-0t7Xj365sXJUtNC1g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ1ibxtU90FBvAOQDibvWDYBNIS_dJpn7_by4Hu5khQkpQ"
     },
     "143902": {
         "NAME": "MOULTON ISD",
@@ -3994,7 +3994,7 @@ var DistrictsData = {
         "FederalFunding": 323622,
         "OtherLocalFunding": 80248,
         "RecaptureAmount": 809386,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESpBMeNJO1hIvAu-Rxv679IByRpLrUVk4YdUcYc8dDDOEQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUCrJmRmEbJNpwmfJuTHeawBq0fCgHkBBW7xcdnmxQmXjA"
     },
     "044902": {
         "NAME": "WELLINGTON ISD",
@@ -4021,7 +4021,7 @@ var DistrictsData = {
         "FederalFunding": 1437220,
         "OtherLocalFunding": 241840,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeTC7oc_viFLpwX2NXkVonIBja_Y80McYBGIYah4GV1Vow"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQgWl8ja9_VJkBNxcremIh8BrHxuyqHclO8oBKLd75jOZw"
     },
     "104901": {
         "NAME": "HASKELL CONS ISD",
@@ -4058,7 +4058,7 @@ var DistrictsData = {
         "FederalFunding": 2273699,
         "OtherLocalFunding": 600470,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQV5ITG40ThNh1jHHupdMokBqMoH4sYJDI9Wu6PCW8RozA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYb_jh91M3pPk71LTz43R5AB5bhcoOj-ER1NvKug7f4Nlw"
     },
     "104903": {
         "NAME": "RULE ISD",
@@ -4090,7 +4090,7 @@ var DistrictsData = {
         "FederalFunding": 308332,
         "OtherLocalFunding": 36925,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeKCFm_Dw6JJj7S1kBJMb1EBWBV5fCtvRzIUuvVBQ9NF3g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec1q2Wa6pKdCpDSrCcoB0dMB20V5E8_l5E54p0rO55NEQA"
     },
     "171902": {
         "NAME": "SUNRAY ISD",
@@ -4122,7 +4122,7 @@ var DistrictsData = {
         "FederalFunding": 1420245,
         "OtherLocalFunding": 465814,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETu7gz_NU95HkV6gPz7WEecBRgJf_ZbeLNChMVbt_ynV-A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec57ldX4ZnJLsjaQuoPODv0B_Rp7eoUTpzTLLH3be7vEvA"
     },
     "171901": {
         "NAME": "DUMAS ISD",
@@ -4159,7 +4159,7 @@ var DistrictsData = {
         "FederalFunding": 7586617,
         "OtherLocalFunding": 841526,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUgFYyQJb8tPtivawgUfiCYBlfxFVvjjXFtTDpg6h41GTA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcNF92nCed1Mnru-IrfSvgsB5kbiVS8NwQQUJX3hyASUUQ"
     },
     "053001": {
         "NAME": "CROCKETT COUNTY CONS CSD",
@@ -4196,7 +4196,7 @@ var DistrictsData = {
         "FederalFunding": 1186127,
         "OtherLocalFunding": 2914777,
         "RecaptureAmount": 6815279,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ET0ZaqZj7z5BlCEsl0P0iaMBnz7ff7inT6m3CXpjO5Asog"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVvKqCq_7RxHjyKgDlyDfVMBSjy8OGCn-4RzJgl-xly6og"
     },
     "129910": {
         "NAME": "SCURRY-ROSSER ISD",
@@ -4233,7 +4233,7 @@ var DistrictsData = {
         "FederalFunding": 1228214,
         "OtherLocalFunding": 318197,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWPzzl2JFc9Jg5LDOWtAxbUBsL79CCS5F7a6CM8rlfm8cw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWdZO6XRqZRCndCpWg1_kdUBVs4FczXIQ5tx7exXvZWqqA"
     },
     "129904": {
         "NAME": "KEMP ISD",
@@ -4278,7 +4278,7 @@ var DistrictsData = {
         "FederalFunding": 2971724,
         "OtherLocalFunding": 342653,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES0UZJ775RNFliT1iSJHPawBvWE2e89BFGzQ6u34El863g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW-MRyZbv_JPnGD-vdS6Kl8BIkPdT7he4LXSGGIhUuRsaQ"
     },
     "223902": {
         "NAME": "MEADOW ISD",
@@ -4310,7 +4310,7 @@ var DistrictsData = {
         "FederalFunding": 808630,
         "OtherLocalFunding": 194684,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee3H0CxkMPJOnXQU1vCG_H4B4SMf-tXAis2uAHtGZ3U_QA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZsYA1tvKnxMgrfKY_mjzRABrpr8imKsAQeb7XuV6CwOVg"
     },
     "223904": {
         "NAME": "WELLMAN-UNION CONS ISD",
@@ -4342,7 +4342,7 @@ var DistrictsData = {
         "FederalFunding": 829000,
         "OtherLocalFunding": 266429,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX7pNKcyg41FmsPD9zxcMiQBTkKhRedVbcrqbQdTlwdnxg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVpLnLFm8U5Pu4zFTZv9tWUB8DR9v__VjtP3ICKSTMLuow"
     },
     "083902": {
         "NAME": "LOOP ISD",
@@ -4383,7 +4383,7 @@ var DistrictsData = {
         "FederalFunding": 161702,
         "OtherLocalFunding": 529015,
         "RecaptureAmount": 137389,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZvR5wrXzg1Mt0nzJVzODxABv_giC4L6SkU8Qx5SgCWgnQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUIURhlDemZPvZjDzV0ANpcBO9sBeq3H-d4fcfeQIqhkCg"
     },
     "113903": {
         "NAME": "LOVELADY ISD",
@@ -4420,7 +4420,7 @@ var DistrictsData = {
         "FederalFunding": 485834,
         "OtherLocalFunding": 166040,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERaZdt_-gORAg8B2pkcAZTEBmWnJxsRjNyleOlKL3eASVA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZndRtDiEi5Bpl25TOq8UNIByS6PVtM6F2v46UvovmZ3fg"
     },
     "113905": {
         "NAME": "LATEXO ISD",
@@ -4457,7 +4457,7 @@ var DistrictsData = {
         "FederalFunding": 502907,
         "OtherLocalFunding": 245834,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESV8Q4ZkyHlFpPZm1AG7vDgBdDWiDvvmoRV_d1Mt5j0mZg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUzeULdLZNdJuRV57vlP9P4BBe2iVN0OqOcJrz0z3PMT1Q"
     },
     "113902": {
         "NAME": "GRAPELAND ISD",
@@ -4494,7 +4494,7 @@ var DistrictsData = {
         "FederalFunding": 634664,
         "OtherLocalFunding": 486351,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQe8zLZhoMZNkmSN7z5sm24BWZ_umShl4_psN_bL7avSJw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfxewB2Um0RMt4qCjMUevYQBT52hjAxQgTyHaeDxRrGpxg"
     },
     "113901": {
         "NAME": "CROCKETT ISD",
@@ -4531,7 +4531,7 @@ var DistrictsData = {
         "FederalFunding": 3786089,
         "OtherLocalFunding": 517718,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfpzWBpAJotFh-W5kyYP2ckBqvoftk1ePwgTSxRzSFsT9Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUY7fDDLHgFMpU2YeAb-Om4BSACQPz1OXnCXmH7bhIA6wQ"
     },
     "238902": {
         "NAME": "MONAHANS-WICKETT-PYOTE ISD",
@@ -4563,7 +4563,7 @@ var DistrictsData = {
         "FederalFunding": 2799519,
         "OtherLocalFunding": 521768,
         "RecaptureAmount": 12216245,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eef6g5Y2RutJs5sBYxHJarQBHrMnaR1OsxvmFGplCt-hVg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eck1_dPYSfZAueZIihsPLIYB7UVWfAG8fsvoRNkWPKMWtw"
     },
     "238904": {
         "NAME": "GRANDFALLS-ROYALTY ISD",
@@ -4600,7 +4600,7 @@ var DistrictsData = {
         "FederalFunding": 351356,
         "OtherLocalFunding": 37426,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYwJXg1MM_RBjg3bR5ltWhUBj70MWCs4XyO13Op4NUvkhA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYGq3JEvCm9PpEymWDJEiv0By_eQp77sPtWQLGvBV90TZQ"
     },
     "156905": {
         "NAME": "GRADY ISD",
@@ -4637,7 +4637,7 @@ var DistrictsData = {
         "FederalFunding": 229911,
         "OtherLocalFunding": 444878,
         "RecaptureAmount": 34443863,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbEO5T3RZ9JMq0VV5Ns9gAoBP3R9AkyGkK9zGBUGrfKkyg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EV-Qx6Bqk6ZFjXCdmhADGgQBY4U4d3N_7TqrjywIYTtufw"
     },
     "252902": {
         "NAME": "NEWCASTLE ISD",
@@ -4674,7 +4674,7 @@ var DistrictsData = {
         "FederalFunding": 317318,
         "OtherLocalFunding": 176872,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbOvhy6UN-ROu_XV8Cs6_w0BFCdWePrBoaXj6pcnioZ2cg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQaQqdWeAD5BvAKy5mbMZ1kBHei3LNINhdR7iu8_r7I6NQ"
     },
     "252901": {
         "NAME": "GRAHAM ISD",
@@ -4719,7 +4719,7 @@ var DistrictsData = {
         "FederalFunding": 5727598,
         "OtherLocalFunding": 841503,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWaEVCwbNkRLgnpVVyow-K0BJVTzALddkngdNpharN-mow"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQnz7L1WXtBNmc0H5m__LPsBjHdWzkyXi5nx9O-nRCsL1Q"
     },
     "103902": {
         "NAME": "HARTLEY ISD",
@@ -4756,7 +4756,7 @@ var DistrictsData = {
         "FederalFunding": 247952,
         "OtherLocalFunding": 92721,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES4wIPri1-pPleOkGGCbggsB-K6C_RbRWPNL1QddlKbPJQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcfAiwXJZulNu8O8k0eW3TAB95Lg9DlGljK12CPosmKrzg"
     },
     "103901": {
         "NAME": "CHANNING ISD",
@@ -4793,7 +4793,7 @@ var DistrictsData = {
         "FederalFunding": 263689,
         "OtherLocalFunding": 49695,
         "RecaptureAmount": 7412,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWQfnuk3y9lDl6HgleO4kxYBK-Ng-NutiRsgBZIoxX1d5w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eew6tt1wrC1NgMSgIVEQa3wByrTtEFWwJRkazuI7sTSkFw"
     },
     "056901": {
         "NAME": "DALHART ISD",
@@ -4830,7 +4830,7 @@ var DistrictsData = {
         "FederalFunding": 2499073,
         "OtherLocalFunding": 610103,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERYJ8PgosgxIoT1WB1BdjUgBFfFPc6oHHkcgwb8fKPHp0A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ET3R9_M-OuVIvRXmPakSLtUBZABfdFe468vl_jqBhSQJYA"
     },
     "182904": {
         "NAME": "SANTO ISD",
@@ -4871,7 +4871,7 @@ var DistrictsData = {
         "FederalFunding": 549171,
         "OtherLocalFunding": 163397,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQAi502hc59Eg41_3fHRMwYBF26TiEE7FoLgdFXe32eLWw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERXBRXwa1mhBicDJf0KQISMBFIqMbIdCEuKTmWlj-h2R7Q"
     },
     "072910": {
         "NAME": "MORGAN MILL ISD",
@@ -4908,7 +4908,7 @@ var DistrictsData = {
         "FederalFunding": 182889,
         "OtherLocalFunding": 46195,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESJLbqaupYJAp7na7W1ahacBIQqyofgku4ttUEufhL59jQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYc2OruMTF5JoBZkwGi6GZMBCxPttc8CNFFpIViouYXjyw"
     },
     "182901": {
         "NAME": "GORDON ISD",
@@ -4949,7 +4949,7 @@ var DistrictsData = {
         "FederalFunding": 229283,
         "OtherLocalFunding": 248170,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYJlqWJ_c7lHnG5GABgcI1QBnmnVuSLDWRRRyZW2QfWpkQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbbUMt_wqxlMuA6YW5EwphkB9L2iH0GQRMMixcuUkDTLxQ"
     },
     "072902": {
         "NAME": "DUBLIN ISD",
@@ -4990,7 +4990,7 @@ var DistrictsData = {
         "FederalFunding": 2425897,
         "OtherLocalFunding": 598044,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ET_qSHNM21tMrxhlIAYgHysBFCfGh27HWPTFvdGCxKbfPg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUTGjIfkAVBAvTbpyWoOkbIBStekxbSmJszJg9Jt-eS1QQ"
     },
     "089903": {
         "NAME": "NIXON-SMILEY CONS ISD",
@@ -5035,7 +5035,7 @@ var DistrictsData = {
         "FederalFunding": 2234541,
         "OtherLocalFunding": 912987,
         "RecaptureAmount": 160442,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESYSq2Nj_0xAu2gohTr_w08BwneouII98bZq3G0A_XNoFA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYjiiruwpNlGhsAhuVzo0NUBpezigrpRu1e9g3t0AVcWUw"
     },
     "161914": {
         "NAME": "WACO ISD",
@@ -5071,7 +5071,7 @@ var DistrictsData = {
         "FederalFunding": 33722403,
         "OtherLocalFunding": 12129959,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXKw3irHDuBEuEzGepOo9VYBXp8citIYqJ1glP8mkAPoYQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXksuJkxQ8BCmipcOuto1Z8BkMHt9vA67ac5z1i7jHir0Q"
     },
     "161924": {
         "NAME": "HALLSBURG ISD",
@@ -5108,7 +5108,7 @@ var DistrictsData = {
         "FederalFunding": 231694,
         "OtherLocalFunding": 44819,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EapCmykV5R1DoIqoouYxLRoBh5hNEgtfaxqsYBgZMFX9sw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESwMsMZAYLxHnvmkUCITtRIBdNzLNR99DsW7vzWoqSFPag"
     },
     "161923": {
         "NAME": "BOSQUEVILLE ISD",
@@ -5145,7 +5145,7 @@ var DistrictsData = {
         "FederalFunding": 495712,
         "OtherLocalFunding": 446036,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee5ZuBAKt8VIhdMuN-j9xNsBquFSSpiRnZshIUnK_fKF8g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWCXpH6lMbdDmQF2EcQ9wkABGgiWapOkvLwfpsJBJu99hg"
     },
     "154903": {
         "NAME": "NORTH ZULCH ISD",
@@ -5182,7 +5182,7 @@ var DistrictsData = {
         "FederalFunding": 541347,
         "OtherLocalFunding": 168605,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWVpv8Zeo7NKkID3VZuNlFEB19csgwNd-We5DWC3Jc1JuQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESf91HtBqCNMkRUnt1rlk3QBuom850qVDI_9cp1vEi950Q"
     },
     "145906": {
         "NAME": "NORMANGEE ISD",
@@ -5219,7 +5219,7 @@ var DistrictsData = {
         "FederalFunding": 856433,
         "OtherLocalFunding": 249143,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfoqO0bI0JtAlM_g5mTsP0kBNuqrJ7grwooKkSQNSoz4pA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYakA9EswHxCksMX4QFEFaIB50LyvQzpf0A6kvjzCkPnfQ"
     },
     "100904": {
         "NAME": "SILSBEE ISD",
@@ -5251,7 +5251,7 @@ var DistrictsData = {
         "FederalFunding": 5397483,
         "OtherLocalFunding": 888601,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWnVmB1vUwRNi9Pn9SIG10gBseakWyIHiGeL5c36zOPK8w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec0gE5u8zURHtkfSWaa4tI4B4I90Xs-OoRJSwnaF6sg3pQ"
     },
     "052901": {
         "NAME": "CRANE ISD",
@@ -5288,7 +5288,7 @@ var DistrictsData = {
         "FederalFunding": 1324593,
         "OtherLocalFunding": 593328,
         "RecaptureAmount": 2734738,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeFvY80DEqlNiU4-4BPiuFwBaXQp5Yj16Ge-r7LHAxjWiw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcZk6mdeyCtBsgsZ56KW0DsBX5NGiuSTYRbubw7Pri6Dgw"
     },
     "175911": {
         "NAME": "RICE ISD",
@@ -5320,7 +5320,7 @@ var DistrictsData = {
         "FederalFunding": 1243908,
         "OtherLocalFunding": 267509,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUhj-gqImPRMsUN-mNMu1okBxT3pefCc6teJZPoQwOrSaw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQSvh6PprPpHuf2h8rIRcdIBDGJBkZYhmfpe-X0foBLlnA"
     },
     "175910": {
         "NAME": "MILDRED ISD",
@@ -5357,7 +5357,7 @@ var DistrictsData = {
         "FederalFunding": 604832,
         "OtherLocalFunding": 538591,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eay88_Euy7xFgFBxgmGHGa0Bd0EH2R7VYxWnICN79By2AQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQerP8wT2ylPottss21TX08BHjoQRBm-WE5SoZu0EQN5lA"
     },
     "175907": {
         "NAME": "KERENS ISD",
@@ -5394,7 +5394,7 @@ var DistrictsData = {
         "FederalFunding": 1252460,
         "OtherLocalFunding": 305353,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcqAH2XCh0lDoqPvYfKBM5gB8O-_OGH-bm6RFWtYfA1fSg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcrDlf1hu81Mi8EQ7gxj1rkBginZ4uD2ueMqLXm68M274g"
     },
     "065902": {
         "NAME": "HEDLEY ISD",
@@ -5435,7 +5435,7 @@ var DistrictsData = {
         "FederalFunding": 243563,
         "OtherLocalFunding": 59238,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbTeSAglJO1EsxoZ4hAF3XwBmCqr4IHI2X4cmyOiryG3fw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUcQYgPN18tAgYarHkOAC5MBqYdy0l-o26zSmjRdUN1mew"
     },
     "132902": {
         "NAME": "JAYTON-GIRARD ISD",
@@ -5472,7 +5472,7 @@ var DistrictsData = {
         "FederalFunding": 150670,
         "OtherLocalFunding": 6439563,
         "RecaptureAmount": 1794072,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcXPmryp7-ZFkDj3gMtSoT4B3dfMRSdUrcXKdWjzJQEThg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES0c47ABVAhLp1wgz9mD2cgBa4lmcneZRCD7fqK8fP10_g"
     },
     "218901": {
         "NAME": "SONORA ISD",
@@ -5504,7 +5504,7 @@ var DistrictsData = {
         "FederalFunding": 1718405,
         "OtherLocalFunding": 450831,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYvGEzzJNGRMrRB7z1m9RFYBOtLc1b27AmWE3LC2xGxBUA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXjaTxdTk7RGv_CYNkXUicgBau2xYNbod3UbK0sqpanNmA"
     },
     "115902": {
         "NAME": "SIERRA BLANCA ISD",
@@ -5541,7 +5541,7 @@ var DistrictsData = {
         "FederalFunding": 232705,
         "OtherLocalFunding": 261827,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY3h7WTThgJEhsz6jlgm1UwBdvURyPd8ysPeuAz1I8wXog"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYYqBo9hiGBFh7yyQrLeshYBn0wzLpEKYfOuzNd73CX6uw"
     },
     "115901": {
         "NAME": "FORT HANCOCK ISD",
@@ -5578,7 +5578,7 @@ var DistrictsData = {
         "FederalFunding": 740997,
         "OtherLocalFunding": 47242,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZldijap1bdPnnrtoLXIwfEBNlZUGvEPnQUFXdfTX1-eWQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfiIc5RpW1hIiNTFwPqTmFQBYGQz1quOgQiLDsltWiJhIw"
     },
     "115903": {
         "NAME": "DELL CITY ISD",
@@ -5615,7 +5615,7 @@ var DistrictsData = {
         "FederalFunding": 227056,
         "OtherLocalFunding": 61244,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWknpkl1TcdGmOEJp-gBCcUBxTLyaNyiqOk1tiFc9EMizw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaSdynKC0-BEris7BBM6NeYBLgbSE3OKAF6HSFLX7Sx14Q"
     },
     "055901": {
         "NAME": "CULBERSON COUNTY-ALLAMORE ISD",
@@ -5652,7 +5652,7 @@ var DistrictsData = {
         "FederalFunding": 726083,
         "OtherLocalFunding": 213281,
         "RecaptureAmount": 22421270,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeQuuk35nNRFtam2n-xwV9cBCdoy4UrpNw45oQvmX9RFww"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQz2t8zhNx1PnhvTScJ135AB4IaQD9uYyBOGTMZcqTYgGw"
     },
     "254902": {
         "NAME": "LA PRYOR ISD",
@@ -5689,7 +5689,7 @@ var DistrictsData = {
         "FederalFunding": 1137456,
         "OtherLocalFunding": 134789,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfoYVRrU_RxAiP__MaUluXoBUK5zin7b0-0LQ6UJR0u_pw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbuC__QUJXREpGmlu9EW4rwB8QuhXLg3kBr5EMZ_mx1dCQ"
     },
     "025906": {
         "NAME": "ZEPHYR ISD",
@@ -5725,7 +5725,7 @@ var DistrictsData = {
         "FederalFunding": 332856,
         "OtherLocalFunding": 144916,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU-IXRUV9pdKm2xGtcVV3N4BJMJd6P0Yng1RxC8Qvu3hDw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYzzj5e2qMNGvxNXbdVVUn4BAu1FSPTT_KxaZg-eetNnKw"
     },
     "047905": {
         "NAME": "SIDNEY ISD",
@@ -5757,7 +5757,7 @@ var DistrictsData = {
         "FederalFunding": 293442,
         "OtherLocalFunding": 25306,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed7sNXXJWOtMtlh9DUiF1WoBYjN-ZmTDY7sMKQ3kAx06ow"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZqQrUZhJdVJkz5xCpojsDUBVP6GSxgOxT3D8sjGOjtS-w"
     },
     "167904": {
         "NAME": "PRIDDY ISD",
@@ -5789,7 +5789,7 @@ var DistrictsData = {
         "FederalFunding": 184889,
         "OtherLocalFunding": 211931,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVvnhcDzFpdCjsmcn-X4digB8c084OdKrqDJvcc8bJByBQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdvyPKEis6JOssahKQE_wjsBQ_YbxiIxOplMQ6R9sP3GdA"
     },
     "167902": {
         "NAME": "MULLIN ISD",
@@ -5830,7 +5830,7 @@ var DistrictsData = {
         "FederalFunding": 1113390,
         "OtherLocalFunding": 139103,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXBgwVNKpKJDuiQqph5ONLgBYrgKhPK8BxAwgrntrpEhkw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX6iiKrK9hNBhUXkwq3Gr3QBJYxVJIjHNayj7Vp8J3-CkA"
     },
     "025905": {
         "NAME": "MAY ISD",
@@ -5871,7 +5871,7 @@ var DistrictsData = {
         "FederalFunding": 758312,
         "OtherLocalFunding": 61077,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXd1nrdn3OJJoBYPoSY0PokBPcMoPzXyGr3ADgmbJBm93w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESyNdQYvDb9KolEOuHIxhTYBmoqSe-gEzZn_t7y52NkALg"
     },
     "047903": {
         "NAME": "GUSTINE ISD",
@@ -5908,7 +5908,7 @@ var DistrictsData = {
         "FederalFunding": 562429,
         "OtherLocalFunding": 37547,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU-eTqtBHDpDhTNDdBajCLgBuf9OwfMQh6MINh3gDOz-Ow"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZaDqG_pMxtEquPqD7dwzpYBxqLc9FkJkZQ33jnktrFRyg"
     },
     "047901": {
         "NAME": "COMANCHE ISD",
@@ -5945,7 +5945,7 @@ var DistrictsData = {
         "FederalFunding": 2658444,
         "OtherLocalFunding": 708671,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUZt9XinvVhPl1zG1HcbaT8B30WcW3hh3GSK5rYW0gyaVQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea-9sbQSz3lJk-av9-NeqkIBSPomiMnWKFhjveKZEdp3lA"
     },
     "025904": {
         "NAME": "BLANKET ISD",
@@ -5986,7 +5986,7 @@ var DistrictsData = {
         "FederalFunding": 236305,
         "OtherLocalFunding": 80542,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWWLZRf0wNNPtg2AqyNz1w4BrPFP4Np1T-XEf1fFYXJJtw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ead2t0cFopBMtkb7s21HNcoB5aHehBTeMDbnSPDkxRT0Bw"
     },
     "102903": {
         "NAME": "WASKOM ISD",
@@ -6018,7 +6018,7 @@ var DistrictsData = {
         "FederalFunding": 1510887,
         "OtherLocalFunding": 899421,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfIS_E_9wINOsIwJzXOLshgBB1Tp_IJN_AOSpdnghVCEkQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZqbt2nvnPtKoEqGmfGQ_J0BK56aOZ_KsV1q8PdH1xyleA"
     },
     "230906": {
         "NAME": "NEW DIANA ISD",
@@ -6059,7 +6059,7 @@ var DistrictsData = {
         "FederalFunding": 1315749,
         "OtherLocalFunding": 497010,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERdb94hN9mFJj58DkksE1YEBEGNwmBuIJln_TumG4alAIQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETuBboi4fOhNiuQ_G-WgmM8BevHwT1l7BKsQSapaVUVlpA"
     },
     "102902": {
         "NAME": "MARSHALL ISD",
@@ -6096,7 +6096,7 @@ var DistrictsData = {
         "FederalFunding": 10705362,
         "OtherLocalFunding": 1140535,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZd8AqnEGEpGoqqb-1EsnJcBYYII3sE-0cd_N9IydAXuiA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQQAcEZinklJlKQ-W3RFowcBJebPRuUiR8P3L184D6ExVw"
     },
     "102901": {
         "NAME": "KARNACK ISD",
@@ -6133,7 +6133,7 @@ var DistrictsData = {
         "FederalFunding": 508245,
         "OtherLocalFunding": 327440,
         "RecaptureAmount": 222300,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESjnWdRO77lHn_4uP8dc1dABpN9DltcSv7Z70rhDGRW23A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQcmARLSye1JuD2-LPZ-jZ8B1ghPdxfOUgpyfyMM16kb1A"
     },
     "102905": {
         "NAME": "HARLETON ISD",
@@ -6170,7 +6170,7 @@ var DistrictsData = {
         "FederalFunding": 851403,
         "OtherLocalFunding": 463308,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESEV2dAt8ndIjZoMKc7LxLkBupGOvpqf8JaxUz6UIqhjkQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaEAkzUllfhBm0DIfzuNtn8BixRI6zODjcfXirD0v_EOeA"
     },
     "102904": {
         "NAME": "HALLSVILLE ISD",
@@ -6207,7 +6207,7 @@ var DistrictsData = {
         "FederalFunding": 6337311,
         "OtherLocalFunding": 9728684,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EV0R7nhpgy9PszlS865hPsABG4xYahIVoGnb-ycyPFIY4g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYnixG-6Z_hEr0LU4UOASeIBbuteEQ8qgesxdetwc4zmdQ"
     },
     "102906": {
         "NAME": "ELYSIAN FIELDS ISD",
@@ -6244,7 +6244,7 @@ var DistrictsData = {
         "FederalFunding": 815663,
         "OtherLocalFunding": 716459,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQZLbZJaJnZGqs5PLdhRXi4B-GX0ZmT_yFKlRNCsMfplkw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVmVU7lnEXdFsAntPSe52agBwGgd-pDzRUZba2dFPu7PMw"
     },
     "168903": {
         "NAME": "WESTBROOK ISD",
@@ -6276,7 +6276,7 @@ var DistrictsData = {
         "FederalFunding": 98271,
         "OtherLocalFunding": 112779,
         "RecaptureAmount": 101928,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeVGHs_4ldpIk1-EfYrmjj0BpxJWmVAP7qVQ0w2r5j-reQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVfayU62Ks9LtC3fC4FYaG4Be_ODugkSx5O5uB9eo1Ek4w"
     },
     "168902": {
         "NAME": "LORAINE ISD",
@@ -6313,7 +6313,7 @@ var DistrictsData = {
         "FederalFunding": 231376,
         "OtherLocalFunding": 110322,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVg2i-1eF4BOouYlyN7EPcIBy7TACpaVymR7u_PXUmrOqw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUbmFZFDQldCsVE5xVpPAzAB6AZf5YqrSFPScu3j0Mepqg"
     },
     "208903": {
         "NAME": "IRA ISD",
@@ -6350,7 +6350,7 @@ var DistrictsData = {
         "FederalFunding": 103159,
         "OtherLocalFunding": 179195,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ER7SYVb7ktRAjcQ1yuk54V8BYXha80R6AnaBv0f_8itp4g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWC7t0KF1JVEvm8EVxk22Z4BM9WpDo5QmXLiRIA6HGC6dw"
     },
     "168901": {
         "NAME": "COLORADO ISD",
@@ -6387,7 +6387,7 @@ var DistrictsData = {
         "FederalFunding": 2018567,
         "OtherLocalFunding": 437513,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW9qD1jHSbtMhEfiaP91760BcGhkkHQUg5QLDhR1B9UuvQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Edh5E758EIlJoY1t-aloLrgBJj9r8PNK7MPDHhEaEg9P5w"
     },
     "249906": {
         "NAME": "PARADISE ISD",
@@ -6424,7 +6424,7 @@ var DistrictsData = {
         "FederalFunding": 1067477,
         "OtherLocalFunding": 620250,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQLV2yU3XQhBjgJLXI7l_ZgBXM3i0o6iXg2xvQB6Bqpgvg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYRxYLipZg9LkWByVf9co-UB79Qhxtt4BSH34ioP-8bC-g"
     },
     "249904": {
         "NAME": "CHICO ISD",
@@ -6461,7 +6461,7 @@ var DistrictsData = {
         "FederalFunding": 808035,
         "OtherLocalFunding": 116495,
         "RecaptureAmount": 508279,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUIA9j6QtllJk-RkWKuM3osBdyh1Qhx-8_U7H5n2FaiGpg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ER82ILYBJ9xPvdZiSoBJl80BMH49VM7GCgbNFkA281VXFQ"
     },
     "249903": {
         "NAME": "BRIDGEPORT ISD",
@@ -6498,7 +6498,7 @@ var DistrictsData = {
         "FederalFunding": 3785958,
         "OtherLocalFunding": 2824193,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfP22sz8x3xBvNfblHcLOL0BQ2JYKIySDMNiVmxZs252uQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVH0GAht4K9Fmg_xYtZpJoAByBsQv4_676WpflhZiij9Tw"
     },
     "184901": {
         "NAME": "POOLVILLE ISD",
@@ -6530,7 +6530,7 @@ var DistrictsData = {
         "FederalFunding": 719448,
         "OtherLocalFunding": 59536,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETtWCdYT-G1IrtO1-dLalFEB17hkPGh2j5ldPNrotdXvhg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ean1B5fMDaFNkUs49_asLTIB7iNKm_dOFkcDqT0brDy4Eg"
     },
     "122902": {
         "NAME": "VALENTINE ISD",
@@ -6567,7 +6567,7 @@ var DistrictsData = {
         "FederalFunding": 72355,
         "OtherLocalFunding": 7502,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea6nxCsuPr1JgOZ4uOaYMqUBWgnjRiCdV7lerE7-6QNUXg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQuWmeudBrxDhlW82jBz5P8BzWVpixUAWc26PXnv4Cdbaw"
     },
     "122901": {
         "NAME": "FORT DAVIS ISD",
@@ -6604,7 +6604,7 @@ var DistrictsData = {
         "FederalFunding": 387168,
         "OtherLocalFunding": 30152,
         "RecaptureAmount": 9781,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee8rvdHN_aJJr2G5btq5rhQBo1PpHDno2WdHJ2Vyf2fIEQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZqkBlZ3ig1Mk8N3Pwo-3HEBAQCQFlMgAMHcLIr90asa0g"
     },
     "071908": {
         "NAME": "TORNILLO ISD",
@@ -6641,7 +6641,7 @@ var DistrictsData = {
         "FederalFunding": 2295608,
         "OtherLocalFunding": 129936,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY-bV5e8lV5PrmAyB-Ehl5QB4a5VJRrlIMBUzaoVoRUK6g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWzB6uw7R6BOu4UEZOb2G-ABvt_4gjWTHmGvYLFZqnEn4A"
     },
     "057913": {
         "NAME": "LANCASTER ISD",
@@ -6678,7 +6678,7 @@ var DistrictsData = {
         "FederalFunding": 7496716,
         "OtherLocalFunding": 1263019,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWVhusLKKalIsETysqodZEcBgFhwkK4CBStcTZuVDzg42A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb1SzQ-eG_NGnrx-7bvDscMBfhGzeKEE5O52v2bHl5KWBw"
     },
     "057911": {
         "NAME": "HIGHLAND PARK ISD (DALLAS)",
@@ -6719,7 +6719,7 @@ var DistrictsData = {
         "FederalFunding": 1057729,
         "OtherLocalFunding": 14235737,
         "RecaptureAmount": 105437688,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESCbZgH8MLdKoR9hmLrMmJIBszMJiLTWOflwCtSlCtWbaQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EarUX6u4QMxBiOJxfY8M4QwBnLjbE14YKDU3pqqEdKLWuQ"
     },
     "057907": {
         "NAME": "DUNCANVILLE ISD",
@@ -6764,7 +6764,7 @@ var DistrictsData = {
         "FederalFunding": 16560504,
         "OtherLocalFunding": 1289031,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX9aR1IlOttErnelkxMok84Bo0REU0ZopWTyqKQhmLl0iQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVhfsJUL6zJAoNcweU3xesYBKfbpf0M8MCbNAVSDEh0b9g"
     },
     "057906": {
         "NAME": "DESOTO ISD",
@@ -6805,7 +6805,7 @@ var DistrictsData = {
         "FederalFunding": 18464651,
         "OtherLocalFunding": 1781335,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb3hvn02v5xAu75FJKX_qW0BRfC64z1CgbMScnaOmjmJrQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed4a-FSxvvpNiZGGU7fyh2QBWPGjqTUFkDhFrz-gbYBvAQ"
     },
     "070905": {
         "NAME": "FERRIS ISD",
@@ -6850,7 +6850,7 @@ var DistrictsData = {
         "FederalFunding": 3903976,
         "OtherLocalFunding": 202183,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXk46EmwvqtIh860SyEm0dEBf4zycfb6uFrHoTfwNUUsiQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfpFn2Px2adBtHxz7FSBuEgBEEDO4lL12eA8E93YzJUPng"
     },
     "114902": {
         "NAME": "COAHOMA ISD",
@@ -6887,7 +6887,7 @@ var DistrictsData = {
         "FederalFunding": 1760342,
         "OtherLocalFunding": 2047015,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdS4eIrheUVDlWtbwnPqVjYBm4WzYBMSI0eK_5Adtg84oA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVxcg7yqLOdPlGjaUTPHbwoBwm4St0qm8v09lzONrOQi8g"
     },
     "114901": {
         "NAME": "BIG SPRING ISD",
@@ -6924,7 +6924,7 @@ var DistrictsData = {
         "FederalFunding": 6678956,
         "OtherLocalFunding": 1248074,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETIp7YcJ_35DuXLlNoNeXHQBoWOE6gvBDKZPvh7764cSKA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW3fZcTfTMpHq5AfvbgsZtEBzQ5d_c8RP3Uyc7apOb6jYQ"
     },
     "114904": {
         "NAME": "FORSAN ISD",
@@ -6969,7 +6969,7 @@ var DistrictsData = {
         "FederalFunding": 558246,
         "OtherLocalFunding": 304526,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcC565Zdox9GnFo1cwxGlBIBCxHGxcNYwP3IsJlMMNL1Wg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZpGgn_vXrFGr7Tnv6lZx7sBubHHLTCMAE1DOlhAyc7yXA"
     },
     "058909": {
         "NAME": "SANDS CONSOLIDATED ISD",
@@ -7014,7 +7014,7 @@ var DistrictsData = {
         "FederalFunding": 287813,
         "OtherLocalFunding": 122409,
         "RecaptureAmount": 10972754,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZOIK52jvXhArSmh6RHNEdABnNjMYg6mCLxS7jYHYu0xiQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW0vL8afoT1It1FBbJHcWnkB1y2oLwq6WIs1temucdxAwA"
     },
     "096905": {
         "NAME": "TURKEY-QUITAQUE ISD",
@@ -7046,7 +7046,7 @@ var DistrictsData = {
         "FederalFunding": 610791,
         "OtherLocalFunding": 73495,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXBObk_0yAZKuSNsEdiMxvgB20aeIL6Sp1wn7OHgSBWkMQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaAjUaBbSe5Bpqoa5-AM00YBYYTRxVzKp5uBlPJ4PomqUg"
     },
     "095905": {
         "NAME": "PLAINVIEW ISD",
@@ -7082,7 +7082,7 @@ var DistrictsData = {
         "FederalFunding": 9956783,
         "OtherLocalFunding": 1550338,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eehtt-sqk9BBqQK4BUl3c30Boxbb-8RAGllWyiSkOcZnmQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYBtdVtIVO5AgYH3vb0i2WMBZdrM2mc3Ts53uxc7PDkxHg"
     },
     "173901": {
         "NAME": "MOTLEY COUNTY ISD",
@@ -7114,7 +7114,7 @@ var DistrictsData = {
         "FederalFunding": 599720,
         "OtherLocalFunding": 390128,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETEKEZ-UXMFFmpAyDflAlvEBNwyBZDfQsh8cwV6GiGr0mA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcjsqnDKexxCsqoamNZWkIMBGuqnsmAyk5LFBxDiIBXqsA"
     },
     "077902": {
         "NAME": "LOCKNEY ISD",
@@ -7155,7 +7155,7 @@ var DistrictsData = {
         "FederalFunding": 846562,
         "OtherLocalFunding": 947767,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ebfdw2o_jetPopPMRVuPvDMB8WWRJf1Jile_J7v2gWT8rA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Edq1mbQygypHt1lvLa4C0VABRfg8BvBPtaFjSgVRVTQmrQ"
     },
     "077901": {
         "NAME": "FLOYDADA ISD",
@@ -7192,7 +7192,7 @@ var DistrictsData = {
         "FederalFunding": 2217276,
         "OtherLocalFunding": 505913,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbpBbZeqP1BNqz6KLrWxeQkBFEyDc9SvBEVmlj7z0T37CA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EStt57jVPx1Dp85B7pRObEsBW5nYM5toDzo9xmR9lrF-lA"
     },
     "022004": {
         "NAME": "TERLINGUA CSD",
@@ -7229,7 +7229,7 @@ var DistrictsData = {
         "FederalFunding": 289793,
         "OtherLocalFunding": 97238,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQPZgSyqXL1DgNwRgdR_2NcBpJxXKmBPMNapyJnMrfx1pw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU9kc9QR9qNOu3TuTUJXncUBZhlUEr09u3yYjXNvRF7Cig"
     },
     "022903": {
         "NAME": "SAN VICENTE ISD",
@@ -7266,7 +7266,7 @@ var DistrictsData = {
         "FederalFunding": 217197,
         "OtherLocalFunding": 40808,
         "RecaptureAmount": 0,
-        "CharterCostLink": null
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX2D6XSxBvhAk21wWeFxTKIBxYxVwRjZQfSeUbJOEW-Zng"
     },
     "176903": {
         "NAME": "DEWEYVILLE ISD",
@@ -7303,7 +7303,7 @@ var DistrictsData = {
         "FederalFunding": 961170,
         "OtherLocalFunding": 196906,
         "RecaptureAmount": 580221,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQUAHNbyPkBKp6I_HMXkv-YBGpbgIBzJ0gem5G01qUp6MQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZAsKod8wRVLqknmQf9Vxz0BpyDVsvXDS1M7_kNn5qIMIA"
     },
     "136901": {
         "NAME": "BRACKETT ISD",
@@ -7340,7 +7340,7 @@ var DistrictsData = {
         "FederalFunding": 623032,
         "OtherLocalFunding": 412580,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfW0HL9quuNElWNIuOzxzCgB5N2MrcnyqqyIHxFsVCWADA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaKA9uXhky9OuvRBsPJYiHIBg1rAFLUZNhMfuIYgTOmZwg"
     },
     "025901": {
         "NAME": "BANGS ISD",
@@ -7381,7 +7381,7 @@ var DistrictsData = {
         "FederalFunding": 833994,
         "OtherLocalFunding": 213130,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUo-UQW_M9hOv1g5omKbvqsBeNbOjyo2FpKVfP35jUpuLQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EV7noNff441PmkHzskErp4gBek90KnUw0bZWmUEb5IyUVQ"
     },
     "180904": {
         "NAME": "WILDORADO ISD",
@@ -7413,7 +7413,7 @@ var DistrictsData = {
         "FederalFunding": 124036,
         "OtherLocalFunding": 920860,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EV3d7YBzkW1GjVqKht_M90ABlSJrrVIRPhwAdBFwUvHrpA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESdd59p8znNPvGBtGOihavUBioRlw83KdcVZTbAC3tPL9Q"
     },
     "191901": {
         "NAME": "CANYON ISD",
@@ -7450,7 +7450,7 @@ var DistrictsData = {
         "FederalFunding": 12008776,
         "OtherLocalFunding": 2656158,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERPry0pYwuBHpXuNxSqGaj8B5jcGXw9N80DLQLVDMKcEOQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbjIVBZhYxFNg_FYJGytSYcB447sYHOXOdfzPBvbRB4q9Q"
     },
     "145902": {
         "NAME": "CENTERVILLE ISD (LEON)",
@@ -7487,7 +7487,7 @@ var DistrictsData = {
         "FederalFunding": 1344542,
         "OtherLocalFunding": 473453,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee2yiGEnQ3FKp3vILAKe1BEB87VgmCvPaXT7KqjJEibb5g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESuK31yACAhCp4RFoiz-zn8BGZpwuAOCO13J_0I3uOgI0Q"
     },
     "226906": {
         "NAME": "WALL ISD",
@@ -7519,7 +7519,7 @@ var DistrictsData = {
         "FederalFunding": 1394699,
         "OtherLocalFunding": 538216,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Efd9if3m7_BIgQWiaVQJeIgBfYWuGGKnTbfFUGteajlBzQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERA8GVwI5ONEirMMRp_ZdTsBdyJeY7BlhRwAeq03dwL14w"
     },
     "226908": {
         "NAME": "VERIBEST ISD",
@@ -7551,7 +7551,7 @@ var DistrictsData = {
         "FederalFunding": 205032,
         "OtherLocalFunding": 133302,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZaOUebETBNGsRaI2XI_1scBKI5QhxiYj4GsiyihBUgtvw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXfRbH9Nl6ZEtZ7hkWOW2hYB8TTWJJSuXXis2-nvxKif0Q"
     },
     "226903": {
         "NAME": "SAN ANGELO ISD",
@@ -7583,7 +7583,7 @@ var DistrictsData = {
         "FederalFunding": 23465820,
         "OtherLocalFunding": 2335382,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQCrqrtTR2RLje_MQXaQEjUBlozzQst0XFwCAbQp2qu8ZA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETetkhKFHZNCr5SnXAYamY0B6H68PqYDwjrP5IacWRyZEQ"
     },
     "226907": {
         "NAME": "GRAPE CREEK ISD",
@@ -7620,7 +7620,7 @@ var DistrictsData = {
         "FederalFunding": 1647929,
         "OtherLocalFunding": 150243,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcTyThx3kgdLnY7Siwy_G44BKYQfcpBji8Tikpw_f14dHw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfNVUxpJA4VMiesQfRYbneQB_Nnz0Na8y-eTwsyNQzSMiQ"
     },
     "226901": {
         "NAME": "CHRISTOVAL ISD",
@@ -7657,7 +7657,7 @@ var DistrictsData = {
         "FederalFunding": 298610,
         "OtherLocalFunding": 277581,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZraKDL3TtlHoZxw8WbFMHYBqc0bHmJCGHPyro9PF_jJ9A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWXuJkbzC35BkWkHX_IsJEEBDB3YsA7vCyFs7eh4Bga72Q"
     },
     "214903": {
         "NAME": "ROMA ISD",
@@ -7694,7 +7694,7 @@ var DistrictsData = {
         "FederalFunding": 20989211,
         "OtherLocalFunding": 3444899,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZScKXhlu7dHjYfTu_SwrgsBpKqq_hvnWoIgJVGPAYGpfA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZJ5GlPKHotEjBMa3u5BNyMBhH1hsrZ7GaGE69ZfR98lLQ"
     },
     "140904": {
         "NAME": "LITTLEFIELD ISD",
@@ -7731,7 +7731,7 @@ var DistrictsData = {
         "FederalFunding": 2971416,
         "OtherLocalFunding": 1680576,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVp2YGJPtupAtIh_nc72BfgBmWBsh25XDKI4HO4T1NthzQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec3Xfb_WP9hOksRvf4g7lv0BzFm2lCqDEduubEmhKCEy0Q"
     },
     "140901": {
         "NAME": "AMHERST ISD",
@@ -7768,7 +7768,7 @@ var DistrictsData = {
         "FederalFunding": 235361,
         "OtherLocalFunding": 24251,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESItjj0_RglKoHNgbVMBV94ByIxsfX-uTMeCoDcNrNED_w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES1ULfoiPrNKkmdtIK4NHZoBHFi5USTQGhQiir1-uhEtSA"
     },
     "056902": {
         "NAME": "TEXLINE ISD",
@@ -7800,7 +7800,7 @@ var DistrictsData = {
         "FederalFunding": 229192,
         "OtherLocalFunding": 66657,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee94vm_ODjVBm_gQLbqhYQABLp4vN3BekkG7kjxNkcaB2A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWQTrElnRZ1PqALAnIIBawgBLAGD3HWTox5Gw6I1ZUWZ4w"
     },
     "242905": {
         "NAME": "KELTON ISD",
@@ -7837,7 +7837,7 @@ var DistrictsData = {
         "FederalFunding": 125152,
         "OtherLocalFunding": 147373,
         "RecaptureAmount": 2159554,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EceRvIfNtohBqjv7yYnuf68BwghQ51NYtWzax6dcLkDPBw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ-EwbYlL7FLjQHhtATafg4BXYfXC9kcrC5T8yhVf3nHvA"
     },
     "242902": {
         "NAME": "SHAMROCK ISD",
@@ -7874,7 +7874,7 @@ var DistrictsData = {
         "FederalFunding": 1379239,
         "OtherLocalFunding": 614937,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETXmEMbHGu9FkaSdIzoRps8BOYnBy5fKydOavmaPuvW0QQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdVURjinzeZLuKBEsMAiWJwB7gLuOr1uTAEqKeLmie1XjQ"
     },
     "120902": {
         "NAME": "GANADO ISD",
@@ -7911,7 +7911,7 @@ var DistrictsData = {
         "FederalFunding": 498964,
         "OtherLocalFunding": 271006,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Edou-9j6ZUhGo3AR6z2ysPIBW3hc99GcMeuyCSU7sJLX1A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQuZvgRN9H1No_uGbiKiByIBq7-xiXB34cV_JrzscJQRjQ"
     },
     "120901": {
         "NAME": "EDNA ISD",
@@ -7948,7 +7948,7 @@ var DistrictsData = {
         "FederalFunding": 3040695,
         "OtherLocalFunding": 1979171,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eal88mI3hZpEofDfDDm6XbgB53nle2fnasI0fcSYJCoQ5g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZIO78RLQCNBvUpJatoul8ABuTzmx__pYdtupfRAchBUOw"
     },
     "083903": {
         "NAME": "SEMINOLE ISD",
@@ -7985,7 +7985,7 @@ var DistrictsData = {
         "FederalFunding": 4247679,
         "OtherLocalFunding": 9794859,
         "RecaptureAmount": 7616748,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZEiq_KEVnBGg8pujKcvUGABjMko0TMmUbJVc2ii9nk3vg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX9Ll9-L2ehPkfahGtWTYNcBjJYTz6vxKNDUmOg0j870Yg"
     },
     "174906": {
         "NAME": "WODEN ISD",
@@ -8017,7 +8017,7 @@ var DistrictsData = {
         "FederalFunding": 1062014,
         "OtherLocalFunding": 311915,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYurzR53qYBGu_twGpZBqbsB7Y_DsBC3DROGPufvnQWxAA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EV2uh1xSBj9Dp1FLVGyhIs4BFcq9MAJU3iiAHgzyIAR6XQ"
     },
     "174904": {
         "NAME": "NACOGDOCHES ISD",
@@ -8049,7 +8049,7 @@ var DistrictsData = {
         "FederalFunding": 15022047,
         "OtherLocalFunding": 1442724,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXPRkBag_jBJrWG55xP0dwkBZJeZjIH-Nv4BykGnpttKFQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETNis7AQSGlKg1eroMpta1oBOxuAuke6-B8OWjD9FJsAdA"
     },
     "174909": {
         "NAME": "MARTINSVILLE ISD",
@@ -8086,7 +8086,7 @@ var DistrictsData = {
         "FederalFunding": 585704,
         "OtherLocalFunding": 72232,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef4qRz_MdR5DnLkjd6t62FkBEkdV_xHW7s98OaVs5qQINQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdrApxVkJulOvTurOMgYMQUB-m0UKY-vXvqDTci6EpyUJA"
     },
     "174911": {
         "NAME": "DOUGLASS ISD",
@@ -8123,7 +8123,7 @@ var DistrictsData = {
         "FederalFunding": 336937,
         "OtherLocalFunding": 202293,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVwFY6KtrrdBuklWVFwauKYBpS9b5P1pDDG7hHS10PlVOA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXvW5r2J-GJBoz6I3Snp0QIBRRHW9O1foiOG1vkNKf4wzA"
     },
     "174908": {
         "NAME": "CENTRAL HEIGHTS ISD",
@@ -8160,7 +8160,7 @@ var DistrictsData = {
         "FederalFunding": 1918955,
         "OtherLocalFunding": 1899981,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETT1nX_ZNS1ApOt-6hRLYwcBOlpLpApW5mViOobngCQfeQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeWM5nRVadBGrJ5qeTyicvcBQ-pdLxIkhuLPuC6DOIYrxQ"
     },
     "166902": {
         "NAME": "GAUSE ISD",
@@ -8197,7 +8197,7 @@ var DistrictsData = {
         "FederalFunding": 235976,
         "OtherLocalFunding": 63195,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ8DQpuxFi9LuAb5xsXbgzABMkiv0QemCMG08S3M6PZHiA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed-1Z20k2MxLoQBCNCEsHo4BPhM8WrlsLKEUAeiJXLsXgg"
     },
     "212909": {
         "NAME": "CHAPEL HILL ISD (SMITH)",
@@ -8238,7 +8238,7 @@ var DistrictsData = {
         "FederalFunding": 5153756,
         "OtherLocalFunding": 590002,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef6eqP4TNPlCuFYpHbkUsEwBqs4bHt0OuWmE0LKq8CovaQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQGmnZVoQw5MhZon8kcK0FwBJvwUxZ-tSYoNYkbhZHpptw"
     },
     "180901": {
         "NAME": "BOYS RANCH ISD",
@@ -8275,7 +8275,7 @@ var DistrictsData = {
         "FederalFunding": 2718576,
         "OtherLocalFunding": 2512439,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZFnnnRWOoRJqDfXBheEgKgB9Eljgda21PxK-HvI_e-Rew"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY4L-3VQHDBLtEKQ-QT0seIBWP4wLXaALrOfkZx7MbrcRA"
     },
     "180902": {
         "NAME": "VEGA ISD",
@@ -8307,7 +8307,7 @@ var DistrictsData = {
         "FederalFunding": 259473,
         "OtherLocalFunding": 140935,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EavCL-r6-d1DoJ4dgCyVAfkBvtICnQMSKI8lPpeIay9H7w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVxDLj3GACBNjvJIjgkGAzsBh6IVJ6Kp8ZPccZAl9z_uJg"
     },
     "180903": {
         "NAME": "ADRIAN ISD",
@@ -8344,7 +8344,7 @@ var DistrictsData = {
         "FederalFunding": 171510,
         "OtherLocalFunding": 16007,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZHkPwl_57NIiobaqiCj2uQB0lhe8Lqsl-6fN4IvhipYbw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWJje106j7lNr27EFY3zjxQBeISSWpnhNMkC0qUE99g2og"
     },
     "215901": {
         "NAME": "BRECKENRIDGE ISD",
@@ -8381,7 +8381,7 @@ var DistrictsData = {
         "FederalFunding": 2026143,
         "OtherLocalFunding": 301766,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERmU_a2mSO1EmFLAp_m5EEQBu6YdmajTgqFn9MRKizIitA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZTzNGDI2dVChaxwNsHgirQBWBvqmycGh8QKt9MJusLnrg"
     },
     "059902": {
         "NAME": "WALCOTT ISD",
@@ -8413,7 +8413,7 @@ var DistrictsData = {
         "FederalFunding": 248585,
         "OtherLocalFunding": 57926,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZGPbJI0xdFOp0SDWUVwcC8BFZe6J0fjSaszxv5HqH4dJg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXM6i9umGjJMsel5jrCUmBUBytcJWwQvkX4zraNbybpHhQ"
     },
     "025909": {
         "NAME": "EARLY ISD",
@@ -8450,7 +8450,7 @@ var DistrictsData = {
         "FederalFunding": 1576201,
         "OtherLocalFunding": 419766,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EStH85l900FBtoZsBidRhTUB4UMndAyaxauaTghYfoVgQQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfGNulH4nY1BhgpJR6ub-e8BcR9dxIinfgpDtF0-v50fZw"
     },
     "025902": {
         "NAME": "BROWNWOOD ISD",
@@ -8487,7 +8487,7 @@ var DistrictsData = {
         "FederalFunding": 7639624,
         "OtherLocalFunding": 927487,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdxTlUl4eohAsx6pb19_fo0Bn6aFfO9cguXE9fvwvtnJ3A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX2-NQ-m7uhLoFAY6NYmLkMBRHnBT8BYxyig8_2Vk3QvJg"
     },
     "233901": {
         "NAME": "SAN FELIPE-DEL RIO CONS ISD",
@@ -8524,7 +8524,7 @@ var DistrictsData = {
         "FederalFunding": 16226825,
         "OtherLocalFunding": 3532308,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZYeQvCKBfFCs2IJAp2_gLEBs0GRt99BMpWzyw3w12dMuQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeRGtUdnpsFKl3vfekGmKyABfvXo8AG2i5IDcd5VDkQ76Q"
     },
     "233903": {
         "NAME": "COMSTOCK ISD",
@@ -8561,7 +8561,7 @@ var DistrictsData = {
         "FederalFunding": 450634,
         "OtherLocalFunding": 74059,
         "RecaptureAmount": 360571,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQw_V018R15PqNkXwBDqWc4Btu7EH9S5fmWf0nKDhMEl2g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EV0qfjqINZxHri879weRkroBCjZ4E6HB0LQ_mX6KPYDUhg"
     },
     "184908": {
         "NAME": "PEASTER ISD",
@@ -8593,7 +8593,7 @@ var DistrictsData = {
         "FederalFunding": 1284045,
         "OtherLocalFunding": 2072078,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee1rbG_sUSxAhar-OYgjxjABIS9NhBsDyb2bKiM6ccYiHg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES1W1I2AFZBIgq8otAzqt34B53vI2CIJzy568J8V-ETa5g"
     },
     "184911": {
         "NAME": "GARNER ISD",
@@ -8630,7 +8630,7 @@ var DistrictsData = {
         "FederalFunding": 464144,
         "OtherLocalFunding": 72428,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ebie71OzlohPuxC7soMphfMBg1xRMMeDqjsNDe-IOr-Qww"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX0vlOdyZ69Otunkm90DWm0Bu7A7OPXitfuxnfIlQ_PHIg"
     },
     "236901": {
         "NAME": "NEW WAVERLY ISD",
@@ -8667,7 +8667,7 @@ var DistrictsData = {
         "FederalFunding": 2083080,
         "OtherLocalFunding": 320437,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWmu_jFiKnFMlRR1dq2QIAUB9ZtmAJMjD-3JdWQGi5jyaQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ech7wHVKZK5Mt3RiQF9GEDIBYf8aUT5yU5Ks_14TA6Zodw"
     },
     "236902": {
         "NAME": "HUNTSVILLE ISD",
@@ -8704,7 +8704,7 @@ var DistrictsData = {
         "FederalFunding": 12852263,
         "OtherLocalFunding": 665606,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcLZOKE2YoJMqrSLAXD7EtAB_o9d6GGppDW5cvUV2RJtqw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EboYc7kf4hlBv8RB-C8jgjgBKVjslmLjv_zHvrU68yMm0w"
     },
     "128903": {
         "NAME": "RUNGE ISD",
@@ -8741,7 +8741,7 @@ var DistrictsData = {
         "FederalFunding": 495406,
         "OtherLocalFunding": 117455,
         "RecaptureAmount": 538034,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZkzG1lm0cxEr0u3GUxxUG8BZttlVqop0osRBnCKj51duw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYGt_q50Md1Hhs0uM7YH5WYBZcggQ488X9jSiNCTMIjrqA"
     },
     "128902": {
         "NAME": "KENEDY ISD",
@@ -8778,7 +8778,7 @@ var DistrictsData = {
         "FederalFunding": 1178405,
         "OtherLocalFunding": 487662,
         "RecaptureAmount": 2271759,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaH7AyEnssJHjFyZMCLijZ8Bcy0_Ybi-EFQaWkaa2rU2MQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETE6hlt3FWNMiICTPvlI1eQBwlYSDnyb-XGCqxBilJAOqw"
     },
     "182905": {
         "NAME": "STRAWN ISD",
@@ -8815,7 +8815,7 @@ var DistrictsData = {
         "FederalFunding": 152939,
         "OtherLocalFunding": 53211,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQiP2uMbr9NHo0neW41GkF8B_TOs9D-iQfKxb54Yp3A3nQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQhHQ4NxBoZLj85oTjHEI5wBZ7g3UQJu0DbOqxS68ZFGIA"
     },
     "182906": {
         "NAME": "PALO PINTO ISD",
@@ -8852,7 +8852,7 @@ var DistrictsData = {
         "FederalFunding": 162582,
         "OtherLocalFunding": 21016,
         "RecaptureAmount": 4080022,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETfZM258oCtBrAo7-j67o1EBbq04mHzHciYrjXkZrAEasw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Efr2GH0N00xAuiBrg11RIccBmaA2tQuj7sgbRcS9qO1AsQ"
     },
     "182903": {
         "NAME": "MINERAL WELLS ISD",
@@ -8893,7 +8893,7 @@ var DistrictsData = {
         "FederalFunding": 6243374,
         "OtherLocalFunding": 1117832,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXozcAp8j7pNhrcrk-ufzOoBggKq3kCeFn-4RktQs8ecNg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeqypUp4eBpDhfOMUa93hNEBQ329970WI_-MTXmAlMZ-Sw"
     },
     "184904": {
         "NAME": "MILLSAP ISD",
@@ -8934,7 +8934,7 @@ var DistrictsData = {
         "FederalFunding": 1218319,
         "OtherLocalFunding": 287541,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWaUeaECHY9KkIUrGlU0ie8B2PEtU3qEgHM2USqg6MfD8g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaZrYBrl2SpKqrHr5Ef8BacB5SSvWGfifeNPARHj5AF20A"
     },
     "210905": {
         "NAME": "TIMPSON ISD",
@@ -8966,7 +8966,7 @@ var DistrictsData = {
         "FederalFunding": 1912665,
         "OtherLocalFunding": 168148,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERNNN1hth5dEtmsj6rGBt6YBCa0W2fX26om_TUHW_YVnVg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUhK8eNN7PhJmF0DGJtJQycBdBPHSuEq4clvkZBMJPSkTQ"
     },
     "210906": {
         "NAME": "EXCELSIOR ISD",
@@ -9003,7 +9003,7 @@ var DistrictsData = {
         "FederalFunding": 173823,
         "OtherLocalFunding": 3354,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZIO-KstxftLnxSI7LSmoNwBDSv2wQYsYEHEuP4cM0mrEg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZuc71pmG5JMr09pL3rvf_MBpOPcstrgEPLoYVXtq0jIIg"
     },
     "210901": {
         "NAME": "CENTER ISD",
@@ -9040,7 +9040,7 @@ var DistrictsData = {
         "FederalFunding": 6076860,
         "OtherLocalFunding": 624936,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETEEvag-D-VKhwHe0x8nd2kBPVyRsRWs4QOmun4IGwncNg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfUYMFU_6B9OsIYZgetczv8BpV-9Cu6z1KayR6wk4U4DhA"
     },
     "054903": {
         "NAME": "RALLS ISD",
@@ -9072,7 +9072,7 @@ var DistrictsData = {
         "FederalFunding": 1356419,
         "OtherLocalFunding": 174852,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfZtW3zpiTJKvPaWAMWvWGIBETjCgki3KVcIT4485H-0FA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ET1oR-rX_ahLisQ4XQdYHBYBcRHcV5QdJACRUd5xb38rgg"
     },
     "054901": {
         "NAME": "CROSBYTON CONS ISD",
@@ -9109,7 +9109,7 @@ var DistrictsData = {
         "FederalFunding": 978999,
         "OtherLocalFunding": 1510930,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVJ9ot-5mKJArXX_48YJLEwB07EC7-80hd7qmcYJBAeGzg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW3QAD8x7zFEgKBX4Et02C8Be7hk6955hoi-cLiU3OKZVg"
     },
     "178905": {
         "NAME": "DRISCOLL ISD",
@@ -9146,7 +9146,7 @@ var DistrictsData = {
         "FederalFunding": 812693,
         "OtherLocalFunding": 81260,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXBD_q0YpZdEltZMS8d7MVQBVSuVwbK9AWutF1WJoa2zIQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaceeNx_g_9AnArKGuQ9WoIBJtwnP7noLe-blXShkuI-2w"
     },
     "178913": {
         "NAME": "BANQUETE ISD",
@@ -9183,7 +9183,7 @@ var DistrictsData = {
         "FederalFunding": 854704,
         "OtherLocalFunding": 329672,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Earsmf3csjVFtRJ-TlHg7_wBuLURtRhD0PU_P7D9fJ0xrQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETCh_UZBsaNJkfPdJk_Ft9QBDLI9v5VbsRfWSxOYm76cxw"
     },
     "178901": {
         "NAME": "AGUA DULCE ISD",
@@ -9224,7 +9224,7 @@ var DistrictsData = {
         "FederalFunding": 423780,
         "OtherLocalFunding": 236290,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ER-pljenAqdCgYlwXjQm3GcB2OUfz3J6_E2e4NKthyehtw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcVCob25EWpBspwlIwc5kcoBnVzjb1hYUvLm9Rpb7DdHaQ"
     },
     "196902": {
         "NAME": "WOODSBORO ISD",
@@ -9256,7 +9256,7 @@ var DistrictsData = {
         "FederalFunding": 718057,
         "OtherLocalFunding": 2508838,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUYiy5YM-1RMpRSbZhAHmBkBfnT20Itku4fi4wYASt668Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcGVmTCHmnFCoXmDsgYuvlABdafChg5uindDLlSDSPFXPw"
     },
     "196901": {
         "NAME": "AUSTWELL-TIVOLI ISD",
@@ -9293,7 +9293,7 @@ var DistrictsData = {
         "FederalFunding": 326945,
         "OtherLocalFunding": 141579,
         "RecaptureAmount": 236845,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVTjDZ-LFEhLp27UJ5KXsl8BXojwGMpq6Xu2kFI4jXna3Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETgLppjkF7RMgz49OELesj8BVP6BFPQEi6TFO5dV9gsC_g"
     },
     "216901": {
         "NAME": "STERLING CITY ISD",
@@ -9325,7 +9325,7 @@ var DistrictsData = {
         "FederalFunding": 198250,
         "OtherLocalFunding": 219207,
         "RecaptureAmount": 1897639,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUVrIjqRwjNNkYYYkV_3LkoBnfx6TW0lQUpsA1cGplc8ew"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcSR-yyyHjdNqPVYhzCTfaAB10L5CT6pQ5id72uacbbmwA"
     },
     "170904": {
         "NAME": "WILLIS ISD",
@@ -9366,7 +9366,7 @@ var DistrictsData = {
         "FederalFunding": 9251707,
         "OtherLocalFunding": 2099048,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EboC-CUA64JJnR1qf2qu3NIBupvrvQ80PdxMlmXipmsEWg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQxxTbfYV3JKnBDGaYABZS8B9T4sQV6t43MqVPZ5hPLt-w"
     },
     "170907": {
         "NAME": "SPLENDORA ISD",
@@ -9403,7 +9403,7 @@ var DistrictsData = {
         "FederalFunding": 5847890,
         "OtherLocalFunding": 864910,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ecv60rgZb3ZOlL3F6-XQIwYB1Z-qL23FMuddoGZd2u3MTw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETZZA5jYzR5HvdFE-i8OFVUBe4aFUflJYjUzC16pcUMEJw"
     },
     "186903": {
         "NAME": "IRAAN-SHEFFIELD ISD",
@@ -9440,7 +9440,7 @@ var DistrictsData = {
         "FederalFunding": 503912,
         "OtherLocalFunding": 558617,
         "RecaptureAmount": 5376827,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERePFrRZY8ZEt4ECawAlUb4BeaaOPmyVsUp8MyX0CJcnig"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbJ1wLztpitIpM-n5tymQgUBxYqlyzDWD1fEBy6F6XAWzw"
     },
     "186901": {
         "NAME": "BUENA VISTA ISD",
@@ -9477,7 +9477,7 @@ var DistrictsData = {
         "FederalFunding": 380890,
         "OtherLocalFunding": 178774,
         "RecaptureAmount": 5243569,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQf1czb4OQJPvZwlV1It8tMBaIQyzQ6WV3SQQ77lEIl_oA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef3aLoTWuuNCn4Qq6GxjqQkBKuC5WroWcTWSS2wXdoi_EQ"
     },
     "119903": {
         "NAME": "PERRIN-WHITT CONS ISD",
@@ -9517,7 +9517,7 @@ var DistrictsData = {
         "FederalFunding": 503020,
         "OtherLocalFunding": 195799,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ7icuDYsGJEqld-PQmoSswBMKN4iEhQjhzlP8HqTYpkng"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXFxsIut5L5DqqtgnILkURoB1E5PmXM90nr1728QfyyPQw"
     },
     "039905": {
         "NAME": "MIDWAY ISD (CLAY)",
@@ -9558,7 +9558,7 @@ var DistrictsData = {
         "FederalFunding": 268075,
         "OtherLocalFunding": 156489,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXgPMO3V-H1Pq6DTpvfBjEwBegh-xg1Lqgn8C0aD43VP7Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeqowU62uOhLtMXAGw0OgtIBOzSBrFxJ1n1pvsMph8PSEA"
     },
     "182902": {
         "NAME": "GRAFORD ISD",
@@ -9599,7 +9599,7 @@ var DistrictsData = {
         "FederalFunding": 297147,
         "OtherLocalFunding": 132224,
         "RecaptureAmount": 6323797,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUcQOIDGKvxEjqyWkG3yxPkBXCOt0Rc5m7QVNeuZMl7KSg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdrwDlqm7WNGmWKRkCqBAm8BFoOPitUVsXdNIugld7ZsDA"
     },
     "119901": {
         "NAME": "BRYSON ISD",
@@ -9636,7 +9636,7 @@ var DistrictsData = {
         "FederalFunding": 533492,
         "OtherLocalFunding": 94622,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYHbT6LahThCrJoXR0PB6CUBXyQPe6PnkY1gh5pz7wXycQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed3hhvDVnt9BprYjdPpaPWwBfyGVAaey0t6LuRh21ZVSIA"
     },
     "169901": {
         "NAME": "BOWIE ISD",
@@ -9677,7 +9677,7 @@ var DistrictsData = {
         "FederalFunding": 2426922,
         "OtherLocalFunding": 304647,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaoWtIxr7odAswDWkQ8unU8BqwJLkMen96TpNX3cQYvCPA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ebk7Fjg8g0RDoNRDixEzFEcB4bRXecYXQiGnlGDALXySSA"
     },
     "219903": {
         "NAME": "TULIA ISD",
@@ -9709,7 +9709,7 @@ var DistrictsData = {
         "FederalFunding": 2270764,
         "OtherLocalFunding": 893733,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESt7otmOqc9LmRCgyWcrxaMBkFJdeF53V7E3Tna02o8Bxw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERlTQLRh4XtMpRV1mZDfsxgB4DPA8zLZW1LqRB_u1H2_1Q"
     },
     "219905": {
         "NAME": "KRESS ISD",
@@ -9746,7 +9746,7 @@ var DistrictsData = {
         "FederalFunding": 384158,
         "OtherLocalFunding": 78607,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWmj5W-x6JZLnLYJwAejolsB57X1Z_w48IU9MCTx7WvJ_g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZC38SOYk3tLsE4gIzLPiNEBUnoUkOX9gMOrM4YR3hcRTg"
     },
     "181906": {
         "NAME": "WEST ORANGE-COVE CONS ISD",
@@ -9778,7 +9778,7 @@ var DistrictsData = {
         "FederalFunding": 8503040,
         "OtherLocalFunding": 384058,
         "RecaptureAmount": 181820,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYDXMMOFGVZLld0VKc-3agEBmuy2-OH-XXcMyK-EBCN42A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW7TT5b-hD5DhM_q1XAOKPABw4lvD3LU9OzwfHNLbZmXPA"
     },
     "181905": {
         "NAME": "ORANGEFIELD ISD",
@@ -9810,7 +9810,7 @@ var DistrictsData = {
         "FederalFunding": 1631793,
         "OtherLocalFunding": 1366423,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ2hMlf4J51El3rZDkQVfJ4BHqFv6ol_TiYIqHE7tLjOXA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXmQNPXwOwZKnaRUCTaN_ZABG4Gqssz1aTnwMRhp9LMEQg"
     },
     "181908": {
         "NAME": "LITTLE CYPRESS-MAURICEVILLE CONS ISD",
@@ -9847,7 +9847,7 @@ var DistrictsData = {
         "FederalFunding": 5435872,
         "OtherLocalFunding": 1057826,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ead5YT8Fu4BEsXCLdPJwJM8BqL5GDasZlewKgp7KUvzYDQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbmsPDMp3ZFKoQmNgoDKRPoBmrF_p1yiqpuulBNJX6HY5A"
     },
     "181901": {
         "NAME": "BRIDGE CITY ISD",
@@ -9884,7 +9884,7 @@ var DistrictsData = {
         "FederalFunding": 3458745,
         "OtherLocalFunding": 816254,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERvVUYom_7tAqar_9FJJhb4Bb2vvu0Z-SqD2L_UyyIf8aw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERKLqKOxGdxHmTReRUeB3MoB_e7RwhKUQGehoJyvLE_aDA"
     },
     "181907": {
         "NAME": "VIDOR ISD",
@@ -9920,7 +9920,7 @@ var DistrictsData = {
         "FederalFunding": 6647400,
         "OtherLocalFunding": 459607,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU8iJPVOb9ZGgGBHKaVUrxwBFTrszdFyI51EXNbvk0kPxQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdHEoT5skY9Eu3hmxtUZXeABlpMcvHa1Us_fzuWcYMAb9g"
     },
     "045905": {
         "NAME": "WEIMAR ISD",
@@ -9957,7 +9957,7 @@ var DistrictsData = {
         "FederalFunding": 1107016,
         "OtherLocalFunding": 352121,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWWik--AcvxOmqUiTUaaCWkBgxIGMfbPXuaJbH6pHhKvDA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdeQxv7ZjRFOkIDTxQxmC3MBB01O8Oi662t3BLrYOYo2QA"
     },
     "143901": {
         "NAME": "HALLETTSVILLE ISD",
@@ -9998,7 +9998,7 @@ var DistrictsData = {
         "FederalFunding": 631458,
         "OtherLocalFunding": 913249,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVIiuqdZXu5LtXwTrUiQIW8BeVHmDUyK0Z3liSZaLkAd0Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETfgayP4x7NPvxvaxqm73tQBA-b_hnWvwvA7mVXnPup_tA"
     },
     "040902": {
         "NAME": "WHITEFACE CONS ISD",
@@ -10030,7 +10030,7 @@ var DistrictsData = {
         "FederalFunding": 611584,
         "OtherLocalFunding": 434198,
         "RecaptureAmount": 413283,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ0AVdCkigJKiRwVZO6TuGABmBmi-mmp4aIGcWPKR-nkmg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVt5KH8n4dlPvSk9ftUQLNEBQ4jZMUcATdCCTNLKqEaI1Q"
     },
     "040901": {
         "NAME": "MORTON ISD",
@@ -10067,7 +10067,7 @@ var DistrictsData = {
         "FederalFunding": 794129,
         "OtherLocalFunding": 380659,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EflyVH_eW4tGgIrriTQeIdABpx2QFSvbcD166rF065RTzw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUpFxkOPXcpBghvoihWhYT8ByKKoqScEsos-XsrbDJneeA"
     },
     "185904": {
         "NAME": "LAZBUDDIE ISD",
@@ -10108,7 +10108,7 @@ var DistrictsData = {
         "FederalFunding": 198173,
         "OtherLocalFunding": 201298,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVV7efg_vS1NmVuWvc3bqS4BX0oO8Iq9dbIUBLmusiw0aw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYYO6COnPFJJvjyuboSpDtMBPm698abmYPzWPLYKkTXstQ"
     },
     "059901": {
         "NAME": "HEREFORD ISD",
@@ -10149,7 +10149,7 @@ var DistrictsData = {
         "FederalFunding": 8541901,
         "OtherLocalFunding": 969700,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESOje5REvqRLjr6nrMZqUXUBvghChlgV0_-Xxwa3lPWfJQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb8vxGRVWFdLllMfWlno2l0BlSCmLfttuXW3bxXz3mVR9g"
     },
     "185903": {
         "NAME": "FRIONA ISD",
@@ -10186,7 +10186,7 @@ var DistrictsData = {
         "FederalFunding": 2186126,
         "OtherLocalFunding": 498572,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcvSRrPPa8tBgive9hCtdQEBUs1tSZTrxyZVvI87fPHXFQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbOSCinx3NVGhLadJ4NkSvABnQA6qAGkoP91WMgMlxt2AQ"
     },
     "185901": {
         "NAME": "BOVINA ISD",
@@ -10223,7 +10223,7 @@ var DistrictsData = {
         "FederalFunding": 957340,
         "OtherLocalFunding": 63483,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETjSKNlpFNtIkPDv-1FoKTsBn6nGyCO7ZT8PQIiQNV3tmw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUx6PElGyFdOpVzHF7GZHcgBb6bAMXFkOJ5HsK0dkziNmg"
     },
     "081906": {
         "NAME": "DEW ISD",
@@ -10260,7 +10260,7 @@ var DistrictsData = {
         "FederalFunding": 265735,
         "OtherLocalFunding": 608269,
         "RecaptureAmount": 12325,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWvXurk8jfxDi138GANGXtMBWKRhI3gLdrzuWzXdb3PYUg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU816B9hX-JOqqGWlGjxF9QBDYM-yh3gyieyR1Jl5kW6og"
     },
     "081905": {
         "NAME": "WORTHAM ISD",
@@ -10301,7 +10301,7 @@ var DistrictsData = {
         "FederalFunding": 860093,
         "OtherLocalFunding": 56062,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaX-EmE5lmJCjykXiABfF3wBaHXbzCYirDV4p-sBgJIhHw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESLZKxtJG0lElBTIsbHpBsYBuCaFAjo14hi8MzSZcE9QLQ"
     },
     "081904": {
         "NAME": "TEAGUE ISD",
@@ -10338,7 +10338,7 @@ var DistrictsData = {
         "FederalFunding": 1614649,
         "OtherLocalFunding": 1006142,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVBT8vWxHGVGrogeB8nurwIB0DOVBzc4tPhrl5V7oO8l_Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY33syftYwVNpgCzqZv0NecByrQ6iDzTDBqONR6q-AEfpQ"
     },
     "145907": {
         "NAME": "OAKWOOD ISD",
@@ -10379,7 +10379,7 @@ var DistrictsData = {
         "FederalFunding": 626009,
         "OtherLocalFunding": 78457,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZZODg_WvdZJk1A2p19xca4BqiAGfipCBn7JzCrzcGGFxQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee5IVTEmNXRKmOLQiiBFyeoBK1X5P6pW0UjXZVlVFxZlwA"
     },
     "147903": {
         "NAME": "MEXIA ISD",
@@ -10420,7 +10420,7 @@ var DistrictsData = {
         "FederalFunding": 4211453,
         "OtherLocalFunding": 143631,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec1i8cjnpmlIhsI-le2dCzMBAOGaQCBJdq9ZRfA6pbMegw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcEvdsTAtYdDix_d9TmQrzcBhafSPIEj-v5-QKg2Z2tyvQ"
     },
     "081902": {
         "NAME": "FAIRFIELD ISD",
@@ -10461,7 +10461,7 @@ var DistrictsData = {
         "FederalFunding": 3691159,
         "OtherLocalFunding": 1958162,
         "RecaptureAmount": 53099,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ11xqDQevRMqXy6TKLIiE0BM0rpe5SV2S_9EskVzBwOag"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbcOODDrTIREjPG6UQAiILUB_7S9VcTGgqV2l-QF8ddrcg"
     },
     "175903": {
         "NAME": "CORSICANA ISD",
@@ -10502,7 +10502,7 @@ var DistrictsData = {
         "FederalFunding": 11462579,
         "OtherLocalFunding": 1251463,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQBc-DPBb3dGowVuzRauSkYBgGLCxALtmJOVWPChHuuVcw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUX-Dnseoj1PhBIUYPZn5zoBDuzKPsIIHwmEzGghdpjNPw"
     },
     "145901": {
         "NAME": "BUFFALO ISD",
@@ -10543,7 +10543,7 @@ var DistrictsData = {
         "FederalFunding": 1225323,
         "OtherLocalFunding": 331097,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETJmS0Pez-tJvgo9pc46D4EB1DH41tcwpYuOyzRlzSAYKg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ecv-aGLoui1MgHaYFZtyM7sBwZ0ohvQPOG48YPQO5jwezQ"
     },
     "248901": {
         "NAME": "KERMIT ISD",
@@ -10580,7 +10580,7 @@ var DistrictsData = {
         "FederalFunding": 2084457,
         "OtherLocalFunding": 896948,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaxI_qUF8TRMvK7h27qMnDEBLyQPU855uT146Ufij0S5Iw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea9xprtABFxCgsEMVQohBcEBSe1gaFhW5waP4PgJpHXggw"
     },
     "248902": {
         "NAME": "WINK-LOVING ISD",
@@ -10616,7 +10616,7 @@ var DistrictsData = {
         "FederalFunding": 441733,
         "OtherLocalFunding": 1134894,
         "RecaptureAmount": 86843170,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea1ovo637fhNhTolOn_1tdkBGmrqnv2TsEvEruqws3ysiw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcRXCKg46hFAj8kJdw1f2TwBqq0iSrK1RanMcGksrpAIOg"
     },
     "033904": {
         "NAME": "WHITE DEER ISD",
@@ -10652,7 +10652,7 @@ var DistrictsData = {
         "FederalFunding": 430278,
         "OtherLocalFunding": 131761,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERVBjlrDihpJq7rGid8Y3vYBWXLxuQIDU36OJVk3KnDb6A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESrMTUwNhrNCsQ4d0vsSIqEBYb4ve80RgKtVWz6cwI924A"
     },
     "242903": {
         "NAME": "WHEELER ISD",
@@ -10684,7 +10684,7 @@ var DistrictsData = {
         "FederalFunding": 327849,
         "OtherLocalFunding": 142366,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXfTvRSMwYVDvHak1B7VviYBC9cr3Tb3Nvg965IAqnr2Cg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERkdcKWe2klIuRBOxDPTUa0BZG3LwbuvqIPbcS38D2ZLMw"
     },
     "090904": {
         "NAME": "PAMPA ISD",
@@ -10721,7 +10721,7 @@ var DistrictsData = {
         "FederalFunding": 5161241,
         "OtherLocalFunding": 934139,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUzcLGBhy0RDgICg3YWoa_oBQtWm6JnVLg_HNzR37Ee8XA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdaO8xS4wiVBoLB6hCSE7lMBVYz0ccGyPm8sKg9CZ32L8g"
     },
     "207901": {
         "NAME": "SCHLEICHER ISD",
@@ -10753,7 +10753,7 @@ var DistrictsData = {
         "FederalFunding": 605122,
         "OtherLocalFunding": 454387,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVZTx8d6IgRJnO7nhmAaT7IBG1ZbnCTocR2IELH-1KBU4A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWFR4lcyKnZErxcOg4fK-ukBFbNDhn5ocr55wdZzqoHcXA"
     },
     "090902": {
         "NAME": "LEFORS ISD",
@@ -10790,7 +10790,7 @@ var DistrictsData = {
         "FederalFunding": 184233,
         "OtherLocalFunding": 53775,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeyXTn3w_X9PrMekGNUM0lwBqXbbMYUpx_uqg-wFp9yL2Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERGsp0d-TrpFj7hOkbb8weEBvsiZctKaUzLZIakzcCH1yQ"
     },
     "090905": {
         "NAME": "GRANDVIEW-HOPKINS ISD",
@@ -10827,7 +10827,7 @@ var DistrictsData = {
         "FederalFunding": 38417,
         "OtherLocalFunding": 15622,
         "RecaptureAmount": 80906,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWrHCT3kPcVKnCtpzuBJaPMBaON9DnmcOgLDfxTLoo6X3A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW7lHri5NHRMiola-MCRllYBUiaQbjfVRnytSJnCZO0HbA"
     },
     "090903": {
         "NAME": "MCLEAN ISD",
@@ -10868,7 +10868,7 @@ var DistrictsData = {
         "FederalFunding": 220026,
         "OtherLocalFunding": 66087,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYAl3755C3pIhzpX2e3dwpoBMgZ0QUo2g8HG7smzQ0fmww"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EebbeDsdRERAoxw_a5S3ZDMB2oAY4Iadbjgh0i-5cX_Jpw"
     },
     "099902": {
         "NAME": "CHILLICOTHE ISD",
@@ -10905,7 +10905,7 @@ var DistrictsData = {
         "FederalFunding": 384111,
         "OtherLocalFunding": 1447104,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eexa4DXCFDJKldrS5ibOw1YBXj38tE0QS6sCKFvOjw3qiw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQhCwnVZ7lpEgfJ955y3CJ4BuBC_ZX6BzfgrUDxJG9jgKQ"
     },
     "099903": {
         "NAME": "QUANAH ISD",
@@ -10937,7 +10937,7 @@ var DistrictsData = {
         "FederalFunding": 1832045,
         "OtherLocalFunding": 989563,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYPEVXHaXDxPrII7yhl72BABBF2RcNDSiRbGAnnueZkHSg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYZqLhT-vlpMjexyeeK_hIQBpEi-T0oiGcEtB7UbnpIW_Q"
     },
     "038901": {
         "NAME": "CHILDRESS ISD",
@@ -10978,7 +10978,7 @@ var DistrictsData = {
         "FederalFunding": 1500940,
         "OtherLocalFunding": 3082173,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea8rdagnbTRArX9MKaXGnCUB6UTSAqdsLHs0fFbXv4JNrQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWbaHQ0ejSNFjyWjO1-xaZEBNdXXYBpC7vORbQ7pdqf22w"
     },
     "251902": {
         "NAME": "PLAINS ISD",
@@ -11015,7 +11015,7 @@ var DistrictsData = {
         "FederalFunding": 471398,
         "OtherLocalFunding": 271687,
         "RecaptureAmount": 6824303,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQZ-RWgg6btMp51bXad1ueABLQPBpdhlGjXTpRIbfqo56g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESHDu4Ynd95Pl5Xt2bTDOK8BESTiU-fcAXRWhjRfdVCsPQ"
     },
     "251901": {
         "NAME": "DENVER CITY ISD",
@@ -11052,7 +11052,7 @@ var DistrictsData = {
         "FederalFunding": 2643965,
         "OtherLocalFunding": 438176,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZDP_jynm0tLmS7UAQvAcmYBMdjFIgve1SYajHRzw3Jmlw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVXrhYLQHKtOv9fhSa9VmTIBlJeDv56nPRiRzV2o-ZPR9Q"
     },
     "223901": {
         "NAME": "BROWNFIELD ISD",
@@ -11097,7 +11097,7 @@ var DistrictsData = {
         "FederalFunding": 4494422,
         "OtherLocalFunding": 580821,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWD-ZzDstVBEnillVHWqBt8Bc6Vw9k1iNsuBHS1KHluDnw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY7M2hXOgU1GqkNBwfUyLPIBE0PW-MSTnpF9jJjUDieP7g"
     },
     "083901": {
         "NAME": "SEAGRAVES ISD",
@@ -11138,7 +11138,7 @@ var DistrictsData = {
         "FederalFunding": 960824,
         "OtherLocalFunding": 1750869,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcBe6dq-oEVNk769S1meh64BOVti4khENnnyhPlSpLYPAw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef1rVLTTtCtHm9v_y3icgyAB1A6cXhbDDHdplx6k_x1yMQ"
     },
     "232901": {
         "NAME": "KNIPPA ISD",
@@ -11175,7 +11175,7 @@ var DistrictsData = {
         "FederalFunding": 389564,
         "OtherLocalFunding": 133294,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYgITmQW-X1CpQkSSvAJlugBZ7u0RvIrzCCNLWVE04c8mw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES9khbdA5z5BqDEbnEKqyOUBTnqZnwOMjjSDRcx5OpV-7g"
     },
     "069902": {
         "NAME": "NUECES CANYON CONS ISD",
@@ -11216,7 +11216,7 @@ var DistrictsData = {
         "FederalFunding": 701600,
         "OtherLocalFunding": 101892,
         "RecaptureAmount": 42366,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EV4wMTiuHDlNg5FfHV2BA6cBPK_8Y7fQdps57cheR6h8JA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfmPSZdW6IxNmCyxIXNiA3sBACnxQbN_TYsFUu0uPJufIg"
     },
     "093903": {
         "NAME": "IOLA ISD",
@@ -11253,7 +11253,7 @@ var DistrictsData = {
         "FederalFunding": 500519,
         "OtherLocalFunding": 369967,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQDf8phuW2VMmOrjjQA7rlYBDW5af1x0pI1TG2m1KHpqdA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUlFBQyf-WhGtWwFyjkohZAB5e1F8adVKH9dVR88IklVqA"
     },
     "093901": {
         "NAME": "ANDERSON-SHIRO CONS ISD",
@@ -11290,7 +11290,7 @@ var DistrictsData = {
         "FederalFunding": 753528,
         "OtherLocalFunding": 328598,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eektt1gsWwlKnOKN10bHjZoB4QJ-_JU99Cbt9bjssS9NYA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdZ-lGM5cplLmJh9KmJtCHQBc21zKGZolw0wyFPZwjY3sQ"
     },
     "154901": {
         "NAME": "MADISONVILLE CONS ISD",
@@ -11331,7 +11331,7 @@ var DistrictsData = {
         "FederalFunding": 4292882,
         "OtherLocalFunding": 739983,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbojgQ_6ZsJOnoCYwIJ3x6cBvDQOpKtsakQXSnb0pjnuaw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeKOkfrQXbFNuVH4FDFwJS8B-zKQWqQRH2m5HNWaKrBjTA"
     },
     "075903": {
         "NAME": "SCHULENBURG ISD",
@@ -11368,7 +11368,7 @@ var DistrictsData = {
         "FederalFunding": 1117044,
         "OtherLocalFunding": 802179,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZzZsTmgOjRFvk8G2Hfy0LgBiUQLDRAG3vtj8ajFGMaIYA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESVEqdGZ-FFCrgPZYheQ53UBGB1JInMzjoC3CKrHU1wRJg"
     },
     "075902": {
         "NAME": "LA GRANGE ISD",
@@ -11405,7 +11405,7 @@ var DistrictsData = {
         "FederalFunding": 3643957,
         "OtherLocalFunding": 2264178,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUjN6gB1ijdDuUYb_YxGC10B4HKeKhEnT1TqP3qhdhLVjQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdgjHRxWQqlIgNs4PQSXs2sBHB9CFUCbPSGYlaRIUWax5g"
     },
     "075901": {
         "NAME": "FLATONIA ISD",
@@ -11442,7 +11442,7 @@ var DistrictsData = {
         "FederalFunding": 594602,
         "OtherLocalFunding": 355972,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUmQpIPb8_xHsY005MWl_EQBxFLuBtXOXjqlxjq5H3q20g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERsLfzrfFFpMv4GJp-837mcBWnPYlmCAYFbHGPzvZD5wqg"
     },
     "075906": {
         "NAME": "FAYETTEVILLE ISD",
@@ -11479,7 +11479,7 @@ var DistrictsData = {
         "FederalFunding": 390143,
         "OtherLocalFunding": 235498,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ6Uz97p42xPnJEsTeSovoIBSMJtYSF0UAAOq2hPpHYNfQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETt3pmwjqqpGtQYlVZ3bwd4Bu0l2zeK3Qflc0SKjfF0o2w"
     },
     "224902": {
         "NAME": "WOODSON ISD",
@@ -11516,7 +11516,7 @@ var DistrictsData = {
         "FederalFunding": 225158,
         "OtherLocalFunding": 16253,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERZwS9VlTW1CrOv8MMhv_YkBPQSSm2yrskWsyOzYGmkrSg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbzJsJRDPJ5EimUKT7586MEBWQDxG8Gmb0EMiahqkYz84Q"
     },
     "234905": {
         "NAME": "MARTINS MILL ISD",
@@ -11553,7 +11553,7 @@ var DistrictsData = {
         "FederalFunding": 569684,
         "OtherLocalFunding": 165546,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ9WIEOnX3hNkhs0ohLV2mYB1ao7sriMpSdTHqvTY38x6w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUc1t3cyR_JEss_JOgo2vAoBYoyyOcDEZKcpS4V0vfraBQ"
     },
     "107905": {
         "NAME": "EUSTACE ISD",
@@ -11602,7 +11602,7 @@ var DistrictsData = {
         "FederalFunding": 3733963,
         "OtherLocalFunding": 506994,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYgeK6MX_ClHm8512Doqg9wBtI_E2mxQsw_hMgO2MNhG_w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVKudoyUisVIlcMUgRpcSXoBwMuZz2-aMtO6iEDOVJYWtQ"
     },
     "234902": {
         "NAME": "CANTON ISD",
@@ -11639,7 +11639,7 @@ var DistrictsData = {
         "FederalFunding": 2113745,
         "OtherLocalFunding": 1574919,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESNevaSsP5lPkdf2IRTw8GgBnUlhsWbJzEg66UIuwZllRg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERQ4RpY6FdRIlunt8XAr7gMBVe05wa3lqOtQ8GyG9HxG4w"
     },
     "129905": {
         "NAME": "MABANK ISD",
@@ -11688,7 +11688,7 @@ var DistrictsData = {
         "FederalFunding": 5244921,
         "OtherLocalFunding": 1634368,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETG7wstcJdVDp-k3uOYwqc4BH8P9YdhVjchuc45hWkupgw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfDNTIdEKklBmerf2r0yLWEBiq2ZLOGdJo-cKo7sdCP3Hw"
     },
     "161922": {
         "NAME": "ROBINSON ISD",
@@ -11724,7 +11724,7 @@ var DistrictsData = {
         "FederalFunding": 2409590,
         "OtherLocalFunding": 737943,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQLet3bBvMBLsFx3fMTakzMBSjYGcycNyN-4R0gzYGTsOA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcmfaeLgNqpJkcESktJMVnsBeGzRsAjiwqFzEnJwlMKuvQ"
     },
     "161912": {
         "NAME": "RIESEL ISD",
@@ -11760,7 +11760,7 @@ var DistrictsData = {
         "FederalFunding": 720887,
         "OtherLocalFunding": 302176,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaXnSM9iQfZBiNSMhgCwHcEBr4tE-CRU0R-ymQnZh3tT6g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcbiG3OpjVBEjjBCIe0dJjcBr-2LDJV9lErVeIsEJDT81Q"
     },
     "161908": {
         "NAME": "MART ISD",
@@ -11801,7 +11801,7 @@ var DistrictsData = {
         "FederalFunding": 1027555,
         "OtherLocalFunding": 425660,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea2a-tn-vztBnWe_uYESiZ0BqzUnZgnelPRWmcEfY3SksQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVQr0S5XWA5NtkpNrFA1ZBoBorlxoVxFUwlNQLspdtAjhg"
     },
     "147902": {
         "NAME": "GROESBECK ISD",
@@ -11842,7 +11842,7 @@ var DistrictsData = {
         "FederalFunding": 3011047,
         "OtherLocalFunding": 504594,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZx6RJVyFS9Lo1EitZc9oywB1Pf700M7mKVKGIJImgByEw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeVPm89Krk9GiEK0KcircjwBlvB6uz0zvRLyYwHHy-UeVg"
     },
     "092907": {
         "NAME": "SPRING HILL ISD",
@@ -11874,7 +11874,7 @@ var DistrictsData = {
         "FederalFunding": 2549821,
         "OtherLocalFunding": 485209,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUQjQjYurlxNrnWNsaamQNEBPyoFnQFq52Kpy6d2f6jhsA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERXiIpcxnyRBhrhif9KzyXYBZMDDC8gaUZE9ROSoL6Zf3Q"
     },
     "092903": {
         "NAME": "LONGVIEW ISD",
@@ -11911,7 +11911,7 @@ var DistrictsData = {
         "FederalFunding": 26672850,
         "OtherLocalFunding": 3420601,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVqdhVz-vT5Ht1O3BNAxjxEBEnCT1J0wQX0Qg7SQTn8ELw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQAJpaeD29RBvCV3_lgXxDgB56sVoiYBX5HPGori58GOQg"
     },
     "092901": {
         "NAME": "GLADEWATER ISD",
@@ -11952,7 +11952,7 @@ var DistrictsData = {
         "FederalFunding": 1977672,
         "OtherLocalFunding": 554322,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZDFLypoLL5NlkJhbMcklj8BtNaF56yEq_f4K3EuJr9O0A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERuxhiXleLVMjMOQMtwe89YB1R8T6GtQbDcta_t0mzvz_A"
     },
     "148905": {
         "NAME": "DARROUZETT ISD",
@@ -11989,7 +11989,7 @@ var DistrictsData = {
         "FederalFunding": 247814,
         "OtherLocalFunding": 42470,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfUvualhIgVIv64oJGrM0EYBYnR2VRE3TsLHQdVuIiZfoA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee0FZjWdeGFBiTuxBuhvDzYBeTatDPu2n9ZC8gO9wNOzlg"
     },
     "211901": {
         "NAME": "TEXHOMA ISD",
@@ -12025,7 +12025,7 @@ var DistrictsData = {
         "FederalFunding": 132045,
         "OtherLocalFunding": 59879,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQh_31zgYh5OkWGcJ-nU7uEBb3FVd2AurER-DXCk0S_78w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWK41NPPEYBNvaR6FAndMAwBiyE-J-Z8hNfBI9kan7T_VQ"
     },
     "098901": {
         "NAME": "GRUVER ISD",
@@ -12066,7 +12066,7 @@ var DistrictsData = {
         "FederalFunding": 355835,
         "OtherLocalFunding": 297780,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EV6JPSfLKLZJu5eUV2gn1GsBv-7wut47tCQ3ArSMABaUEA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeaX-eaSzilBm3-7y5Nzb6sB96ef_aDUW1Xpz-ZmLfa9kQ"
     },
     "107907": {
         "NAME": "TRINIDAD ISD",
@@ -12102,7 +12102,7 @@ var DistrictsData = {
         "FederalFunding": 269952,
         "OtherLocalFunding": 37715,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfvsxEfO8ShJhzez1iGAvUMBdPCXfvF3YlSlls29W0aS2w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETibg-J7m8RBocoD0cHzeMQBykC-q8LzvT5tMCc_TKnZ1Q"
     },
     "107908": {
         "NAME": "MURCHISON ISD",
@@ -12134,7 +12134,7 @@ var DistrictsData = {
         "FederalFunding": 399538,
         "OtherLocalFunding": 31470,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EalodwH5hcRLmCQ5-N1EqEYBgHg2pOSRlXs1T1XnBEVDjw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERq5-IIGVRFNr9poHGgshgEBwsuPCipH1VD7B1nWOPUrTw"
     },
     "107906": {
         "NAME": "MALAKOFF ISD",
@@ -12175,7 +12175,7 @@ var DistrictsData = {
         "FederalFunding": 3815074,
         "OtherLocalFunding": 543948,
         "RecaptureAmount": 2060467,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESheNCH13_VPiXcTGTAxefsBOfcZ3BEFzug64bEpul4G_w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERoRkXa5WGpMu7xYz6GHRmQBxyyJl7lpF05ci2O0AWLw2g"
     },
     "107904": {
         "NAME": "CROSS ROADS ISD",
@@ -12216,7 +12216,7 @@ var DistrictsData = {
         "FederalFunding": 833982,
         "OtherLocalFunding": 176136,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfMRe8gCVNpHrK6VgRtDKc8BAtfi5oUtGEWTW2ZLSNUhEQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbPg2PrEUMlLrQRR4DUq__YBWfD5OIllYEoTmhyGwM5KCQ"
     },
     "125903": {
         "NAME": "ORANGE GROVE ISD",
@@ -12253,7 +12253,7 @@ var DistrictsData = {
         "FederalFunding": 4761318,
         "OtherLocalFunding": 471715,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUkA95cEURVCs525pQLnQlsBtERdjWdVLZmdZVpy_bIUGQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERX8MrN4CJROmjORqvdJxSkB9V09qzDB9VGNj-lG_w4reQ"
     },
     "125906": {
         "NAME": "LA GLORIA ISD",
@@ -12290,7 +12290,7 @@ var DistrictsData = {
         "FederalFunding": 186265,
         "OtherLocalFunding": 7820,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdVmFS5tTpBIu6JeTedt25YBz66s4KrZ175621tDkP9uYg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETT5NRAJbedKmABMmz49DIoBvUujvXEvqziMKRQQcazwGw"
     },
     "125902": {
         "NAME": "BEN BOLT-PALITO BLANCO ISD",
@@ -12327,7 +12327,7 @@ var DistrictsData = {
         "FederalFunding": 475417,
         "OtherLocalFunding": 62291,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYRwRo_0dAZHmjj9584ABkkBVQ6LZkKTFqlKNXLXXlIecw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfiDjF6XzaBIm8KEEmOnhBEBKG5jUUtsYEsM6T0XOipE-g"
     },
     "125901": {
         "NAME": "ALICE ISD",
@@ -12364,7 +12364,7 @@ var DistrictsData = {
         "FederalFunding": 10637516,
         "OtherLocalFunding": 985450,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYI5zE1Cr8VDpq5yja_B85oBU0aymV_tSpEuyco5iitNKw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EahcUrCKIPROgG_N4vxaYBoBlAB4LoVZWWfXxFUrebu_Dw"
     },
     "217901": {
         "NAME": "ASPERMONT ISD",
@@ -12401,7 +12401,7 @@ var DistrictsData = {
         "FederalFunding": 379599,
         "OtherLocalFunding": 207843,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERHHDo1ktrhNrKypL1dTPYMBo_RYNFywy3bF1NgiipkNkw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERK8x9lLJdhJgYAmOzRdYLQBZCLnoGjIZwQfL1uJ7vtbSQ"
     },
     "188904": {
         "NAME": "BUSHLAND ISD",
@@ -12442,7 +12442,7 @@ var DistrictsData = {
         "FederalFunding": 614445,
         "OtherLocalFunding": 482118,
         "RecaptureAmount": 1561562,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EShiYVy9-lhIpI8u9B1-rb0B1G1wWbR7NBSMvsuReEDiwg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcKVahx32AVDg9NqUHoApdsBdl2vCtHwmfybkSu50Ukvxw"
     },
     "188902": {
         "NAME": "RIVER ROAD ISD",
@@ -12479,7 +12479,7 @@ var DistrictsData = {
         "FederalFunding": 2330089,
         "OtherLocalFunding": 449632,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVgXNZqcF_BNiFob7iwR26YB-zI9msGUyHIMUo3JHUC1Ig"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQg554m7RHxFvEFLZjW1gQEBlR3xSPXDWsOrx0j5BzNegA"
     },
     "188903": {
         "NAME": "HIGHLAND PARK ISD (POTTER)",
@@ -12516,7 +12516,7 @@ var DistrictsData = {
         "FederalFunding": 1678833,
         "OtherLocalFunding": 216550,
         "RecaptureAmount": 3893282,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUlNiFJmPwdJkhmZEPPAtaYBo-a6-jqBL2xi_uJf4NdU3A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETkw2j6w29RFprs15brplO4B4OMxcovrZpfd6RWvrJ59Kw"
     },
     "188901": {
         "NAME": "AMARILLO ISD",
@@ -12557,7 +12557,7 @@ var DistrictsData = {
         "FederalFunding": 61787594,
         "OtherLocalFunding": 5884842,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQxddntwfEdAhll5mYWpTsAB9EWwV--ovyNj-v53q5f62w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbHoKeoqOSlLmqiupJtz93gBOqDN6Zn66Z6igB3J0tS5hA"
     },
     "247903": {
         "NAME": "LA VERNIA ISD",
@@ -12594,7 +12594,7 @@ var DistrictsData = {
         "FederalFunding": 2305357,
         "OtherLocalFunding": 2154956,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESmUt_ylrH1EnT5e-EwtmdsBTa2ysyBiUBs6oOnh-B8DLQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdHnvKi7jvpAo8UJpA9tdGoB7dDxI0yCFCBT1jiqSyNVrw"
     },
     "183904": {
         "NAME": "GARY ISD",
@@ -12631,7 +12631,7 @@ var DistrictsData = {
         "FederalFunding": 589188,
         "OtherLocalFunding": 255988,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWZf9a_hZ09IgCbYrX_iEEEBKEmoKmriLI0GbQA6FOJztQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ET-yz78B0J1EikOOH8lzqowBADxrLbtio-beR0nFReV9-A"
     },
     "183902": {
         "NAME": "CARTHAGE ISD",
@@ -12668,7 +12668,7 @@ var DistrictsData = {
         "FederalFunding": 5169096,
         "OtherLocalFunding": 1408917,
         "RecaptureAmount": 5824759,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWz6IymY4HZJlASaB-sFgBUBGAaPAgH7Uaehsn639vgW1A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETp7AtZJLjNHoY3fKQYT_-MBkVfooXoZNIvB_qWmt7SkSg"
     },
     "183901": {
         "NAME": "BECKVILLE ISD",
@@ -12705,7 +12705,7 @@ var DistrictsData = {
         "FederalFunding": 614364,
         "OtherLocalFunding": 283002,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESdm4DWAPsFAoMkvIlc0PW8BxmpNbAWiJX9iotvMr6lWSg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec4ITe8-YK9Pt3pSxGQxHMIB7gDb4EODRsoAXTCeff2-0Q"
     },
     "210904": {
         "NAME": "TENAHA ISD",
@@ -12737,7 +12737,7 @@ var DistrictsData = {
         "FederalFunding": 852601,
         "OtherLocalFunding": 113787,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETmkRCWgupVIiFAMcoBoZ9QBY-kCAln4bPcEvDgKizKqlQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXIKyve9GCBDkwB_0s1nMcQBEH3aTQm2NKZOb20xwJbhxA"
     },
     "210902": {
         "NAME": "JOAQUIN ISD",
@@ -12778,7 +12778,7 @@ var DistrictsData = {
         "FederalFunding": 1290437,
         "OtherLocalFunding": 285375,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERWs_oRa_pNImzFxxCn0HqkBQL5DAwKHdhXE-udI81mHfQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERZqcFIBa6tLqlnIl2qMlIAB6MRSD8UEdF0cJYC1uS9F_g"
     },
     "003904": {
         "NAME": "HUNTINGTON ISD",
@@ -12815,7 +12815,7 @@ var DistrictsData = {
         "FederalFunding": 2578161,
         "OtherLocalFunding": 455889,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcH-sHPyzZBBiaNeLa56AnQByVdn8Mm3eE7sRphdTiRKRw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYy2zZAR1bBAsh-jiGPSo6QBCbtllR55UJaW1RNbC6J4zA"
     },
     "003907": {
         "NAME": "CENTRAL ISD",
@@ -12852,7 +12852,7 @@ var DistrictsData = {
         "FederalFunding": 2091066,
         "OtherLocalFunding": 522867,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcvhnU1m2-1BufCeQIDEyBcBpnjjImpEG1EqwL33w6WSJQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZisUoizhfRLsKvdsurfhUgBDU1puxfs57qW30n8R8upCQ"
     },
     "037909": {
         "NAME": "WELLS ISD",
@@ -12888,7 +12888,7 @@ var DistrictsData = {
         "FederalFunding": 378446,
         "OtherLocalFunding": 98993,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ET9my98wQYpDkBDm3ttLlqABq-5d57EAtAQTzn5YJl29vA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESpy0EPW3cxHifbrBivz5RcBnP0HrQ8kFxwc3TAJrCU9aw"
     },
     "001908": {
         "NAME": "WESTWOOD ISD",
@@ -12920,7 +12920,7 @@ var DistrictsData = {
         "FederalFunding": 2897556,
         "OtherLocalFunding": 374406,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUKEtCOMHfZDupUngmyXFP8BdScKV8cMh68_NR7U9hCmlw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfFtI059xn1BnmYcewXZ92oBlgpKlPlsevioEaHnCxTNgQ"
     },
     "001909": {
         "NAME": "SLOCUM ISD",
@@ -12952,7 +12952,7 @@ var DistrictsData = {
         "FederalFunding": 489739,
         "OtherLocalFunding": 48661,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUKAgh6LLnlAv9JEGfVNfhYB-o9DtQfxaJd8ozi504n9Ew"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQqtCkn8taRNkh0GKvGAhD0BYjOA4tuPS6UfEGcgX2RoHA"
     },
     "107910": {
         "NAME": "LAPOYNOR ISD",
@@ -12993,7 +12993,7 @@ var DistrictsData = {
         "FederalFunding": 838103,
         "OtherLocalFunding": 172972,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ET-ulSopR9lCtwlpvfwsbdwBF9pa4Ld5Z5USmKTktTZywQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EROxF7Dv6ARNj90wzZMDpDkBKlJXVkD3pTC82vtBVyITkQ"
     },
     "001903": {
         "NAME": "ELKHART ISD",
@@ -13034,7 +13034,7 @@ var DistrictsData = {
         "FederalFunding": 1958299,
         "OtherLocalFunding": 546317,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaGhnG_UDUJEjO78IYvXtbYB7cnrQosPMHkU1Wj7Bz7MOQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX6nNqI8G21DiIVJzqPJXdAB-BdZN1YvHfoqHIoHsTmMNQ"
     },
     "001902": {
         "NAME": "CAYUGA ISD",
@@ -13071,7 +13071,7 @@ var DistrictsData = {
         "FederalFunding": 1939467,
         "OtherLocalFunding": 540342,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee2_TwIYk0hMlxoV0Q-MToAB2410XqC90gK7mDjo_ognQQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUmKy34dZ1RJlLSLBF-YUX8BzDOriEiK7P4Xg_Judut7AA"
     },
     "107901": {
         "NAME": "ATHENS ISD",
@@ -13124,7 +13124,7 @@ var DistrictsData = {
         "FederalFunding": 4050883,
         "OtherLocalFunding": 804748,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbItG0Ul2lhMnJCl2YvbFDYBK_sM0tyHFoOwe0dBvP5O2Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY7GoVy7FxpKgxbhF0OhoqwBobrhwAzvEQXLmRPL3PVnYw"
     },
     "062906": {
         "NAME": "MEYERSVILLE ISD",
@@ -13161,7 +13161,7 @@ var DistrictsData = {
         "FederalFunding": 162313,
         "OtherLocalFunding": 78559,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYDSNy97RbhNmv7WPc_NgcoBCb7jMdtyNAjJbqn4wxRdfg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaqdQhymGWNEnHM4qIRpgOoBzlE3ijaQ-6pU6F44PqUpfw"
     },
     "062904": {
         "NAME": "YORKTOWN ISD",
@@ -13193,7 +13193,7 @@ var DistrictsData = {
         "FederalFunding": 468417,
         "OtherLocalFunding": 417782,
         "RecaptureAmount": 16720446,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES-xZza3PsNEuXRy-ngx3BUBgHq1Kcoxeq3_fWDZZhKY5Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUNwKx_cAaxAj5DyYGas5pYBeTcUH7FEEWCTLlpyjUvvKA"
     },
     "062903": {
         "NAME": "YOAKUM ISD",
@@ -13233,7 +13233,7 @@ var DistrictsData = {
         "FederalFunding": 4987660,
         "OtherLocalFunding": 4001428,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZSyXybgQTBLpCmNMuIMUt4Bmj_gAoH_jJFMScaOmSBpqQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcpP3DValLlAk2uPFTHyZ1YBwzuHld9AvucShFa3-0B3AQ"
     },
     "062905": {
         "NAME": "WESTHOFF ISD",
@@ -13270,7 +13270,7 @@ var DistrictsData = {
         "FederalFunding": 102040,
         "OtherLocalFunding": 103431,
         "RecaptureAmount": 6106640,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXkEIPTSK95GsCIIOyPU1tsBDL5RZDbgkmn7i7c7-JfjQg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec75ytQaPiVPrlwYqcluiAsBAtph36srv-efzkyWV7dn8w"
     },
     "062902": {
         "NAME": "NORDHEIM ISD",
@@ -13315,7 +13315,7 @@ var DistrictsData = {
         "FederalFunding": 148970,
         "OtherLocalFunding": 172425,
         "RecaptureAmount": 5270490,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EffqGOWlOcBAltFtnHALOcQBWUypHR-w_P7hImeC6lyZ1Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ1_GE-PoIhPs-ehWj37T0ABpgROqPZc3ObIPNQ3F0OxMA"
     },
     "062901": {
         "NAME": "CUERO ISD",
@@ -13356,7 +13356,7 @@ var DistrictsData = {
         "FederalFunding": 3458053,
         "OtherLocalFunding": 1699324,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESdJ_MmRczVAiBjmSNekA4EBPCSq2hKOgCRnIvm5PVZYWw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef7VmVapxupHmHyynrK1tAkBcut8I69JtJh33U0P6mVQsw"
     },
     "006902": {
         "NAME": "CLAUDE ISD",
@@ -13393,7 +13393,7 @@ var DistrictsData = {
         "FederalFunding": 403647,
         "OtherLocalFunding": 163362,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWYEU5suSi5Bi9HbP1aLrmkB3eb7RQZeaBxbePzbJik-LA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ear-gtdselFDqDplQRQWfGQBnW245tW7s-C5WcRaedLKdw"
     },
     "033901": {
         "NAME": "GROOM ISD",
@@ -13434,7 +13434,7 @@ var DistrictsData = {
         "FederalFunding": 199375,
         "OtherLocalFunding": 42469,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWliVcjTRoJJiZDBsdKhR0IB_L3zrJIPZ8QykwiqBZp97w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU9Qb0Zloh5ClOet82f7mpUB4ZnRNacZt9C_bf_21udR2A"
     },
     "065901": {
         "NAME": "CLARENDON ISD",
@@ -13471,7 +13471,7 @@ var DistrictsData = {
         "FederalFunding": 818607,
         "OtherLocalFunding": 143985,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERgTeiKFl4BGkW9H0DnOzYMBkbjmiKlXFEQb-CkyFHCgig"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EePr1bQP5gpIlNdM_JK2-NgB0maWzpl4RSkggn3Ori3cmw"
     },
     "219901": {
         "NAME": "HAPPY ISD",
@@ -13512,7 +13512,7 @@ var DistrictsData = {
         "FederalFunding": 346986,
         "OtherLocalFunding": 222126,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ebtat3XJzJ9Or5kCD0UAFs4BhYgT7iw2-qt6IxvCC2XB8A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Efnk0l7DxotMl7OlcpzUG8UBgJTpp95VmMUVaD145jq_mA"
     },
     "178908": {
         "NAME": "PORT ARANSAS ISD",
@@ -13553,7 +13553,7 @@ var DistrictsData = {
         "FederalFunding": 1645357,
         "OtherLocalFunding": 193910,
         "RecaptureAmount": 18682640,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETKa0ofWbQdAvVCDZMmLHBoB1gghd_1TYu0Pib6zCeBLeA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcxSw1Nl9iJKhnetDCsu6QgB2tOAgRkZ7d62ui_hWVQCAA"
     },
     "005904": {
         "NAME": "WINDTHORST ISD",
@@ -13590,7 +13590,7 @@ var DistrictsData = {
         "FederalFunding": 506738,
         "OtherLocalFunding": 116597,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb2_0XRMb29Lu2Nu5cWLWygBRHtsRiM0-dA6GO3fpWdLdQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETqa8B-_ZR5GpNFJdiHTUA8BSFABXCg8Eb6syYACrzsp4g"
     },
     "119902": {
         "NAME": "JACKSBORO ISD",
@@ -13635,7 +13635,7 @@ var DistrictsData = {
         "FederalFunding": 2921174,
         "OtherLocalFunding": 800968,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbbvTp41aFdEl1Use5zIqjIB0fiCtdgpuL9EMNPD0WZ32w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXh3m8gkzwNJlV8e4EXzCf4BJyZSpqZHHXAn9ISGnEHOtw"
     },
     "007905": {
         "NAME": "PLEASANTON ISD",
@@ -13676,7 +13676,7 @@ var DistrictsData = {
         "FederalFunding": 8229695,
         "OtherLocalFunding": 2254331,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaWm60PkY5lPvVADfAuN0qABnFm4AAhmlbBg0-UdXOvI_A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaDCZtuHCBVKr_BnlZbfxhQBQcnU44AsL5Ri2uVGv7kzoQ"
     },
     "128901": {
         "NAME": "KARNES CITY ISD",
@@ -13717,7 +13717,7 @@ var DistrictsData = {
         "FederalFunding": 3642624,
         "OtherLocalFunding": 2340858,
         "RecaptureAmount": 35525235,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EV8Lk6FBUF1DpoyJEjxFHlMBJa8w0cocbvOnoPTTs9_w7A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETfIj3_2dv9PlRBaaydEAN8B-TiMT6ldoqkk0pgZNppB5w"
     },
     "007902": {
         "NAME": "JOURDANTON ISD",
@@ -13758,7 +13758,7 @@ var DistrictsData = {
         "FederalFunding": 2029530,
         "OtherLocalFunding": 846986,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETN9okDpsQdDkdKQVmXmmb8B4mlmfOqj-ttoU5tREIh1_w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee7pLDfdCypNtuq_tVwe7GABxkGh0CesMLu8O-5AVLdClg"
     },
     "045902": {
         "NAME": "COLUMBUS ISD",
@@ -13795,7 +13795,7 @@ var DistrictsData = {
         "FederalFunding": 2615879,
         "OtherLocalFunding": 452586,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETZFSCL_TD1EpHa9-e8YQJEBZ6wTrS9uPVsM3uRs1hdhog"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ER2topoK-IxDvjfK1XgXiDMBtWwRW3qAMFtaQ2s-95CNcg"
     },
     "013902": {
         "NAME": "PAWNEE ISD",
@@ -13836,7 +13836,7 @@ var DistrictsData = {
         "FederalFunding": 934685,
         "OtherLocalFunding": 1776822,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERKflSMTBaJNoV2RxJn_054BJa7g7IpH9dIqXcgo0oiylg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaKs8IyDQfxIrtkJ9rmQ8oQBQRsdPCfbEZfFstvZVNU5yQ"
     },
     "149902": {
         "NAME": "THREE RIVERS ISD",
@@ -13877,7 +13877,7 @@ var DistrictsData = {
         "FederalFunding": 911535,
         "OtherLocalFunding": 196042,
         "RecaptureAmount": 12437967,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERjjBu7maNRHuOacB6dkASEBphOXHc4rQBcKSlhNr9qSaw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea-j-73tnlBOuq5o_VjJxyEBAwfQrHI3jtl13UJaeugoiQ"
     },
     "013905": {
         "NAME": "SKIDMORE-TYNAN ISD",
@@ -13914,7 +13914,7 @@ var DistrictsData = {
         "FederalFunding": 1145925,
         "OtherLocalFunding": 1605841,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea6pV12fzmJFopf8M_n3lToBn4YcjzKLo7FaesvZI7NHfg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Edwgl0qyR1xEghr3fmvsWZUBvTDpEiD4wA9LPZPNXlAq3A"
     },
     "196903": {
         "NAME": "REFUGIO ISD",
@@ -13959,7 +13959,7 @@ var DistrictsData = {
         "FederalFunding": 2878824,
         "OtherLocalFunding": 257450,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ER9_AKe9QJZLrSGwMOirX1wBkT8Wp7c6U-Y2ElN_UA1y1Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWZ05GlvDPVNgMMKMrv6oycBDPpLwlXcsjFmrqRov_1zwQ"
     },
     "013903": {
         "NAME": "PETTUS ISD",
@@ -14000,7 +14000,7 @@ var DistrictsData = {
         "FederalFunding": 1423806,
         "OtherLocalFunding": 163155,
         "RecaptureAmount": 570639,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeQ8v5w5_n1EvlzXkZ-xRb8ByG7Z1mXgl8m3oacFEFK4Tg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdT1kn82opRKv4te6eB6I0EBc3e7pUNRrV8jlODacgTryA"
     },
     "205904": {
         "NAME": "MATHIS ISD",
@@ -14041,7 +14041,7 @@ var DistrictsData = {
         "FederalFunding": 6207414,
         "OtherLocalFunding": 355640,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYYrFuI5jdtLicy4wu0LTqMB_J4xJHAOwprJNr2v49sYJA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESEWYpb6jANOkr8YWJVoas4BJcTDeMec-LhtrsicZZGn9g"
     },
     "013901": {
         "NAME": "BEEVILLE ISD",
@@ -14078,7 +14078,7 @@ var DistrictsData = {
         "FederalFunding": 5732296,
         "OtherLocalFunding": 1241068,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUN29j0VwcFFrHO00fuID_0BpMYgnE6w8qzLtmRewBXwKw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdA7yQlXHRFMn-8XZj4dcnQBO0rzzQaHBPtCRmaV-vLhpA"
     },
     "009901": {
         "NAME": "MULESHOE ISD",
@@ -14115,7 +14115,7 @@ var DistrictsData = {
         "FederalFunding": 3006573,
         "OtherLocalFunding": 549754,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ44UlRYnEdAgvafmq9k4lcB5uD46S6kgIr9-3HZ7hoOzg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU9MpLgOKYdHlOQtGq4rwwEBIctfLOrfCm4_Kw4-03CuGQ"
     },
     "140908": {
         "NAME": "SUDAN ISD",
@@ -14147,7 +14147,7 @@ var DistrictsData = {
         "FederalFunding": 820841,
         "OtherLocalFunding": 580412,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQTaVaJ_UklGj9urEzp6MH8B3ZsNGLmM91sBBwr7vug3bQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWdThQoAp7dBitAXgbu4nr8BopdJZ_qXrwWkpMpeHoUPUg"
     },
     "185902": {
         "NAME": "FARWELL ISD",
@@ -14188,7 +14188,7 @@ var DistrictsData = {
         "FederalFunding": 569562,
         "OtherLocalFunding": 351819,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESJzdc4ucNFFg55Bc2xWRcoBNo_cFOeYN5qtFMcbXGKRGA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERcXxCXj2sVKhS01nAElDFkBb6oA0t6_VtgwZNV5g5-dCQ"
     },
     "037901": {
         "NAME": "ALTO ISD",
@@ -14225,7 +14225,7 @@ var DistrictsData = {
         "FederalFunding": 1429659,
         "OtherLocalFunding": 84847,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWi9_F3T4KlGouVyGNC45hsB3RrEX3gWZWoaK-7s3B-Fow"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUpRPXuv69lMj6wgMcv6bIoB_sZgoaBH2y9Lycp9A5rF9Q"
     },
     "074911": {
         "NAME": "SAVOY ISD",
@@ -14262,7 +14262,7 @@ var DistrictsData = {
         "FederalFunding": 471785,
         "OtherLocalFunding": 75796,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeUB33WzeRBPoUwK3iVuiywBrIWCaEyRZdIqH8g1wyf1gg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ebwz42aQVKlEte2sdP3Dt24BBIxJs7EbsvpGiGQEKj-1Zg"
     },
     "123913": {
         "NAME": "SABINE PASS ISD",
@@ -14299,7 +14299,7 @@ var DistrictsData = {
         "FederalFunding": 1771318,
         "OtherLocalFunding": 407294,
         "RecaptureAmount": 4390229,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EakRGsTzXXpJj18THE1hbDQB8L2umLrsWem8OgxlNaU9hg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXTZhCl6vSJHr-8V_nbgH5oB2jaj0Ja8UFPw5ej_1o-9Gw"
     },
     "123908": {
         "NAME": "PORT NECHES-GROVES ISD",
@@ -14340,7 +14340,7 @@ var DistrictsData = {
         "FederalFunding": 6038140,
         "OtherLocalFunding": 8365179,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXBmCEMw7NVEi-3ImYvuPMMBmkmRiMEwYWSTHC1cpX_okw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQNY17MMVDNEqTfLQU-VVukBtjyVcd_qCvtORpCPH5I5xg"
     },
     "123907": {
         "NAME": "PORT ARTHUR ISD",
@@ -14381,7 +14381,7 @@ var DistrictsData = {
         "FederalFunding": 19012234,
         "OtherLocalFunding": 924622,
         "RecaptureAmount": 308871,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdM3AX90191Nm1m8jwvYGjIB-IOYpb0qKoLbNV2LNhdqYA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERdquTw1YclCr4KJx9p5LisBYvoh_J6JHTUrWTrkRf7mUA"
     },
     "123905": {
         "NAME": "NEDERLAND ISD",
@@ -14422,7 +14422,7 @@ var DistrictsData = {
         "FederalFunding": 7366132,
         "OtherLocalFunding": 2751028,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERjSKXzjyH5CoDEHO8DRo5cBafXH8KjJASriMxxAv-McZA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ1DVx9ViPNLizlRoVGNEoYB42iMzgyud4ZZ94h21wO5iA"
     },
     "049908": {
         "NAME": "WALNUT BEND ISD",
@@ -14454,7 +14454,7 @@ var DistrictsData = {
         "FederalFunding": 119259,
         "OtherLocalFunding": 118030,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ_yq6AzAq1OoiLaxK1y_BYB-S5jQd_NgSfLeCj1M4CeBw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXYNvcfJZHxOrdsTOhrNz8sB4p2O5O8GMQnYwLzWocWIsg"
     },
     "088902": {
         "NAME": "GOLIAD ISD",
@@ -14491,7 +14491,7 @@ var DistrictsData = {
         "FederalFunding": 2036038,
         "OtherLocalFunding": 765401,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbnB49gKoXFNt5Xmz5rz2AIB4px5kYYATg2xjTFUCfoJ6A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXOLoq0DKX1Lq5Z7IXP7-XMBrZXUkAycU9DMVh_kxWQzsg"
     },
     "034906": {
         "NAME": "MCLEOD ISD",
@@ -14528,7 +14528,7 @@ var DistrictsData = {
         "FederalFunding": 302518,
         "OtherLocalFunding": 69646,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaFPKriOYIFEjrZEAc7JkroBOVEUuYPHt5K-nxzsA44ASA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES1iNCJDSkJIjj8Pb4YmKnoBYfAPiX9ttvutTIxg8sNy5Q"
     },
     "034905": {
         "NAME": "LINDEN-KILDARE CONS ISD",
@@ -14565,7 +14565,7 @@ var DistrictsData = {
         "FederalFunding": 675470,
         "OtherLocalFunding": 153358,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeqnVzuvBnNIshMsDCzYTmUBtPhw9UEqB6JN3ofv2DJUBw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVzo9Cnj7CVBhwkyYDL0hlUB-lKNMu4vR_vMvn20G40etg"
     },
     "034903": {
         "NAME": "HUGHES SPRINGS ISD",
@@ -14606,7 +14606,7 @@ var DistrictsData = {
         "FederalFunding": 1292703,
         "OtherLocalFunding": 389448,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed8j3JsBjhhBg3xl4K-GhhQBP6rn8U5yEVFqIE75mDagSw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYw6tBc-q5lNgg9HTcLsg6ABxtHX21GioOlb177UoIcFmA"
     },
     "034909": {
         "NAME": "BLOOMBURG ISD",
@@ -14643,7 +14643,7 @@ var DistrictsData = {
         "FederalFunding": 201939,
         "OtherLocalFunding": 34541,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcB0V378--JEplCjBzWLqMwBfRrjEFC1sMdDDsNnC06MXA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUa4JwPHqOFOt2GMASIVLvcBAIGdWKJ8yE6BNcguxmsEdw"
     },
     "206903": {
         "NAME": "CHEROKEE ISD",
@@ -14680,7 +14680,7 @@ var DistrictsData = {
         "FederalFunding": 259713,
         "OtherLocalFunding": 41907,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdFN8lfaP61Hv5pYJawTzjMBlzum_rJ_uf5WMnaVcH3ZMw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX5YxwaKJndIniihGiJaYY8Bt6htCmkl9mhu86eGIP-CvA"
     },
     "110908": {
         "NAME": "WHITHARRAL ISD",
@@ -14712,7 +14712,7 @@ var DistrictsData = {
         "FederalFunding": 174336,
         "OtherLocalFunding": 155786,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbWEmajYqLFFjqFQzeJhur4BZIXARbI1JoVlL9E9P8cb2A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EddZUdeSOktIgfmIuk6KwzEB3av-ffwvg2jIgEugxG29fA"
     },
     "110907": {
         "NAME": "SUNDOWN ISD",
@@ -14744,7 +14744,7 @@ var DistrictsData = {
         "FederalFunding": 331764,
         "OtherLocalFunding": 375500,
         "RecaptureAmount": 3036713,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUOGTWd2FahEkmnJyIQfmskB4Td5OsJ_L2x0PjMD6Sg9bw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfrgYh3DkH5Bv4kfkOvwF-4BtcI3ZqgYtRLDDeUyMLokbQ"
     },
     "110902": {
         "NAME": "LEVELLAND ISD",
@@ -14781,7 +14781,7 @@ var DistrictsData = {
         "FederalFunding": 7415028,
         "OtherLocalFunding": 1385553,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZp7kD4p6xJOojArH83_EjQBgWI7M5MmYfoglBpBuC5veg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeNre6CmtuBOlNvmutO3WDEB_wYPoDVK5s3qlJFbZukvYQ"
     },
     "049909": {
         "NAME": "SIVELLS BEND ISD",
@@ -14818,7 +14818,7 @@ var DistrictsData = {
         "FederalFunding": 101762,
         "OtherLocalFunding": 18688,
         "RecaptureAmount": 515998,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQGC2VSg9ptMqFp61toBp2MBIZabHlpa12Oa6-mVr5v5cg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETCO8-oWjQ1HgoDZUUDsCFoBO8YJvAt_eoG1thYV6jj-7A"
     },
     "244905": {
         "NAME": "NORTHSIDE ISD (WILBARGER)",
@@ -14850,7 +14850,7 @@ var DistrictsData = {
         "FederalFunding": 199853,
         "OtherLocalFunding": 127799,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQt1ao1d2ZpBtmpF-A_RJq8B_bl_MMn5LiNI3FsQcSWlrg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETCyJHEXEC9MgPuoXuObxlwBsQrn3RtctimRP3gQ9n72gg"
     },
     "230908": {
         "NAME": "UNION GROVE ISD",
@@ -14882,7 +14882,7 @@ var DistrictsData = {
         "FederalFunding": 677301,
         "OtherLocalFunding": 474367,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ER35m6z5fxlLi0IYopPsdVoBoA9GRjAuy2hfnuH8qII_LA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed6FawCNDppCkV3pEr1mlz0BxELqWsbN1T-nwHgx1MaumQ"
     },
     "230905": {
         "NAME": "HARMONY ISD",
@@ -14923,7 +14923,7 @@ var DistrictsData = {
         "FederalFunding": 1132087,
         "OtherLocalFunding": 330583,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeUf4wvESW1MjKqzwmkK8rcBL17vwmXWubiDEn0LHEx_8g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea9Fz3NtqHdGjpRsewTy3z8BGxG5UaUtUzVScPpDncLZ7g"
     },
     "230901": {
         "NAME": "BIG SANDY ISD (UPSHUR)",
@@ -14964,7 +14964,7 @@ var DistrictsData = {
         "FederalFunding": 1321268,
         "OtherLocalFunding": 157293,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESiCL86B0AZHhKvtbQSexcQBOG3yDSur6R-2kMNJccwn4Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESj91A6AQUlNvrz7z9m-RAIB2layh4LZRvDI5EkQddhpRw"
     },
     "049902": {
         "NAME": "MUENSTER ISD",
@@ -15001,7 +15001,7 @@ var DistrictsData = {
         "FederalFunding": 290404,
         "OtherLocalFunding": 296018,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcV9bbjrmU9Lp0njypaAGRYBrL1refLIvzuZI_5lSpKLow"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EccbFVEMO5hDuA7rGDKLgz4BlhYqAmT2EVFF-hu-PQNHrw"
     },
     "049907": {
         "NAME": "LINDSAY ISD",
@@ -15038,7 +15038,7 @@ var DistrictsData = {
         "FederalFunding": 175234,
         "OtherLocalFunding": 327299,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfbzCIIeprRLonWtA6v8C8QBZ_7bk9Pz5uLlVDmoOR9N1w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee3PcsOrYxZNoF3sWYbtSy4Bq5ATBXEI-s3IXOSln5hdvQ"
     },
     "049901": {
         "NAME": "GAINESVILLE ISD",
@@ -15075,7 +15075,7 @@ var DistrictsData = {
         "FederalFunding": 6772758,
         "OtherLocalFunding": 723292,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQJsgg2f5MxPhnepsYJTWDUBCkgal4b1DT-DjFfrECtdgA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea9Jpy9aBT5FlXjq80ALUUABIojA4yhIWFAG1LC1AB4wXA"
     },
     "177905": {
         "NAME": "HIGHLAND ISD",
@@ -15112,7 +15112,7 @@ var DistrictsData = {
         "FederalFunding": 199110,
         "OtherLocalFunding": 732672,
         "RecaptureAmount": 465782,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXah537Jza9Eqg8vA9EanN4BB1d07kixP036-bIpMJI76g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcLkY8Ztt1lHspWWWIs6jR4BWn_HIaDG4Grrj5aauylrSQ"
     },
     "198906": {
         "NAME": "MUMFORD ISD",
@@ -15149,7 +15149,7 @@ var DistrictsData = {
         "FederalFunding": 1086289,
         "OtherLocalFunding": 521911,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETcr4kXy5WNFphI13MuNuBYBO8jijza5TvenZI31-of6KA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESsoYodQB_pFsNNyWWNsF8wB-FXpvOIwMDAEcL40tQhPrw"
     },
     "198905": {
         "NAME": "HEARNE ISD",
@@ -15186,7 +15186,7 @@ var DistrictsData = {
         "FederalFunding": 3119626,
         "OtherLocalFunding": 3814192,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWwDZDSvSi1Kies6bCE0_8YB_JUSVB8OLwEcRIavhnxAUw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcIHxFFF-DlFt_gB41W1gF8BzJUUu30tty8LsSiblAxSnQ"
     },
     "198903": {
         "NAME": "FRANKLIN ISD",
@@ -15223,7 +15223,7 @@ var DistrictsData = {
         "FederalFunding": 1996412,
         "OtherLocalFunding": 1418841,
         "RecaptureAmount": 5306767,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESyf5SUPV8hGmBbRQW9cnT4BSxINNlhA6510QlxPlcPDVg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZj1chKsvidEtRWcgI7kVtMB3vaI9SrUgTKKertUwMiIZw"
     },
     "145911": {
         "NAME": "LEON ISD",
@@ -15264,7 +15264,7 @@ var DistrictsData = {
         "FederalFunding": 888642,
         "OtherLocalFunding": 849519,
         "RecaptureAmount": 979711,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec8fa5QT2XpDq0-kb6W6g4wBu8Ivp5QqEBk28xr55dn1sg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaJyLCxyemRPrQ0DU7gtWr4B--S-Mz_7Xz1Y33ARrb-6LQ"
     },
     "247906": {
         "NAME": "STOCKDALE ISD",
@@ -15301,7 +15301,7 @@ var DistrictsData = {
         "FederalFunding": 1041119,
         "OtherLocalFunding": 572036,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUaEbjrJvspIhqnCAGD9Zn4B1a2isshtSKpc9wY8gjncFg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVGxRoKnUTxLh4Qfpn6b0L4Buxcf9jwC5EsSqAJfaKdxEA"
     },
     "247904": {
         "NAME": "POTH ISD",
@@ -15338,7 +15338,7 @@ var DistrictsData = {
         "FederalFunding": 752456,
         "OtherLocalFunding": 528814,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVSuDuo4k7tGspUiP-DW2DwBRr06oPGKH9ewF3LOGr2vSQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWpCsB0sAIhOkgAjLq6Sp9kBBDR6c2ltREzurNvlM_PP5g"
     },
     "128904": {
         "NAME": "FALLS CITY ISD",
@@ -15379,7 +15379,7 @@ var DistrictsData = {
         "FederalFunding": 480724,
         "OtherLocalFunding": 445141,
         "RecaptureAmount": 3057660,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUnPIUXBjXJGlCn4lY0QEIoBR_-GF9I8R25Vs6zR24KR0w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ73ddOcRiVEkPiDE83GJ9YBaOyBXj6AkyeTuoVYWePHaA"
     },
     "051901": {
         "NAME": "PADUCAH ISD",
@@ -15411,7 +15411,7 @@ var DistrictsData = {
         "FederalFunding": 400595,
         "OtherLocalFunding": 86354,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EasyfFJ8__5BhcbgGGk3ADwBGA9kVd-qJoGu4jhGGp95dg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbSsS2Dz8VVFgmJA3IC_UdABdOSYiOQ2WpkpYE7I_SuQ5Q"
     },
     "029901": {
         "NAME": "CALHOUN COUNTY ISD",
@@ -15448,7 +15448,7 @@ var DistrictsData = {
         "FederalFunding": 5250987,
         "OtherLocalFunding": 4598890,
         "RecaptureAmount": 6404136,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdPgUWSRS6RItJhHSOgwYwMBTSsGBK-lKBYgB02p4Gq71w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERbW56F2epFFr06ET_QAzM0Bjc_-f6WZIUv-A8A1yETy_Q"
     },
     "149901": {
         "NAME": "GEORGE WEST ISD",
@@ -15485,7 +15485,7 @@ var DistrictsData = {
         "FederalFunding": 1671834,
         "OtherLocalFunding": 427477,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYtdR9SOLYlGmSfCACWNoo4Bt8tLRw59CNIJfEo8KYbH6w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZB5XhgroUtMv2xk9hZs6vcB6GYBt_cTOas67UK-CWAfTw"
     },
     "211902": {
         "NAME": "STRATFORD ISD",
@@ -15521,7 +15521,7 @@ var DistrictsData = {
         "FederalFunding": 807350,
         "OtherLocalFunding": 1785174,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERaW-g10myJHspYKeC4GWaIBXgX0L4OlqXh0t1jYPKzPwA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUReu5IjP0xHltwAk_vVFI4B6uldZN-tjaIMRYRZwQPDuA"
     },
     "179901": {
         "NAME": "PERRYTON ISD",
@@ -15558,7 +15558,7 @@ var DistrictsData = {
         "FederalFunding": 3634915,
         "OtherLocalFunding": 913790,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfxaST7apf5FmtXtuYxvRJYBjdK2A7wdt6PC6pcRMkLUyA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdEYEw78WVpChHfbd2zaOKgBNCqbKR2xX-pxzY07xrjooA"
     },
     "143904": {
         "NAME": "VYSEHRAD ISD",
@@ -15595,7 +15595,7 @@ var DistrictsData = {
         "FederalFunding": 99059,
         "OtherLocalFunding": 59435,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVjIHMr1by9Gr8xWnq5vUBUBrCn_nNm0A-L1SWl2LGMdmg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Edz1RyoRWGtNraPwge62GnMBHe-FniYKBc0dj4vxp-OOhQ"
     },
     "091918": {
         "NAME": "TOM BEAN ISD",
@@ -15632,7 +15632,7 @@ var DistrictsData = {
         "FederalFunding": 447500,
         "OtherLocalFunding": 253894,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZEx2TJF9BNFvAHCuHfRuM0BSxowewUM4uNba2RDnGuVKA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWOnhPLvutBAkZfHXHpNaa8BBlsQDWoxsDXQtzwa5oWs7Q"
     },
     "091905": {
         "NAME": "HOWE ISD",
@@ -15669,7 +15669,7 @@ var DistrictsData = {
         "FederalFunding": 1276350,
         "OtherLocalFunding": 340965,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXkl5scXsoNPm1l6U9_EmsgBKTClP8mVXY0x6b5Q37xoLQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZVfnYCcs2lDpSeYGmtCS30BwP6tCtOTzcvlSSaFJIpzIg"
     },
     "057916": {
         "NAME": "RICHARDSON ISD",
@@ -15722,7 +15722,7 @@ var DistrictsData = {
         "FederalFunding": 45865523,
         "OtherLocalFunding": 10593493,
         "RecaptureAmount": 1196543,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETgLP0P2MLxBhCtYvwLnq1IBYsrnnOutz6Wsw7-osCFnOg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU7DECTN4CpFkFJ3QuHT_KcB9kj6PMCg3sJ1G-xdrAzBIw"
     },
     "057914": {
         "NAME": "MESQUITE ISD",
@@ -15775,7 +15775,7 @@ var DistrictsData = {
         "FederalFunding": 36014470,
         "OtherLocalFunding": 8474944,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZD1SwHjsrNOj03xd_T53ZgBxlLhBQXzBCstkp3_TDgbFA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESXNmEooPd9Osqkba9WEN98BqWJFIiSVTvPaLinOJ6hgfw"
     },
     "129901": {
         "NAME": "CRANDALL ISD",
@@ -15812,7 +15812,7 @@ var DistrictsData = {
         "FederalFunding": 4605134,
         "OtherLocalFunding": 2683216,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWV8MllT7ohPuaj8KFbrWCABKAIjbVEpScnNAtfVH_Wzow"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdRUx6IqllpOi-8juTcg6MsBjCvIChWItp8DDv88D4QRLQ"
     },
     "057919": {
         "NAME": "SUNNYVALE ISD",
@@ -15853,7 +15853,7 @@ var DistrictsData = {
         "FederalFunding": 1041606,
         "OtherLocalFunding": 1312789,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERx68AcV5qVFgkp7xGJkbRsBMREvDOi29f8GCNsCZ297oQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUssUqM5lRFIrP2U1k4LcDABl5ONKBvwVJNE2VWnzYdJ2w"
     },
     "176902": {
         "NAME": "NEWTON ISD",
@@ -15885,7 +15885,7 @@ var DistrictsData = {
         "FederalFunding": 2523291,
         "OtherLocalFunding": 367733,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ER7lysK-zqVGskkHKGsNtogB4hR5uDPzkjbQDeWuETr8cA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed_ddXhcqpNJqmsGXoWkHuwBu6gvXO0SdlU2v6sqhM5iDw"
     },
     "202903": {
         "NAME": "HEMPHILL ISD",
@@ -15922,7 +15922,7 @@ var DistrictsData = {
         "FederalFunding": 1829449,
         "OtherLocalFunding": 951165,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeIa8CkL_kVOkYet26cQz5wBoTto2EF4JGlsPbjglxXLrA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EV7eQC9BOetBkfubRsrxErEBl03wDqepyU_4uPhi5dn5KQ"
     },
     "176901": {
         "NAME": "BURKEVILLE ISD",
@@ -15959,7 +15959,7 @@ var DistrictsData = {
         "FederalFunding": 517202,
         "OtherLocalFunding": 1181955,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVsJzZbi7NtCk1jysosjXPsBdN9gWzB_YYNi54jkNH5yrw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUS9kjnhjy9BifKb_eJxqcoBnc10lOUyjOZQ_hjjSB56Jw"
     },
     "203902": {
         "NAME": "BROADDUS ISD",
@@ -15996,7 +15996,7 @@ var DistrictsData = {
         "FederalFunding": 1246159,
         "OtherLocalFunding": 99463,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfEZip7BcUZAim39-FTfRvgB7MkbLQIRmzptaSj9Z1yMLw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXz3ootelZpPqsOr-xpe7SMBGQsa6zcf30sqsS7rPjSbzg"
     },
     "202905": {
         "NAME": "WEST SABINE ISD",
@@ -16028,7 +16028,7 @@ var DistrictsData = {
         "FederalFunding": 744155,
         "OtherLocalFunding": 195395,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU9U2oJn1ixErjrhrvM1__QB2IbCmnaF4fjKAVuMIMH5NQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbXWK6_ohXpHiNm7d14TUqgBcwMcxiQuXHARjXCdX6EovQ"
     },
     "121902": {
         "NAME": "BROOKELAND ISD",
@@ -16073,7 +16073,7 @@ var DistrictsData = {
         "FederalFunding": 1802086,
         "OtherLocalFunding": 146544,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWCssOLCT45Og-CQiG2__S0BsWAvxOZH2A3DN0oKP6Yp_w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETeTQMt_1_9Mm5q7LWyXIuMBQ8Y-DmJbV7BKVKfeXzOpiQ"
     },
     "174910": {
         "NAME": "ETOILE ISD",
@@ -16110,7 +16110,7 @@ var DistrictsData = {
         "FederalFunding": 397443,
         "OtherLocalFunding": 78320,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eei1jpt0oS9Ep3Txa00FDRIBoieUMW8vS23Wn5U6752HFw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbHhDeRTXzdIvIg0NR-zOZ0BOWfhxgjxEnbtxeStKw2Sog"
     },
     "174901": {
         "NAME": "CHIRENO ISD",
@@ -16151,7 +16151,7 @@ var DistrictsData = {
         "FederalFunding": 647768,
         "OtherLocalFunding": 432821,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY_2pEF1iGlOsw5c-XYB7vwBpPvN3Eekk34oRJNreIWIpA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERPxSD2LJyZIjmJ2kSEek7UBy73w98yuCsy_0GY8GOt_0w"
     },
     "203901": {
         "NAME": "SAN AUGUSTINE ISD",
@@ -16187,7 +16187,7 @@ var DistrictsData = {
         "FederalFunding": 2743269,
         "OtherLocalFunding": 351417,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETNwjBH5sbBAla_dGcTzkrwBQ4_OBQBjBgefw22-b5gO2Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXM4pU_ZH0hFjd5KadGhn7cBYsMBR98WSTkFe1Na4QslVg"
     },
     "184909": {
         "NAME": "BROCK ISD",
@@ -16224,7 +16224,7 @@ var DistrictsData = {
         "FederalFunding": 362044,
         "OtherLocalFunding": 633990,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZeME_Ak-2FIkeWb-mayCzkBBdFxKo-wY8DZ3FB-frkGLQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EblqEd3XLgtDmxWw5tB6zGsBUiA8eNnedCc0xKJakgQFUA"
     },
     "015906": {
         "NAME": "RANDOLPH FIELD ISD",
@@ -16265,7 +16265,7 @@ var DistrictsData = {
         "FederalFunding": 8883672,
         "OtherLocalFunding": 714342,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESirHct1_iNJlq-jbLpd0tUBuCUdepVKUx0o3kkmgDBldg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUsPvtBKGphJtXDMP6bMiVoBMCre9nFs8e0VR0nUyJlcvg"
     },
     "015917": {
         "NAME": "SOUTHSIDE ISD",
@@ -16306,7 +16306,7 @@ var DistrictsData = {
         "FederalFunding": 14223797,
         "OtherLocalFunding": 1678916,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQwSCBQBR_1FmRCQ87jH4mYBCEhtuWKaDyyQMF3mw9_GMg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXwyPJWd4khNqLR-xwEdomgB_WAB5utv5agyxR7Y2iRXug"
     },
     "015904": {
         "NAME": "HARLANDALE ISD",
@@ -16351,7 +16351,7 @@ var DistrictsData = {
         "FederalFunding": 28737226,
         "OtherLocalFunding": 2952831,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeWdfABL1WRLtQeBPiGYwAcBJzDyKEYihIM5KPQjXMWa0w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Efj1Oknns0lJi7Onb5t5JkMB-0GPy_wcs1uyrMCxgbxMyg"
     },
     "015911": {
         "NAME": "EAST CENTRAL ISD",
@@ -16396,7 +16396,7 @@ var DistrictsData = {
         "FederalFunding": 11369106,
         "OtherLocalFunding": 2393197,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERsFuYlUzZ5Nu36rDRqDvhkBUuBnp1yFmfCCb10vLm7mHA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeeI4hsVYAJGldJjCi6EkpQBJufZOo-f27PSY3dA7wDaow"
     },
     "015914": {
         "NAME": "FORT SAM HOUSTON ISD",
@@ -16433,7 +16433,7 @@ var DistrictsData = {
         "FederalFunding": 14567833,
         "OtherLocalFunding": 2099399,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb1mKeZZ-DBEgBYVKdY4Ot4BUahyXwYwfyI2CbF7Lvix9A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYPhi9Rc4eNChrBApqOFvl4B4atlwbOfwKZtcOcCc5Wzig"
     },
     "015901": {
         "NAME": "ALAMO HEIGHTS ISD",
@@ -16482,7 +16482,7 @@ var DistrictsData = {
         "FederalFunding": 5391045,
         "OtherLocalFunding": 7271889,
         "RecaptureAmount": 33258428,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESVwk5LyOS9DooRPvzHyB6QB68AkzRM5G9FW3HE8BifJsQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef5LBcYumKxNrWz0A3tpbfoBCgzUish9ESUNFIgJeiT5FA"
     },
     "015908": {
         "NAME": "SOUTH SAN ANTONIO ISD",
@@ -16531,7 +16531,7 @@ var DistrictsData = {
         "FederalFunding": 21444425,
         "OtherLocalFunding": 726709,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdzYv4EteIJFmvt6RPWpfoABC4qiGq5hqFPNfYlqTf8a1w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Edx9ML4qFu5MjwLWagXesWIBsuBd_zi1tCBG9MNET0mwjg"
     },
     "089905": {
         "NAME": "WAELDER ISD",
@@ -16572,7 +16572,7 @@ var DistrictsData = {
         "FederalFunding": 537079,
         "OtherLocalFunding": 200739,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW-DaWjixrpHjNTqBEMp_LwBwMtNLxivDX-Xp3pIM45TmA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfWv2YCfREhDgaKzmmywvhwBsvJ7TdGCgth7sbVjEFugxA"
     },
     "089901": {
         "NAME": "GONZALES ISD",
@@ -16613,7 +16613,7 @@ var DistrictsData = {
         "FederalFunding": 5997469,
         "OtherLocalFunding": 836152,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaUcl2u8zodOnwUJiZbstHwB6zJHchEdE7cpcvdu_j1a7w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdpIdSggPMhHouTlv7Ldi-AB5tGQLQoLSeAhJtN7Zlvjxg"
     },
     "028906": {
         "NAME": "PRAIRIE LEA ISD",
@@ -16654,7 +16654,7 @@ var DistrictsData = {
         "FederalFunding": 437213,
         "OtherLocalFunding": 28731,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETnXx-aA74VPjVm09sF1Im0BuifSAcqeH0sCQijXAOS7Zw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES5mQ5SZ_wlKvMKfXuWh2bYBuMDJxsc8nPI16Ea5GIXJxw"
     },
     "028903": {
         "NAME": "LULING ISD",
@@ -16695,7 +16695,7 @@ var DistrictsData = {
         "FederalFunding": 2066029,
         "OtherLocalFunding": 192125,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee6iu-vg4dlBi26CYjJGoq0BS9ceVUpVhhcTP4JVtF7dTA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb0YNPbRj3RJiBQhCw7TaCwBYpLv3YW_vXYI-3J4j9Poaw"
     },
     "194905": {
         "NAME": "DETROIT ISD",
@@ -16732,7 +16732,7 @@ var DistrictsData = {
         "FederalFunding": 2074228,
         "OtherLocalFunding": 669597,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY7hniqymptNlYEOgDJMFFYBjnsNkn97YeCHgCL40dutIg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea70xUHnJrJPhxa7btX_A2MBfj_6rbVoummJ3MKRrI5llw"
     },
     "057909": {
         "NAME": "GARLAND ISD",
@@ -16793,7 +16793,7 @@ var DistrictsData = {
         "FederalFunding": 74784076,
         "OtherLocalFunding": 3484447,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed53O36nRfxMoH-UDZNokoQBfjWAkRl-5KYuwrKirNeF6g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYeXlIKinY1OjAynvM3252QBL8NrNgjraqbYkFb5XYOHag"
     },
     "043919": {
         "NAME": "LOVEJOY ISD",
@@ -16834,7 +16834,7 @@ var DistrictsData = {
         "FederalFunding": 1377305,
         "OtherLocalFunding": 5598542,
         "RecaptureAmount": 244902,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES_dHHzrc0tNifvz1RRq83MBaAIsBoWCeMa-3Z63SyX0Dg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY2GUVnzIe9HnAdnsY6103QB1lcvw6y20HckpGmvQa1QRA"
     },
     "064903": {
         "NAME": "CARRIZO SPRINGS CONS ISD",
@@ -16871,7 +16871,7 @@ var DistrictsData = {
         "FederalFunding": 6527045,
         "OtherLocalFunding": 619843,
         "RecaptureAmount": 48070446,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaqW2tgzVspAr8t5ydtgZhoBLSK85MkPR4vZuinQ_hiAbA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZzhG9LvkvxHvSgFytm5zYcB5qHFBh7hoZ9ZT-lR0_LGHQ"
     },
     "159901": {
         "NAME": "EAGLE PASS ISD",
@@ -16908,7 +16908,7 @@ var DistrictsData = {
         "FederalFunding": 42657353,
         "OtherLocalFunding": 578659,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbrksznoTDRLsP10Kv7ZmKABbkLAFoe8K6EMG43izMed5Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZPhVrSy2LZAiR_NGEZF08sBIcWC52kWNwwqzLa6rsdnkA"
     },
     "253901": {
         "NAME": "ZAPATA COUNTY ISD",
@@ -16945,7 +16945,7 @@ var DistrictsData = {
         "FederalFunding": 7792022,
         "OtherLocalFunding": 368131,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZZ9CZYVtwJJrnoIB_vrZ9oBfz9ZsAhOpwJ642zdvcRmoQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbZsfA-rHi9MvxPEgm89cJsBk2lGgizCKM3fMmHiZ7KomQ"
     },
     "240901": {
         "NAME": "LAREDO ISD",
@@ -16986,7 +16986,7 @@ var DistrictsData = {
         "FederalFunding": 57232280,
         "OtherLocalFunding": 3406112,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeKgASZDhoxGvBrqnWmEmUcB0MXs_ZdUIPwbgBRPMXd5lg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWhYz4ySK75FgnzDzd57dNgBTevMlcYUo0yTn6gxr03mPw"
     },
     "066005": {
         "NAME": "RAMIREZ CSD",
@@ -17023,7 +17023,7 @@ var DistrictsData = {
         "FederalFunding": 136154,
         "OtherLocalFunding": 30534,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUKAdp53Ck9DhPOSRmRKbPABOarfeSFItnE-HntBVr9sUQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWnWbapiyfhLnfzWe6AZ5RoB5dA-OFAlutbJI-Fpw7eMEg"
     },
     "066902": {
         "NAME": "SAN DIEGO ISD",
@@ -17068,7 +17068,7 @@ var DistrictsData = {
         "FederalFunding": 3131757,
         "OtherLocalFunding": 884991,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES30SPf8sGpKvGRf2Q4SD8MBeeWwng4Ve_xanj709hkwPA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESPDM7Rnwp9DimmVeqr-apIBr5k-MdqSFKogj8BgcPfPIQ"
     },
     "125905": {
         "NAME": "PREMONT ISD",
@@ -17113,7 +17113,7 @@ var DistrictsData = {
         "FederalFunding": 3557686,
         "OtherLocalFunding": 225919,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUJp9LWf2n5GkEG0LUaaoE4BNPyY4pFQiGCBotr0v-z5aQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec_oh1TLlPRPtGQ274DgF04BudrMwacLp4iPrktyZa78iQ"
     },
     "074917": {
         "NAME": "SAM RAYBURN ISD",
@@ -17150,7 +17150,7 @@ var DistrictsData = {
         "FederalFunding": 468046,
         "OtherLocalFunding": 206891,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EV7ArIDGhU1GgYjvr-7_BPYBlcStJw1QLwalSCi02TzKpw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESGjT9WXWlpDhTTmHcg-lZkBCyOTJf5OwIJBTThBG0RL3w"
     },
     "074905": {
         "NAME": "ECTOR ISD",
@@ -17187,7 +17187,7 @@ var DistrictsData = {
         "FederalFunding": 276774,
         "OtherLocalFunding": 113895,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcnPehHt9CFOilAKM9hJzbsB2vjBUztHv07mXgEGVsBQzg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeZBWVuTCCBDvsJfiQKBFNwBtzv186wg5SKzI-y0EoqDOQ"
     },
     "074904": {
         "NAME": "DODD CITY ISD",
@@ -17224,7 +17224,7 @@ var DistrictsData = {
         "FederalFunding": 297383,
         "OtherLocalFunding": 259534,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdcIkmyM5EpNlwjelAqinfgBK-XqPZTG_P7R_y5GxHXV8g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZtKk7syL7xJryz3LAhv4L0BDd9MM-sxntZTnxmTHodh1g"
     },
     "124901": {
         "NAME": "JIM HOGG COUNTY ISD",
@@ -17261,7 +17261,7 @@ var DistrictsData = {
         "FederalFunding": 5082665,
         "OtherLocalFunding": 400839,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EV2EbVAJhiBGtNFkqQHn-_wBQpzIAlhGscjtasmt6hgT7g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb4bAvuiB39HgRndK5diLhcBPU5HIm0TAK8M6EzPliR4Kg"
     },
     "066903": {
         "NAME": "FREER ISD",
@@ -17298,7 +17298,7 @@ var DistrictsData = {
         "FederalFunding": 5215548,
         "OtherLocalFunding": 229505,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERA_on2dLAhEgJj0gc-LHGUBXgnOC6BWTMJuHu0yzVb7PQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESXhM-YY0zlHoX0LNz0RWXMBFWTVFoHnoa30vjltg_la_A"
     },
     "142901": {
         "NAME": "COTULLA ISD",
@@ -17335,7 +17335,7 @@ var DistrictsData = {
         "FederalFunding": 2270774,
         "OtherLocalFunding": 725693,
         "RecaptureAmount": 39826372,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfaMhta_bxRBviTPtLww5u4BBiCn1nEYYGvj4vxW9aQ7LA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESXTlWHNeFRIgYaRoRY2k74BapN_H7WTF8cO6GnNdd5t5w"
     },
     "162904": {
         "NAME": "MCMULLEN COUNTY ISD",
@@ -17372,7 +17372,7 @@ var DistrictsData = {
         "FederalFunding": 81476,
         "OtherLocalFunding": 475786,
         "RecaptureAmount": 26036951,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYL5zqXtgKNGgkI-NFBKHRoBHloCY5nempINU5vw1KxNdg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbM6NzRmDWdDv1rrDUsnFp4BRsVUeXidS6PMnSezw1waFg"
     },
     "240904": {
         "NAME": "WEBB CONS ISD",
@@ -17409,7 +17409,7 @@ var DistrictsData = {
         "FederalFunding": 858015,
         "OtherLocalFunding": 234176,
         "RecaptureAmount": 1188846,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWjZzDVPeq9Mrwkc3giueIoBVupAYPbyI1Jd2kx9tZYybA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERaLhQek40FNowyhqFMwIFMBnt7lXPqbhax4BTpq2Ly28A"
     },
     "066901": {
         "NAME": "BENAVIDES ISD",
@@ -17446,7 +17446,7 @@ var DistrictsData = {
         "FederalFunding": 2201109,
         "OtherLocalFunding": 399525,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ4uEytgCSBBrPonHUV3ziABJzWwzqB85aSFTWgYC3mC5w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbOhAPkUvW9Jk6-nS8FIX54BB02gQL4LU8a2memdsGvCcQ"
     },
     "030902": {
         "NAME": "CLYDE CONS ISD",
@@ -17491,7 +17491,7 @@ var DistrictsData = {
         "FederalFunding": 2334182,
         "OtherLocalFunding": 417810,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQW-62KZC0NOo7OnYLTMaqwBZNkl-Yu2r6w8lHs9cn4D-A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETSUjG8BcDxBpJ7mZdhifgYB_FtiXeXWkLzBqZ-xZc9CQA"
     },
     "127904": {
         "NAME": "HAWLEY ISD",
@@ -17528,7 +17528,7 @@ var DistrictsData = {
         "FederalFunding": 1374910,
         "OtherLocalFunding": 290813,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaoJMalKwAFHh6pNlzthndcBccJ19K-TayNe1u6t4sTh0Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETWCtO5KlGJEu0KcBK1Tm5MB_SRM1D8TO_CiCmCLJIl59w"
     },
     "221901": {
         "NAME": "ABILENE ISD",
@@ -17569,7 +17569,7 @@ var DistrictsData = {
         "FederalFunding": 41445237,
         "OtherLocalFunding": 3457989,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWPHB_fG59BGoGwtsIpoWBgBK1EjspiAEjJpX3qTbtSSPQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYdAdpXvDUlIlcx9GDktP1oBNH_rQAp64vWvjP84NyeLBw"
     },
     "042901": {
         "NAME": "COLEMAN ISD",
@@ -17610,7 +17610,7 @@ var DistrictsData = {
         "FederalFunding": 2996306,
         "OtherLocalFunding": 165554,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERex99T9A-dJqhzuc-_CEiMBa4srgWQD72pZUMa3_ADJTg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZDUC9rzmX5Nm4JcnUxouAYBnTxMPVWvLdmbniWOBi5FHw"
     },
     "221911": {
         "NAME": "JIM NED CONS ISD",
@@ -17655,7 +17655,7 @@ var DistrictsData = {
         "FederalFunding": 1566667,
         "OtherLocalFunding": 2462467,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXT0ZhCIcCdKmRGFzxOxdh4ByYDh1pcHhTqvXnrtLJZQBA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbKcM_N0bqBKnOEGhE7PnjMBk8q0ZuAQTczGHmZOPoW4Ng"
     },
     "030903": {
         "NAME": "BAIRD ISD",
@@ -17692,7 +17692,7 @@ var DistrictsData = {
         "FederalFunding": 718389,
         "OtherLocalFunding": 229143,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWjsSu2UZQhGvz2neq5isckB4KQuIGOrGbXJEkHHoWioWg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXza-Eh8VfNIsrxyA7qLitoByDHXUtq5TOT8C5A00aloDw"
     },
     "030906": {
         "NAME": "EULA ISD",
@@ -17737,7 +17737,7 @@ var DistrictsData = {
         "FederalFunding": 698035,
         "OtherLocalFunding": 44652,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed-ohRGg9VRFgsECNMYNprIBWv4_YDdro2F7dVrmqBoElw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaW5BUxP8UNLoxLMpb-sE9UB1EKS5BIgQsLp-1eLsI-odA"
     },
     "127905": {
         "NAME": "LUEDERS-AVOCA ISD",
@@ -17773,7 +17773,7 @@ var DistrictsData = {
         "FederalFunding": 308775,
         "OtherLocalFunding": 86486,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUVyxwYfipBKnBgtjNMl9SYBXKon4aooHq0UExBdl2iw3Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdUIIM1UQn5Ngf1e3ptZmtwBpgrBXPFcJOqqTk3vqBcekA"
     },
     "209902": {
         "NAME": "MORAN ISD",
@@ -17810,7 +17810,7 @@ var DistrictsData = {
         "FederalFunding": 152481,
         "OtherLocalFunding": 179550,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef94hzyniiBBnLbBq9Tfe6IB2Pph0icPsyBKLSsg9VY4-A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ER_lvhrA9p1Onstu5Q7SoPQBo6p8SYRlgDDqWPaG2_JXig"
     },
     "209901": {
         "NAME": "ALBANY ISD",
@@ -17847,7 +17847,7 @@ var DistrictsData = {
         "FederalFunding": 540887,
         "OtherLocalFunding": 273821,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfO_sc6Mr3VJscFNugGoy8ABBwMkGtG9cTQKfL6byegHTg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZv1kCwEjehJusc-7bUjw2gBj3RHJ7wU_ihMWchT_qFltg"
     },
     "221912": {
         "NAME": "WYLIE ISD (TAYLOR)",
@@ -17879,7 +17879,7 @@ var DistrictsData = {
         "FederalFunding": 4484313,
         "OtherLocalFunding": 2776584,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed-SqAKqnjtLiBUtvkPEJCgB4gWyXgfH_hQxjx6ZF15PkQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed00Qj9Zb_NEhcQGD_xh43IBb_AIydzZDWpbSCKJGU_Szw"
     },
     "100903": {
         "NAME": "KOUNTZE ISD",
@@ -17916,7 +17916,7 @@ var DistrictsData = {
         "FederalFunding": 2126130,
         "OtherLocalFunding": 564554,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVuXTagfOuxFuNRoNxQMjCgBq2Nr3ZC9Pu__HWxed0-hHQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXhq-rQtmDFDlRjx2jhmDUABQxeaIb736cXiGfF9ifMLoA"
     },
     "100907": {
         "NAME": "LUMBERTON ISD",
@@ -17953,7 +17953,7 @@ var DistrictsData = {
         "FederalFunding": 3441678,
         "OtherLocalFunding": 3296010,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eem7FmfeItpLvVzhNzE7-UgB-codegqz5RmyKvBMj8hZFQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdqVhhDBek5Dh9AVcx_6jAQBNcD7GDN0ngBVzFwH1XyVqA"
     },
     "036903": {
         "NAME": "EAST CHAMBERS ISD",
@@ -17990,7 +17990,7 @@ var DistrictsData = {
         "FederalFunding": 2921888,
         "OtherLocalFunding": 1407801,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfufIcPiNvxHgrBQocA72OQBUWpXT-x4fSpYu-MahGN0vg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESUuPp4_XLJHndPQPUKU7S8BtwKuJr7Lfrkdxh8hnNSzlQ"
     },
     "123914": {
         "NAME": "HAMSHIRE-FANNETT ISD",
@@ -18031,7 +18031,7 @@ var DistrictsData = {
         "FederalFunding": 1411416,
         "OtherLocalFunding": 1606864,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWtIHyYKlnZPq0r-DyvI59sBS4TgDB4FBDYzw711I4pBkA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYFeJv6vK8lHv1Ea16E8-ZUB01Vo4xmc9X3xDHPllKgP4w"
     },
     "123910": {
         "NAME": "BEAUMONT ISD",
@@ -18072,7 +18072,7 @@ var DistrictsData = {
         "FederalFunding": 38996014,
         "OtherLocalFunding": 18616768,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eac0m806bgRDkeNqlLaEjFsBum5cagyI5wri2o_dkS2Vzg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW1MVM7BN9dHh2fAq0oAQ_kBvmU6cKaa840Mr_wVsiGlig"
     },
     "144903": {
         "NAME": "DIME BOX ISD",
@@ -18109,7 +18109,7 @@ var DistrictsData = {
         "FederalFunding": 205796,
         "OtherLocalFunding": 23989,
         "RecaptureAmount": 4209,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERz6wPeuSf1MhaWHtntIpkoBYuCRMO1M55S8CzrqZL6rPg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcncN3nxxkxMtEnyaY1ZyakBkda8O9MoRsDx-XGc9mWPKw"
     },
     "239903": {
         "NAME": "BURTON ISD",
@@ -18146,7 +18146,7 @@ var DistrictsData = {
         "FederalFunding": 732515,
         "OtherLocalFunding": 1431772,
         "RecaptureAmount": 1635134,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWtuI5X01XdAjhnfmEUHKUwBVJk0bynthmzo-Nsw_HkA_A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESBCDhGS3KFGvCySPEG4lw8Be0Z-8sboh6ZgM5ufItJ2rA"
     },
     "075908": {
         "NAME": "ROUND TOP-CARMINE ISD",
@@ -18183,7 +18183,7 @@ var DistrictsData = {
         "FederalFunding": 274244,
         "OtherLocalFunding": 170527,
         "RecaptureAmount": 1114867,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYOT2Tor_tZBmiLyWEcD8VgBEIafhC1s60m4py6R809osg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVCEXUyKp5VMrzbNJfBmTfUBZVV5t20-yGhCveja_z2bbA"
     },
     "144901": {
         "NAME": "GIDDINGS ISD",
@@ -18224,7 +18224,7 @@ var DistrictsData = {
         "FederalFunding": 3395759,
         "OtherLocalFunding": 576716,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ebozjz0Q_axCun9Zk9MjUgEBtOjzMPiyJPR9OlnH5oInsA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESmws-7iHFhNnd_qi5jhr4oBqf0OUffOgXuBTIdUEM73jw"
     },
     "008901": {
         "NAME": "BELLVILLE ISD",
@@ -18261,7 +18261,7 @@ var DistrictsData = {
         "FederalFunding": 3233450,
         "OtherLocalFunding": 1173690,
         "RecaptureAmount": 21863,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfAL6mLNeaRKhcLvZc1UckABj9wrdMarW613mQGyNlPNsg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWHbvr4yxe5Ik-h4FUeqxjABH7kLqLRoGSKXD6hIcHFohg"
     },
     "026903": {
         "NAME": "SNOOK ISD",
@@ -18298,7 +18298,7 @@ var DistrictsData = {
         "FederalFunding": 765600,
         "OtherLocalFunding": 247405,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ5_H0y6wmhLpTnSCsv0bZABhHA_XZPIHVl1zu8TPR1D6g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWnS15lto7hGii_cCeJ9yeIB7t4mshp-7B7mrNFg54SCBQ"
     },
     "021902": {
         "NAME": "BRYAN ISD",
@@ -18339,7 +18339,7 @@ var DistrictsData = {
         "FederalFunding": 35830028,
         "OtherLocalFunding": 3326743,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETHTvoKpbSRDg-WnBDhgJekByyBgRpsDZG4T6Z3NCBcphQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETyQDxqqNotPt2k4DqcsP7YBgtQsJnhBBg3RlyloLRDTZQ"
     },
     "021901": {
         "NAME": "COLLEGE STATION ISD",
@@ -18380,7 +18380,7 @@ var DistrictsData = {
         "FederalFunding": 21726490,
         "OtherLocalFunding": 3582762,
         "RecaptureAmount": 3760394,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcOBo2D9NwRNnyTE574R-QIBmWZNAbUisa-TIJ2TwmiGtQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWYY8A5iGFNCsSJ9J9m3G9EBko9Ik7Oa8oEQs1zRBTT2AQ"
     },
     "239901": {
         "NAME": "BRENHAM ISD",
@@ -18417,7 +18417,7 @@ var DistrictsData = {
         "FederalFunding": 9182180,
         "OtherLocalFunding": 1522312,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Efl9Mq7HPWJAg8pPt3QZHvcB8uJfiVu4um2xBlBjk_42sw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQQxsRw3WUdAtB-DHqbur-MBqaa-vSUQHw3yGBptxON61A"
     },
     "091908": {
         "NAME": "VAN ALSTYNE ISD",
@@ -18462,7 +18462,7 @@ var DistrictsData = {
         "FederalFunding": 485100,
         "OtherLocalFunding": 1033855,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcVfm0VbUqNDnrBR_o_3RvsBDw5g6hvKHsSz5zz6sAaKGQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVtqdYSen9lDvSGeiins8foB3ZN087V3iYFvVXZD5kFZFQ"
     },
     "101917": {
         "NAME": "PASADENA ISD",
@@ -18523,7 +18523,7 @@ var DistrictsData = {
         "FederalFunding": 110997730,
         "OtherLocalFunding": 8753469,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY3VyJXlK4pHjGvWbdbRmUMB8oAR4VFA6wNc1mTatgxMJw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETnEGQJ4gsNMm30_HXjdFMQBbwj6qJRTBbkRXxu5zEcIuw"
     },
     "101919": {
         "NAME": "SPRING ISD",
@@ -18588,7 +18588,7 @@ var DistrictsData = {
         "FederalFunding": 60193468,
         "OtherLocalFunding": 2577090,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWrjVs9W5cFIs7aBAy0hNNcBvjbUKsMZENScpMIi2HXEqQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbgOt--h0zhIvp8CpUQYHpwBT0W5vURCMMf96ql_Gh42Zg"
     },
     "101925": {
         "NAME": "HUFFMAN ISD",
@@ -18629,7 +18629,7 @@ var DistrictsData = {
         "FederalFunding": 7328922,
         "OtherLocalFunding": 1526669,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYz64IOKNvhJrg8XLmxdwy0BwPNJbYx-2cCBFGGydcw5dw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZUo44q1cctPm9sxZ_4Ms0gBGGsexX6y4RB3kzYUCR6yhQ"
     },
     "146901": {
         "NAME": "CLEVELAND ISD",
@@ -18674,7 +18674,7 @@ var DistrictsData = {
         "FederalFunding": 11720521,
         "OtherLocalFunding": 1952223,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcmwrjKskuNPuOr1vn42YmkBp8WadkPEcOoWlyMkxW1Y8Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY7ytkHOv4JEodtG1NITGToBo7W31GmgegdiEnB0nVzFsg"
     },
     "170908": {
         "NAME": "NEW CANEY ISD",
@@ -18723,7 +18723,7 @@ var DistrictsData = {
         "FederalFunding": 24719123,
         "OtherLocalFunding": 3631651,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQkGuLk9VilGiE5XC8N_H3sBu1KFBAQCYqDXqfKU-_30LA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUCEReXl2gJMufx5LlNmdfoBSTYO03wri9hzUsikUdu-4Q"
     },
     "020910": {
         "NAME": "DAMON ISD",
@@ -18760,7 +18760,7 @@ var DistrictsData = {
         "FederalFunding": 458649,
         "OtherLocalFunding": 239324,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eece1YY9Fb5EiN8_r5kzZ_gB9SgDb-pItKsRsz7NFngi2w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbAYSwqn1aROqJ5mv1qW2p4BU7rrmeMPNfxKkv7zVSWXXw"
     },
     "020907": {
         "NAME": "COLUMBIA-BRAZORIA ISD",
@@ -18801,7 +18801,7 @@ var DistrictsData = {
         "FederalFunding": 3553966,
         "OtherLocalFunding": 1314417,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbecPesSDKVAjy7RcoDUbeQB8BLzNbA8vCFPKTwwFpcoXw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee104-wYxw1Du_UiKWY6GVwB65R59rbtnJh2uLakjEVIKA"
     },
     "020908": {
         "NAME": "PEARLAND ISD",
@@ -18842,7 +18842,7 @@ var DistrictsData = {
         "FederalFunding": 29959157,
         "OtherLocalFunding": 4705115,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeM-hlYOKABFvzHXcjjd034B3jbqSM0zO3muBc1DvaYz_w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcbgKbZNTf9OnljwYfK92WsBW8R_q6vIXN2CZYEeV1rx5w"
     },
     "020904": {
         "NAME": "DANBURY ISD",
@@ -18883,7 +18883,7 @@ var DistrictsData = {
         "FederalFunding": 259237,
         "OtherLocalFunding": 635149,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUv-6T3NCIxMpt2mjQ4XEAEBCIEM8PIzDfopwH5VA-smgA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZAt35bsoA1JqGctrovu8M8BZR6I2poUFj2DGmskRvNfhQ"
     },
     "084909": {
         "NAME": "SANTA FE ISD",
@@ -18924,7 +18924,7 @@ var DistrictsData = {
         "FederalFunding": 6870153,
         "OtherLocalFunding": 1771771,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcEqkjTZeqJLu_i39uX_dZUBRUIIpGiXGij8-6gZ5H2EJA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfqhHHtxPlFNnAHbRP67Mh8BlpK0U0W4w76U_UuzUrBOCg"
     },
     "084911": {
         "NAME": "FRIENDSWOOD ISD",
@@ -18965,7 +18965,7 @@ var DistrictsData = {
         "FederalFunding": 3068445,
         "OtherLocalFunding": 4746640,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbTOBl2HvjJOpqfdvD0oIzABoSEXlLfjUev8A8r1R2u44w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQiWpQnMg3tFvwIoxwVOCk0ByOWZiKMKFa89r8C1h5YnDg"
     },
     "229904": {
         "NAME": "WARREN ISD",
@@ -18997,7 +18997,7 @@ var DistrictsData = {
         "FederalFunding": 1585650,
         "OtherLocalFunding": 577737,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW9b7IY3jThEnqY35qD90BsBNDoAXJvEA4xW48Z6AUPCyQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdtFOyWKJXRIvL2V5BeSLY0BlNzAGCmxNE60g8eSOUJA1w"
     },
     "187903": {
         "NAME": "GOODRICH ISD",
@@ -19034,7 +19034,7 @@ var DistrictsData = {
         "FederalFunding": 571931,
         "OtherLocalFunding": 412283,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESYegXDAYfRAsIUkqiE6JEQB1s0P5oDPkeU23JF7fJBV1Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbM63N27nLlBmTgL5b60CpgBCdxOV1EVpW91bsfqtFXB1Q"
     },
     "187901": {
         "NAME": "BIG SANDY ISD (POLK)",
@@ -19071,7 +19071,7 @@ var DistrictsData = {
         "FederalFunding": 1197538,
         "OtherLocalFunding": 239124,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfuQXqLkqa5NtUd04Q_REvIB48O4Wv2uw9I8-Gn3egj-ug"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXB-Qkz4MThDq_wmI1GCwYMBF5V7MGjwbyn6hoZxBHeEHA"
     },
     "204904": {
         "NAME": "SHEPHERD ISD",
@@ -19103,7 +19103,7 @@ var DistrictsData = {
         "FederalFunding": 4485941,
         "OtherLocalFunding": 297443,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX2B_44qamVFhicmom4aRdQBXpQ7cNwb4Shhze2Rmv8kPQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW8e4Tac1dRPjqoKhFBAz-gBqYAApx7wzSCBkAJl3fQUqQ"
     },
     "204901": {
         "NAME": "COLDSPRING-OAKHURST CONS ISD",
@@ -19140,7 +19140,7 @@ var DistrictsData = {
         "FederalFunding": 2807490,
         "OtherLocalFunding": 190240,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZxt39hJwUBFrMx2UGxGefMBqvJs_mduKaKZp7kKxT7gow"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ0U8tF5l7FIsTI6o7ZYG9IBQrLUkUl6hn6AmZUQl56n7A"
     },
     "228904": {
         "NAME": "CENTERVILLE ISD (TRINITY)",
@@ -19177,7 +19177,7 @@ var DistrictsData = {
         "FederalFunding": 168160,
         "OtherLocalFunding": 43655,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERGl4HsOPOFBjc0sb3gONxgBspIdLx1TzjmyRx9h7vUXkA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESWwaMVvXohKlG6PPMgJ73gBGvcQn7b8OpLyR4MdRHzXtw"
     },
     "228901": {
         "NAME": "GROVETON ISD",
@@ -19214,7 +19214,7 @@ var DistrictsData = {
         "FederalFunding": 1694031,
         "OtherLocalFunding": 703437,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQVUscVtNylPiM-732WRFloBvh-CHinG7L__w_rGW6Vxrg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeZvGpFtIGNBlTf9tiHO3bkBF3piLyR_PQYfXO-n5Dsv5g"
     },
     "187907": {
         "NAME": "LIVINGSTON ISD",
@@ -19251,7 +19251,7 @@ var DistrictsData = {
         "FederalFunding": 8196252,
         "OtherLocalFunding": 515370,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ET60QLZydhFIrdVmZ91zQSwBQoWt0gtFKfnmmxpiaQfhOg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZOXi384xM5BhVakPUAC9tkBZ0Y1vMUhhHvOGlSXJvlobg"
     },
     "229906": {
         "NAME": "CHESTER ISD",
@@ -19288,7 +19288,7 @@ var DistrictsData = {
         "FederalFunding": 310458,
         "OtherLocalFunding": 39171,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec52DksalndJov3-ue-zT0ABjmqqTzetM6y_fN5grOrtjA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZDz0Jocg8pBsqXXKUagqd0BA3PCofCuxkg8rgxiT9voQg"
     },
     "003905": {
         "NAME": "DIBOLL ISD",
@@ -19325,7 +19325,7 @@ var DistrictsData = {
         "FederalFunding": 4095861,
         "OtherLocalFunding": 451400,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQWiWpmPyQ1ErVUUnVPW0WABcUz4z00a_YGJ8DLclg83qA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZWHU_aKjUVEsV8BQ7d9LToBc4lA7vC1ZY5Bqgp-UQYgJg"
     },
     "187906": {
         "NAME": "LEGGETT ISD",
@@ -19362,7 +19362,7 @@ var DistrictsData = {
         "FederalFunding": 413824,
         "OtherLocalFunding": 58934,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZUOm6SvgSNLj_TfD_QXEPEBvDE-06hCxK6Jv5lChII63g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EV3VFIMzvc9AvP1dBqyEGT8B0oujIeKlWq9qwFE8g0oNHw"
     },
     "187904": {
         "NAME": "CORRIGAN-CAMDEN ISD",
@@ -19399,7 +19399,7 @@ var DistrictsData = {
         "FederalFunding": 2296423,
         "OtherLocalFunding": 1536331,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY-IBYapOvJAq4ya6ux8l3ABUL1V9lI0ZovCQU07nPwjfA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdGb96pYSkNGiYzYIqSgrk4BfCtL6Q4uq_2qLP9cHSKIAw"
     },
     "229903": {
         "NAME": "WOODVILLE ISD",
@@ -19431,7 +19431,7 @@ var DistrictsData = {
         "FederalFunding": 3076381,
         "OtherLocalFunding": 2027755,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWcgUrwwF9FGlcxuP4m-WhABXoZQoSqMQeyFg05tFX3y6Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVTbVk3eOdxFu8ANu49hFVoBIYL7OWqp1ti9yRmJsXKUlg"
     },
     "003906": {
         "NAME": "ZAVALLA ISD",
@@ -19463,7 +19463,7 @@ var DistrictsData = {
         "FederalFunding": 664887,
         "OtherLocalFunding": 55237,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EexA_YBxQZ5EhUHm8hXdB14B8t9caqclxi1TNZs6WPIsOA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWeyM-7pT9tKqJnbdhbGHLABVpCGsimlOYUcHkKmk1jfZg"
     },
     "150901": {
         "NAME": "LLANO ISD",
@@ -19500,7 +19500,7 @@ var DistrictsData = {
         "FederalFunding": 4508656,
         "OtherLocalFunding": 1006197,
         "RecaptureAmount": 24171310,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EflzHi4V5FpMvOvCWVq-LZcBesmkD_14eB5lYNrXe_fLkg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX5fC8L1rmlHox7qodRWqccBx-7voeuJYOjzlA4gtcgwxw"
     },
     "246912": {
         "NAME": "THRALL ISD",
@@ -19541,7 +19541,7 @@ var DistrictsData = {
         "FederalFunding": 636037,
         "OtherLocalFunding": 477376,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EURkCXCb0mVIha8YSbitd4MBXL790Bz2aOfFo31Nrgq37g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUZDE0N24J5BoVaaKTSpuKgBqhQFtfv5JmIRw-L09Lra_A"
     },
     "011905": {
         "NAME": "MCDADE ISD",
@@ -19578,7 +19578,7 @@ var DistrictsData = {
         "FederalFunding": 540393,
         "OtherLocalFunding": 59093,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ER8xqUDG0rJOlEzm7e-BxCgBuLmiAkVsb_3HzVwFuhEUfA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESf1kJXb9V9CtY_RKVRjBoUBiy65YMAGsBZrZZ_SVxFI3g"
     },
     "011901": {
         "NAME": "BASTROP ISD",
@@ -19615,7 +19615,7 @@ var DistrictsData = {
         "FederalFunding": 16705177,
         "OtherLocalFunding": 1778180,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQKUiNmbMX1OiSc4u4SwwfQB_3djTinIy7CpLeB26JPNlg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVb-6E6G1RpDgfmE-jL1UjgBVupqF6_xxZ0DS58Wzu4tPw"
     },
     "227910": {
         "NAME": "DEL VALLE ISD",
@@ -19664,7 +19664,7 @@ var DistrictsData = {
         "FederalFunding": 17517220,
         "OtherLocalFunding": 2581994,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EROkKGE5159AjuT6FE_zXgABbLO_poJeVt65kkDb481aGQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea8aZdU_69BKuIbXLt3kd9EBDIKEYL3gjKpGSIAIjblpTA"
     },
     "227907": {
         "NAME": "MANOR ISD",
@@ -19709,7 +19709,7 @@ var DistrictsData = {
         "FederalFunding": 11509786,
         "OtherLocalFunding": 2449672,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ebsga3vjyp1NnyBe918zR10Be7bC__Kgu55A15QKPXKxqw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfQ8eCt8pIpHnEe8JS0wGuoBQoH4eMlfX_L-2oi_GhQHrw"
     },
     "246914": {
         "NAME": "COUPLAND ISD",
@@ -19758,7 +19758,7 @@ var DistrictsData = {
         "FederalFunding": 213295,
         "OtherLocalFunding": 103437,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW17vhqa0TZOkkec-YBsoGsBhkODW6MCcnhvUbJkjzIiUw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETL1ftQ-qy1KkTq9QcMnCZYB3YxASkTXuzwibvJjZGZcVw"
     },
     "246911": {
         "NAME": "TAYLOR ISD",
@@ -19799,7 +19799,7 @@ var DistrictsData = {
         "FederalFunding": 4991548,
         "OtherLocalFunding": 948248,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUEp7rRZSPBNgYVCny47xXABLW3pusRNxyTvuw-ZIOK5Rw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVz1GTyDg4dJowdjE_a665EBwjYls1hgJcTHqKQXiWdUNA"
     },
     "011902": {
         "NAME": "ELGIN ISD",
@@ -19844,7 +19844,7 @@ var DistrictsData = {
         "FederalFunding": 9144943,
         "OtherLocalFunding": 1181827,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef8HqZCq6OZEm9PS_eIBvUQBpr1qNXSwEIyPqL_sy1USrA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERyxL1SexuVLtf_bpWl7raQBH-hMEXS1qU_nVf5rD2bYsw"
     },
     "227913": {
         "NAME": "LAKE TRAVIS ISD",
@@ -19885,7 +19885,7 @@ var DistrictsData = {
         "FederalFunding": 5512899,
         "OtherLocalFunding": 6277433,
         "RecaptureAmount": 45815978,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERJvBOZDDzFPtbmE7jcW3psBK_TjfbrGP2YZAYOQEReBEg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZPzFjr_RANPtMiDNpv5MP0BdY92hAKiefDg8mdhLkdvvw"
     },
     "227909": {
         "NAME": "EANES ISD",
@@ -19934,7 +19934,7 @@ var DistrictsData = {
         "FederalFunding": 3250034,
         "OtherLocalFunding": 7828018,
         "RecaptureAmount": 101773796,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQHxjlq7GQJHt2NkpkTcapEBMd2ZzVOcGIrhvXGw9NLi3g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeMBy0UBNaRInlTWNm4UZLUBxu9wNNTxK0i-9AlD5OrOWg"
     },
     "227901": {
         "NAME": "AUSTIN ISD",
@@ -20003,7 +20003,7 @@ var DistrictsData = {
         "FederalFunding": 122999557,
         "OtherLocalFunding": 32202930,
         "RecaptureAmount": 706687156,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERU2sWO8laFBlBST9dsyByQBmW4P3objY1iRvpkboNxq4Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY_qZfbGN9VNhvRfQSWRL6IBZVz6lxcB_V9bURg3OyweTA"
     },
     "105904": {
         "NAME": "DRIPPING SPRINGS ISD",
@@ -20048,7 +20048,7 @@ var DistrictsData = {
         "FederalFunding": 2912984,
         "OtherLocalFunding": 4418686,
         "RecaptureAmount": 5882141,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec9D2CXaV4NCkKRP3qKhiSsBy9g_Fz6Ay24ykJ04ukHNgA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZKeL5_qHlpDif1we9cCMEQBJ4ai2xQx74VdcEqfjfvOgQ"
     },
     "027904": {
         "NAME": "MARBLE FALLS ISD",
@@ -20093,7 +20093,7 @@ var DistrictsData = {
         "FederalFunding": 4792637,
         "OtherLocalFunding": 885238,
         "RecaptureAmount": 8220000,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaN-3kz6podMjd2t_qtThEQB2bJcsQLMYfSD9yCgFEYZdg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWoaa-LCgtRLuQtPj3f2TAsB8IR7SsSoeorT0dMmfjRejg"
     },
     "246913": {
         "NAME": "LEANDER ISD",
@@ -20154,7 +20154,7 @@ var DistrictsData = {
         "FederalFunding": 24600748,
         "OtherLocalFunding": 11926493,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERECorjBFhpLtIps2iJT0ScBEBo1fgJEsFfJ1006tbVRug"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWhdtI5BEUVOk7_3KLkmW_cBGsCfDY3QRsy5CypYC8WSnw"
     },
     "227912": {
         "NAME": "LAGO VISTA ISD",
@@ -20195,7 +20195,7 @@ var DistrictsData = {
         "FederalFunding": 1488252,
         "OtherLocalFunding": 473255,
         "RecaptureAmount": 4456833,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbdFvemkV85HoncY1mXQTo0BUqM9DZrL9smoSEbLbO1r2A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea1C_-cL_odLrxWDgrpTrUQB0vrBasKsYRvA8D-ru8xX8g"
     },
     "016901": {
         "NAME": "JOHNSON CITY ISD",
@@ -20244,7 +20244,7 @@ var DistrictsData = {
         "FederalFunding": 581050,
         "OtherLocalFunding": 495861,
         "RecaptureAmount": 2709469,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EenzPoX4tAZKvkimWz0jws8BImxqROBHIzRUZ6GliVtT1w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef9bqyz-cWBAiZN-8IcXZ9QB0cZFxwZQVB1wtWV9hguFng"
     },
     "201914": {
         "NAME": "WEST RUSK COUNTY CONS ISD",
@@ -20276,7 +20276,7 @@ var DistrictsData = {
         "FederalFunding": 1819302,
         "OtherLocalFunding": 226726,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdTqDFKcyglOiBiBXN5c-mQBffMSh5WuhAnQJtx10nl__A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYBb-lBTjlRLskQI5N2h_50B_WL6mcwLA4GKbS6sjpKOOA"
     },
     "201913": {
         "NAME": "CARLISLE ISD",
@@ -20317,7 +20317,7 @@ var DistrictsData = {
         "FederalFunding": 667166,
         "OtherLocalFunding": 754760,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVQClAEH3rNHnqUU_Nf5HHIBEC9sS_jQoXDeG8tutf8elw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYsx_WzQcwlBqHau61eGpu0BYZEanFoKmjE79zp5_sWGbg"
     },
     "212901": {
         "NAME": "ARP ISD",
@@ -20358,7 +20358,7 @@ var DistrictsData = {
         "FederalFunding": 1624140,
         "OtherLocalFunding": 838443,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU70nd8WUcdEnOe9zx7Uxk8Bw1ZKpdPbZsGSp_fUzWvo_g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQaISubImXpHmVzF1JwwcJoBwzUAwomhkuSEU-BoJ23rVg"
     },
     "037908": {
         "NAME": "NEW SUMMERFIELD ISD",
@@ -20390,7 +20390,7 @@ var DistrictsData = {
         "FederalFunding": 1655617,
         "OtherLocalFunding": 70198,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef35PNH6xDxMhg6BM0cKb3UBLXBkRjvLLmDDurlMp3Pxtw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee5cy66NQGZIs5HSh_zk_QUBm8_oVjO-D03RxSbvQovDVg"
     },
     "212902": {
         "NAME": "BULLARD ISD",
@@ -20439,7 +20439,7 @@ var DistrictsData = {
         "FederalFunding": 2180554,
         "OtherLocalFunding": 2267562,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbAEevYrVapBj69QPqb9amUBoUwM4MWEB_yHjwVS-c7DGg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed8DAtAaoLVEgDr1KQG34NoBrFS-p1_fxiY_pmviw62crA"
     },
     "212906": {
         "NAME": "WHITEHOUSE ISD",
@@ -20475,7 +20475,7 @@ var DistrictsData = {
         "FederalFunding": 4805533,
         "OtherLocalFunding": 904219,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbL5nh2DhGlFgbZRY5rRVRsByGKnlBEYkzbVm1n9HXlLoQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcfJPIWYFGZNv9cHok7SgmMBZxvs5I8tYYv9WjJ4VKKsKA"
     },
     "107902": {
         "NAME": "BROWNSBORO ISD",
@@ -20520,7 +20520,7 @@ var DistrictsData = {
         "FederalFunding": 4682363,
         "OtherLocalFunding": 556172,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZSVF6J8AC5GsUbyK5jV6koButOz_tZMdqhzA8m_rmX-eg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcZrjoRBBXpInINPTvokYmYBdIVFFbhdJ4CIVMxfUDB4Qg"
     },
     "001904": {
         "NAME": "FRANKSTON ISD",
@@ -20561,7 +20561,7 @@ var DistrictsData = {
         "FederalFunding": 1105376,
         "OtherLocalFunding": 103259,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETgzhHtu3a5IjDRl_RisWr0BQfr4u2RezrQqeypV15vBAg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWBmdyJiMmJBrIAuWMp7CaEBCt8RfT-mdccOAKIunVceiw"
     },
     "212904": {
         "NAME": "TROUP ISD",
@@ -20597,7 +20597,7 @@ var DistrictsData = {
         "FederalFunding": 1572643,
         "OtherLocalFunding": 309625,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbyIsCozV1ZOov0nHJQ6lTABh5WKY9KHrQR2Ky05QZv0Ig"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESNmvVylX7BNnJpGI1RRvFEBLXhwx0PolxD-vs70I19ntA"
     },
     "037904": {
         "NAME": "JACKSONVILLE ISD",
@@ -20634,7 +20634,7 @@ var DistrictsData = {
         "FederalFunding": 13098269,
         "OtherLocalFunding": 1076893,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERKEvw6-CpZKnz9XDhkOMGoBJwN4xivY7GnqB6c6ANwPnw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQVwOBGqz0NElXu1B1TQjd8B6TTvw2Hf2_7S-2CuJuYznQ"
     },
     "146905": {
         "NAME": "HULL-DAISETTA ISD",
@@ -20671,7 +20671,7 @@ var DistrictsData = {
         "FederalFunding": 1540254,
         "OtherLocalFunding": 149914,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWYustqBSTVBhb6ZKCclHLwBascfW0w3sr8QjO_idecEYQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfDLDBnJXbxOnln_Q07gHU8BsnYfARCocpQXAAioOybSVA"
     },
     "146906": {
         "NAME": "LIBERTY ISD",
@@ -20708,7 +20708,7 @@ var DistrictsData = {
         "FederalFunding": 4797841,
         "OtherLocalFunding": 2335166,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXz56mL8Ja9PuCXrOZDoYu8BYLKBRbrkZfvZ0KZeHttFlA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbCT3PuJDtJGkKupoEO5cGIBK_gUyU5VPpiue5Z8sTNwBw"
     },
     "146904": {
         "NAME": "HARDIN ISD",
@@ -20745,7 +20745,7 @@ var DistrictsData = {
         "FederalFunding": 1727911,
         "OtherLocalFunding": 148365,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ_Aa-rre9dEjQoyLsR_PrgBgQrnRpBcsd29pivSu66gKg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWAd51NSNKZIhGTi4ihARH4Bob_wAVY4YqPRfMUEUwS55Q"
     },
     "146903": {
         "NAME": "DEVERS ISD",
@@ -20782,7 +20782,7 @@ var DistrictsData = {
         "FederalFunding": 214405,
         "OtherLocalFunding": 67932,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcqarrrNYqpFilB6RHwCoRsBWPcs4htkPR0I2YgaxYlIEg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUQWan8ZSF5Hu4esopW65ZwBZkpCg_ZWdpVSuyoKTVcMAA"
     },
     "100908": {
         "NAME": "WEST HARDIN COUNTY CONS ISD",
@@ -20814,7 +20814,7 @@ var DistrictsData = {
         "FederalFunding": 518364,
         "OtherLocalFunding": 173413,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUfZPXndotFJic836yPrVwIBrI5--1lQjK0WGP6YSxfxFw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWM20-rlIsFNvwwE7bxNYtgBPAcVvrxmZntGx09VAqmpNw"
     },
     "100905": {
         "NAME": "HARDIN-JEFFERSON ISD",
@@ -20863,7 +20863,7 @@ var DistrictsData = {
         "FederalFunding": 1971225,
         "OtherLocalFunding": 1000650,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZuqwSKxe19Aj7Hev1M0MLIB9wSU65vUq33DcLeWz7tajg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETc1RMmg0uFFq7aMYxxM9pABqGVo6cE7YVT8kQNV38GKmw"
     },
     "161920": {
         "NAME": "CHINA SPRING ISD",
@@ -20904,7 +20904,7 @@ var DistrictsData = {
         "FederalFunding": 1763658,
         "OtherLocalFunding": 1197614,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYYZHVpqVc5NtkUfX5D3cQsBEdliOIVXnxV1WMum9b-NfQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES29ciKgoEhFkKKW2gDIrlMBQl2cPh-Gf53_pn8TqTWUMQ"
     },
     "126907": {
         "NAME": "RIO VISTA ISD",
@@ -20940,7 +20940,7 @@ var DistrictsData = {
         "FederalFunding": 1019561,
         "OtherLocalFunding": 447577,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EREJ8P3turVCs7yBtTNXTlIBPJJz7PfnX0QBEGcH_i4SZA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbdEKoqnBSZNoPsI4N1svL4BAeY-XVPx5cU0Im_uVTWdgw"
     },
     "070907": {
         "NAME": "ITALY ISD",
@@ -20977,7 +20977,7 @@ var DistrictsData = {
         "FederalFunding": 860591,
         "OtherLocalFunding": 183701,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYusEEVOsT1FkocVSHa9LQIBzxsbG6PGfyiHbpRTbhiOfQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaI1tDPDHKRLvcpmVJVNH8QBo3wpQvtJnoitIrEfg_QIUQ"
     },
     "070901": {
         "NAME": "AVALON ISD",
@@ -21014,7 +21014,7 @@ var DistrictsData = {
         "FederalFunding": 287648,
         "OtherLocalFunding": 99885,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaetUc6LRFRFi9IfYyYp1p0BegmFvUIapJfIwyushZktcA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EV-IhaSk0R1BmtSD_lGRP_oBa48OiZQ4fsdXPigqNOr_yw"
     },
     "175902": {
         "NAME": "BLOOMING GROVE ISD",
@@ -21051,7 +21051,7 @@ var DistrictsData = {
         "FederalFunding": 975400,
         "OtherLocalFunding": 254259,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUWURzY3mNZNr5M3ovQpiJUBlBTOUosi2WyUJpSDxfWEMg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERxpSo14dTFBkrysR3Zs_kcBgxDuYDkRfwckTHW5TInDOw"
     },
     "175905": {
         "NAME": "FROST ISD",
@@ -21092,7 +21092,7 @@ var DistrictsData = {
         "FederalFunding": 458867,
         "OtherLocalFunding": 84287,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfffpkgqMFBMm7tAD_OqJxUBM17MAJMJJ2QEL3NBz8XthQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfKK8LU5UPZLhxOzZDm3FI0BDjXrRuOCeE9DLD_O_M6EMw"
     },
     "109907": {
         "NAME": "ITASCA ISD",
@@ -21129,7 +21129,7 @@ var DistrictsData = {
         "FederalFunding": 1239099,
         "OtherLocalFunding": 174415,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EceGRFbcY6xIgxzZNFZTZtQBN0gw23-NN2k3LFGht2-ALQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaUQKvVHWlFBgo9MjXuVaeMB99mx8043fRQpWzci6VLxWA"
     },
     "070909": {
         "NAME": "MILFORD ISD",
@@ -21170,7 +21170,7 @@ var DistrictsData = {
         "FederalFunding": 407799,
         "OtherLocalFunding": 39693,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcEqxQ-4AU9AlTMixlWUknYBoSI1YqgEFR26nM3XhMJUcA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbUsQeOxYTlNkY3hAKi0g6cBYyaeMuWi89GVGQMbAmf_xg"
     },
     "070915": {
         "NAME": "MAYPEARL ISD",
@@ -21207,7 +21207,7 @@ var DistrictsData = {
         "FederalFunding": 1230426,
         "OtherLocalFunding": 333378,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea6A-EbYXPxOmh_hgSa9zN4BBAjUlXK70hmjUbJIsLbodA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERFrI3XUcFhKjJkpC3asahYBWGsz--7IPz8VLtRmkdLXzg"
     },
     "109903": {
         "NAME": "COVINGTON ISD",
@@ -21244,7 +21244,7 @@ var DistrictsData = {
         "FederalFunding": 1229503,
         "OtherLocalFunding": 3042062,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYEk830wSHJBiORmK-4fm5IBc70KgzC8YlEQlskKFuv0Jg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EShUJu7KbEJHooOaH5uJ738Bo_H8i1W6LYrQteS5veydYA"
     },
     "109911": {
         "NAME": "WHITNEY ISD",
@@ -21276,7 +21276,7 @@ var DistrictsData = {
         "FederalFunding": 1985804,
         "OtherLocalFunding": 808122,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcsZXYmLmL5Ck_z-HMUByX4BxYdaSQa1ODRidM1LZpaPkg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EezoCD4f6K9FgjrAHSEVKzYBMyNVCLfRL_BFOAwiJ9mlLQ"
     },
     "109913": {
         "NAME": "BLUM ISD",
@@ -21313,7 +21313,7 @@ var DistrictsData = {
         "FederalFunding": 689406,
         "OtherLocalFunding": 80064,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQVTlrsSRHpGu462jaCgf8gBoh-t4Smc0Pip3vKQezwzFA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ0VfNkOgaVIqZLKiFw-EGoBofLo2PiTta_lWCKlkaloTw"
     },
     "018903": {
         "NAME": "MORGAN ISD",
@@ -21350,7 +21350,7 @@ var DistrictsData = {
         "FederalFunding": 334352,
         "OtherLocalFunding": 71228,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWvX12u1HK5BpqbmWwdP2XMB7gFQygy-lbXpSo8-s8MB2w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVb7vQVrYflFjJIVWx-bm10B9ZPoWx0gslXSHUF0amAa7g"
     },
     "018902": {
         "NAME": "MERIDIAN ISD",
@@ -21387,7 +21387,7 @@ var DistrictsData = {
         "FederalFunding": 1230571,
         "OtherLocalFunding": 938081,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQkLYWDtaMxFglEh1NTBKNsBwOPMUwddT62W2R92j3le8A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVVytetARsFLnDgpJ8ii_18B324FNXIAzt0To5mUSMn2Wg"
     },
     "175904": {
         "NAME": "DAWSON ISD (NAVARRO)",
@@ -21424,7 +21424,7 @@ var DistrictsData = {
         "FederalFunding": 1133767,
         "OtherLocalFunding": 697971,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXR38OmGWqBFvyFsqrixDdwBWaoHRE-RdFBKhmDnZJYDVw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUPiFQgat0ZLvAcGb9WyIGMBWosUTrZyVFP0jvskAJb9Bg"
     },
     "109908": {
         "NAME": "MALONE ISD",
@@ -21461,7 +21461,7 @@ var DistrictsData = {
         "FederalFunding": 302361,
         "OtherLocalFunding": 67947,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWwSoyScEE1GkSgqCov4QsMBBuxhzoZ91lj6YRV2GXtCag"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETlnm-WUyI1EqgD0M4-3dXABAkheTDbIzsQ-XBQiVCpvEw"
     },
     "147901": {
         "NAME": "COOLIDGE ISD",
@@ -21498,7 +21498,7 @@ var DistrictsData = {
         "FederalFunding": 1003292,
         "OtherLocalFunding": 184268,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbYrzYXnWFhJlQAC9eXTFBkBhZPXZSw66Y_7E4vp65AxtQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef7hIDGcQ7NNpDrn5X0ctUkBSdkdlTXQOZY6Rx_7Gwo90w"
     },
     "109905": {
         "NAME": "HUBBARD ISD (HILL)",
@@ -21543,7 +21543,7 @@ var DistrictsData = {
         "FederalFunding": 646250,
         "OtherLocalFunding": 262831,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeH9X03ZhXJBkG93IZwqifwBesV2m3uXZmAM1-Tr9qX-Wg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Efs24_2IWqRPm27wfSNol48BiBgBa7EPtwqFgQJbj1ELGA"
     },
     "109902": {
         "NAME": "BYNUM ISD",
@@ -21580,7 +21580,7 @@ var DistrictsData = {
         "FederalFunding": 222719,
         "OtherLocalFunding": 87891,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdY0KESVbL9DuNmnefMjIYMBSUpnpc6T2jk57qevXnOmJA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY4G1ZdfypdKiiaugK_Js5oBr5g1si4Viget9jwxcCqFZw"
     },
     "109904": {
         "NAME": "HILLSBORO ISD",
@@ -21617,7 +21617,7 @@ var DistrictsData = {
         "FederalFunding": 2905152,
         "OtherLocalFunding": 870648,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY1Z_E0aW29IkJtoApwR77QBIJ18nONwCOvok6C0CCFkyg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVhnDasvNM9OnbUKVu7MiQQB_1gEibcaI9B_SyxI3g-THA"
     },
     "069901": {
         "NAME": "ROCKSPRINGS ISD",
@@ -21658,7 +21658,7 @@ var DistrictsData = {
         "FederalFunding": 581697,
         "OtherLocalFunding": 194728,
         "RecaptureAmount": 2039992,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaMjjaZ-3PxGrQiLIWxf9EIBEuCy1bVdCnTCt6B8Mq7PMA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcDDdZQF8KxOssP_Z5aSl14BXPejD2lVcMU6i9D1-myFbQ"
     },
     "193902": {
         "NAME": "LEAKEY ISD",
@@ -21699,7 +21699,7 @@ var DistrictsData = {
         "FederalFunding": 412922,
         "OtherLocalFunding": 254695,
         "RecaptureAmount": 699467,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EckrrT-p1H9Ml8o9DebZplEBSU4Dy-4so5MUFY3UIxMRaA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Efw77z_nYu5CtCPnjL41xucBKm9MTh5ZV-8uUYHxuZ_IZA"
     },
     "086024": {
         "NAME": "DOSS CONS CSD",
@@ -21744,7 +21744,7 @@ var DistrictsData = {
         "FederalFunding": 21731,
         "OtherLocalFunding": 37087,
         "RecaptureAmount": 0,
-        "CharterCostLink": null
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQF3amflcX1Fn5vsfmkCxyYBUk-e0QMPJlLxfbSe5GfN3A"
     },
     "134901": {
         "NAME": "JUNCTION ISD",
@@ -21781,7 +21781,7 @@ var DistrictsData = {
         "FederalFunding": 1336582,
         "OtherLocalFunding": 571344,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERYBzZ8MU3JGr-N5KT_MrZ4BGwQJ0HVlZWNLDvj3wR__OA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZa7KGUhxD1AsSOFh79rIqgBWslCWW2ExgbV7MM9UfVEGg"
     },
     "133905": {
         "NAME": "DIVIDE ISD",
@@ -21818,7 +21818,7 @@ var DistrictsData = {
         "FederalFunding": 0,
         "OtherLocalFunding": 52848,
         "RecaptureAmount": 101118,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESB2gUZykitFq09LSpQzMTABG1Q1BvaWLslKNM9O72vBfQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EauIKRIoL49FjhJLc-GZE4sBbVIWyFDR-5Pkl2kKOV2nAg"
     },
     "133903": {
         "NAME": "KERRVILLE ISD",
@@ -21855,7 +21855,7 @@ var DistrictsData = {
         "FederalFunding": 8709256,
         "OtherLocalFunding": 2098364,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWd5Ye701VlIj0LULUMeRKQB558BlSgTxpkLNoHWJ47XFg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Edm_eRGbwOVClsmPHsV7ovABefn7ix7n90FZHD0PO0y31w"
     },
     "086902": {
         "NAME": "HARPER ISD",
@@ -21900,7 +21900,7 @@ var DistrictsData = {
         "FederalFunding": 405530,
         "OtherLocalFunding": 235593,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETUbV458hY9Ev-UusxNi7a4BDpyLcnEAq6nMVoVrwJ2t8A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVfbdJ2LmtNIutziM1XpeUwB0gSSoAXKPNgWQ-ovjOidrw"
     },
     "086901": {
         "NAME": "FREDERICKSBURG ISD",
@@ -21945,7 +21945,7 @@ var DistrictsData = {
         "FederalFunding": 6226122,
         "OtherLocalFunding": 2876757,
         "RecaptureAmount": 16004619,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES7uq8qvkvZHhmCXYl-pYOkBGjZyt11lp--kqzGx7m9dBA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERiuw-myumVMhZv0-EOsFvgBHcvr_se0D3rfd2Mc_NoSnQ"
     },
     "133904": {
         "NAME": "INGRAM ISD",
@@ -21982,7 +21982,7 @@ var DistrictsData = {
         "FederalFunding": 2811811,
         "OtherLocalFunding": 547156,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb_xRLAHpbtAiHlhbRvitPkBwYzkxBXsHdK_tbjdsw36-Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef0TGSm7rthOn7q9QSBJ_nkB0u75G43t3oLcOnAvckQifw"
     },
     "133902": {
         "NAME": "HUNT ISD",
@@ -22019,7 +22019,7 @@ var DistrictsData = {
         "FederalFunding": 261306,
         "OtherLocalFunding": 169508,
         "RecaptureAmount": 2182129,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZhxRWvzz0dDmguIrIcWzkABa_AO0vln5Fvbpii4lTqoow"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec0LBFIFc0ZAt3-KgQRwr4sB0yr68lej7qaTaox_PGdN1A"
     },
     "130902": {
         "NAME": "COMFORT ISD",
@@ -22064,7 +22064,7 @@ var DistrictsData = {
         "FederalFunding": 1291038,
         "OtherLocalFunding": 438633,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaMEqwMzzctLmNh2cn5QzLoB8jQiWqQQJlMw6fIYH96gUw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESNSZeFt03JJtbATZpUPW-0B1MolaiwVGnhyUxmqzQYmzg"
     },
     "133901": {
         "NAME": "CENTER POINT ISD",
@@ -22101,7 +22101,7 @@ var DistrictsData = {
         "FederalFunding": 1506467,
         "OtherLocalFunding": 145941,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcryGgqfd49OmpgZH__PjB8BKiAKcUWbrdgbI4FJfAPmyw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERHIe-pI7NZKtf-vkwyfvQsBCIU1f_vBsFOTcF9JQc7ahg"
     },
     "140905": {
         "NAME": "OLTON ISD",
@@ -22133,7 +22133,7 @@ var DistrictsData = {
         "FederalFunding": 1424791,
         "OtherLocalFunding": 229240,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY3gQ13AL_NKgs6GEAu-DNABMBlWpKZV3203Gd1xaagQyw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfkJ9_83lRFKhmUMEk7WvlMBM4a5rg38ijmUUETWSsrgyQ"
     },
     "095903": {
         "NAME": "HALE CENTER ISD",
@@ -22170,7 +22170,7 @@ var DistrictsData = {
         "FederalFunding": 1265263,
         "OtherLocalFunding": 190388,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERugkfZCvMdPs6ZMk_Be6BsB0Rj6n0JRabZrQncfioVluQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETQNNqO-CmdPiwRroMoRUzUBQgCCGGLIITNsT5ASOhSBWw"
     },
     "095902": {
         "NAME": "COTTON CENTER ISD",
@@ -22207,7 +22207,7 @@ var DistrictsData = {
         "FederalFunding": 221197,
         "OtherLocalFunding": 61191,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWNfYXwFcpRMu7hXmZMEDlIBCOjHNO_AK6wPSNviPnEQfw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWm8W9nLDeJCqrMUkeZqaHYBG8RM_lTFAoVK6M8eHidVvw"
     },
     "110901": {
         "NAME": "ANTON ISD",
@@ -22244,7 +22244,7 @@ var DistrictsData = {
         "FederalFunding": 484311,
         "OtherLocalFunding": 53276,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERif-4bTbqpDsR0qYdQUfRoBoWd0ohuL-TGugkgowh3b0w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXp70bSOEsFInmHhmZxOuUgBCt0HubREdTRP90OPSxNhEQ"
     },
     "110905": {
         "NAME": "ROPES ISD",
@@ -22280,7 +22280,7 @@ var DistrictsData = {
         "FederalFunding": 461326,
         "OtherLocalFunding": 232151,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETjQTbBIURZPlF8v9eRcfSQBF-fOuWJlhNWH5_HllhcMwQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES6Icunp5KFCr80Uns3_sjgBjV5xWiW-19eScvVkGyrWGA"
     },
     "095901": {
         "NAME": "ABERNATHY ISD",
@@ -22321,7 +22321,7 @@ var DistrictsData = {
         "FederalFunding": 888895,
         "OtherLocalFunding": 324947,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef0ELnc2fstKohh7G7taRq4BffdvpWyjxNxnYdGBuix0Jg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERkfA8MwKU9Nhr1iSqekZOwBCmvnM-7jEhF9snv5yMqQXQ"
     },
     "095904": {
         "NAME": "PETERSBURG ISD",
@@ -22357,7 +22357,7 @@ var DistrictsData = {
         "FederalFunding": 637917,
         "OtherLocalFunding": 58729,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVEsqEDq1TVHkm3EgCSm0OoB0_qauRGgZLrPQtBDHPecbg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVw6JHjIv7RLinyO4D-T0JsBGxq5wh7_XnDXi4OBdx-z2A"
     },
     "153905": {
         "NAME": "NEW HOME ISD",
@@ -22389,7 +22389,7 @@ var DistrictsData = {
         "FederalFunding": 259961,
         "OtherLocalFunding": 236225,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ER4nk4d-IUJElmSOWndTyAoB5ZzwkCv8fF8JhKwCutDbGw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQLuAykNvAlLnLcC-fX4RaEB5km8AMeamv1n1o_kjQrKwg"
     },
     "152909": {
         "NAME": "SHALLOWATER ISD",
@@ -22421,7 +22421,7 @@ var DistrictsData = {
         "FederalFunding": 2840985,
         "OtherLocalFunding": 2193684,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXcqgacSodlLjd6q7eROeWoB3fNdTFdeQ1XGLqyqEsBQvw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea7rTTGtm8lDqu55p2ho1PIBH9qxnYjbKprcEP3Wna0KOw"
     },
     "152902": {
         "NAME": "NEW DEAL ISD",
@@ -22453,7 +22453,7 @@ var DistrictsData = {
         "FederalFunding": 1417199,
         "OtherLocalFunding": 108145,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EctDTlWERvRAlE-ND9hmIe4BZW2vczgiKtJ8_s6sO-3sUA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb_UlyOmlrlNrUWc_CV7o14BhjXYhsJgIcQvR9IZ1k4IWg"
     },
     "152907": {
         "NAME": "FRENSHIP ISD",
@@ -22498,7 +22498,7 @@ var DistrictsData = {
         "FederalFunding": 7827372,
         "OtherLocalFunding": 3471581,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWRyt2mP5txKqH1-8qE0riABwciRRKCAGQNeWyRjiwOvhw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXoWpObnlrtInFRo0PIdgioB_dSTXkcpYBmFT7kpbpXksA"
     },
     "152901": {
         "NAME": "LUBBOCK ISD",
@@ -22534,7 +22534,7 @@ var DistrictsData = {
         "FederalFunding": 60361414,
         "OtherLocalFunding": 17028534,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERW_Nf-dU7FJuLjWpjewTY0BKC2fMK9FnHPzGB88yX3LBQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU4icpL7XxlKoFUzyJxI5cYB5iYpoMJjV6qAwmwk0qjlgw"
     },
     "152910": {
         "NAME": "IDALOU ISD",
@@ -22571,7 +22571,7 @@ var DistrictsData = {
         "FederalFunding": 693710,
         "OtherLocalFunding": 499706,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ebdnnz-N3jBKtYcf0zW1Kl0Biu58cuiKgcISckRvOcoIfw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZob-D-WM_NDsGVgsqkvCL0B0Q3rfLbyb_yo3SgpHoC87A"
     },
     "085903": {
         "NAME": "SOUTHLAND ISD",
@@ -22607,7 +22607,7 @@ var DistrictsData = {
         "FederalFunding": 198682,
         "OtherLocalFunding": 134405,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec3W5LIN94BImm3XiDp_IDsBlq8ijt90WDnWpIrt8DLMeQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYa4XSkN9NlOkuX9FOMYme4B4_gSGfil39CmEWtz8bSD7Q"
     },
     "152908": {
         "NAME": "ROOSEVELT ISD",
@@ -22643,7 +22643,7 @@ var DistrictsData = {
         "FederalFunding": 3690350,
         "OtherLocalFunding": 573432,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbwPqsPn0vNNnoQTfoaTUM0BF4Hr11crSQGmWRWfkD109Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfEmYzgY6WFEk7iReiAz66sBi_Fw3eiFgZ-fAyfmfAxzLQ"
     },
     "054902": {
         "NAME": "LORENZO ISD",
@@ -22679,7 +22679,7 @@ var DistrictsData = {
         "FederalFunding": 1190924,
         "OtherLocalFunding": 871746,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWe-W9uvxahGsCD5qb5Qn2ABfZl4Rspg7MdFW7Zf3Pywfw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZZEZ6kXx3ZJpe0ZzVcomsMBkksVW9Qn_wcibMneQ369ZA"
     },
     "152906": {
         "NAME": "LUBBOCK-COOPER ISD",
@@ -22715,7 +22715,7 @@ var DistrictsData = {
         "FederalFunding": 5674967,
         "OtherLocalFunding": 3163922,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQICxYfkeeJEtLEBe6iVhtkB4ftz8RcRroXStmcRFG_1JA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfW_J0O8fvFHk4BBpbMrnJEBhmrxBFsIbFT52FxQxGIqmA"
     },
     "024901": {
         "NAME": "BROOKS COUNTY ISD",
@@ -22752,7 +22752,7 @@ var DistrictsData = {
         "FederalFunding": 8337765,
         "OtherLocalFunding": 375884,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU3hG7m7Q-xAtPoZg1obvL0BV5DhAdvgcWiLC_Njb6ABcg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ96XqOMKj5FlL35rUkwKhYBHOo2ZCz5CfEH2Iq1458BJw"
     },
     "214902": {
         "NAME": "SAN ISIDRO ISD",
@@ -22789,7 +22789,7 @@ var DistrictsData = {
         "FederalFunding": 564066,
         "OtherLocalFunding": 118065,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETdrrY-EJf1LiJnfMoGe_SABz__c947Krq3n2iCTLpi8yQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVfN9EyABUNPvFWg7X6oZZ0BbbyFicLVHr4fsphW7z45JQ"
     },
     "108908": {
         "NAME": "MISSION CONS ISD",
@@ -22834,7 +22834,7 @@ var DistrictsData = {
         "FederalFunding": 34114605,
         "OtherLocalFunding": 1033998,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWKTPZDEbexEgOccVVEG1U8BcDtmVGpSnL_6KXLCsnXppQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXABwH6ulndDuR5EQ0PmAiMBG7bKgifXYBPbwCz-pTdj5g"
     },
     "108906": {
         "NAME": "MCALLEN ISD",
@@ -22883,7 +22883,7 @@ var DistrictsData = {
         "FederalFunding": 47140265,
         "OtherLocalFunding": 4275930,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXaB_eFu-dxPuWGOPg0C7nYBYO8M_xqpIJB_B7AA1CDeCw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcfhyJlH3BNDonhcebq6ExQBiWkUMKGjoAfibBTDSjh-Lg"
     },
     "108916": {
         "NAME": "VALLEY VIEW ISD (HIDALGO)",
@@ -22928,7 +22928,7 @@ var DistrictsData = {
         "FederalFunding": 9924902,
         "OtherLocalFunding": 124938,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfVsE2WsgqNAi9n7J8ps9zgBAr2mAPOrCBH0ub-efV-jbg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVLqO3j11OZHhaudgl9lnFcBE0kT1mt5welzM3MifnKVyg"
     },
     "108911": {
         "NAME": "SHARYLAND ISD",
@@ -22977,7 +22977,7 @@ var DistrictsData = {
         "FederalFunding": 18469254,
         "OtherLocalFunding": 1343729,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVvyBxE3BHtJoJmhjK-ix60BBxLG47Xhx-9_-FEX-HxplQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWdKM1RTnIdGvzIeO_5Qd9wBr91qzucHNUVbckT7p-txEQ"
     },
     "108909": {
         "NAME": "PHARR-SAN JUAN-ALAMO ISD",
@@ -23030,7 +23030,7 @@ var DistrictsData = {
         "FederalFunding": 110472734,
         "OtherLocalFunding": 1843086,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdoPWGMQtHRJlU4UPlGXI9sBdzg5qw9ti-Zkg0aXJXDV8w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES8iILnnDsZLmnhGMnuXG1oBOHE5MAvZkCdoor-sJkPcwA"
     },
     "108905": {
         "NAME": "HIDALGO ISD",
@@ -23075,7 +23075,7 @@ var DistrictsData = {
         "FederalFunding": 10754096,
         "OtherLocalFunding": 162097,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY9ZbcbPJM9Lp11V6awxaVMBRUSL1MF3r_vYry44EXHaDA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfLwKlfhHm1Pq_EMWiT9cG4BNNlN13fwY63kUR4pr-47Zg"
     },
     "108904": {
         "NAME": "EDINBURG CONS ISD",
@@ -23124,7 +23124,7 @@ var DistrictsData = {
         "FederalFunding": 69035726,
         "OtherLocalFunding": 3276566,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeeiEWzm2M5IjhQDPNh8WnUBvMJP24jE_8bQayXJ6T2FTw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ecf4Uk45OJpGggJHj6D7gc4BuIwGDS_ptZGxd3lA7BedWg"
     },
     "108903": {
         "NAME": "EDCOUCH-ELSA ISD",
@@ -23165,7 +23165,7 @@ var DistrictsData = {
         "FederalFunding": 16427484,
         "OtherLocalFunding": 2777179,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETEtPiLHoqFBg-_5YVqVrJgB8N2S-DzQDekZze6GW-1Jug"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYAtR_4_b_RKiMw08FVHdrgB0Xwo6gTk209GyPggdY-29Q"
     },
     "108910": {
         "NAME": "PROGRESO ISD",
@@ -23202,7 +23202,7 @@ var DistrictsData = {
         "FederalFunding": 5067133,
         "OtherLocalFunding": 107611,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESjJi1_siP1DnwnMmiw7GjABI6NP1w62kTGTosvYqcxrrw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESa1hq_nApxHtUQtb8YRHn8Bm5ceOuXW4mEvkIYB8Zcleg"
     },
     "108913": {
         "NAME": "WESLACO ISD",
@@ -23247,7 +23247,7 @@ var DistrictsData = {
         "FederalFunding": 37566359,
         "OtherLocalFunding": 498064,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcAX5gMNTOtPoXi36rneWVkBKOBtLEE6IbRP5b7bBJW5_g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbQCxzIPaWJKtK31GxaoVjwBWpHnqFCqIz1ScPJd8aYm6g"
     },
     "108902": {
         "NAME": "DONNA ISD",
@@ -23288,7 +23288,7 @@ var DistrictsData = {
         "FederalFunding": 39186659,
         "OtherLocalFunding": 1755249,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ET5JVf_t2UdFsituUC6CZEUB7OSQAtOUwqBMJtPkkE4oKA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETAuHumkkb9Mo204uM_SPdgBBJkyvlIGr3kVe3nX03IbSw"
     },
     "205906": {
         "NAME": "SINTON ISD",
@@ -23325,7 +23325,7 @@ var DistrictsData = {
         "FederalFunding": 4867329,
         "OtherLocalFunding": 500848,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES55DcqzHvNHo7ihtbI6QzUBZYokoCtWTouHHl4ZEtULrw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQSZ29bofzhBmQ22FKOvZTcB2sZ0rWXpro26ahcFVBE5Mg"
     },
     "109910": {
         "NAME": "MOUNT CALM ISD",
@@ -23370,7 +23370,7 @@ var DistrictsData = {
         "FederalFunding": 372634,
         "OtherLocalFunding": 93600,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWeGncoVtnlNspU5jc7hMBsBv_oBoFKxQ0wmpWzj_Tnzsg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERFI2pxiGKNLv54jMXtXTlkB_XdRp7iySXtXi8YqfKjy1g"
     },
     "161918": {
         "NAME": "AXTELL ISD",
@@ -23415,7 +23415,7 @@ var DistrictsData = {
         "FederalFunding": 1334264,
         "OtherLocalFunding": 242525,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdKYyzj0dotIvjbvK4mxSjwBjeDg8Ly2rv6AcaDcwFIMzA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeLAQyXCaZlAmy_4MEykLK4BIblAxvA4VUEpGBmfKuTZwA"
     },
     "161906": {
         "NAME": "LA VEGA ISD",
@@ -23456,7 +23456,7 @@ var DistrictsData = {
         "FederalFunding": 4479816,
         "OtherLocalFunding": 656418,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcNMeTjhQo5IhmedvsgNciMBJs5wD7hWedgCogcm1LQ2nw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaE81IXavzdDh04LQYinjwkBtcha8uPHky23rOB2WEjt1Q"
     },
     "161921": {
         "NAME": "CONNALLY ISD",
@@ -23497,7 +23497,7 @@ var DistrictsData = {
         "FederalFunding": 4362593,
         "OtherLocalFunding": 549714,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYqfMnyuFo1GuB4Q7Wc-K2IB7lz2floMET8uN4ageIEaew"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdBIrjdd0xhAgCzhg2agRwYByWX-Ji2D9kKNrX5HBZ1Efw"
     },
     "109914": {
         "NAME": "PENELOPE ISD",
@@ -23534,7 +23534,7 @@ var DistrictsData = {
         "FederalFunding": 203602,
         "OtherLocalFunding": 115747,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdFtPTFPL7hNrGXGjyl55FsB0zAUa-G5KyNDg93CbJVU7Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EduJ3Mv4e4JGvNBsqoAFQVoB8M9S-_Twr4e9M8dZR4URgw"
     },
     "109901": {
         "NAME": "ABBOTT ISD",
@@ -23571,7 +23571,7 @@ var DistrictsData = {
         "FederalFunding": 172951,
         "OtherLocalFunding": 238182,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eej2rEmJBa9MvnehTt9ooEYBo2WqTpubWs2z1bj5EHjXXw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZFvNrzXUxVNtjFmY5cubaEB_biaqWPFSeqZgwtG94owbQ"
     },
     "161925": {
         "NAME": "GHOLSON ISD",
@@ -23608,7 +23608,7 @@ var DistrictsData = {
         "FederalFunding": 263038,
         "OtherLocalFunding": 49425,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Efw4RxmRSLBGqc-a5leBQlABhLT0XeJ4eos_ti9Tj6dQ1w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdKOBr1pmyRJpuclAaSw7S8Ba2hAflG3PJMA4-G_PGX4Dw"
     },
     "225907": {
         "NAME": "HARTS BLUFF ISD",
@@ -23645,7 +23645,7 @@ var DistrictsData = {
         "FederalFunding": 1399859,
         "OtherLocalFunding": 102133,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESnHY573Hl9Ps-8eU9xCJ1ABfEEZ2bSN8UKBfujfgHPcOQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYqnIQYzSkpAn09u7Sr1hTUBV-gqQm-W-3BeCvJylxgDKQ"
     },
     "194903": {
         "NAME": "RIVERCREST ISD",
@@ -23681,7 +23681,7 @@ var DistrictsData = {
         "FederalFunding": 800232,
         "OtherLocalFunding": 222688,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfSmO8YUWuZCtwcQ8FCXJ-wB6_Yt8gaF0AnIWuAKiecXMw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQP_bMWjab9OsqgbvzgUgqEBhaiBpZA9TOs81AT4lpJIew"
     },
     "194904": {
         "NAME": "CLARKSVILLE ISD",
@@ -23718,7 +23718,7 @@ var DistrictsData = {
         "FederalFunding": 1343263,
         "OtherLocalFunding": 93567,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESGjw2_PIHtImM793ZKet3oBCcZ48of0F-1ViTa-UyD17g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVfrkOn_fhVIuY6Ux8ZxWI8BX6-8KXwUzCOd_t5aGE9isA"
     },
     "057912": {
         "NAME": "IRVING ISD",
@@ -23779,7 +23779,7 @@ var DistrictsData = {
         "FederalFunding": 58542885,
         "OtherLocalFunding": 3904264,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdXMmx2vzgpCrczEqJwBbyMBn_SHXsm6gJjoS4Fk_QmPGw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec5wrB3FNzlNjQz0SgXEWCgBWnYraLr2iz2cRjLDtt51zw"
     },
     "057905": {
         "NAME": "DALLAS ISD",
@@ -23880,7 +23880,7 @@ var DistrictsData = {
         "FederalFunding": 337834923,
         "OtherLocalFunding": 18478139,
         "RecaptureAmount": 85377533,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ96zV6cAnlKpjlyzh0EbOkBhGAfKMkljNYdtRxGgZ-vHA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EelCos1ZdOlKpKpMgw9zy6oBwOyzFOuOv2naWQLhB3PvDQ"
     },
     "091907": {
         "NAME": "TIOGA ISD",
@@ -23917,7 +23917,7 @@ var DistrictsData = {
         "FederalFunding": 350883,
         "OtherLocalFunding": 632955,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESAiKpx8STNJgzyoYO8vO4IBypgm93sH48XJB9jms-QURw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdzaDUuDQZpImobWrhUrwPsBoM74l6b4L-XCDMXI0w49IA"
     },
     "049905": {
         "NAME": "CALLISBURG ISD",
@@ -23954,7 +23954,7 @@ var DistrictsData = {
         "FederalFunding": 956024,
         "OtherLocalFunding": 247764,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ5VvfxgU2ZOvgnGUgGZj5ABOO1hPQSM646Vl1yEZ9rykw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaYgXSYEIbVHj2tNF-DdiAEBxHNSHfXBHLQlUacEP_K7Rw"
     },
     "091917": {
         "NAME": "GUNTER ISD",
@@ -23995,7 +23995,7 @@ var DistrictsData = {
         "FederalFunding": 1389522,
         "OtherLocalFunding": 5499811,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EasU998GzVFJn20ZxlALOAAB9GKD3eVloK0yOSXkEQaj-Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUkvqaACBhNAjlSyrLGmTzoB18veowgCPpHStdKk_YXWiQ"
     },
     "043903": {
         "NAME": "CELINA ISD",
@@ -24048,7 +24048,7 @@ var DistrictsData = {
         "FederalFunding": 646547,
         "OtherLocalFunding": 2919741,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbAMGZV8FwlKj_Q_wlAltJ0BQrpvmJWPQmG3zEefqBX7Fw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed0BeO2WAIBHo_nHAgE-_6AB8YvnDMOro55G5HNIVqETdQ"
     },
     "043901": {
         "NAME": "ALLEN ISD",
@@ -24097,7 +24097,7 @@ var DistrictsData = {
         "FederalFunding": 15823984,
         "OtherLocalFunding": 5825794,
         "RecaptureAmount": 1098100,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ0-RHzTtxBCo7YHGjYLX98BfmT_4uuSeAr4wxgieLXiOQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea36XlQJcB1Jvh1fpb-2Yg4BsUdNwHyxKRpOMuednyQvUg"
     },
     "169910": {
         "NAME": "FORESTBURG ISD",
@@ -24134,7 +24134,7 @@ var DistrictsData = {
         "FederalFunding": 358691,
         "OtherLocalFunding": 64686,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXuGha8zUUhOvOQ1otI-4cUBl8cZC0fEiIRLVHW3hlI6uQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea0uKjsJWpFDnZ8yh1uXlTQBjkB6xh9BJFJHrTzE7Ymoog"
     },
     "249901": {
         "NAME": "ALVORD ISD",
@@ -24175,7 +24175,7 @@ var DistrictsData = {
         "FederalFunding": 716525,
         "OtherLocalFunding": 219568,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbSGFFydSudPnglAKzutPkMBodBXsnEgpl0Kw1INA1Mpqw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbS04nSWvflEqERW3MoBNJ4BpBj1qvAeXAwvdeBbiw4jSw"
     },
     "057922": {
         "NAME": "COPPELL ISD",
@@ -24212,7 +24212,7 @@ var DistrictsData = {
         "FederalFunding": 6170801,
         "OtherLocalFunding": 4880933,
         "RecaptureAmount": 40207086,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU58gP5NnWJLgSi5D9SMhckB8pK1OEP6cbhrjEe9yT3Qpw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETYiqB4nrwhMsfaKVGFezpQBshJApwdOMNJsmPRvvI8rcQ"
     },
     "057903": {
         "NAME": "CARROLLTON-FARMERS BRANCH ISD",
@@ -24269,7 +24269,7 @@ var DistrictsData = {
         "FederalFunding": 40832005,
         "OtherLocalFunding": 2694999,
         "RecaptureAmount": 40598460,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed-APpNFNmhCqQLL56F4sj0B-r49VHaA03giFwP0mTh8LQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee0Wi7pzNTRHito90d4GJXUBriEsSAnmW1X3E50casFwNA"
     },
     "043910": {
         "NAME": "PLANO ISD",
@@ -24314,7 +24314,7 @@ var DistrictsData = {
         "FederalFunding": 44223847,
         "OtherLocalFunding": 7328753,
         "RecaptureAmount": 192058699,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESPu-XGioQBPsaz0Iz4Q8H0BZBgijFnG1CaumEgNNxBfWw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQYljRZuHV9Pq2-HTd0WzTIB-3JmU25_CHTumPKh_sVWlw"
     },
     "220919": {
         "NAME": "CARROLL ISD",
@@ -24359,7 +24359,7 @@ var DistrictsData = {
         "FederalFunding": 3775387,
         "OtherLocalFunding": 13081364,
         "RecaptureAmount": 29424127,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERyDwIn3LQFFlCmnCK_nI4YBReafhq2zLCy8PMItfI6m-Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYJNvByjh3RNpLyjVDfYBcMBhS9A8gXLfc23wFicOUGjuQ"
     },
     "220906": {
         "NAME": "GRAPEVINE-COLLEYVILLE ISD",
@@ -24416,7 +24416,7 @@ var DistrictsData = {
         "FederalFunding": 15691701,
         "OtherLocalFunding": 16642552,
         "RecaptureAmount": 56502582,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ6we25MhmNCk6VRS7BNOJ0BAAw0Ao5ATc_FOhbZDnCYUQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY8GLplUT9JMv-oRAUF-_FkB6Ez7mk2F5b5c3C17fGOb3g"
     },
     "061912": {
         "NAME": "LAKE DALLAS ISD",
@@ -24461,7 +24461,7 @@ var DistrictsData = {
         "FederalFunding": 5275272,
         "OtherLocalFunding": 493677,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZjZfawHFABDijsNCYyzWbABhm0EcixQLz1fEUCC1uLlTA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ7_EXNWP41Npe-vwn4I478Bw9EpnektbxHNRIB3c65tlQ"
     },
     "061910": {
         "NAME": "ARGYLE ISD",
@@ -24502,7 +24502,7 @@ var DistrictsData = {
         "FederalFunding": 637246,
         "OtherLocalFunding": 2204724,
         "RecaptureAmount": 68429,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZmAHqpT0C1Jp1Pm13m8z_ABvKWH-kO4KhvBnAj8NzDsVg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW99j1tcyhdDnIeTySrveRkBCUdIGBu0Y2es8oXotVsKDg"
     },
     "061907": {
         "NAME": "AUBREY ISD",
@@ -24547,7 +24547,7 @@ var DistrictsData = {
         "FederalFunding": 1206996,
         "OtherLocalFunding": 1595606,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUwoSiq3er9GihuCMPiBouQBKTB1zo1AI2mjw1vdgznPdg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESiFUH1OGs9EkVNs8QH_ENsB_VAcSMOAJUGtPiAdLIocBA"
     },
     "061914": {
         "NAME": "LITTLE ELM ISD",
@@ -24588,7 +24588,7 @@ var DistrictsData = {
         "FederalFunding": 7726635,
         "OtherLocalFunding": 1889433,
         "RecaptureAmount": 326918,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVBVSWbhbvdFpgh_an-e3q0Bj7TBcTJ6cAF5jPyppUFU8Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZrMC3jTI0VCtRX7cBi9xikBtdinz0xKRg_dJKN7v4j0jw"
     },
     "061902": {
         "NAME": "LEWISVILLE ISD",
@@ -24641,7 +24641,7 @@ var DistrictsData = {
         "FederalFunding": 69695853,
         "OtherLocalFunding": 13443604,
         "RecaptureAmount": 50745313,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeIZvmPudNtMpiKq_waxagIBmuGjkMYKq-FPV0E6L7kH9Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUt78Pg0uNlDuZ0X6AhosNEBy27VxboF8BXElGlfoXcaNw"
     },
     "043912": {
         "NAME": "PROSPER ISD",
@@ -24686,7 +24686,7 @@ var DistrictsData = {
         "FederalFunding": 4706790,
         "OtherLocalFunding": 14801198,
         "RecaptureAmount": 6144,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcIH8GvqnipAgo2in_cBn1oBWMfFBOb1XqmD9-4Mc_kXjA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQHVy-9R0oNEm8WGOS4hP4kBYr9blBIRgATtkOxmHEi_hw"
     },
     "043905": {
         "NAME": "FRISCO ISD",
@@ -24743,7 +24743,7 @@ var DistrictsData = {
         "FederalFunding": 29429142,
         "OtherLocalFunding": 34091065,
         "RecaptureAmount": 4177231,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeG0h7TKEjdJj1wLlY9E4OEBQhe11dDINwr7osLPM38q6g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb_mIlS4bYZEpKAttGWUwc8BaP3p5-YdzaQ8b8sZ0B68mA"
     },
     "061908": {
         "NAME": "SANGER ISD",
@@ -24784,7 +24784,7 @@ var DistrictsData = {
         "FederalFunding": 4855949,
         "OtherLocalFunding": 6133161,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbQ1-g62RrVLqCarVCdLl70BXPf1p4lgvmF9e1HFBUHm3A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfI57XVRHyxHi5jw7dc-9NsBn0zowfJXX8M3hi1W3ndxeA"
     },
     "249908": {
         "NAME": "SLIDELL ISD",
@@ -24829,7 +24829,7 @@ var DistrictsData = {
         "FederalFunding": 334872,
         "OtherLocalFunding": 196864,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYLfdwerfB1Gmm6d_HluDlsBU_04y6E_n0aDUKDyKmuUYQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbrEEJPi0f1MoxtpH4HIINEB3vov-fsYGzBAE9j78eN0eA"
     },
     "049903": {
         "NAME": "VALLEY VIEW ISD (COOKE)",
@@ -24861,7 +24861,7 @@ var DistrictsData = {
         "FederalFunding": 2073760,
         "OtherLocalFunding": 194182,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZgeWUallY5IoIxZtmetrJwBtRzDFYuC9a2dy2YybAUgmQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea36YUqusoZKvsApkBpPpbYB81U-kLRy9868SSC4Wti2Ag"
     },
     "049906": {
         "NAME": "ERA ISD",
@@ -24902,7 +24902,7 @@ var DistrictsData = {
         "FederalFunding": 370402,
         "OtherLocalFunding": 913731,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYMnkxciPetKtGcl5bLREBoBDBet8qJZAmW2WJGYui3uvg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea23hN2me3tCgym4I77Z31sBNt9KIlawTRiZm1N-qR6Cdg"
     },
     "061903": {
         "NAME": "PILOT POINT ISD",
@@ -24942,7 +24942,7 @@ var DistrictsData = {
         "FederalFunding": 1407854,
         "OtherLocalFunding": 835968,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcP4RCGxLztDnIRYzAWgDnYBZePVK6tZPUIhzq9RstMvhQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbScx593jP5PlNq300XXT04BqFo3xVSRXcZcMFCdeLkerw"
     },
     "061906": {
         "NAME": "PONDER ISD",
@@ -24983,7 +24983,7 @@ var DistrictsData = {
         "FederalFunding": 1648705,
         "OtherLocalFunding": 1383391,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Efs83gaqadhGk1FEOVQArJIBopjYjYv6ibIUpSY82Yy6Bg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ2-fR1He8RClthJhZGxtcMBnF1m1Ke6OUkkVV0tqX24tg"
     },
     "249905": {
         "NAME": "DECATUR ISD",
@@ -25020,7 +25020,7 @@ var DistrictsData = {
         "FederalFunding": 4379643,
         "OtherLocalFunding": 2199846,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESkokfbIBbtEulzMKOZGvsUB7HmWgHt493OjlNoARP3gZA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVVQsSnpewZKhMQ1GSTbT0ABPdHjd7UoKKU41kilGLW_JQ"
     },
     "061905": {
         "NAME": "KRUM ISD",
@@ -25069,7 +25069,7 @@ var DistrictsData = {
         "FederalFunding": 1323064,
         "OtherLocalFunding": 696975,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWc9FJfLMdVJp2f-dRf8kigBR01Hi108dssiAL4v0rsy2g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ6NWmUH2ttLvrse3V8KbEMBsoBArDLbKHNIjqTCJZYwbw"
     },
     "061901": {
         "NAME": "DENTON ISD",
@@ -25118,7 +25118,7 @@ var DistrictsData = {
         "FederalFunding": 41747335,
         "OtherLocalFunding": 6947965,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed6z-9jmhMhNjsIEf_p3iosBJQsuTHtQYNIn_0dhEZg9Zg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERYusvPggtxHmc9q9lO713sBUiyDfs_Lu2_kI5N4bpf51Q"
     },
     "025908": {
         "NAME": "BROOKESMITH ISD",
@@ -25159,7 +25159,7 @@ var DistrictsData = {
         "FederalFunding": 393970,
         "OtherLocalFunding": 207980,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERtZKeKoN6tIgZvofC-1MaIBDvDMcrZvv0oIJJ-Zmlknbg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaZHt75VL69AkmdakQ9H54oBWGA5_ZZIeM8S6kCJg1Gzxw"
     },
     "042903": {
         "NAME": "SANTA ANNA ISD",
@@ -25191,7 +25191,7 @@ var DistrictsData = {
         "FederalFunding": 721285,
         "OtherLocalFunding": 167711,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfAOcDpsDS5NvCnKBTWdsh8BPWNTgFPwgZMmIBhLlCUPsg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWjDhsyYPIBHouNC-IWEKhIB39r6AuehzFv3hwIIC_7ZVA"
     },
     "160901": {
         "NAME": "BRADY ISD",
@@ -25232,7 +25232,7 @@ var DistrictsData = {
         "FederalFunding": 2881550,
         "OtherLocalFunding": 1908411,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQT9dnYtzKNFleUKhIyLYUEBzuRH5F5ID-j-O0E5C9TcsQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETKSp4XM_I5Pgqgpibw_suABzoJsUY0bpps4ICTTwe26xw"
     },
     "042905": {
         "NAME": "PANTHER CREEK CONS ISD",
@@ -25268,7 +25268,7 @@ var DistrictsData = {
         "FederalFunding": 431349,
         "OtherLocalFunding": 44826,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbcIRR2FnYhPpenjkM2Bi8EBRL8RNVztIhKdKGR3RWEh0w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ET5KJJ1H0GZMs767xYEmO1MBG_IvhyP1_CCsnYB2TKdS9g"
     },
     "164901": {
         "NAME": "MENARD ISD",
@@ -25300,7 +25300,7 @@ var DistrictsData = {
         "FederalFunding": 1478273,
         "OtherLocalFunding": 660122,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfiylS8BUPRFj_Z9F7CRJ9oBGo2QlMB1265uw_x-8G1vvw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZP70NGa0tZHr2l3g5zszWsBVYPFJyQIRK29CNvUo1mo3Q"
     },
     "157901": {
         "NAME": "MASON ISD",
@@ -25341,7 +25341,7 @@ var DistrictsData = {
         "FederalFunding": 837917,
         "OtherLocalFunding": 285354,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVc_btZmqSRDpAMwfbz4JJsBPd_bkFSY24uILSBcwnKHPg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EchqK2jqoedBqLtSq5mFk20B39OV-BF-VL8j-lXIEt3UNg"
     },
     "048901": {
         "NAME": "EDEN CONS ISD",
@@ -25382,7 +25382,7 @@ var DistrictsData = {
         "FederalFunding": 210540,
         "OtherLocalFunding": 559123,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYMf5DWrjEdEpfeDQcltyNMBRv2Z737vL01sYCFyTIopOg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERfzuudF0QlNjBe9CFiVJp4B-qabgoz3HCSE0eek9trgtw"
     },
     "160904": {
         "NAME": "ROCHELLE ISD",
@@ -25414,7 +25414,7 @@ var DistrictsData = {
         "FederalFunding": 260932,
         "OtherLocalFunding": 41792,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee7C1OcyM8lLp-b4NaEY_LMBLvCNi9wAJtL4nm-9LWrB0w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb1LwRfFOelImOr0-r7ShSkBVyk9j-tRoXrnj58TOgKGSQ"
     },
     "160905": {
         "NAME": "LOHN ISD",
@@ -25451,7 +25451,7 @@ var DistrictsData = {
         "FederalFunding": 206106,
         "OtherLocalFunding": 126865,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ect1yAFkTpxLhL-IjkwmtQsBQKRdT6yyjkLp20NDfKsjaw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYHRBcfeDrtKnwo3A_nPLH8BOO1ELrK1C6TIF6O_tKr4hQ"
     },
     "206902": {
         "NAME": "RICHLAND SPRINGS ISD",
@@ -25483,7 +25483,7 @@ var DistrictsData = {
         "FederalFunding": 162685,
         "OtherLocalFunding": 73051,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWR-tGTjR9pNtuUNzNmLvfABi90M5MU1fMwfyDqzFCtI-w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaVPW2UvUs5HuJknwLDKw04BWTWNvmscSbiI7pqJ0QzBFA"
     },
     "048903": {
         "NAME": "PAINT ROCK ISD",
@@ -25515,7 +25515,7 @@ var DistrictsData = {
         "FederalFunding": 369541,
         "OtherLocalFunding": 170577,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQy2YPuI2MhDs2QPrA549F4BeYUvlwx14QLc08ScLY_t_w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EappxQF4By1CjfaiKWmDFHoBQ7_y4BcYVsF7Ha-GPH0AMA"
     },
     "094903": {
         "NAME": "NAVARRO ISD",
@@ -25556,7 +25556,7 @@ var DistrictsData = {
         "FederalFunding": 1907452,
         "OtherLocalFunding": 865180,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUOA7letHGNElbmYvzikEQgByEUbgBpmb2xuV6YmYk32uQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQOmK2Xh4PRHsDy93CL5QogB9y8RsHpMt2K5nj9B7uBBtQ"
     },
     "016902": {
         "NAME": "BLANCO ISD",
@@ -25601,7 +25601,7 @@ var DistrictsData = {
         "FederalFunding": 1454500,
         "OtherLocalFunding": 540055,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESwkYI7UlFxHtdieTAQ7oUIBQh4FmiN8oSchXQOY1MR_cQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EV0odjmDkUJBn_GqVWv1Ee8BIHVzOZUjSI34Te0fXyWFqQ"
     },
     "046901": {
         "NAME": "NEW BRAUNFELS ISD",
@@ -25642,7 +25642,7 @@ var DistrictsData = {
         "FederalFunding": 8538412,
         "OtherLocalFunding": 2043062,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESleWEPgCTNMuSNEbGsEJkYB5DK22xs5yib3LoyplJCR0w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZabuOMo8ChKpxLBR-AVIjEBjsi6BcUQXb9-Ib_kds7U2g"
     },
     "094901": {
         "NAME": "SEGUIN ISD",
@@ -25683,7 +25683,7 @@ var DistrictsData = {
         "FederalFunding": 13613390,
         "OtherLocalFunding": 989752,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVGGV2zY_3xPk6QqLGQXqt4BT-M4AwGiWRs8HrgLyulXtg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETHEyp1tQu1Phn3qJbMYX3EBRle289orZEcyV4PKeuo5HA"
     },
     "094904": {
         "NAME": "MARION ISD",
@@ -25724,7 +25724,7 @@ var DistrictsData = {
         "FederalFunding": 1804492,
         "OtherLocalFunding": 304489,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbfRXWmGqT5IkQ3vfz66KMgBHMHGx3xA-JKwhyo02OlnRg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETvx5bvXCktPsANehWupTcUB1wvyw7EE1hATWDOUCdnkJA"
     },
     "071904": {
         "NAME": "SAN ELIZARIO ISD",
@@ -25761,7 +25761,7 @@ var DistrictsData = {
         "FederalFunding": 8279553,
         "OtherLocalFunding": 85538,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdpdVtJLad9Evk2wlHRa8RcBC4zEqfPj35QKwMI1Q9Kpyw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU8IXzDKv-BEh0pnTSQazl0B8_vE_qF3IEoM8fJN4WuzfQ"
     },
     "071901": {
         "NAME": "CLINT ISD",
@@ -25802,7 +25802,7 @@ var DistrictsData = {
         "FederalFunding": 36077346,
         "OtherLocalFunding": 2239793,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXOzxg9O6xZIi1j0xrMha3sBvHGWINj574D85z47EIY4fA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaKWxhHXl2dIgx9nh7QduAcBzoRqwxBWJXu4V-S3lteKfw"
     },
     "139909": {
         "NAME": "PARIS ISD",
@@ -25839,7 +25839,7 @@ var DistrictsData = {
         "FederalFunding": 9049693,
         "OtherLocalFunding": 755656,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec4LOKo5VVREk7PRELKmoUwByVLNCAwQqc3XR0HyQoC1xg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee4aQlkTImZAuJuOy95kuwUBN_ow9y9Xf9Ra2hh6vfsr4Q"
     },
     "139911": {
         "NAME": "NORTH LAMAR ISD",
@@ -25884,7 +25884,7 @@ var DistrictsData = {
         "FederalFunding": 3327401,
         "OtherLocalFunding": 3729155,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVusrk7LazZMj6ZwHLKv6DsBJOs3KIhsFjieCjxrf75_cA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETRZt2Chur9KpWYu5aKeAb8BRpu-ZhAifKHzZKRA7vn8tw"
     },
     "112910": {
         "NAME": "SULPHUR BLUFF ISD",
@@ -25925,7 +25925,7 @@ var DistrictsData = {
         "FederalFunding": 279063,
         "OtherLocalFunding": 183345,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ER_SGmilbVJAg8VSRbknYcQBhXu26h4EYgRX_zpNiAR-jA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee9QkdkmL9ZFrsaQ8SNIPRMBxNFyx1nsot7jcO0EoUmslA"
     },
     "139912": {
         "NAME": "PRAIRILAND ISD",
@@ -25962,7 +25962,7 @@ var DistrictsData = {
         "FederalFunding": 1385810,
         "OtherLocalFunding": 174682,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ1syW_hEA9PvptIgXOXfDAB4NR9VZqzqnjchxImPvHRAA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXmiWlC-Yy5Hm7OClePnwMABkQZ2x0O4dmwfdYglYscRDg"
     },
     "139905": {
         "NAME": "CHISUM ISD",
@@ -26007,7 +26007,7 @@ var DistrictsData = {
         "FederalFunding": 1707252,
         "OtherLocalFunding": 452308,
         "RecaptureAmount": 513044,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERrYA2R5lLVLg5p0jWwnI5YBUffOE-rPdxEYZGVIVsNt4w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYIvYKN87N5Bq7K4IuUH0UwBVXmSAIfPS-eaSy-nejkIvQ"
     },
     "074907": {
         "NAME": "HONEY GROVE ISD",
@@ -26052,7 +26052,7 @@ var DistrictsData = {
         "FederalFunding": 1358850,
         "OtherLocalFunding": 274258,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcKjAf_hde9JgCsYqAQJ680BtpQ7tA_pOtI_ad93Ct3Juw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeLRVak1nNdAscUffotp6XMBZJ8DCiBPIBo6-55J2b8haA"
     },
     "234904": {
         "NAME": "GRAND SALINE ISD",
@@ -26089,7 +26089,7 @@ var DistrictsData = {
         "FederalFunding": 3035786,
         "OtherLocalFunding": 477266,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUcK-WIq5cVKhw6uD5qqjQoBRCbS480nQtV7Jww2wWEdxQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbNWYp3lAmpOo--itRd0voQBxC_wQV9f-FEWn7XN01m7fA"
     },
     "234909": {
         "NAME": "FRUITVALE ISD",
@@ -26126,7 +26126,7 @@ var DistrictsData = {
         "FederalFunding": 927370,
         "OtherLocalFunding": 143240,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVKWb-C4EBBBh1EUIjQeOL4Boefth4bIYwq3XN2dvY1O_A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea9QcijL1IdDqeCao-A3TDEBOM2kX2b_W5cmenFdHp8JUw"
     },
     "234903": {
         "NAME": "EDGEWOOD ISD (VAN ZANDT)",
@@ -26163,7 +26163,7 @@ var DistrictsData = {
         "FederalFunding": 1242759,
         "OtherLocalFunding": 490190,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESmSqYDjOKJArj2LMwa80-oBqq2c5959lJIF1Uj6vjLHaw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUsmB5i7vdxJhrWVcPRlpMwB4JGvzirjs5zgrDnFn1RL1A"
     },
     "043914": {
         "NAME": "WYLIE ISD (COLLIN)",
@@ -26204,7 +26204,7 @@ var DistrictsData = {
         "FederalFunding": 11130273,
         "OtherLocalFunding": 4410643,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdndhTenEv9JirUt7blRkM0BEUud5ZM7d2HaJFfZifWXNg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUBfWCfAT-BFuCjZq9lWOw4BMtM6B4HgUFQ-souGqCoTmA"
     },
     "071906": {
         "NAME": "ANTHONY ISD",
@@ -26241,7 +26241,7 @@ var DistrictsData = {
         "FederalFunding": 1434161,
         "OtherLocalFunding": 59917,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQtEWnyZALFLqInOPp5Xho4Bqma2N7Vb14GkUwgLJmKhrg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfQaNoSXwStBstvaJH0YBfgBHyL4L4qq49hJCAuGvX4hwA"
     },
     "071902": {
         "NAME": "EL PASO ISD",
@@ -26290,7 +26290,7 @@ var DistrictsData = {
         "FederalFunding": 112375089,
         "OtherLocalFunding": 2785585,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfwPGyMgh7tIpAb-nITYjQQBNqtEWbVAz0BeDJpkt7xJ9g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETt0eMa1Rk5Dll7odCdJfmwBcolVFT10iiRSjBm-JobVDQ"
     },
     "071907": {
         "NAME": "CANUTILLO ISD",
@@ -26327,7 +26327,7 @@ var DistrictsData = {
         "FederalFunding": 12610337,
         "OtherLocalFunding": 418904,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETZioXzHHHBKpJo4wB1wubsBts87vv_1EyQrO8Ds5hS5vA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EV8yuRE-2oNMm_s9MZknVPwBMxc_XGg0I8mHC4JSShqZ6g"
     },
     "071905": {
         "NAME": "YSLETA ISD",
@@ -26380,7 +26380,7 @@ var DistrictsData = {
         "FederalFunding": 73205743,
         "OtherLocalFunding": 2703453,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYLtmnoQaU5Orc7zcnmVrBYBZKyxbbiDnkpKismfr0xG_Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZuzu5nISDhEibwUDN2kPY0BJcNuqqqJBqei9HTqbDJvug"
     },
     "071909": {
         "NAME": "SOCORRO ISD",
@@ -26425,7 +26425,7 @@ var DistrictsData = {
         "FederalFunding": 72603021,
         "OtherLocalFunding": 1436408,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWqZV_Qc6GhFvtsRrCj9DuYBmnQVjLORcwvK2_m4A_ftEg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaQgHK45SSVEr7llrM2eHZoBO8V2j9mpmL1IA6mliBm8pw"
     },
     "232902": {
         "NAME": "SABINAL ISD",
@@ -26462,7 +26462,7 @@ var DistrictsData = {
         "FederalFunding": 1382004,
         "OtherLocalFunding": 195873,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERs2PK2zOkFDiblElOWmFXIB3RmQEMNvxeESIsnt8-JESg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVoAEpkNazBBsrOWnm7YZZAB4gQz2p2VznV2bHX9127lRw"
     },
     "232903": {
         "NAME": "UVALDE CONS ISD",
@@ -26503,7 +26503,7 @@ var DistrictsData = {
         "FederalFunding": 12412122,
         "OtherLocalFunding": 948463,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESkFfxmYth9BmyD0BYO_HFUBluf1PGxos7aZL6riuzXrkA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWabPEyaaAtKl32AhBYw1QkBeCWvrjZjRl6BAznmGD-JRA"
     },
     "232904": {
         "NAME": "UTOPIA ISD",
@@ -26544,7 +26544,7 @@ var DistrictsData = {
         "FederalFunding": 265421,
         "OtherLocalFunding": 114347,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUSGcZzotUhFlKC8GHPU1z8BzZmoLHbE9_yCMPBWqyYSsA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX0dqPut5IFNqJT6_yDn4moBg_suU1KvCjQegeShhebBcA"
     },
     "010901": {
         "NAME": "MEDINA ISD",
@@ -26581,7 +26581,7 @@ var DistrictsData = {
         "FederalFunding": 1520525,
         "OtherLocalFunding": 165501,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZsa4BPdMYpHqfSyeXKq9hwBq2DU3sA1JJF92CjJVSDDLA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYgIbk_UswlCrxd8iqkiFg0BGDQ8M6DZj2R0ttgDciiccQ"
     },
     "249902": {
         "NAME": "BOYD ISD",
@@ -26618,7 +26618,7 @@ var DistrictsData = {
         "FederalFunding": 1440676,
         "OtherLocalFunding": 322887,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbGZamwxsNlDpNzlWHlzUGABvAK_gl4c_CZbqtCiyup-6Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERGcb2VR5cZPipCHXBV5EGgBdWs5Y7cf9YbmGL9Kpf56GQ"
     },
     "184902": {
         "NAME": "SPRINGTOWN ISD",
@@ -26655,7 +26655,7 @@ var DistrictsData = {
         "FederalFunding": 3946024,
         "OtherLocalFunding": 1158696,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW2v7wztdUFMvbhhS5sThB8BqbAbvGR8-_nfXFYHONduHA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZtVk73jqMFCuBxrEN1_YiwBcwspTsrHNtNDD4rHMvce6Q"
     },
     "184903": {
         "NAME": "WEATHERFORD ISD",
@@ -26692,7 +26692,7 @@ var DistrictsData = {
         "FederalFunding": 13362436,
         "OtherLocalFunding": 3659393,
         "RecaptureAmount": 257065,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXxNnW8ZZrBLpuZOvGtI1F4BPVnd06kYPWsqfBc912eElQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfOqMDrLbllAs20dJapoS3MBhS5NXpee2lEzGk9v8FHBsA"
     },
     "220907": {
         "NAME": "KELLER ISD",
@@ -26749,7 +26749,7 @@ var DistrictsData = {
         "FederalFunding": 37189556,
         "OtherLocalFunding": 7254790,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Edsc1wxZfEZEjoOv5Hz8m5gBa3jZ8Df3xYjm730HZAd9FQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZJ2AOz9UeVFtoRp8nrSvDgBNKZc4YNAvyWlF35rntHBXQ"
     },
     "061911": {
         "NAME": "NORTHWEST ISD",
@@ -26810,7 +26810,7 @@ var DistrictsData = {
         "FederalFunding": 14890868,
         "OtherLocalFunding": 10722019,
         "RecaptureAmount": 14340703,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZcuZVWrHmZCuMIF-W1l5OABu5fU8lPiZD72EL-zCzhvYQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EURY5EctIONCgxZp5ZhAxJ4BjcHTH8b6RiSGA-1Fzt3n7Q"
     },
     "015909": {
         "NAME": "SOMERSET ISD",
@@ -26855,7 +26855,7 @@ var DistrictsData = {
         "FederalFunding": 7798487,
         "OtherLocalFunding": 727872,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeLtzmVWQatPiMbJ65P9GO8Bh1CqjUO6tGU9yOejC_PELA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbV8KRHix1hIvUXVrOPwwikB9UmUSS5_IMIwDz48pZ_31A"
     },
     "163902": {
         "NAME": "D'HANIS ISD",
@@ -26892,7 +26892,7 @@ var DistrictsData = {
         "FederalFunding": 404827,
         "OtherLocalFunding": 131455,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfZW-ymHvaFPsLPOIgQ7b7oB08IvNCQr_zm_Z9DFGzXxZw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ebjsdlr5JNVEq6dnsRGZ7EYBJaPx5Etd4Hu4NjwHqk6PIQ"
     },
     "007901": {
         "NAME": "CHARLOTTE ISD",
@@ -26937,7 +26937,7 @@ var DistrictsData = {
         "FederalFunding": 861808,
         "OtherLocalFunding": 216244,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESJ8ZiOAQJJAu0z9fagpfMABgqB497H1KQIfQjTuKnT_Nw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETW0h-dN7BJOuV0dXVCEdR0Bn1VuIWypkahuH_VqJr8YUg"
     },
     "163904": {
         "NAME": "HONDO ISD",
@@ -26978,7 +26978,7 @@ var DistrictsData = {
         "FederalFunding": 2214189,
         "OtherLocalFunding": 560425,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZMs-xOk6N5NnCtyqeI59xUBGHrutQ8ZCRmWuOhCR7Ao2w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EexV0-uHBcZBmsYWea_9tg8BghMSjPdFtpIJ1C76zCNKCA"
     },
     "015915": {
         "NAME": "NORTHSIDE ISD (BEXAR)",
@@ -27047,7 +27047,7 @@ var DistrictsData = {
         "FederalFunding": 117691148,
         "OtherLocalFunding": 22351116,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWO6ZM7mp25LiEDcQMao9WMBUPGavcho6PEniP0LZQxpRg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeXB477oNZhPmaqY-g53SMwBD0UDiG0L4Oqt7gelbZdDfw"
     },
     "015912": {
         "NAME": "SOUTHWEST ISD",
@@ -27096,7 +27096,7 @@ var DistrictsData = {
         "FederalFunding": 26569910,
         "OtherLocalFunding": 2397628,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZJNsxtADQdEhGxWvMvPyCEBCOAdqUuIzlu8nC0t6GdZxA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWbLk-KhTnlDhzlR1VU11KUBu3mcRdsCnCkuUex-QTpdzg"
     },
     "010902": {
         "NAME": "BANDERA ISD",
@@ -27133,7 +27133,7 @@ var DistrictsData = {
         "FederalFunding": 3321525,
         "OtherLocalFunding": 987596,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXxUnu8Vo6JHkOaOGz1BnKMBLb3RugnE8KpxpE3YCYmg3g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX3zeqRPCC9BnlJte7-i1uYBAydMj1szIlLCjace_s9hpw"
     },
     "130901": {
         "NAME": "BOERNE ISD",
@@ -27178,7 +27178,7 @@ var DistrictsData = {
         "FederalFunding": 5115327,
         "OtherLocalFunding": 3881268,
         "RecaptureAmount": 2176662,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EevoJlco2ONMn9ATfo1IP3kB5sE4how8js6GXX4Oc2tg_g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQMD8-TgcflGvnnB8HJ-mDABmtCaueDoj-M1YjMZEVdLPA"
     },
     "015910": {
         "NAME": "NORTH EAST ISD",
@@ -27243,7 +27243,7 @@ var DistrictsData = {
         "FederalFunding": 84909642,
         "OtherLocalFunding": 12240184,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb2hMwV60rhHoX6AkosZ1HcB9xeJb9SRWZzYyBQz5TBFgQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERdsJIT1QbVKmd_rL4CzB1sBjs5WRY4Z4dgGFCMV2U8TGw"
     },
     "015905": {
         "NAME": "EDGEWOOD ISD (BEXAR)",
@@ -27296,7 +27296,7 @@ var DistrictsData = {
         "FederalFunding": 33791574,
         "OtherLocalFunding": 1525647,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERK7B_lwI1tCtuFjPUbXRkUBsjDqL9BdMXhBoOAdzc-_gA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYKmHdim8OJNjxOsTmOGe4oBZJpRKahpzeVsrvL9FoinPg"
     },
     "015907": {
         "NAME": "SAN ANTONIO ISD",
@@ -27373,7 +27373,7 @@ var DistrictsData = {
         "FederalFunding": 142268969,
         "OtherLocalFunding": 11418397,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYAuyeIa-k5Lgpuwgy3uLXgBRFkt0wAgbWv1AoTUlJsgdw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYb1Gf81ew5Enxr4GP32iZABCj9nz4leqmpWmL6fKUSg3Q"
     },
     "015913": {
         "NAME": "LACKLAND ISD",
@@ -27410,7 +27410,7 @@ var DistrictsData = {
         "FederalFunding": 10669717,
         "OtherLocalFunding": 1300381,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ecv-WVKv3BBMlVCqyzwjHiABJsN6U10tWrTF8o1AzcpZpg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcLG6Ka8NuVMkcbK4aLUQBAB6tbuy-OsS6bI8Uqg67JdTA"
     },
     "163903": {
         "NAME": "NATALIA ISD",
@@ -27447,7 +27447,7 @@ var DistrictsData = {
         "FederalFunding": 1911261,
         "OtherLocalFunding": 179307,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYfbQJ729m5Ep7KfZhtw_Z8BIWglFBX3OxmmP7JrbAHozg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWnFdlNqA7xPnnI7G-6C8IsBciEA1bvE7FKo59cTBvb39Q"
     },
     "007906": {
         "NAME": "POTEET ISD",
@@ -27484,7 +27484,7 @@ var DistrictsData = {
         "FederalFunding": 2842612,
         "OtherLocalFunding": 154058,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWV2_Qq906xLjQ3EM39E8lUBg4vpVkUx7v8qzaGHoIkUog"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVq-v8-z_nRDob_vi2qYzQgBMp5bg8WkYgEkeexHlhgxbA"
     },
     "007904": {
         "NAME": "LYTLE ISD",
@@ -27525,7 +27525,7 @@ var DistrictsData = {
         "FederalFunding": 3725997,
         "OtherLocalFunding": 210285,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETknpJ1tWsBGvv1QyRn_tiYBBaUB4vO0bIo4RlDKktv4ZA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESXdhgsz4i1Di4bKMJdfIy4BTrP7VGmbEbMZW9ETiTJXnw"
     },
     "163901": {
         "NAME": "DEVINE ISD",
@@ -27566,7 +27566,7 @@ var DistrictsData = {
         "FederalFunding": 2331617,
         "OtherLocalFunding": 284796,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU-VDRPgRMpAtlWsmoBlMqwBoRxIifJfw1xoLeneJA3evQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZk7XcBg0atGovbjxofMzD4Bbu8_0UOPDj2iQ0l1D94Svw"
     },
     "163908": {
         "NAME": "MEDINA VALLEY ISD",
@@ -27611,7 +27611,7 @@ var DistrictsData = {
         "FederalFunding": 7619890,
         "OtherLocalFunding": 743828,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcCVAKBfS5tMi9Mzd3C9c7IBTPBJTcvnrPMfxjtwN8MRow"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXJ0pBq0Ll1GgzlOqBuyKc8BMpZGF3Xli7MraHtATlYhAw"
     },
     "220920": {
         "NAME": "WHITE SETTLEMENT ISD",
@@ -27656,7 +27656,7 @@ var DistrictsData = {
         "FederalFunding": 10940956,
         "OtherLocalFunding": 1969864,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVvORx33kNNEnMNfhGWASJEBzDXsD8JHBCiQo4y_W96lCQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESo7adeS3SZFiNGDWR0DcqYBHcAImKeM5sdbJPOlaJDVAg"
     },
     "220910": {
         "NAME": "LAKE WORTH ISD",
@@ -27701,7 +27701,7 @@ var DistrictsData = {
         "FederalFunding": 9600877,
         "OtherLocalFunding": 681181,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWLq3qkgNANLg8go2BPRxB8BWFpJ7M33KuxXdir96vylsA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVBvOGYnJYhHlvnKd5kK1fQBcmPI0leIX6Z2MaSw1RmIww"
     },
     "220916": {
         "NAME": "HURST-EULESS-BEDFORD ISD",
@@ -27754,7 +27754,7 @@ var DistrictsData = {
         "FederalFunding": 29468254,
         "OtherLocalFunding": 4954353,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYAhPalw4PpMvU9Ri2uAMeoBQfX7C8nLQlwT8Rm1fi-HGg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaeJR1zFpedCrsPOQBpf5NQBSU07ehwWwPrrHtX8r0gyTA"
     },
     "220918": {
         "NAME": "EAGLE MOUNTAIN-SAGINAW ISD",
@@ -27811,7 +27811,7 @@ var DistrictsData = {
         "FederalFunding": 25126628,
         "OtherLocalFunding": 3058433,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ER9X54abOBVMtDrZ6mP8fwEBmMehD3FYPEOQtP5dIq_KVQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERqU6NJCbgZIluvYQP1N4qgBC_L2DZXo3U1Pa4QT1F7MJg"
     },
     "220917": {
         "NAME": "CASTLEBERRY ISD",
@@ -27856,7 +27856,7 @@ var DistrictsData = {
         "FederalFunding": 6910500,
         "OtherLocalFunding": 579815,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdL1aUIcZvVNnJpk1S8-ECoBRUip_4Y0Xd7D5OEcbNEBxQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Efj5w10UYoFMn5bPas0K_uwBwvtPTqvzIySnIBleyx0Ccg"
     },
     "220902": {
         "NAME": "BIRDVILLE ISD",
@@ -27909,7 +27909,7 @@ var DistrictsData = {
         "FederalFunding": 33540024,
         "OtherLocalFunding": 4702289,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESUem2iic3xKl-eAzTpqqUMBFtNcU92tZzdSr5DoF9-RFA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZI5ec9kO35DhsF1Q6zyB1MBumYRJwEgG14dK9oRrGu08g"
     },
     "220915": {
         "NAME": "AZLE ISD",
@@ -27954,7 +27954,7 @@ var DistrictsData = {
         "FederalFunding": 6782676,
         "OtherLocalFunding": 1047798,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcNV_vumh9xEoXzwKM6BuAcBfHz4NSRmZbxBRgx3imy0yw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EV2xx8NdveNFpzbLxr0uB_sBRse5SZDNePg-lUUcAnvOnQ"
     },
     "184907": {
         "NAME": "ALEDO ISD",
@@ -27999,7 +27999,7 @@ var DistrictsData = {
         "FederalFunding": 3618775,
         "OtherLocalFunding": 2463398,
         "RecaptureAmount": 251135,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYMtHlUrM_hCsC50y-hr02cBur6eR7OgFt9alfym0sv_bw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETOfX5CxZ89OuIvqeHoSwLYB0FnxrP-8JLIUMvw6vLAJCQ"
     },
     "220912": {
         "NAME": "CROWLEY ISD",
@@ -28052,7 +28052,7 @@ var DistrictsData = {
         "FederalFunding": 22749918,
         "OtherLocalFunding": 3465616,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESyJKRJQJtVJh5bMYx9GwSMBy6_uDEq2GQC1194Naie8mQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eak0tnTFhCJNnTKT5FCTjCQBOIOaOmsHy0iNNgT4MNgAgQ"
     },
     "220905": {
         "NAME": "FORT WORTH ISD",
@@ -28125,7 +28125,7 @@ var DistrictsData = {
         "FederalFunding": 163194996,
         "OtherLocalFunding": 11969687,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ6ibaPtXX5GrQ1nRVfnwGEBpuT0OA20WyL3mGko3w_G3w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Efd_Gmxt6iZNtzxnifazyK0B74RUL18AilcIB7DF9W70OA"
     },
     "126911": {
         "NAME": "GODLEY ISD",
@@ -28174,7 +28174,7 @@ var DistrictsData = {
         "FederalFunding": 6118356,
         "OtherLocalFunding": 3583443,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcOwqsNzRy5Dm4i5laKcxeEBI31quIzp8nsHVpYUkPZ2Eg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWhfWPKXpKlLjRTZesJGhnUB9Et7AT5hOtllKbXSBlNdgA"
     },
     "126906": {
         "NAME": "KEENE ISD",
@@ -28211,7 +28211,7 @@ var DistrictsData = {
         "FederalFunding": 1729808,
         "OtherLocalFunding": 312192,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWWqJ5pYBKRMm05cENLx8d4BYRSr9Lz1r9Ll37l04-0kwQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdS4udrrDEhFlk6baZb6zxcB4OmPhkTz8Rdmx5glnUhOSw"
     },
     "126905": {
         "NAME": "JOSHUA ISD",
@@ -28248,7 +28248,7 @@ var DistrictsData = {
         "FederalFunding": 7836005,
         "OtherLocalFunding": 1213792,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EawaFgrUL3FLrwPO3O1IMPoBTItHYAeVBKbo9HELJk7H5w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eev970EgRjxChDliXI9Z9zUBAcVfxDyC5Cn6Sew34i59Gg"
     },
     "126904": {
         "NAME": "GRANDVIEW ISD",
@@ -28289,7 +28289,7 @@ var DistrictsData = {
         "FederalFunding": 1089876,
         "OtherLocalFunding": 2921922,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERQse12gI-xGhKgoTGcykDgBmmb3WMQhEx7TDnDONyy27Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVFOWIzFph9EhAvca4axX6ABCxPjo9vQikaUC-6PLSxxNQ"
     },
     "220908": {
         "NAME": "MANSFIELD ISD",
@@ -28342,7 +28342,7 @@ var DistrictsData = {
         "FederalFunding": 39437582,
         "OtherLocalFunding": 7010662,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ9SZhBK6o9Fs6ZEPAUVOScBabqEz-caYV9-G0T4YoHJdg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERh3mGiawzdNpZoSLczd5OIBw5rqpXPkZe-sUPpGG6EOWg"
     },
     "070908": {
         "NAME": "MIDLOTHIAN ISD",
@@ -28379,7 +28379,7 @@ var DistrictsData = {
         "FederalFunding": 8695861,
         "OtherLocalFunding": 12470183,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Efn9DSXafK5DjVmVO2SosywBMELOSQF36lC-923CDKtilA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYWW-Xt3Y0BIsSgkoZgmFgcBS2x2EDvZzupRBxwrC3LOjg"
     },
     "220914": {
         "NAME": "KENNEDALE ISD",
@@ -28424,7 +28424,7 @@ var DistrictsData = {
         "FederalFunding": 2813168,
         "OtherLocalFunding": 3779706,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZtDVfSokvZHu0L9UPrGpLoBzfbh2X0VtwxoF0mpbnTVXg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb4khE8yXCZAg4dAUBD69GsBGwMpLkQltfneCHsX1hUfPQ"
     },
     "220904": {
         "NAME": "EVERMAN ISD",
@@ -28469,7 +28469,7 @@ var DistrictsData = {
         "FederalFunding": 10852187,
         "OtherLocalFunding": 331358,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZC_gI6m-wBNjhDMZp-OZQoBbhegpCqkGx1Ts8PatBtPfg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQX7rCZ8a6VPmsPryBT-UykBIlHg1YA7baHMk8nF7g0ZCw"
     },
     "220901": {
         "NAME": "ARLINGTON ISD",
@@ -28534,7 +28534,7 @@ var DistrictsData = {
         "FederalFunding": 65237873,
         "OtherLocalFunding": 5087303,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcEOBtBWLiVFp-uuGc922lwBaFPAL2W2KkBf5ebuT-wfqQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYqvp3el_QBHhAZV0r2jB5EBbPQ5_Uski0NILvxTAIMPHQ"
     },
     "057910": {
         "NAME": "GRAND PRAIRIE ISD",
@@ -28587,7 +28587,7 @@ var DistrictsData = {
         "FederalFunding": 41595148,
         "OtherLocalFunding": 6642626,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERJ2lTzF6X9OrK-LNP9My08BgGvBvUCQt8tMtuRB3yYoVg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcnQceR7uOJCh6by_UqtFs0Bh6xXGzgpngQSHUzGN3a-IQ"
     },
     "126908": {
         "NAME": "VENUS ISD",
@@ -28619,7 +28619,7 @@ var DistrictsData = {
         "FederalFunding": 2575797,
         "OtherLocalFunding": 1056173,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb6FKHyBaNFIkao9-Mx8qbkBc5Wp2j4QW40Sipj02ghFsA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZtLHPSeWa9AsJu8JI6rzRYBBEZLunS6xxi-sEJmwXaKUQ"
     },
     "126902": {
         "NAME": "BURLESON ISD",
@@ -28668,7 +28668,7 @@ var DistrictsData = {
         "FederalFunding": 14331163,
         "OtherLocalFunding": 2387734,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWoaKL1Jo09Dpjl7B1wOwjUB5QKLpbl95eagrG5fX0RkYw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYhAvGyaObpOuP0EL_iOtRQBg0QXziXvOfnm-iqPMDL-Rw"
     },
     "126901": {
         "NAME": "ALVARADO ISD",
@@ -28705,7 +28705,7 @@ var DistrictsData = {
         "FederalFunding": 4885313,
         "OtherLocalFunding": 1048869,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETM63uEtdP5AqCtoBEbcUIQBIAMFH8CtiFj1C7rprT6FXw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdaqfOdg6pdFk-XvtG323ZkBBYcWWQpSbjC2yFxD6skeEg"
     },
     "112905": {
         "NAME": "CUMBY ISD",
@@ -28742,7 +28742,7 @@ var DistrictsData = {
         "FederalFunding": 478468,
         "OtherLocalFunding": 162262,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcQwZgvlmypFoOuhj-98GQ0B1jIoigJvxuiEPuiXekEf0A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EREjBFlwAatIsO-4a19827gBzq2U9mLNtBKxlzV6-aIV6g"
     },
     "112906": {
         "NAME": "NORTH HOPKINS ISD",
@@ -28779,7 +28779,7 @@ var DistrictsData = {
         "FederalFunding": 797359,
         "OtherLocalFunding": 360668,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETEX50VuoI1Irr6B0IqeSuoBG2mSn65q2seT3khSw-vmaw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQANQLYEYxxKs2RpU2NRKaoBz3LqqEyR1uScH6jcMnlnvA"
     },
     "116910": {
         "NAME": "CAMPBELL ISD",
@@ -28816,7 +28816,7 @@ var DistrictsData = {
         "FederalFunding": 600558,
         "OtherLocalFunding": 73323,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZEiz8OTNIVIoqTCqCf2BI4B6QrKf-wtwjhCvlETmVInSA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVUum8Xsv61FqCvG-uoavGcBQFUjT1iImGlyR-Ds20q8oQ"
     },
     "060902": {
         "NAME": "COOPER ISD",
@@ -28857,7 +28857,7 @@ var DistrictsData = {
         "FederalFunding": 1319970,
         "OtherLocalFunding": 239348,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdichIzb-H9Dh6BeK76oUAwBwlXxaMJwa3sBLOVJNGffQA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXE7ANkMSbhOuPSPJpK_MKoBVitIDLOlvx6N1BPe6Qk6aQ"
     },
     "112907": {
         "NAME": "MILLER GROVE ISD",
@@ -28898,7 +28898,7 @@ var DistrictsData = {
         "FederalFunding": 364024,
         "OtherLocalFunding": 93098,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfmeOUmQATpIg-F7qQwRyjwBf2u45Ha-FVjGnZ7V8_MCvA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVYNunXvLG5HkIhZ60SVFLEBdWCrNsae4AI5LvuuKQl83A"
     },
     "116916": {
         "NAME": "BOLES ISD",
@@ -28935,7 +28935,7 @@ var DistrictsData = {
         "FederalFunding": 2250974,
         "OtherLocalFunding": 156129,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdfDkdn65htOnlwO5DzXzg0BAPlqnA4Qv2NcLqJnQgv6Dw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESiS48MxiU9AtWXkfs8yFyQBcol-2-0PkbX_ez7RtGRciQ"
     },
     "116906": {
         "NAME": "LONE OAK ISD",
@@ -28976,7 +28976,7 @@ var DistrictsData = {
         "FederalFunding": 1304796,
         "OtherLocalFunding": 502611,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZhWlrD20W5GpQ60a0va2tIBEamU-1s8Q0JRg9SWxiKpig"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfWMJro6kkVCjbf2WuUGDNcBkplakLYlgQn97UsrM2_QpA"
     },
     "129906": {
         "NAME": "TERRELL ISD",
@@ -29017,7 +29017,7 @@ var DistrictsData = {
         "FederalFunding": 8485104,
         "OtherLocalFunding": 984173,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY8f6VQ9wu9OhS5EbXIhlrQBHSf--Uawt9rh3a-3aFcndg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQzQJmjiRyNPlIYG7xKOX1sB8oeSd1WD5AwXj966jwafXA"
     },
     "129903": {
         "NAME": "KAUFMAN ISD",
@@ -29054,7 +29054,7 @@ var DistrictsData = {
         "FederalFunding": 5725467,
         "OtherLocalFunding": 1159261,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQsPEh6Bi3xAmAw4xXkPlesB-EHPXXdy_XuAMoSVftzouA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaajVBi4TMlIndNhPaCFkX0BvsdFN5ReCxVzop8vddAO3w"
     },
     "116908": {
         "NAME": "QUINLAN ISD",
@@ -29095,7 +29095,7 @@ var DistrictsData = {
         "FederalFunding": 5547464,
         "OtherLocalFunding": 590380,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESAA_9_sml1BhHUJw-wJAF0B9JD1XzckmfS3ubXmfd0Yzw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQoXyO_dXoRCiTFDNAs6z-wBR_PGhdYWPTHdDC7aLM1yjQ"
     },
     "234907": {
         "NAME": "WILLS POINT ISD",
@@ -29136,7 +29136,7 @@ var DistrictsData = {
         "FederalFunding": 3268581,
         "OtherLocalFunding": 452386,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESJPfJVrC1JFjIKPFoNE2XcBV8vJuFBmTADx5UT_FjIs1Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQnbcAYb8UxNoy13lUuYflEBiZZyobEPbjNqZn356A3AmQ"
     },
     "129902": {
         "NAME": "FORNEY ISD",
@@ -29173,7 +29173,7 @@ var DistrictsData = {
         "FederalFunding": 7729044,
         "OtherLocalFunding": 2349635,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVe95geOR2dDkPrsfTkmWFMBdoGkmI7QqCxcEiRIh3K7vA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbYC8jNVA8JOhutf5M9trucB6o0tSVem5vB0Nt1mDyO1zg"
     },
     "199902": {
         "NAME": "ROYSE CITY ISD",
@@ -29218,7 +29218,7 @@ var DistrictsData = {
         "FederalFunding": 5137679,
         "OtherLocalFunding": 2505195,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZlK1WugwINKltt4hSlkeqoBy0vhZi7pCYSwHLzluewxiA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXySrM7FL4JFhTnvXkomyngBbkppHQTxloTkEQXjmh5l0g"
     },
     "199901": {
         "NAME": "ROCKWALL ISD",
@@ -29263,7 +29263,7 @@ var DistrictsData = {
         "FederalFunding": 11763677,
         "OtherLocalFunding": 4355871,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZgkM6szU1NNnO77-_8c-7MBy1SbwgitxAzWIYX4mo0O8Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZEOSLT6QHlElmpo1IYMlOIBeqU63Qq2i-oY0BBEHVcQWQ"
     },
     "060914": {
         "NAME": "FANNINDEL ISD",
@@ -29312,7 +29312,7 @@ var DistrictsData = {
         "FederalFunding": 246230,
         "OtherLocalFunding": 165404,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX2pniDkTsNKnV002IBb7ysBfAZgt4ODVG2Dx3aPgJJ98g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcUxQ8YrTnBHpmTBBmgwOZEBrlohF5XG7UW2c4eN3e_VFA"
     },
     "116903": {
         "NAME": "COMMERCE ISD",
@@ -29353,7 +29353,7 @@ var DistrictsData = {
         "FederalFunding": 4137688,
         "OtherLocalFunding": 1081742,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVByAKXD0G1Lmm5mI8BaL-gB0r-l_NpL1PHT3LaWPig2kQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eca3gA5NgWpFtt3dGeqQuLYBa8U_xh1druqa32zpj6gXcQ"
     },
     "116901": {
         "NAME": "CADDO MILLS ISD",
@@ -29390,7 +29390,7 @@ var DistrictsData = {
         "FederalFunding": 729706,
         "OtherLocalFunding": 975130,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeptRPF65o5PnDIh3-vTRecBhFpaBrYJ1XkRp-6ORK3UUA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZIivKXrsGZDi6H2QTyIDRIBAni88r6aUNMiTppi_kv1aA"
     },
     "043918": {
         "NAME": "COMMUNITY ISD",
@@ -29439,7 +29439,7 @@ var DistrictsData = {
         "FederalFunding": 1985565,
         "OtherLocalFunding": 628363,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea1Nt20N12tOrWDsdjp_eh4BE0NNAaUCMv9aghX2-JjjqA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERnqID4feUxBu9Ol36MhTVEB6g6hbXpRCsZHXN9w--YfpA"
     },
     "116905": {
         "NAME": "GREENVILLE ISD",
@@ -29476,7 +29476,7 @@ var DistrictsData = {
         "FederalFunding": 9348722,
         "OtherLocalFunding": 1913953,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcB5unR9fBpEmKVaeAHv4ZwBWw__7OQev8limI9rrmMVng"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee_QxMdPJXxHnacLGqNXYjgBl4dNh7DYotV5n5tnSOVDsg"
     },
     "036902": {
         "NAME": "BARBERS HILL ISD",
@@ -29513,7 +29513,7 @@ var DistrictsData = {
         "FederalFunding": 3248627,
         "OtherLocalFunding": 12497056,
         "RecaptureAmount": 11951718,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVwUUqVXuB5IsnO5U3MWRO0B7u1T_bzHqlIpMvuRK3BZJw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWctT8pKshFIvAzj1zR-wT0B35O_HNSp0V6lfbRytRqONg"
     },
     "146902": {
         "NAME": "DAYTON ISD",
@@ -29558,7 +29558,7 @@ var DistrictsData = {
         "FederalFunding": 7417409,
         "OtherLocalFunding": 1126479,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYh5t-_L75ZKh6ohXz26NTgBVZNmyvuzhTXGaY5xaqAUCg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYSPES3ivRROhHfXfHXqEGgB7uiOPX7YOB60UbFEuki8hw"
     },
     "084910": {
         "NAME": "CLEAR CREEK ISD",
@@ -29607,7 +29607,7 @@ var DistrictsData = {
         "FederalFunding": 34607191,
         "OtherLocalFunding": 16234658,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcW3y4ZN80dFpwF0sUAfLLgByRCVUVG0e2TVnACrp8GpVw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbnweSV9EPVPuKdYv0fZS38BylS8Bz7sksdOvP4BcFkLhA"
     },
     "108915": {
         "NAME": "MONTE ALTO ISD",
@@ -29652,7 +29652,7 @@ var DistrictsData = {
         "FederalFunding": 2489165,
         "OtherLocalFunding": 118194,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeQwu_UUu4pOoemfnl0-InQBp1IiqE1F36d53iif7jMqXQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESCQugGONLtNiRMEHPam6nsB_m-0AHynowpwIRb06yP-2Q"
     },
     "245901": {
         "NAME": "LASARA ISD",
@@ -29689,7 +29689,7 @@ var DistrictsData = {
         "FederalFunding": 1387802,
         "OtherLocalFunding": 23655,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYQ8MjX-cPVCmM1g9DtgmCsB0eMChmD3SFxt8gHedeKkww"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVBj0ZRpzN9NgDjmGAHfijQBU5Huwb5OSLH9jMH2_ZQKAQ"
     },
     "108914": {
         "NAME": "LA VILLA ISD",
@@ -29726,7 +29726,7 @@ var DistrictsData = {
         "FederalFunding": 1461911,
         "OtherLocalFunding": 82892,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESfQlQFg6XNLr5me5aHlW98BInoGluSQMPQTacXxuyCbXg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXOP4M3dmHBCvCPhQrNIDXwBSq_4fgZOh-8duPfusYfz4Q"
     },
     "108907": {
         "NAME": "MERCEDES ISD",
@@ -29767,7 +29767,7 @@ var DistrictsData = {
         "FederalFunding": 20491659,
         "OtherLocalFunding": 1267156,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeZvO60p7QxGtr5RkKSj37wBTgHOsAssBMP4UHyiJ6p9iA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERkbBen7pChOsT0tVpEY4MYBdHC7fr6dBk0gAwlLRpuf_w"
     },
     "031914": {
         "NAME": "SANTA ROSA ISD",
@@ -29804,7 +29804,7 @@ var DistrictsData = {
         "FederalFunding": 3844590,
         "OtherLocalFunding": 157666,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQa4aVoYTP1MjxCL_XWBb9IByeaT80iXhLz4de2OR7gxwg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ER2jORuKw_BJhCRMc6IlUVEBIyay7ELAGy_h4uho06UHmg"
     },
     "031905": {
         "NAME": "LA FERIA ISD",
@@ -29841,7 +29841,7 @@ var DistrictsData = {
         "FederalFunding": 5746752,
         "OtherLocalFunding": 380157,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZEajI4f0OxFpH4wHUnP-H8Boqq046LyhpGup2npgmrSyg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EelGBIF98DlIlIHvZxx99ycBXYg_ul_JzQ4XBZG9UVjI2w"
     },
     "031913": {
         "NAME": "SANTA MARIA ISD",
@@ -29878,7 +29878,7 @@ var DistrictsData = {
         "FederalFunding": 2706064,
         "OtherLocalFunding": 44507,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbmeoXzFs1BImHwI-uZtOM4BSrxGhWlM87nhRCKXPY7PGw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZpA8d5_pSREjBixcRrEWhIBBmtNPGojGnZkDRe21zDFyA"
     },
     "031911": {
         "NAME": "RIO HONDO ISD",
@@ -29923,7 +29923,7 @@ var DistrictsData = {
         "FederalFunding": 3338363,
         "OtherLocalFunding": 285943,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETZIgPpVJRFPv3dmgcV_Pa8BFRRqZsmwb601Ma_ebVIHIA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eda5VJnEiwhDjHmrfnCo-oQBV-eXl7cf9UTJAFrzqmliIQ"
     },
     "245902": {
         "NAME": "LYFORD CONS ISD",
@@ -29964,7 +29964,7 @@ var DistrictsData = {
         "FederalFunding": 4494478,
         "OtherLocalFunding": 1223423,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY7Vw6Bue1xGoOClcjQ-CwkBSwQmp73xuW8j4cNNqpOSpg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVNyd5sxlKlNl1xKs6PYpDsBvWdxmBjKOPO51GOCJQHoQA"
     },
     "031903": {
         "NAME": "HARLINGEN CONS ISD",
@@ -30005,7 +30005,7 @@ var DistrictsData = {
         "FederalFunding": 40343017,
         "OtherLocalFunding": 2792647,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EasyAvNF8V1KiC3IMEytCdABxE56u6nWBtDVpoGNQOPYrQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESwZtybhuFBJojxAQ7kJ-s8B7EX-ImzDLnBLpl67vbggLA"
     },
     "031901": {
         "NAME": "BROWNSVILLE ISD",
@@ -30046,7 +30046,7 @@ var DistrictsData = {
         "FederalFunding": 110105948,
         "OtherLocalFunding": 2814443,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eap3NlCdGVJOriZ91ubYs_4BPEWt_1A-ZpGxUaesQm2oIw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWtl9BugD_lKj1OaB7LfChoBy_bKi1GUWYWoWDufvpFAww"
     },
     "031912": {
         "NAME": "SAN BENITO CONS ISD",
@@ -30083,7 +30083,7 @@ var DistrictsData = {
         "FederalFunding": 44613565,
         "OtherLocalFunding": 1551396,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW1h2hWqklFFuwl8bsSqjhQBd1d86FZtc07cZQGP_wGKEA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUT_lW0_eGNCvuTJ5ZmOPh4BeQ8p4yolgFUZcwODOQzfTg"
     },
     "031909": {
         "NAME": "POINT ISABEL ISD",
@@ -30120,7 +30120,7 @@ var DistrictsData = {
         "FederalFunding": 5183991,
         "OtherLocalFunding": 305464,
         "RecaptureAmount": 18374837,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfRJnGC22AxOofhPOZ6OQmgBQLgcpEsA06_BIXsTesGkWA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY2wcgofAnZMlkqFV-RMdlYByNiqLYteZovgrwdnaSDf_g"
     },
     "031906": {
         "NAME": "LOS FRESNOS CONS ISD",
@@ -30161,7 +30161,7 @@ var DistrictsData = {
         "FederalFunding": 21560747,
         "OtherLocalFunding": 5008726,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbsJN2UquJZDuPRJ0ogC2j4B-ZxzRfxP9ZG5hrs7h50gnA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETaaB93r7tlKocKzVoapfnwBhzmpyDcql8k9gBxU9jOCjA"
     },
     "116909": {
         "NAME": "WOLFE CITY ISD",
@@ -30202,7 +30202,7 @@ var DistrictsData = {
         "FederalFunding": 1033815,
         "OtherLocalFunding": 432921,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EULzKn6zXeVOt4IQ7kcEDocBiVL1ofHRMJ7xvCTIwWLJvA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWCAJr7WR5hBjofjgcFhB3YBS4Tmd0aap-AsLIqEpMivUA"
     },
     "231902": {
         "NAME": "RANKIN ISD",
@@ -30234,7 +30234,7 @@ var DistrictsData = {
         "FederalFunding": 157262,
         "OtherLocalFunding": 1153423,
         "RecaptureAmount": 45573104,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Efvm1DvcCzdFtBnZg8IKU_8BTNYSM3lKDhIxEvbzoso9UQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERqqKFlbuRtOth2dOl8AHh4B0yY2Hh49eW56QoXYUTTA3A"
     },
     "192901": {
         "NAME": "REAGAN COUNTY ISD",
@@ -30266,7 +30266,7 @@ var DistrictsData = {
         "FederalFunding": 1124910,
         "OtherLocalFunding": 687463,
         "RecaptureAmount": 35762096,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EafvmuOV0yNAuqJQsktggQgB3NstWg3r7z_4vBllVycD4w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaYdiCp9XZVBuGZguNpZ_1MBNJng_lah525faEpcN9g5yg"
     },
     "002901": {
         "NAME": "ANDREWS ISD",
@@ -30303,7 +30303,7 @@ var DistrictsData = {
         "FederalFunding": 3733834,
         "OtherLocalFunding": 2403056,
         "RecaptureAmount": 10284748,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQuW4w6q2SdBgY2gwA-sPdEBPkXVwgh8apKT6wdr54Ns9w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU5WAVHODqVMgaxRrMG_ie0BDtTry5lCLPOHego_VZsuPg"
     },
     "156902": {
         "NAME": "STANTON ISD",
@@ -30339,7 +30339,7 @@ var DistrictsData = {
         "FederalFunding": 1043912,
         "OtherLocalFunding": 694719,
         "RecaptureAmount": 20705244,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec_ylh4ehDNJpgb3zUbW_oMBQ4FVb_qe-bS27K_Tc2ZJYQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES-RBCtr4NJNjIhSFBX2LFsB1DWTsIpXge6mcz_ZtUsHNw"
     },
     "074903": {
         "NAME": "BONHAM ISD",
@@ -30376,7 +30376,7 @@ var DistrictsData = {
         "FederalFunding": 5776199,
         "OtherLocalFunding": 2359227,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYQdsbRaKtZHorTji4gQ9PkB8gqjILER4IH5OkS410_Y6Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWOtLBVM0QBNl2oeJ43SuM8BSAUvh8wrwdafQnQFInqN5Q"
     },
     "170902": {
         "NAME": "CONROE ISD",
@@ -30425,7 +30425,7 @@ var DistrictsData = {
         "FederalFunding": 90310085,
         "OtherLocalFunding": 6916663,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZi4LJco_lRBu7SMh11FS3QBLfIM_fyq9ksQ5xrRXhsfvw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbvoLBvDAwBJmP67KJJtMOIBdxFkNNRKJ_nMfxkfpfVJRA"
     },
     "112909": {
         "NAME": "SALTILLO ISD",
@@ -30466,7 +30466,7 @@ var DistrictsData = {
         "FederalFunding": 611698,
         "OtherLocalFunding": 704543,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef2zDS1S_WdPv6YS8J0euQUBNc-0hGxS-RjFt72lFz5K1w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESQiMAQkyylEgfqNXr818V0BtqE3aDCX2aZXyuaMQUEsDA"
     },
     "250903": {
         "NAME": "MINEOLA ISD",
@@ -30503,7 +30503,7 @@ var DistrictsData = {
         "FederalFunding": 3229611,
         "OtherLocalFunding": 2800890,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbkHlNUwmdJHg64u7RaVRBMBzZdkjyCiaZP1_JOt2_XCPA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcQqSlijcRROgSDSp_35zp0BbJmdVeMUrMbcU0pFLGNKCg"
     },
     "250902": {
         "NAME": "HAWKINS ISD",
@@ -30540,7 +30540,7 @@ var DistrictsData = {
         "FederalFunding": 1312280,
         "OtherLocalFunding": 548228,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVpY0jpLReRHg58BqcxF_R8BE22XQtQEOOAL4dSc7ZKh6w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcK4I4euTbFOqEsawoeZ8-0Buu5aCAc_pb-GxlAbWlZjUA"
     },
     "043917": {
         "NAME": "BLUE RIDGE ISD",
@@ -30589,7 +30589,7 @@ var DistrictsData = {
         "FederalFunding": 772067,
         "OtherLocalFunding": 562772,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVz1i1vGnxxEgEyD5zvLdloBrC4iMsH-eBbQVZTpW82Sng"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY2lNpSAILFBvvLDMmG3nhABSjmsmhFIbt6rEw1G1ILODw"
     },
     "074912": {
         "NAME": "TRENTON ISD",
@@ -30634,7 +30634,7 @@ var DistrictsData = {
         "FederalFunding": 807499,
         "OtherLocalFunding": 251644,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY-HTKRyQKRIsLADDoEjH8YBFBuF3GDJnsbc6blIXQ6ksQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed_GCahhq39Bn4Enjq2dWDYBBeGucSPggpZZq35bUZCLew"
     },
     "074909": {
         "NAME": "LEONARD ISD",
@@ -30683,7 +30683,7 @@ var DistrictsData = {
         "FederalFunding": 834487,
         "OtherLocalFunding": 332979,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaGg2qJzwG9Cmmftftf5gCEBsifiWagZ9Q8P4Y9MLYwqlA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfGR8_Rp20FDtALNk7xH_WEBYAkgITW_omnCX8hOKmJ-Ag"
     },
     "091910": {
         "NAME": "WHITEWRIGHT ISD",
@@ -30728,7 +30728,7 @@ var DistrictsData = {
         "FederalFunding": 1161949,
         "OtherLocalFunding": 301023,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaBxXdRB471MpeMj8x2zARkBlw-3HOAghc300PXR027Qow"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcuXM2GYQ_JCvd-oF0zHY9EB5A9wAj06frq4dKs7UgoN5Q"
     },
     "116902": {
         "NAME": "CELESTE ISD",
@@ -30765,7 +30765,7 @@ var DistrictsData = {
         "FederalFunding": 660197,
         "OtherLocalFunding": 111492,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea3CYmk-vbJMtRv9NIK771ABeRvnWF41xqEiNYZ2oGW4zA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXsRQXyzGKBOoEWGKrc47A0BM-gVIQTMTQ9dtJD4o-gKdQ"
     },
     "116915": {
         "NAME": "BLAND ISD",
@@ -30810,7 +30810,7 @@ var DistrictsData = {
         "FederalFunding": 1421388,
         "OtherLocalFunding": 670876,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeHCgVo0HlZPr9H7LIGDqxUBc6zHQCtRwmJWrXipBzzxfg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETfw6xhy-AZBkdtSrP9uUVgBLkY6nNZmmdfJo9l5sY_Zow"
     },
     "043904": {
         "NAME": "FARMERSVILLE ISD",
@@ -30855,7 +30855,7 @@ var DistrictsData = {
         "FederalFunding": 2496061,
         "OtherLocalFunding": 489686,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUmWU2pjH79Eu5umxUKH27wB2CfzeywQqtnwY0__nqyU7g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERuEYeqA_mNFnXlHAsS9h2ABWwMUgriHSZKxyWKuF4WUVQ"
     },
     "043908": {
         "NAME": "MELISSA ISD",
@@ -30892,7 +30892,7 @@ var DistrictsData = {
         "FederalFunding": 1397648,
         "OtherLocalFunding": 2226277,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcN2l429qBBPlQgcDfVWIXIB1L64OZHdI8Sj57S9Y4yLzA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EViymkHuSSZFskPn16mBZ8EBYnwJkMbq7aultP9hOu1NyQ"
     },
     "043907": {
         "NAME": "MCKINNEY ISD",
@@ -30941,7 +30941,7 @@ var DistrictsData = {
         "FederalFunding": 25970501,
         "OtherLocalFunding": 8230537,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec7e3jDiqZFFkDIyeBNA64wBdKNZXxmhxU0p9KGsO_6M5g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVtKQ-WX6GNJl-z_KadudmMBPKmTl2sVPQKl0gDJjgCcHg"
     },
     "043902": {
         "NAME": "ANNA ISD",
@@ -30982,7 +30982,7 @@ var DistrictsData = {
         "FederalFunding": 4400225,
         "OtherLocalFunding": 1277597,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaebVnwuvUdGsNFsrHRhYUkB-jAIAAxvb8HKi3EAMKonMw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EafmamuWoH1Otk_V4c0SJaYB1JuZcwWrBKV8dqgRszcyzA"
     },
     "043911": {
         "NAME": "PRINCETON ISD",
@@ -31023,7 +31023,7 @@ var DistrictsData = {
         "FederalFunding": 5001537,
         "OtherLocalFunding": 1002668,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb54okGBeBZKvcBrlwMO7cABZo10MHuBJ_xDCn2n4ZIkRQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUeWrpd7toFCqzx8pbFHdrgBWi2SCYpaKA-YeB3jqg5fhA"
     },
     "241901": {
         "NAME": "BOLING ISD",
@@ -31064,7 +31064,7 @@ var DistrictsData = {
         "FederalFunding": 924750,
         "OtherLocalFunding": 522472,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESYUEGsQ9GJIlocAEmZSdWIB2Fx2vSfGSpUh1OEeN840nw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY50jH-gNPlDoUr7t80s57oBluVCZRSGjJU0vAiRsh9wEQ"
     },
     "079906": {
         "NAME": "NEEDVILLE ISD",
@@ -31105,7 +31105,7 @@ var DistrictsData = {
         "FederalFunding": 3335487,
         "OtherLocalFunding": 1779302,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdluU55RtrdImci4-hZIOeABnJSFiXb6AVNzPaImdIS4KQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXtQtCarUMpAkDE0Q8Rvc68BztGP5jY-EXOs4EFJQ9pB1w"
     },
     "008903": {
         "NAME": "BRAZOS ISD",
@@ -31150,7 +31150,7 @@ var DistrictsData = {
         "FederalFunding": 819011,
         "OtherLocalFunding": 470579,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVlgPRVO6JZAtbbeX1P2xeQBTeChvIsCNeA0_w-5TrslwQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcUCh1tUWDlAlSWk85L8y1oBebcH0QgbeeidLBTTtdOamg"
     },
     "241902": {
         "NAME": "EAST BERNARD ISD",
@@ -31187,7 +31187,7 @@ var DistrictsData = {
         "FederalFunding": 590637,
         "OtherLocalFunding": 591094,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUQ6HtjukK9An-jA1N8d49kBliNRAURJ13hL3OP_bzrqXA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUs-39ogHvJGnbBmPSthqoIBQWrWFNYGWghSrNo5QCnemA"
     },
     "045903": {
         "NAME": "RICE CONS ISD",
@@ -31224,7 +31224,7 @@ var DistrictsData = {
         "FederalFunding": 1779659,
         "OtherLocalFunding": 419651,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETVdSAxRSrRMjte5waYQANoB1Ym9k2cnEBbLAbqo169w-A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdF0oWKxUrpAijNW1pbfCOkBVsx7cuUNhsn8DNvGt80GZA"
     },
     "008902": {
         "NAME": "SEALY ISD",
@@ -31261,7 +31261,7 @@ var DistrictsData = {
         "FederalFunding": 3638598,
         "OtherLocalFunding": 2773077,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWYHL_eJzrRLudfI_WedBZEB5mheBEIH9z_exL5mCfTfbA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESwfTjQx_NNEugbMSSztAawBIq4OYrmg9_OdloxKWx-9tA"
     },
     "101908": {
         "NAME": "DEER PARK ISD",
@@ -31314,7 +31314,7 @@ var DistrictsData = {
         "FederalFunding": 15555421,
         "OtherLocalFunding": 3699747,
         "RecaptureAmount": 3548994,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbI7F8W_9m1MuSaEke43AOcBN2m4KrhVcfgC87Z3Z7dyQQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZHbsCDpi1tOqxUWiu74dZcBu8lZXuundoeJNW_la86JJA"
     },
     "170903": {
         "NAME": "MONTGOMERY ISD",
@@ -31359,7 +31359,7 @@ var DistrictsData = {
         "FederalFunding": 7641599,
         "OtherLocalFunding": 5565974,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQsp6g6KOnZOkNz4K4HJUA0BV-GuEmu8jpRLHL3anJdB7A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcS3HcojwVNFtVG5aATzLVwBPRHpXZlXnOHd36nxZesdQA"
     },
     "101916": {
         "NAME": "LA PORTE ISD",
@@ -31416,7 +31416,7 @@ var DistrictsData = {
         "FederalFunding": 10856724,
         "OtherLocalFunding": 5335472,
         "RecaptureAmount": 48381443,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZMR4O4LIgJOs4xsbXr7lKkBpog6FwK6oRdcE1LK-kQ38Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESdmNbeUGV5JixnA-cQC1yEBXNsfSY9jB9LItVzYoXBBGg"
     },
     "084906": {
         "NAME": "TEXAS CITY ISD",
@@ -31461,7 +31461,7 @@ var DistrictsData = {
         "FederalFunding": 20920345,
         "OtherLocalFunding": 5552635,
         "RecaptureAmount": 631414,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfllG7aauNNHvM6UCGUIMu4BWs1xJu_rQ8DOjV8vAR1ThQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdTk9QbndNpBqZOC_qIgej8B97rpkDJG0DAf487vRISM9Q"
     },
     "084903": {
         "NAME": "HIGH ISLAND ISD",
@@ -31498,7 +31498,7 @@ var DistrictsData = {
         "FederalFunding": 289110,
         "OtherLocalFunding": 162353,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZIFRihe4-BBhD69PgdYeUEBydf03O726qeWylbnkcKhBw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ09QcAcju5Ip9aVdghxPQABOIEK_st72ChMxM8e7CGqOA"
     },
     "084901": {
         "NAME": "DICKINSON ISD",
@@ -31543,7 +31543,7 @@ var DistrictsData = {
         "FederalFunding": 16695266,
         "OtherLocalFunding": 3061655,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZA-zgjHnLBAuhuDrCR8AnQBPXq55-cy4FMEJGUYpeh1QA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESiBT4t2cMpFsHbx7xCjoIEB_hm0oiNv5p0a8UWyHbbx0g"
     },
     "036901": {
         "NAME": "ANAHUAC ISD",
@@ -31580,7 +31580,7 @@ var DistrictsData = {
         "FederalFunding": 2557154,
         "OtherLocalFunding": 1204998,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ET0jdZaKDOpPpkWNBdMQ4LwBdeIX5sUrxEQKZis-_fEy-g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVBCjox74N1LmD68T2KZQG0BBztP_WaUHURQXGVkEnQN5w"
     },
     "020905": {
         "NAME": "BRAZOSPORT ISD",
@@ -31621,7 +31621,7 @@ var DistrictsData = {
         "FederalFunding": 16280591,
         "OtherLocalFunding": 24070818,
         "RecaptureAmount": 1557190,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXG3g7osL0JBvtS1px7vWK0BzhFnxlnYveI2WY7YKSCzaQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETGn0W4xOvdGrfvi-K5Z_4kBgq1RF1wZz6aOfrcnH87iXw"
     },
     "084908": {
         "NAME": "HITCHCOCK ISD",
@@ -31662,7 +31662,7 @@ var DistrictsData = {
         "FederalFunding": 7277676,
         "OtherLocalFunding": 514604,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EULxnWl43V9Nr9BRgV7D_rMB5ZDoulZqgXkpCfKrE8kHDA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVHMUaCzkYpHnQ4-SS45vyoB2b4xWDfxu7OmRirp7x7Rkw"
     },
     "084902": {
         "NAME": "GALVESTON ISD",
@@ -31703,7 +31703,7 @@ var DistrictsData = {
         "FederalFunding": 15325111,
         "OtherLocalFunding": 12309812,
         "RecaptureAmount": 21054863,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVZabSjae2pFqg0Eo8BcAy4Bk2Y3IhGm0B7nzjfcfddBDA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQQOlE2Z0-pAo6Ff4ujmqsEBn7nqJ76pubun3gBqncAwJQ"
     },
     "237905": {
         "NAME": "ROYAL ISD",
@@ -31740,7 +31740,7 @@ var DistrictsData = {
         "FederalFunding": 3682247,
         "OtherLocalFunding": 706001,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU8XvqFwBeZAiUkhbp0VmAsB3VT8LscHtawgrvafXRgH4w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUoNT8BiRyNFoEsxTxjvVBwB_CofG3pKDUmZTAkYsElWrw"
     },
     "237902": {
         "NAME": "HEMPSTEAD ISD",
@@ -31777,7 +31777,7 @@ var DistrictsData = {
         "FederalFunding": 2858279,
         "OtherLocalFunding": 241268,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaKUGU_0BptKiRbLBzk7RzABm733PauDuhx80Dus8YEJ4g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbugQfGOXmFFpfv5mB_iccoBfnhkyMZeKfoy69Iw5Gpvmg"
     },
     "170906": {
         "NAME": "MAGNOLIA ISD",
@@ -31822,7 +31822,7 @@ var DistrictsData = {
         "FederalFunding": 28447994,
         "OtherLocalFunding": 3413027,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU9wWIdNoYBFhX1G5NMCbNoBsr-kOB-lpCm3cl4XTrgELw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaG9JDMSJ2VKnX8cfSfN-SkBOa8EXzGeC9Z_CTTuyzlBYA"
     },
     "093904": {
         "NAME": "NAVASOTA ISD",
@@ -31863,7 +31863,7 @@ var DistrictsData = {
         "FederalFunding": 7469501,
         "OtherLocalFunding": 1229509,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVwzaImv-axAiYvF_Yk_bz0BPbV0oWoECWYXyapGwdXoiw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EccwFP2EeS5Mo7C0SSebGQYB_n35ZVa3CbjTf06wPsLH5Q"
     },
     "101907": {
         "NAME": "CYPRESS-FAIRBANKS ISD",
@@ -31936,7 +31936,7 @@ var DistrictsData = {
         "FederalFunding": 190141981,
         "OtherLocalFunding": 27599820,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXG-1MGORARAj27kX3u9QfcB0Ygpa_kLZhMRpAwG_1aqLg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcS9S9nT-shAu3PR-MavE60BQqK049IDjMIiY3C475xyhg"
     },
     "237904": {
         "NAME": "WALLER ISD",
@@ -31985,7 +31985,7 @@ var DistrictsData = {
         "FederalFunding": 14058550,
         "OtherLocalFunding": 715461,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EewT0LGwkFxFuwfTSc0iASsB69D2t-oZ4-eS1qNIsvu68g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXD0vI1gHlZCvps_Mfiz6y4Bajm4AGBfDEeLaKC7IIOMAA"
     },
     "101920": {
         "NAME": "SPRING BRANCH ISD",
@@ -32046,7 +32046,7 @@ var DistrictsData = {
         "FederalFunding": 65701560,
         "OtherLocalFunding": 10103320,
         "RecaptureAmount": 59724360,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXU22vpXqdNHmvL5vGAkR0ABSM-xopJC-U_RbuIWQYyzTA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed_Ll4ybKJJLn3wLQw4TX9ABiZX6m2JFb_fvLabhwt8qYw"
     },
     "101915": {
         "NAME": "KLEIN ISD",
@@ -32103,7 +32103,7 @@ var DistrictsData = {
         "FederalFunding": 60361970,
         "OtherLocalFunding": 11583759,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU9tbGOuwXlHjQz8WgqSeSIBa4v8_NGJqVzS5QjM6yFqGA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUPGz44NAcRKvzmZphVgWTUBthNBRLDpBSQ1bJYf7m34EQ"
     },
     "101902": {
         "NAME": "ALDINE ISD",
@@ -32168,7 +32168,7 @@ var DistrictsData = {
         "FederalFunding": 154132918,
         "OtherLocalFunding": 14859159,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EacKZsNh5OZJvFEamHdYTLIBA5FA4GH95jgx80JsDx5knQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EblXsjmR1PJBgSvQnGR9D_wBzqzbz545evLxE6vUlL2ngg"
     },
     "101921": {
         "NAME": "TOMBALL ISD",
@@ -32221,7 +32221,7 @@ var DistrictsData = {
         "FederalFunding": 13761709,
         "OtherLocalFunding": 6251964,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeEkVipz2jBMjsbPo5SENVMBIbonZnpLo9Lb6n211kUgsg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETByjE5RE6hEn5rC40Inh18BCuzqfXAWicXYITtk5TKhbw"
     },
     "101924": {
         "NAME": "SHELDON ISD",
@@ -32278,7 +32278,7 @@ var DistrictsData = {
         "FederalFunding": 16607661,
         "OtherLocalFunding": 880633,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcMPnQS1DSBLpQH0na5muEkBAFU3iIvwlLb02A2KRH6Siw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Efn_DzQRxPxHnfUOOwljd7QBv4GNNeffVlyP6vB2meXsvw"
     },
     "101910": {
         "NAME": "GALENA PARK ISD",
@@ -32327,7 +32327,7 @@ var DistrictsData = {
         "FederalFunding": 40738459,
         "OtherLocalFunding": 2821652,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec-WBoBWQ-VJirNF1Yga8SkBsmNqJnQlQz0MukT2_75e7Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY8A38c1t_RHk6coFOnUP5sB7d1JNWAdagelTeYtRmwtqg"
     },
     "101906": {
         "NAME": "CROSBY ISD",
@@ -32372,7 +32372,7 @@ var DistrictsData = {
         "FederalFunding": 8035894,
         "OtherLocalFunding": 1004294,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXh6leRYYv5Nn5AzYphorK4BMfNauwSrzZDfaTDXn6svvw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU-mi99kgsFIqg09v4uYl40B4dya87biRsF08BVEZM8Kug"
     },
     "101905": {
         "NAME": "CHANNELVIEW ISD",
@@ -32425,7 +32425,7 @@ var DistrictsData = {
         "FederalFunding": 18112078,
         "OtherLocalFunding": 1235546,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUPRP9wy8PtFm7BbTznLGFMBTGOR54LChls-OZgxHAXPXA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbBIZVayW_1Mu-VyRbZjh24Bm7kFaXGdQ3ZPV1je0c4a_Q"
     },
     "101913": {
         "NAME": "HUMBLE ISD",
@@ -32482,7 +32482,7 @@ var DistrictsData = {
         "FederalFunding": 82262057,
         "OtherLocalFunding": 24305185,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZKVnqVuP3tHrveODYYfzc4BPNbNnUPKeJcD-rVLydduCQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef5KSMgZMA5NhFeIIFYZSCEBlDfNLHV8nIq69qtMdMckzg"
     },
     "101911": {
         "NAME": "GOOSE CREEK CONSOLIDATED ISD",
@@ -32535,7 +32535,7 @@ var DistrictsData = {
         "FederalFunding": 55399318,
         "OtherLocalFunding": 5262955,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWYj51BsbFhHnY1btmzfQkcBeL11A-GVln9MNTPhiuA_EA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUA7fzmp2s1FvzUiBlIUCTsBTBxyPcy6HeNLBIn8dKvrfg"
     },
     "079907": {
         "NAME": "FORT BEND ISD",
@@ -32592,7 +32592,7 @@ var DistrictsData = {
         "FederalFunding": 81101539,
         "OtherLocalFunding": 8770954,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESBpKUVCo79Io5avDA-Y-I8B0Vmlj12TjKnvxc6uWWHQ0g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUSpgSBY6UdCmDpuQ0tY2kgBl5H8KCyQ0l4SgpWv1gFcqQ"
     },
     "101914": {
         "NAME": "KATY ISD",
@@ -32661,7 +32661,7 @@ var DistrictsData = {
         "FederalFunding": 79284651,
         "OtherLocalFunding": 30425335,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXoJ3vNxFctPu-36OvHP1h0Bh86o4y1AHA_X7RFaDbuGKA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQjQDHF0EEdCjp95ZvrWmzcBXJ_7v1dVABy4LHC5CPWqQQ"
     },
     "101903": {
         "NAME": "ALIEF ISD",
@@ -32714,7 +32714,7 @@ var DistrictsData = {
         "FederalFunding": 107545820,
         "OtherLocalFunding": 3147342,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUAUBLPmlhtLt1LphwWrdvABNVqH9OncXX79_BxOfCjvog"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ7RH1vpfyhAnoABgF3rIQ4Bc9mhgtQI0owLvG9VeW5Ryw"
     },
     "079910": {
         "NAME": "STAFFORD MSD",
@@ -32763,7 +32763,7 @@ var DistrictsData = {
         "FederalFunding": 5976577,
         "OtherLocalFunding": 472232,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcdvdMw7loNKpMnQsEYj4IYBdJ5HAzt0hT-lE_faIhCXww"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbsJg1jYlShIv64i0IrP2l0BuH9h77pAK1KjsgKAAHiSPA"
     },
     "020902": {
         "NAME": "ANGLETON ISD",
@@ -32808,7 +32808,7 @@ var DistrictsData = {
         "FederalFunding": 12728228,
         "OtherLocalFunding": 4432330,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWvRZccxN5lEoshw8sPqTtMB2nLfuB9BdWbgkGYeGMPlUw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETQgWwSD9VlAkIo2_hfRWCoBvN0H3cPJVsKTTxbWfwKt-A"
     },
     "020901": {
         "NAME": "ALVIN ISD",
@@ -32849,7 +32849,7 @@ var DistrictsData = {
         "FederalFunding": 32085947,
         "OtherLocalFunding": 23983099,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUqImzzTNPtPlXcNlstuM1sB5XDqJwVAg-yOryno7_EpnQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZNy7ozoq4JMhFsR_CegUrQBOnpRtVrAjA2GADNeDMmi0g"
     },
     "101912": {
         "NAME": "HOUSTON ISD",
@@ -32958,7 +32958,7 @@ var DistrictsData = {
         "FederalFunding": 341024809,
         "OtherLocalFunding": 38564154,
         "RecaptureAmount": 197810414,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETnSpcagBVJJmLxUinEvjEsBuLVXaaX4IbhengqMA1cMYg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdQ_rDG6tSZDl4Nn4Xc8rUUBIz9YkTECHGbbLyjzIMEZeQ"
     },
     "079901": {
         "NAME": "LAMAR CONS ISD",
@@ -33007,7 +33007,7 @@ var DistrictsData = {
         "FederalFunding": 40864408,
         "OtherLocalFunding": 7277255,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaPXR18TVz5GoSdRsGWBZO0Bp_Yq5Ludwdeg-s7IO2_MfA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec7we9sBFFtJpUF7prbIpYABaEMm3ndSbsrKbYnxs3Np-w"
     },
     "032902": {
         "NAME": "PITTSBURG ISD",
@@ -33048,7 +33048,7 @@ var DistrictsData = {
         "FederalFunding": 3437358,
         "OtherLocalFunding": 366971,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW2oLend_3BFhrZGWn3lXGYBV_RfXSoLcfX2UsIRP2QmBg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed8oXM6QSFJGp3Lgi-qzJ78BEgVogdGXzNxrKpF3Jl41NA"
     },
     "230903": {
         "NAME": "ORE CITY ISD",
@@ -33089,7 +33089,7 @@ var DistrictsData = {
         "FederalFunding": 2048776,
         "OtherLocalFunding": 309822,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcPIWAkZ2OpOnYWjlvy6d4cBydZN-cem7zFbQzHLySte4g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EROND56UiCFHgjkzr7t8TioBKAxG4hMlGvNrPWkE6Gl13w"
     },
     "172902": {
         "NAME": "DAINGERFIELD-LONE STAR ISD",
@@ -33126,7 +33126,7 @@ var DistrictsData = {
         "FederalFunding": 3264761,
         "OtherLocalFunding": 717435,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY660EI4m-ZGivwoA2cAmJwBpLDEf4YdKyPkhs98nNI0XQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETyzOFwqOp9GlAC9NR5hWa0BGbheYbHpQfknJmGoAVAlMw"
     },
     "225906": {
         "NAME": "CHAPEL HILL ISD (TITUS)",
@@ -33163,7 +33163,7 @@ var DistrictsData = {
         "FederalFunding": 1167548,
         "OtherLocalFunding": 381635,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfFPCz6zXxJPvU8bDr8OkD8BYif9HVyOvKoa6RK78Apj8w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU3tHvgd_3pElEv1bNQRcDMBbM-Ep4OR4xKz6i_2cRCurQ"
     },
     "250907": {
         "NAME": "WINNSBORO ISD",
@@ -33208,7 +33208,7 @@ var DistrictsData = {
         "FederalFunding": 2881453,
         "OtherLocalFunding": 398209,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdHYTfyX2iBMqVqbQp7SgrkBzBWpHqSHMvtKXSU-wsk0Gw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESwAIxXTqEBFre79AR8dZXABXKfVuJ8efHfxquV3buvizw"
     },
     "230902": {
         "NAME": "GILMER ISD",
@@ -33249,7 +33249,7 @@ var DistrictsData = {
         "FederalFunding": 7427191,
         "OtherLocalFunding": 3767377,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ET93IfZ9jaZFlkeC60RRKQgBTW_KfYThowJ6SjMKNh9jnQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETYEcX40FRlJoh9S10X46IoBSV-tOYYKP1H_JkP-IkjEuQ"
     },
     "230904": {
         "NAME": "UNION HILL ISD",
@@ -33285,7 +33285,7 @@ var DistrictsData = {
         "FederalFunding": 700605,
         "OtherLocalFunding": 120167,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eek6xQ0zXINKiiIk-JBxnVEB4xgxaT0BwTrZBC-5QC711A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWTLVxYFpRhAiNNF6KH5LvcBPDba8-3QljEEHZP1bn7mow"
     },
     "225902": {
         "NAME": "MOUNT PLEASANT ISD",
@@ -33322,7 +33322,7 @@ var DistrictsData = {
         "FederalFunding": 12498575,
         "OtherLocalFunding": 2973575,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfMfUWNa1mdNgkS2Uu3hzqABxMUpn-kEImL1sXVfmlKsdA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbHkuDoVOc9EuF0519EvRVcBpspTuBliAuD938OFfPTnAw"
     },
     "080901": {
         "NAME": "MOUNT VERNON ISD",
@@ -33367,7 +33367,7 @@ var DistrictsData = {
         "FederalFunding": 2280982,
         "OtherLocalFunding": 487437,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EehA_U86YbdKkEOOduDHa-sBOdyNhkq_qa5pBJlqEXB5Vw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU7QIzia1g9DiXHWf4oZUccBnm6wwGOM5zOmKI71V0wDtw"
     },
     "250905": {
         "NAME": "YANTIS ISD",
@@ -33408,7 +33408,7 @@ var DistrictsData = {
         "FederalFunding": 562252,
         "OtherLocalFunding": 44589,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETPiqwXEuMdCuRSszxujKnoB9iTsLFbaKBDQqTT5NS7n8Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQNhwIHpMghEhQyVVgVj7EcBNY6p51v4mrGr1svAJPRmSQ"
     },
     "112901": {
         "NAME": "SULPHUR SPRINGS ISD",
@@ -33445,7 +33445,7 @@ var DistrictsData = {
         "FederalFunding": 10095864,
         "OtherLocalFunding": 1181205,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZRJfPleKqNJrrjoEKJj6KsBmzUhtRa3NDdSnWlS5zx7rA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZIdaxrqPTxNh0vTuZco90UBDDy7wsWaQiAZvS7sKrt1MA"
     },
     "112908": {
         "NAME": "COMO-PICKTON CONS ISD",
@@ -33490,7 +33490,7 @@ var DistrictsData = {
         "FederalFunding": 1067240,
         "OtherLocalFunding": 361459,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EenfXq-kU71GltAKYTh5bDEB4SxB98YfWNwTFXV9sv0JEw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb0_M0V_RrFPkBv5mYIst6sBO1t-Az4EuGS8-vg9WWmV0w"
     },
     "250904": {
         "NAME": "QUITMAN ISD",
@@ -33522,7 +33522,7 @@ var DistrictsData = {
         "FederalFunding": 3841601,
         "OtherLocalFunding": 542167,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQmvvxjeIZpIvnPO6g16u4YBSLm4urUcmYAEEe2FptVnQQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESWThC8NuTZDgFMy_mxL1OQBgaX61fktZqiAh_YzFT4RsA"
     },
     "190903": {
         "NAME": "RAINS ISD",
@@ -33563,7 +33563,7 @@ var DistrictsData = {
         "FederalFunding": 2928519,
         "OtherLocalFunding": 854644,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeyywcdkQ-1Bl1ehmVNaA5UBIfdj355gia7MsWnOM8ga4g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdMlZOPplqhEihXZEqL56mEB8rbfOCeZSeqPeGLqvSMNLg"
     },
     "250906": {
         "NAME": "ALBA-GOLDEN ISD",
@@ -33604,7 +33604,7 @@ var DistrictsData = {
         "FederalFunding": 931185,
         "OtherLocalFunding": 439220,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVsoFkhoXRpDnMmLCOTW7DUB2ufJKzsjDguzkjOjZWxpGg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU-MiPqLoWVGkPD2EPZ9sp4BMuwGmYeJFhloKN6Dq_AErg"
     },
     "071903": {
         "NAME": "FABENS ISD",
@@ -33641,7 +33641,7 @@ var DistrictsData = {
         "FederalFunding": 5848483,
         "OtherLocalFunding": 165252,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EV6Rrw2RTitFnu7LfqHY21wBneAVPOrIEpBWSMzcb7uaLw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeWaj-Mq4Z5JuMi-tdARbQYBxSGtf-WQgafZ60UfM2a9CA"
     },
     "153907": {
         "NAME": "WILSON ISD",
@@ -33673,7 +33673,7 @@ var DistrictsData = {
         "FederalFunding": 257251,
         "OtherLocalFunding": 1399047,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdWfOxat03BIvT1sddyRkUsBtboM-U-Nx5_L0GM-EBkerQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETrXpGyoMK9CqtjZxta5CccBIw6OfFOxVc8VPEx6a4S9ww"
     },
     "152903": {
         "NAME": "SLATON ISD",
@@ -33705,7 +33705,7 @@ var DistrictsData = {
         "FederalFunding": 3666394,
         "OtherLocalFunding": 1317511,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbTKDuYBV2ZMj0HtfGEOhDIBvqhUq9xpsV_5mzqmjnSyIw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXxdEieQFq9DhC9FCpjxOCwBwEB3n99zGaj_wG9wE8fCQA"
     },
     "110906": {
         "NAME": "SMYER ISD",
@@ -33737,7 +33737,7 @@ var DistrictsData = {
         "FederalFunding": 588707,
         "OtherLocalFunding": 154468,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Efq1q1tHW0tJoN_XgHXWmocBvvvEJ96HUcbzvZWJfZWXPA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVVl-LomJRlGoFof1EIT9xoByarPmCl95tvQey_lLhJLNQ"
     },
     "085902": {
         "NAME": "POST ISD",
@@ -33773,7 +33773,7 @@ var DistrictsData = {
         "FederalFunding": 1716609,
         "OtherLocalFunding": 283578,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcsIinonHzxMnOJqEqYrR0oB5zPyI6EjEM7Y-R9zk2wl-w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQDdgeQCizpFicExEBKMaogBK-lBSRB62HQBJr0UXCD_Qg"
     },
     "208902": {
         "NAME": "SNYDER ISD",
@@ -33809,7 +33809,7 @@ var DistrictsData = {
         "FederalFunding": 6130915,
         "OtherLocalFunding": 2395231,
         "RecaptureAmount": 186219,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EePSFgYQ5spFk15k2vXPqZwBOcnjI1Ojmay7q2naF39Afw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYhIQxqePShHmsvNXBuDLJkBqj4MzTIspGLJ90ubqmey_g"
     },
     "017901": {
         "NAME": "BORDEN COUNTY ISD",
@@ -33854,7 +33854,7 @@ var DistrictsData = {
         "FederalFunding": 241095,
         "OtherLocalFunding": 1758733,
         "RecaptureAmount": 4411753,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWJEwT8lu8VEhYOGAotqcnEBgLLO4sZ8NLU5jamwon_cTQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWP_m5QRKEdEkgLb6xXVJ0IBhOVhTF51tkPgy2oxqVXCXw"
     },
     "165901": {
         "NAME": "MIDLAND ISD",
@@ -33891,7 +33891,7 @@ var DistrictsData = {
         "FederalFunding": 36063282,
         "OtherLocalFunding": 7036057,
         "RecaptureAmount": 153749183,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbboE-g5-j1Kk6EeXKr-kq4Bu0UPw_CUpHtC3h71MKwm8g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EczL5SvFVNJHlq2Coen3eLkBdnlibIgQyDWASTpSAMgHzg"
     },
     "165902": {
         "NAME": "GREENWOOD ISD",
@@ -33928,7 +33928,7 @@ var DistrictsData = {
         "FederalFunding": 1991416,
         "OtherLocalFunding": 981705,
         "RecaptureAmount": 4370105,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYn5HoAS_Z1Kuv-HP0ZuTdABJxcPz1kgDVhhGkRES0cJ7Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EViFw6EarCBLoLExJuXbflABZpnq_xS9Rst82zTfJq0LpQ"
     },
     "087901": {
         "NAME": "GLASSCOCK COUNTY ISD",
@@ -33965,7 +33965,7 @@ var DistrictsData = {
         "FederalFunding": 176215,
         "OtherLocalFunding": 271363,
         "RecaptureAmount": 36060784,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EamBcpXA9k9BuLf1ewsH68oBUNKKD-FhrMn3Wc8gJNLbBQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUsEUdbClWxGltad6i4c-msBeLaEWM1qFzRJFtLu-Cj0tA"
     },
     "186902": {
         "NAME": "FORT STOCKTON ISD",
@@ -34002,7 +34002,7 @@ var DistrictsData = {
         "FederalFunding": 5613206,
         "OtherLocalFunding": 927041,
         "RecaptureAmount": 5805479,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYUPIRGBQl1JnxD3rx63QasBAI0KaSbBmvlVC1dMEiGXVA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfFyJyR6ylNAkQBaUONiHiIBl4jSvrIVxje2sh7U0G8ZdA"
     },
     "068901": {
         "NAME": "ECTOR COUNTY ISD",
@@ -34039,7 +34039,7 @@ var DistrictsData = {
         "FederalFunding": 77839776,
         "OtherLocalFunding": 33858117,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUaSNlhfARhAsB3Pc0dkV5YB_cZXZWUR0QZUSIQ5UBaOlw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ET8rqv-iGcJFnYeep050hoQB82cuXT50Df9QuuChSOTW2A"
     },
     "226905": {
         "NAME": "WATER VALLEY ISD",
@@ -34071,7 +34071,7 @@ var DistrictsData = {
         "FederalFunding": 265820,
         "OtherLocalFunding": 482438,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbgaR8fB5pRBg_7Gti2SuCsBVfuf7UVrjZdjp0WeA8_o8w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWoT5HAmNHtDhit1jTt6ZBkBwSTsQFh59AijDrZ7-Rwnsg"
     },
     "041902": {
         "NAME": "ROBERT LEE ISD",
@@ -34103,7 +34103,7 @@ var DistrictsData = {
         "FederalFunding": 346260,
         "OtherLocalFunding": 95054,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ebwr5ECpPJtPjWbMi3X3FmoBA8Se41R8Z7oz7BXD9oB25A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYM2yDOkwVhOkodb7s4_StsBvgec2KXmguxAE9dAHfzOUQ"
     },
     "177903": {
         "NAME": "BLACKWELL CONS ISD",
@@ -34148,7 +34148,7 @@ var DistrictsData = {
         "FederalFunding": 0,
         "OtherLocalFunding": 167826,
         "RecaptureAmount": 5097269,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERm64aQUXZpGvWaTZpXkFpEBdewaHSHUCBXgdCCmAiTCYw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ede6HYH1VZpBjnB7zd1HQ5kBDB12r3IYr-LHsp15tps9JA"
     },
     "118902": {
         "NAME": "IRION COUNTY ISD",
@@ -34185,7 +34185,7 @@ var DistrictsData = {
         "FederalFunding": 203523,
         "OtherLocalFunding": 194889,
         "RecaptureAmount": 8716910,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfH5OvIXssZHocybhLfVpWQBYfoDze8hgZ9OIKtRT8KDAQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERa9eIaP17dNvca7ntAN-fEBRcKToj85zm0YT4AQl9x4CQ"
     },
     "070911": {
         "NAME": "RED OAK ISD",
@@ -34217,7 +34217,7 @@ var DistrictsData = {
         "FederalFunding": 5201481,
         "OtherLocalFunding": 1768812,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVbx6DvXzvdIgXpTAVLPf2QB3Du3fvzmZrpt7E2CaqV13w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESu66YjLLHtJtgWhXKZZ6toBXoWcsp1F2DeYj8dsVBxB-w"
     },
     "057904": {
         "NAME": "CEDAR HILL ISD",
@@ -34258,7 +34258,7 @@ var DistrictsData = {
         "FederalFunding": 10201004,
         "OtherLocalFunding": 1951673,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETGCWGxwICJAoHoWaSZCkj4BV9c5m5IXnBveA5Ge42ZO5Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbZ38yp1UxBBmSeGK0N8PlsBXWBZiTVh1udYB1SGeKMhyw"
     },
     "111902": {
         "NAME": "LIPAN ISD",
@@ -34307,7 +34307,7 @@ var DistrictsData = {
         "FederalFunding": 352904,
         "OtherLocalFunding": 137302,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef6QAycUQhBGqOaI8om74W4BT-aBq4R9Vn81cPa8pgvPYQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXLokvkFH7lAvXDO8SctOuQBnu7sqJoZvso2Myld3Kxc3w"
     },
     "161916": {
         "NAME": "WEST ISD",
@@ -34343,7 +34343,7 @@ var DistrictsData = {
         "FederalFunding": 1669300,
         "OtherLocalFunding": 585259,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETCwOQWTd4lGm82EN8MJzt4B6eT_REyFIGVwW6GytwJSYg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeTkDZhylhtCpFmsMqUlMmsBohJ7FBu3Oj9m5FAqwyuSTg"
     },
     "109912": {
         "NAME": "AQUILLA ISD",
@@ -34380,7 +34380,7 @@ var DistrictsData = {
         "FederalFunding": 540085,
         "OtherLocalFunding": 283761,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ER0KLiFBPMxPs4anNY5Tt8gB4AE-E5qtZyZ7jDWVm0CkhA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea8xre-meeBFrD8094G8QHoBCEtOGhGFiX8SQHL_uIEgSw"
     },
     "212910": {
         "NAME": "WINONA ISD",
@@ -34412,7 +34412,7 @@ var DistrictsData = {
         "FederalFunding": 2892726,
         "OtherLocalFunding": 271625,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW7Gu8raZcJLkpQJPP2xygEBBWONOYADk7g2Llfm9VChBg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVdldqr3IJ1JpSpp-xOUMGUBLtgEpW1CdyaWLSwZrjnx8w"
     },
     "234906": {
         "NAME": "VAN ISD",
@@ -34457,7 +34457,7 @@ var DistrictsData = {
         "FederalFunding": 2800557,
         "OtherLocalFunding": 615405,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeSgYPrpAkNAowdFaJmkA-YBu6Bw2lrN9F257DiG1yudQQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed1BqC3e5GlCr-RECrtK-1ABLwjzsopYWrYt9xtP2v152w"
     },
     "212903": {
         "NAME": "LINDALE ISD",
@@ -34502,7 +34502,7 @@ var DistrictsData = {
         "FederalFunding": 5234381,
         "OtherLocalFunding": 1324301,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERCqxjmiKtpGrzE4jqnm8lYBv7mwFn2N_PPILB-ng0eZ4A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZoYISRw7DhLq3db1v_RBLoB7728Dg6ZK1MnQXv5dQDcjg"
     },
     "092908": {
         "NAME": "WHITE OAK ISD",
@@ -34534,7 +34534,7 @@ var DistrictsData = {
         "FederalFunding": 1419578,
         "OtherLocalFunding": 1109657,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYr8VSIx05FMstULNlWR7A0BMI6sNgv8iBo9xQqdFyGg6Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUWhqa1iVzVBsfDZ-gpAwKwBUJgm0MrQTe_2Szyhifb2iw"
     },
     "092904": {
         "NAME": "PINE TREE ISD",
@@ -34571,7 +34571,7 @@ var DistrictsData = {
         "FederalFunding": 7203270,
         "OtherLocalFunding": 1065325,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ_sOyrWcGNNmJ9RRK9iE3QBES8YSI5wWu2Q6jD-zgUQeA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXoLiuYNpa5HlsLxfI-mLnoBTuVdgeLIeYgi1t98-0DOAw"
     },
     "212905": {
         "NAME": "TYLER ISD",
@@ -34607,7 +34607,7 @@ var DistrictsData = {
         "FederalFunding": 32375547,
         "OtherLocalFunding": 4440266,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ_18oaIFqBGlbruteEZOUoBG-Qw4VDg2jX2dFOW8IASPg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUl-eVjYhBRJpT2YSihx6mUBnGVs8Xf0S4usDVNtiPtBmQ"
     },
     "001907": {
         "NAME": "PALESTINE ISD",
@@ -34639,7 +34639,7 @@ var DistrictsData = {
         "FederalFunding": 9661394,
         "OtherLocalFunding": 1743010,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EauEQb7OfxlEiGibBhDIyoEBTO-ayQs4S2qgg44MTMBe-Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUpjCMKKrCpEllps8OgaCKwBmISp0oik1VhD6iHI50hqaQ"
     },
     "001906": {
         "NAME": "NECHES ISD",
@@ -34671,7 +34671,7 @@ var DistrictsData = {
         "FederalFunding": 371465,
         "OtherLocalFunding": 115151,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXeUDaoR02hMrhb5VKxRsjMBPVGCaWPFfoaXN7Qpt47LXg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbSPvAlmGEtMm5PXA-x-7L8BKJNn6p496ZmcZ-Vznm58tQ"
     },
     "092902": {
         "NAME": "KILGORE ISD",
@@ -34712,7 +34712,7 @@ var DistrictsData = {
         "FederalFunding": 5985850,
         "OtherLocalFunding": 846076,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea6PzRgdiUVBs0B5fxtf-wMBP9VoD17mU83WbA9AHALzIA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfgrjXCJji1EgyeHmM2sUjkBdHe2ugE-7j2ONMhsM5ETCQ"
     },
     "092906": {
         "NAME": "SABINE ISD",
@@ -34744,7 +34744,7 @@ var DistrictsData = {
         "FederalFunding": 2002944,
         "OtherLocalFunding": 1796725,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESaMAB7qg2lPsUzDiYtxaUMBeeb7qtlpZYWMClQ-y_elng"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVfsAQVFHFJImvZRIDPfsyYBTe-yMqNtk_fFdww4y4j3Uw"
     },
     "003903": {
         "NAME": "LUFKIN ISD",
@@ -34781,7 +34781,7 @@ var DistrictsData = {
         "FederalFunding": 19264647,
         "OtherLocalFunding": 1208535,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb834pFwVmJNjK2HWUsu4KoBIT6j1ulmbw_fT2sIRXuE8Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec3laW2fTj1HhMTgeGxEB-0BOyCXD5pSpA4rjIsmtp5SlQ"
     },
     "003902": {
         "NAME": "HUDSON ISD",
@@ -34818,7 +34818,7 @@ var DistrictsData = {
         "FederalFunding": 3443820,
         "OtherLocalFunding": 1801884,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaqusYrMAG1LhgrtH1HHOcUBr1aonOnf5sVAUOp01mhSqQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdSMN0-eWIVAoq1UhuQKDbwBqLggIONy4U_-SAncV7JlqQ"
     },
     "229901": {
         "NAME": "COLMESNEIL ISD",
@@ -34859,7 +34859,7 @@ var DistrictsData = {
         "FederalFunding": 474150,
         "OtherLocalFunding": 100362,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES51YbAf_ptJn3QpM6D6oH0B422buf_uk5qbWop-30nMFw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdikecYCuEpIkNk83rb9-o8BMwKpcHeVqqfX51m2RtcFtg"
     },
     "121904": {
         "NAME": "JASPER ISD",
@@ -34896,7 +34896,7 @@ var DistrictsData = {
         "FederalFunding": 4925647,
         "OtherLocalFunding": 723767,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWSRpSHP1KhJmfAgHZXsrHQBh6cwJObG0MLyMD7yB1y_4Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EckDiYL4MMxBuj_As61oZf8BQNT69PwRKamgatJP1alQJA"
     },
     "189901": {
         "NAME": "MARFA ISD",
@@ -34933,7 +34933,7 @@ var DistrictsData = {
         "FederalFunding": 471834,
         "OtherLocalFunding": 141956,
         "RecaptureAmount": 469827,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESLy0SOOAsBPlIPrGQxs3YwBC7NObbqnPdUCO7-EtwHxNQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQBNxEdJ76FPhwwrCR1cudwBCQZ1V0GkVc23vvQ-EPqjjg"
     },
     "022902": {
         "NAME": "MARATHON ISD",
@@ -34970,7 +34970,7 @@ var DistrictsData = {
         "FederalFunding": 42771,
         "OtherLocalFunding": 36325,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYrDu_L5e7REl1jv3djHK7IBM7ORl5taf9k4JKqw6Cuysg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU6L62J5dkdEjAzAw43Az4MBXKG9OFxWSRG9RZdqiVi7YA"
     },
     "022901": {
         "NAME": "ALPINE ISD",
@@ -35007,7 +35007,7 @@ var DistrictsData = {
         "FederalFunding": 2052999,
         "OtherLocalFunding": 696205,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef94IvKUGxxJh4AORp9y90wBAEGAxGaf9chXh8Lxz__LQg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERTJabf_qnxLlEHgP18eh5gBCL1eNGZTEqqqms8jt_gKzA"
     },
     "254901": {
         "NAME": "CRYSTAL CITY ISD",
@@ -35044,7 +35044,7 @@ var DistrictsData = {
         "FederalFunding": 5566750,
         "OtherLocalFunding": 487608,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EflCs1LfG0NPtA1zkoNVoSoBgMWt81Lj9XY9yxmoVLEFBg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW4-067SgjRKvpZHojcUFKoByz2DMq2sWUWBvhQXQ0-q4Q"
     },
     "240903": {
         "NAME": "UNITED ISD",
@@ -35085,7 +35085,7 @@ var DistrictsData = {
         "FederalFunding": 96623495,
         "OtherLocalFunding": 3538469,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETzmXf2DNy9Ip05JF4ob79ABxQG_zJmuIlO4RyURDIGP2A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES1LOleWrfhNgK66H9uMIgUBBSsh2cwwj8FxN3hFhh4CZw"
     },
     "246906": {
         "NAME": "HUTTO ISD",
@@ -35134,7 +35134,7 @@ var DistrictsData = {
         "FederalFunding": 5975809,
         "OtherLocalFunding": 3301418,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVQ3TC1swTpIgnTMmpNcSjgBW7-vZcFMMRC7r3N6TK2xiQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ET2tig9OjzZKo0_y2lpP5bsBnXK2Kvkm1MFn8vracEpw-g"
     },
     "046902": {
         "NAME": "COMAL ISD",
@@ -35183,7 +35183,7 @@ var DistrictsData = {
         "FederalFunding": 21943537,
         "OtherLocalFunding": 7800957,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETow50DL6QhMik56HQG7DP8BqKkIEoVpUCMNG7blYwxROw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZRgLrLjkmNKsIXOew3g2pgBSMgimTn5odlv529rJ10iOg"
     },
     "105906": {
         "NAME": "HAYS CONS ISD",
@@ -35236,7 +35236,7 @@ var DistrictsData = {
         "FederalFunding": 26151630,
         "OtherLocalFunding": 3366150,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcQgY-GVxrdIuWC2Yy2BJq8Bm2oBPRhIZK7z0yNG3Dm6wA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWAPnYT77vxBoT7KyLPxXUIBsz7JBKpdrJLE64bApNXXZw"
     },
     "105905": {
         "NAME": "WIMBERLEY ISD",
@@ -35277,7 +35277,7 @@ var DistrictsData = {
         "FederalFunding": 2197362,
         "OtherLocalFunding": 1121855,
         "RecaptureAmount": 2937244,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETTMYHJiKgxMiiiIPmE6cGQBs8E6e3BE9KPrfVBdL5Ewsg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETdqCJqiWgRDugP4Bp-bYuwBRrOUyeTEP5BigoFu29LTzQ"
     },
     "105902": {
         "NAME": "SAN MARCOS CONS ISD",
@@ -35326,7 +35326,7 @@ var DistrictsData = {
         "FederalFunding": 12184057,
         "OtherLocalFunding": 2037636,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeV6uPWdYk5HtkFmxgbZBOEB6ZGVvLp9Ja8QffBap3rw6w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERt1g0kx6AVEkYm4wZZNihkBCAqqH4XDbmL62Mg_2WkL7Q"
     },
     "028902": {
         "NAME": "LOCKHART ISD",
@@ -35363,7 +35363,7 @@ var DistrictsData = {
         "FederalFunding": 12803882,
         "OtherLocalFunding": 2954596,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETFk7XJuvoJHgR5amSLtygsBF0aotoOcd5hc8rJd2UWsyQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfThyT6wgw5Pixzufy0jBcsBkz_r6kBwsp-MhMTBv-reVw"
     },
     "246909": {
         "NAME": "ROUND ROCK ISD",
@@ -35428,7 +35428,7 @@ var DistrictsData = {
         "FederalFunding": 36017035,
         "OtherLocalFunding": 12334481,
         "RecaptureAmount": 16397380,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVgF-2BsyAtAkFIX3hxyo2sBzeT9uh8k0mBRg-FPz1Hbiw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ8ODktorSRHswDnovT-jOkBuWr7aOXlbN2kmlP0zDVzYA"
     },
     "227904": {
         "NAME": "PFLUGERVILLE ISD",
@@ -35481,7 +35481,7 @@ var DistrictsData = {
         "FederalFunding": 44815194,
         "OtherLocalFunding": 4384565,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZE-c5RQ98JOl_Rl67bZuP8BQsTCjx4J5XLsLU0GONASNQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaEO-wShEKdCgsBHsakmcf8BztTPehPlwq1D6fRZBrwUnA"
     },
     "011904": {
         "NAME": "SMITHVILLE ISD",
@@ -35526,7 +35526,7 @@ var DistrictsData = {
         "FederalFunding": 3898813,
         "OtherLocalFunding": 673190,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWlH6JcJ_nlLmTBV4QVPanQB20b9JQwLOW7qgPgF7gT26A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES9S7COIaqRIpuMeFwkRktEB4gnB3VGLCjleurRDhTM6dA"
     },
     "082903": {
         "NAME": "PEARSALL ISD",
@@ -35563,7 +35563,7 @@ var DistrictsData = {
         "FederalFunding": 9546744,
         "OtherLocalFunding": 2888629,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ2wub51UPNOtVIZYQnrXRcBpB1tUcLGG0gwnxYRUVJEmw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaFguAB8bf1Nvkz8hzeUxIMB6BmJY549VnDgmRSJDnxBJQ"
     },
     "094902": {
         "NAME": "SCHERTZ-CIBOLO-UNIVERSAL CITY ISD",
@@ -35612,7 +35612,7 @@ var DistrictsData = {
         "FederalFunding": 14189332,
         "OtherLocalFunding": 1892356,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES-eT5e3791KozYF6Lp5Hf8BOiau-9spszXyZ5AtSeASDQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYw7vwuBcGNJrycQTeMeKmIBlORjY0Is07NcGI9YkksnHw"
     },
     "015916": {
         "NAME": "JUDSON ISD",
@@ -35673,7 +35673,7 @@ var DistrictsData = {
         "FederalFunding": 27409910,
         "OtherLocalFunding": 3900450,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Efzx43ru-6dFoM48dxAoXYcBnbqv4dqp0kcgzemiQn57Sg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcSt68dP1S5CmxQ1QjWccQ4BrFN8VFxf6HG5bwVGPhIo-w"
     },
     "093905": {
         "NAME": "RICHARDS ISD",
@@ -35718,7 +35718,7 @@ var DistrictsData = {
         "FederalFunding": 330662,
         "OtherLocalFunding": 32221,
         "RecaptureAmount": 6089,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXGhfJkccUVNs_fb8t37ALYBuyHFE_39v9uo0ZOCdbKqEw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef0uenO3Tg5Hsz32BlUscuwBcWiaZjLaQ9ivmm6h4DbmIw"
     },
     "187910": {
         "NAME": "ONALASKA ISD",
@@ -35750,7 +35750,7 @@ var DistrictsData = {
         "FederalFunding": 2267418,
         "OtherLocalFunding": 629502,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZb9rPRkG8tNsEq1p80WNEUBfzcE3tFX5Y8-ICYLf6ae6g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcQWTsU4Q7RAsY02zoPwbUwBtbnMnwyI2Jc4lCtP_OVQWQ"
     },
     "026902": {
         "NAME": "SOMERVILLE ISD",
@@ -35787,7 +35787,7 @@ var DistrictsData = {
         "FederalFunding": 1248696,
         "OtherLocalFunding": 547552,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXrNAQKdzLlOoTMuJJZ3l90BqyPSGMQkgaaAtm0MK-0ziw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU40vUj8MhhCk5TtlmNKvmMBPshdIV-U4kZv49rMQsyHkQ"
     },
     "229905": {
         "NAME": "SPURGER ISD",
@@ -35819,7 +35819,7 @@ var DistrictsData = {
         "FederalFunding": 574717,
         "OtherLocalFunding": 24458,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERybl8g9lydGsH-UuD9UkzABzpQij6I-7YaQ3D_u8q-AdQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Efjl8eS_2kdHpjTdJiccmgcBomp3ryoKbZxfD6qC1acQxA"
     },
     "121905": {
         "NAME": "KIRBYVILLE CONS ISD",
@@ -35856,7 +35856,7 @@ var DistrictsData = {
         "FederalFunding": 1970239,
         "OtherLocalFunding": 163143,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EULVaU5GzINCou0Z9S3ZNM0BBolClHXyQOmlvQsbBtEi8A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ6khD6BmnhLmDNZPquUIGwBjJpGSbCbM7UiQwYyMH4x3A"
     },
     "158906": {
         "NAME": "VAN VLECK ISD",
@@ -35893,7 +35893,7 @@ var DistrictsData = {
         "FederalFunding": 1788725,
         "OtherLocalFunding": 2961720,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb8DpTntFJ5JqTZJC5O8fcYBYy5AC_qYBZh-EZPX73fIzg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee2FPGOwOcVPosusw4xv7iwB0r8h4MP0kPxbmoD_LConhw"
     },
     "020906": {
         "NAME": "SWEENY ISD",
@@ -35930,7 +35930,7 @@ var DistrictsData = {
         "FederalFunding": 3176643,
         "OtherLocalFunding": 2087286,
         "RecaptureAmount": 3799792,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdKskG_xWT9CuB1n2UFCI-wBxb4iS2tzpJPszcESQyLmAg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfFORp4oBGZKksm0EPstmN8BMdjv15SMcrXHZLT7KuNy_Q"
     },
     "205905": {
         "NAME": "ODEM-EDROY ISD",
@@ -35967,7 +35967,7 @@ var DistrictsData = {
         "FederalFunding": 1945376,
         "OtherLocalFunding": 572887,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfRCvolr4_BEiF2XVa5n73sBrlk6Zej_TVJ7wlY3gMcRhg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVFztob3FZBPsXmtWjwE2aoBNmNH1HuCWJSA9602-S4j-w"
     },
     "131001": {
         "NAME": "KENEDY COUNTY-WIDE CSD",
@@ -36004,7 +36004,7 @@ var DistrictsData = {
         "FederalFunding": 22266,
         "OtherLocalFunding": 254916,
         "RecaptureAmount": 7305574,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Efj7GpJwu_RPn806TJ5lYBIBT1AeLau3bq4fMnxPBp9kRg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfeYJJ-V-WRNr-xAZYf17ZEBvaUd2v7RfJW2bRWclp5YVA"
     },
     "178903": {
         "NAME": "CALALLEN ISD",
@@ -36041,7 +36041,7 @@ var DistrictsData = {
         "FederalFunding": 5281291,
         "OtherLocalFunding": 654847,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWZDzhTqZfZKhccGAUU6TbkBCS9ByvX_8gCAr80f3FTSHw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWI3BjW65tBDqazi6qFmsIEBWIa0rj5SW61MwTt2t1SEtg"
     },
     "004901": {
         "NAME": "ARANSAS COUNTY ISD",
@@ -36078,7 +36078,7 @@ var DistrictsData = {
         "FederalFunding": 7012593,
         "OtherLocalFunding": 549136,
         "RecaptureAmount": 5139613,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea6wvCU85iBPsfBnPH47rF8B8obdOG4oCTjqSgtmbQx3Uw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVGZYttYz_JHnA82Ovs8JvMBjN4Fzt0PJBWTQ13hTFJSHQ"
     },
     "108912": {
         "NAME": "LA JOYA ISD",
@@ -36123,7 +36123,7 @@ var DistrictsData = {
         "FederalFunding": 70598675,
         "OtherLocalFunding": 2508704,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETu83ZRn_8JDqxtzcut5Ln8ByKsnj187EYp4pu20DsVTIA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ2w0XwT26BIu2hcg-KjzQQBKxYZeaVNcqbmLbQZLGiAxw"
     },
     "214901": {
         "NAME": "RIO GRANDE CITY CONS ISD",
@@ -36160,7 +36160,7 @@ var DistrictsData = {
         "FederalFunding": 28946513,
         "OtherLocalFunding": 758449,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcQz2i59rhhMqTP7QE-zjmkBtepdwYlJUkPtC0chcbAujw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdVsaXpmvxpNiYJEe2oWG_wBPY_ynAyzpDm7ZAwhiVO39w"
     },
     "245904": {
         "NAME": "SAN PERLITA ISD",
@@ -36197,7 +36197,7 @@ var DistrictsData = {
         "FederalFunding": 888897,
         "OtherLocalFunding": 529444,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfkuH6fL4c9KkGHFyFOTx3QBtKR582YAsTvlMG_q0Hi2HA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETt5PtZAUhVJhq7nsXDFMkMBcpdDpQnxzuU5xgfq3_vrNw"
     },
     "245903": {
         "NAME": "RAYMONDVILLE ISD",
@@ -36234,7 +36234,7 @@ var DistrictsData = {
         "FederalFunding": 6902772,
         "OtherLocalFunding": 1205897,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQ_npjS4KK5CtBj-IoDrVVQBkHnGaz8G3VgePJoXuJjafg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZYE4nNMxrlMh5w7jtzf6nsBvkjb5-QeeEjmKmkwdlJF-w"
     },
     "178909": {
         "NAME": "ROBSTOWN ISD",
@@ -36271,7 +36271,7 @@ var DistrictsData = {
         "FederalFunding": 9512299,
         "OtherLocalFunding": 275603,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec6q5_k938tNvUSvrG_tBCkB2zCVrirdrgPL50wzO4nh1w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ebe3nWY7agFOvnCoFcwKqQYB4eosLj2kUTQT499UU0j8Kg"
     },
     "178902": {
         "NAME": "BISHOP CONS ISD",
@@ -36312,7 +36312,7 @@ var DistrictsData = {
         "FederalFunding": 2402345,
         "OtherLocalFunding": 769627,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU3_NxuQxXJAsvkgEIqfy5cBbZpJesXEO9zThYT-I0iZqg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX8iGb_QjpJAh0S7a2eQHlYBeGsuCqvAslL-H1_ljCUpmg"
     },
     "178904": {
         "NAME": "CORPUS CHRISTI ISD",
@@ -36357,7 +36357,7 @@ var DistrictsData = {
         "FederalFunding": 68352305,
         "OtherLocalFunding": 5071887,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYM5rj2lWd9DmXEtMs2JuaQBZeBxISV5IMLsGpQP7-Hdgw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWMSdal8mA9Ern5rv02IuhwBkpIpqp20Oexj9NTiIgRQuw"
     },
     "205907": {
         "NAME": "TAFT ISD",
@@ -36394,7 +36394,7 @@ var DistrictsData = {
         "FederalFunding": 3260694,
         "OtherLocalFunding": 934307,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVMOV6kvC11HgMIiA4J7X28BSfbzX_HcwS7SoHNtt2yYxQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdtLrdy00JpFlJwFpTaRj0oBE54OZhF4Pe3U1eSzupc9pg"
     },
     "205903": {
         "NAME": "INGLESIDE ISD",
@@ -36431,7 +36431,7 @@ var DistrictsData = {
         "FederalFunding": 3671762,
         "OtherLocalFunding": 1220403,
         "RecaptureAmount": 4718918,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESBzz4udxQlJhvL046nHk9oBL2kl4oA_WtOXgKkxfvOUyg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdcwuYsWVIVAkIyvnbSe5voBkscLVEL7aqqlIM2-beTFug"
     },
     "205902": {
         "NAME": "GREGORY-PORTLAND ISD",
@@ -36468,7 +36468,7 @@ var DistrictsData = {
         "FederalFunding": 9588950,
         "OtherLocalFunding": 928074,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EatkyEu4g9VEkdUDu6qZc9cBdGgxAtsXQ78dFRjmFOGEgQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETjmcoPRBzBOgJ1WscyYNI8Br1ai-IyWlaJR3vLv45bnSQ"
     },
     "178915": {
         "NAME": "WEST OSO ISD",
@@ -36509,7 +36509,7 @@ var DistrictsData = {
         "FederalFunding": 3158869,
         "OtherLocalFunding": 180256,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQefbtpN10FIuZKENtf8BIAB20mxRCMy8-KqcqhsYXALHg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQfLZdB_YN9NhTtop0v47_4Bq1uQZ2ETGVzi-o9EvdCiHw"
     },
     "178912": {
         "NAME": "TULOSO-MIDWAY ISD",
@@ -36546,7 +36546,7 @@ var DistrictsData = {
         "FederalFunding": 7218901,
         "OtherLocalFunding": 1304329,
         "RecaptureAmount": 529298,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZiXzgjpHxREvzMycibwyl0BKBdoyNasSHGOrUAbrEAdwA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXs1lXohXHRIjXxTtgjVrzYBxXtb-dqvtbyT34lDwDr_gw"
     },
     "178914": {
         "NAME": "FLOUR BLUFF ISD",
@@ -36587,7 +36587,7 @@ var DistrictsData = {
         "FederalFunding": 5268122,
         "OtherLocalFunding": 827636,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZEkpcvccqhBtT6RJt_b-soBI57KBd2K-bZF0bxt40Tvdw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ET4SRpbwhNhPuTv1tiuq7FYBXmeZNSN1aaVMC9j-8_xqkQ"
     },
     "205901": {
         "NAME": "ARANSAS PASS ISD",
@@ -36636,7 +36636,7 @@ var DistrictsData = {
         "FederalFunding": 3171216,
         "OtherLocalFunding": 1196814,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUZLlpwFauxLlrK3Vm-zQWUBzcBGO6Wy-f_sWhBh4deF0w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU0AvTxisAxOsCSYJyJbr2kB5QvXl43sHSu4gWGe-IxZFQ"
     },
     "178906": {
         "NAME": "LONDON ISD",
@@ -36677,7 +36677,7 @@ var DistrictsData = {
         "FederalFunding": 687290,
         "OtherLocalFunding": 661002,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETEne5KvnA1GiJvjdktbc30BHfAy5eIMJiMLgaDtrFa0ZA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERHHvJxRqqJAvyW7ksYtqdQBLI1qxLYJ8alM7Y-kCOC8qA"
     },
     "097903": {
         "NAME": "HICO ISD",
@@ -36726,7 +36726,7 @@ var DistrictsData = {
         "FederalFunding": 798279,
         "OtherLocalFunding": 488170,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXTbZYq5a1tIml_wGkOQsAoBpRtyuDd-qRz7-M66jIlR0A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQrHO-ME8AFLsr59PpOCjAIBlD4Le-HDq87yrOuOBN4jDw"
     },
     "072903": {
         "NAME": "STEPHENVILLE ISD",
@@ -36763,7 +36763,7 @@ var DistrictsData = {
         "FederalFunding": 6361440,
         "OtherLocalFunding": 1243568,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXmymcEbRUZNqOZ7OfRQ9TQBCb3T9dCd2IQCwX1zamDlWg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXGie-wUfo1Dse4PkhYT1IUBQf1q3CD6yDxEcNGkO4o8Ig"
     },
     "072904": {
         "NAME": "BLUFF DALE ISD",
@@ -36808,7 +36808,7 @@ var DistrictsData = {
         "FederalFunding": 187195,
         "OtherLocalFunding": 86679,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWvNbm43kYlKkaT9TAZW_kwBb3FfJgGO5i4qtS0UX1pQHQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcCWgAFjGXVPv0zZ0LWN4aUBKzFDS7lTQFZ3eoCsaFiVhA"
     },
     "213901": {
         "NAME": "GLEN ROSE ISD",
@@ -36849,7 +36849,7 @@ var DistrictsData = {
         "FederalFunding": 2313687,
         "OtherLocalFunding": 1888266,
         "RecaptureAmount": 5235651,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVP3tqbX7dxNtYqIi7KPJ30BHqCUyedQrXNxSu0C_PU6BQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaStN7vMKWdHjbBC9Aid3G8BNQuLDxb-ctp9kGjeyixVCg"
     },
     "072901": {
         "NAME": "THREE WAY ISD",
@@ -36886,7 +36886,7 @@ var DistrictsData = {
         "FederalFunding": 220842,
         "OtherLocalFunding": 62168,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eba0eQT3TrhCqsZqQnYv6A0BPtt7noKMFmH9Xg7yXSLkIQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfJtPOMIXiJDgbeplQ-pG9cBMKnclRj8LriZcDQWqhPW5A"
     },
     "018906": {
         "NAME": "IREDELL ISD",
@@ -36931,7 +36931,7 @@ var DistrictsData = {
         "FederalFunding": 195987,
         "OtherLocalFunding": 70597,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESikGuh3PBtCuNhi0RmZhBYBSDdoDYNqyeRII3oHvV9Agg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUFOgeDyqONKuzviYNQ8aacBZWBzR0TW1WIQLItTjJaO0Q"
     },
     "018905": {
         "NAME": "WALNUT SPRINGS ISD",
@@ -36967,7 +36967,7 @@ var DistrictsData = {
         "FederalFunding": 391016,
         "OtherLocalFunding": 28596,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeVHoGBMew5IqCj-BVOsU4sBCZ2wYjhf62YhCJowF1xEEw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EahBfc7CfCVAsqpbFuB6IakB4cRuyr6B0SXmbRwShwCeBQ"
     },
     "111903": {
         "NAME": "TOLAR ISD",
@@ -36999,7 +36999,7 @@ var DistrictsData = {
         "FederalFunding": 918032,
         "OtherLocalFunding": 502937,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ec13IdhnqHpAicO5KC_ubz0BkVNwizvz3fr8j4KzuiLRNw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EflqocDXQ7VClmWbYYe1y8YB-UOGdtJXISPNe5rfd1cgNQ"
     },
     "126903": {
         "NAME": "CLEBURNE ISD",
@@ -37036,7 +37036,7 @@ var DistrictsData = {
         "FederalFunding": 10604272,
         "OtherLocalFunding": 1681121,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVMVI_msIVRNk1A5wNMYL1QBoS19qDcdVgvbfx_ckWtEng"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY82VWl4-yBKmHeKzsjtxZsBkS2MMvNWAHdKpaHsVZZ-uA"
     },
     "111901": {
         "NAME": "GRANBURY ISD",
@@ -37089,7 +37089,7 @@ var DistrictsData = {
         "FederalFunding": 11960623,
         "OtherLocalFunding": 1149068,
         "RecaptureAmount": 6232701,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeSbUXpfyEBPmgbYh2vDtjIBCpqbIlyhjEZMH5juRra9hQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWHNIHMI8cZMr8jTUrQA_MkBHLdzbII_FJuvPJz19Esp2A"
     },
     "018907": {
         "NAME": "KOPPERL ISD",
@@ -37126,7 +37126,7 @@ var DistrictsData = {
         "FederalFunding": 389040,
         "OtherLocalFunding": 166294,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeTZ1eKB63JKgu1-HALs7VoBkJ3Ahi5ZWrRcMU5pszwCNQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ER62zXpXj9tJtwbaxKLsNegBO0KE6rGDKyL3Xe08F7XgCw"
     },
     "194902": {
         "NAME": "AVERY ISD",
@@ -37163,7 +37163,7 @@ var DistrictsData = {
         "FederalFunding": 385793,
         "OtherLocalFunding": 390544,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZxMsnE6xbxMt7F3l5jywn8B_xokaGTRuuHpZ014TPvGRg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVWFTfp8aZ5MkDd52alm_XMBDRBl1Q9fER9jRlTAh9h_Lg"
     },
     "172905": {
         "NAME": "PEWITT CONS ISD",
@@ -37204,7 +37204,7 @@ var DistrictsData = {
         "FederalFunding": 1138004,
         "OtherLocalFunding": 762893,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaQs2a8o9CdLuJzTWHbi_rYBnT4IF4L6lnNdr7OVcneRcw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVXDSTTD4IdLhRBkeDC7gVEBOmFtdX3lvndCZ9mtqX8A8A"
     },
     "019913": {
         "NAME": "HUBBARD ISD (BOWIE)",
@@ -37241,7 +37241,7 @@ var DistrictsData = {
         "FederalFunding": 260482,
         "OtherLocalFunding": 12689,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY3KWgD7WD9KhbPufRIAouwBaqaE4Va7mAUo25wLMCitqA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZBI8uOjyidIh4dmkcx4tq4BwcRexZfagAemdUjRAzOKQA"
     },
     "019909": {
         "NAME": "SIMMS ISD",
@@ -37273,7 +37273,7 @@ var DistrictsData = {
         "FederalFunding": 1231776,
         "OtherLocalFunding": 268228,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVYdUccJ2FZGgUVgZjqWqVABDoG-5gOoNY2Y8hG-gKUTVg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea6x8fG1eaNOt9_hf6JlYJ0BvQA75FnAnVBX2viJxOelBA"
     },
     "019910": {
         "NAME": "MALTA ISD",
@@ -37310,7 +37310,7 @@ var DistrictsData = {
         "FederalFunding": 92337,
         "OtherLocalFunding": 32396,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVrRd1Fs56VCrhuH23CSneYBoH2ONeRofyGf28DCDxAosQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfdbGfV-e7VPvR4LyMITSb4BkeP3dFGYN2TMDFjPGcPIRQ"
     },
     "019901": {
         "NAME": "DE KALB ISD",
@@ -37347,7 +37347,7 @@ var DistrictsData = {
         "FederalFunding": 1507384,
         "OtherLocalFunding": 494955,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERWijwmw25NItkA0CXuRU3EBcudN85-H_yBOPJPF4sNT7A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbZVFAl5KDRDnasOb5UQ-IQBMa6axIjnPN2Ata7Kpo8iFg"
     },
     "019905": {
         "NAME": "NEW BOSTON ISD",
@@ -37384,7 +37384,7 @@ var DistrictsData = {
         "FederalFunding": 3072611,
         "OtherLocalFunding": 603209,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeTVGqCvk_dHlmQJ1lNraZABgy3vm6XVpxWAC29chJM6fw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZq5Ms1u3XRPuOELrRSKCrkBoblAD3T5_yFIubZh8wxcIA"
     },
     "019903": {
         "NAME": "MAUD ISD",
@@ -37421,7 +37421,7 @@ var DistrictsData = {
         "FederalFunding": 665116,
         "OtherLocalFunding": 153739,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZnqJNMb-pVFpQ_v_x-jvmQBq7mCwmhOxbcX_PTpO9Tqng"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ1UfhelM6FMkpXVrS7H01cB084t9qB4z4THFULENguPSw"
     },
     "034901": {
         "NAME": "ATLANTA ISD",
@@ -37458,7 +37458,7 @@ var DistrictsData = {
         "FederalFunding": 5928749,
         "OtherLocalFunding": 840722,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESHPqBiLjj5OtSYBf4JT148BiU9OQ17w3AxE0qZkILv1fw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVUbW7xbRsFEiMaT_PxE4EkBDsjicAVXVEtSDHJ3FOxKJA"
     },
     "019902": {
         "NAME": "HOOKS ISD",
@@ -37495,7 +37495,7 @@ var DistrictsData = {
         "FederalFunding": 2139677,
         "OtherLocalFunding": 372611,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfkwpnZmrGhPmwyHX-kza50B0xCYGCWGWOZKgVE4LWrLlw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ef2U67Qi4RlNu9Es8Q5WXdMB12g_8oWdfB5H_D7cnRjftQ"
     },
     "019914": {
         "NAME": "LEARY ISD",
@@ -37532,7 +37532,7 @@ var DistrictsData = {
         "FederalFunding": 222625,
         "OtherLocalFunding": 21327,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETmvsD0hWuFAsHrUY_M8wzABNFcqiFzffV7AdjsJFHBYVg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETZfQGFoLBNMoOSSonkVXzYBHarxQaxIcQwaeMCCFXYlAQ"
     },
     "019911": {
         "NAME": "RED LICK ISD",
@@ -37564,7 +37564,7 @@ var DistrictsData = {
         "FederalFunding": 309194,
         "OtherLocalFunding": 202709,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdQCvKc0qSlPpLKyaD0MuH0BsREv2vsjHUAMeqIGZBAo6w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbjPCy27QS1PpNKhWmP_KPMBW_53Of1kx5tCHZ9P8gVnUw"
     },
     "019912": {
         "NAME": "PLEASANT GROVE ISD",
@@ -37601,7 +37601,7 @@ var DistrictsData = {
         "FederalFunding": 1565530,
         "OtherLocalFunding": 1246659,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Edg9g_DDeolHiHTPpPzfQtsBzMTdEhz7zO102ZodwQ9nLQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESXFu38Tnw5Isz4t4PqM7LoB7pIb6PjwyN0t4kcH2B1kBQ"
     },
     "019908": {
         "NAME": "LIBERTY-EYLAU ISD",
@@ -37638,7 +37638,7 @@ var DistrictsData = {
         "FederalFunding": 5513760,
         "OtherLocalFunding": 574596,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaBJte9FklNFiP-fSEROHrkBYLcQv6bH7olwKew-IJevJA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcQfRGom7n1FnOQJBy6o_qIBBSak_jQC5hB5FUREdOottA"
     },
     "019907": {
         "NAME": "TEXARKANA ISD",
@@ -37670,7 +37670,7 @@ var DistrictsData = {
         "FederalFunding": 15318004,
         "OtherLocalFunding": 1778969,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeqWEgWZsoVOtBXHgHdsC8AB47x3LNGu-Y4I7Hs0xzzViw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbS_AakihzlFoyDwlG57hBoBF_4eAE19P-s2Y5z35zl4DQ"
     },
     "019906": {
         "NAME": "REDWATER ISD",
@@ -37702,7 +37702,7 @@ var DistrictsData = {
         "FederalFunding": 1333239,
         "OtherLocalFunding": 362841,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXQyU5GJk6ZAvhzaKXQvvhMBFGSljJCPYLwgwwIZvLiSkw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eecadh7Cld9KnaTPZ9z1XloBORq65lotTfniSbIuUnKUdA"
     },
     "034907": {
         "NAME": "QUEEN CITY ISD",
@@ -37739,7 +37739,7 @@ var DistrictsData = {
         "FederalFunding": 1696558,
         "OtherLocalFunding": 335281,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWafbdpfnyVOgbsciflR1awBlMZ76aojWdipkXKdwp3lgw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZ6g0Ae3FWRLuFICsrWiaZUBSD7G5n8CvZSyrFuSOECOGA"
     },
     "138902": {
         "NAME": "KNOX CITY-O'BRIEN CONS ISD",
@@ -37780,7 +37780,7 @@ var DistrictsData = {
         "FederalFunding": 690800,
         "OtherLocalFunding": 356406,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ER7s_TwSDxxKl5i7LHH3Z5oBid0pI-RswyiPQWxEbR_fTQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZWHBL2jPVxNgdWbAfPChvkBpmdXxho4h-O-ZNvt1DJStw"
     },
     "135001": {
         "NAME": "GUTHRIE CSD",
@@ -37817,7 +37817,7 @@ var DistrictsData = {
         "FederalFunding": 11245,
         "OtherLocalFunding": 246841,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERJyuQl9vQdCovC4JvWviw8BoMYUCLBYiaGLODe9pyn65g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ET9hTFFsDzBBqyPojd2wicwB9Wgl0S9DzrXs2zjwAh_f5w"
     },
     "244903": {
         "NAME": "VERNON ISD",
@@ -37849,7 +37849,7 @@ var DistrictsData = {
         "FederalFunding": 3476834,
         "OtherLocalFunding": 3558912,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eb3j5oorQQ9AsQQ5KNsIcuABGLzv8fUq5IqGW35eVBkYqg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfR5ser1xNtOnPI68yZe73MB8mAlCpnOtLOzR08nS5xzug"
     },
     "078901": {
         "NAME": "CROWELL ISD",
@@ -37890,7 +37890,7 @@ var DistrictsData = {
         "FederalFunding": 643522,
         "OtherLocalFunding": 3986426,
         "RecaptureAmount": 18671,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXbyVAkeOkVKhnNSrHYw_kAB6mm4vHOdJ0tVwjb6qiNvVA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUT9iM1P6KlDmizLVmQ_XBQBqpUKP4PLenjdI0CyNDJEzw"
     },
     "224901": {
         "NAME": "THROCKMORTON COLLEGIATE ISD",
@@ -37922,7 +37922,7 @@ var DistrictsData = {
         "FederalFunding": 636975,
         "OtherLocalFunding": 232264,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EboysTjV1H1KrtNu5P-Y9YsBcBQlrNPJWcth1iokY3ZVQQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfPaEPnn1gFKkoP9QIlKdusBI1eL5NG0lGgH4-u78WQEzg"
     },
     "138903": {
         "NAME": "MUNDAY CONS ISD",
@@ -37958,7 +37958,7 @@ var DistrictsData = {
         "FederalFunding": 904888,
         "OtherLocalFunding": 173352,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbQJzYuLakxDqLtyTivYTh8B_LDp1iqKlsGZNkkR46xXEg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWyVd3M2slVJqcfRGdIhsaIBVHdkVARsjfLL9VG_DJrt4A"
     },
     "138904": {
         "NAME": "BENJAMIN ISD",
@@ -37995,7 +37995,7 @@ var DistrictsData = {
         "FederalFunding": 190190,
         "OtherLocalFunding": 222776,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZkasatfYadMq39fK122aaoBGfcMBdZB70RfGvzlgPsJRQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES2ms4jU9WNGkEMEum1rID0BAixkiCdE8HB95pJj92O0JA"
     },
     "252903": {
         "NAME": "OLNEY ISD",
@@ -38036,7 +38036,7 @@ var DistrictsData = {
         "FederalFunding": 2113814,
         "OtherLocalFunding": 477390,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbNwuUqqfqlEq8wU0ZYkZ3gB7sRKO1ycSqrVf3MdyZIWQg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaqHwNxyWBNFibLGpTGUkmYBrFYzB1I6HKOS0oan-uLcTw"
     },
     "050909": {
         "NAME": "JONESBORO ISD",
@@ -38081,7 +38081,7 @@ var DistrictsData = {
         "FederalFunding": 309447,
         "OtherLocalFunding": 37005,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXZbnR8qvaJOkiMP3NdGt70BQqTfIer7imMvYZZIxv9Tnw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Edx2OTR09KZLu4QuDoXd_GYB59-JYcdYH922pxkmUHxfZQ"
     },
     "018904": {
         "NAME": "VALLEY MILLS ISD",
@@ -38121,7 +38121,7 @@ var DistrictsData = {
         "FederalFunding": 732128,
         "OtherLocalFunding": 89018,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Efk1k4AwPVVOhznm3Zbfp3YBNcbreX6pq6ckSo6FM-rqDQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eagrs4CR23FMmHeblziNHOoBjn0q4w4S9vpH1Y4vF8Otyg"
     },
     "161901": {
         "NAME": "CRAWFORD ISD",
@@ -38166,7 +38166,7 @@ var DistrictsData = {
         "FederalFunding": 431828,
         "OtherLocalFunding": 338276,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfEMAqHNHFZIl1tkloYEKk0BrcMiYo5ZPiCeM4Tv_pehHA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXfBEDq7zFRPkrHiX_MWzcABmAI1GAoF872_omOMECX7Ug"
     },
     "018901": {
         "NAME": "CLIFTON ISD",
@@ -38211,7 +38211,7 @@ var DistrictsData = {
         "FederalFunding": 1170373,
         "OtherLocalFunding": 485208,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUC-BRSRNadBmynKpgVjBcEBRfowc0KhnlZggyCSAcExXg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY94CZhxaRZClR0FzAFe1mUBiUCqLQbWDCVGXP7_qVuV8Q"
     },
     "161903": {
         "NAME": "MIDWAY ISD (MCLENNAN)",
@@ -38248,7 +38248,7 @@ var DistrictsData = {
         "FederalFunding": 9343424,
         "OtherLocalFunding": 2844402,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbxM2xB_ZntLkhFE4Fsm6u0BzWkAUh00Cf0kwAyI3_Jfeg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUm5eXp3pdtCtx5_Np9y7l4BWcElOWd18PnjLvW5DD8E5A"
     },
     "161909": {
         "NAME": "MCGREGOR ISD",
@@ -38285,7 +38285,7 @@ var DistrictsData = {
         "FederalFunding": 2407014,
         "OtherLocalFunding": 2159583,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfYKay07LFNIh0bGF0hN-UIBrd7rsM2BfDrol03tBS-oiQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYO1sjKpUh5Irh7v3i7l3qUBdy-WYYvQ5HUfrqD3KFWaTA"
     },
     "050904": {
         "NAME": "OGLESBY ISD",
@@ -38326,7 +38326,7 @@ var DistrictsData = {
         "FederalFunding": 318322,
         "OtherLocalFunding": 115231,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYGrbD2jSJ9HmJLWNlKXS-ABZaL4tWxlNC57ojT53esP4A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcBADdjQ5ZNJvLxiP857vI4BdM-6IO7QRltTNS8h12jBUQ"
     },
     "161907": {
         "NAME": "LORENA ISD",
@@ -38367,7 +38367,7 @@ var DistrictsData = {
         "FederalFunding": 1364053,
         "OtherLocalFunding": 725854,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeNXsd1-lH1Ata63Ol3-DCABAqTJAB5YJxcbyRJo8emLHQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbpmKW5hJoBIqIemTSKljPoBNdWbMF9N7RUpuVD1io-yHA"
     },
     "246905": {
         "NAME": "GRANGER ISD",
@@ -38404,7 +38404,7 @@ var DistrictsData = {
         "FederalFunding": 505130,
         "OtherLocalFunding": 164817,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaWJH9j0ce9Mvwum_r-sltsBe1psP4NQrgJSF2aU1WJZfA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EU_CBjExyGlHvp-WLeJOiOgBky_B-IRpTafxduUpb9xi2Q"
     },
     "026901": {
         "NAME": "CALDWELL ISD",
@@ -38441,7 +38441,7 @@ var DistrictsData = {
         "FederalFunding": 2464391,
         "OtherLocalFunding": 819495,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ET_1IufZ0i1DpnsGRIjhr_YB_vGbtGN3LA62Vq9z8WGnEw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfMaUwL1_ipDrB4gZAnkP_IB26XeBuH7EMEf8Ykq8mgqYQ"
     },
     "166903": {
         "NAME": "MILANO ISD",
@@ -38478,7 +38478,7 @@ var DistrictsData = {
         "FederalFunding": 872319,
         "OtherLocalFunding": 317058,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbU_C_5_KJ5DlVjuiNMBK8kBD37RO7BE3la-Aak4KWKMBQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EY-DzXWg69xGpcZWRFNNTPwBpS4QQ3SN18zMJz7CEmx3kA"
     },
     "166905": {
         "NAME": "THORNDALE ISD",
@@ -38515,7 +38515,7 @@ var DistrictsData = {
         "FederalFunding": 771611,
         "OtherLocalFunding": 446972,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ET46mp6fr85Gs_f55oDCPP4BWD4PBhcsPquf5qH4uTO94Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EftDpuLRsfVIs815XFtcqaIBi-PdxVfLRXjaDZCjJUYd0w"
     },
     "144902": {
         "NAME": "LEXINGTON ISD",
@@ -38564,7 +38564,7 @@ var DistrictsData = {
         "FederalFunding": 1092151,
         "OtherLocalFunding": 265269,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYUdK3h5dA1Ijtf9UBccwNIBiTikXvX2Co5OrBIhnJ-y0A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EemcCFfBa5lHoGvCf49EPl8BPwoxg3ESOqQevPh-eS7lZA"
     },
     "166904": {
         "NAME": "ROCKDALE ISD",
@@ -38601,7 +38601,7 @@ var DistrictsData = {
         "FederalFunding": 4353258,
         "OtherLocalFunding": 1087712,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeTFSMF2JMlCp33buLoUSNYBytn4NmKzANHG_TKVHqMzMw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdT4boxkl2BOk5EiRn2VkbYBq3p7lDcMeOfchc73tWkOVg"
     },
     "166907": {
         "NAME": "BUCKHOLTS ISD",
@@ -38638,7 +38638,7 @@ var DistrictsData = {
         "FederalFunding": 355817,
         "OtherLocalFunding": 32598,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQjIAQUnt5pGhAUkhM65AzgBCYFfiLqraIDJoVg-TWVgEA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVd9AO399txFrNz4ZH6zL94BDiiyAJ5aTeMpzmuUIVOAtg"
     },
     "246908": {
         "NAME": "LIBERTY HILL ISD",
@@ -38675,7 +38675,7 @@ var DistrictsData = {
         "FederalFunding": 2652678,
         "OtherLocalFunding": 2192963,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYDLbsC7dYVLlqM3ylEB20cBJoEsl7g5Dbx3A5hI6_euAA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYib2GGcAFVJhBn0OBUXZlUBxrrncJJn3fW36tqQwqas7A"
     },
     "246904": {
         "NAME": "GEORGETOWN ISD",
@@ -38716,7 +38716,7 @@ var DistrictsData = {
         "FederalFunding": 16172156,
         "OtherLocalFunding": 3557439,
         "RecaptureAmount": 15289476,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaYOH264NWlGsThwvrqAjzwBJ1gvgXRJrI7n6VyaS_U62g"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXa44a5jx1NPnUQQ6YLSZkYBHF6Dh0Rv6NLyzXAZCx-zAQ"
     },
     "161910": {
         "NAME": "MOODY ISD",
@@ -38765,7 +38765,7 @@ var DistrictsData = {
         "FederalFunding": 1228293,
         "OtherLocalFunding": 158953,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQJn8ipLsDhKpyMAVlGYEhQBDHW3wPxHjCjzyZKtbbzdGA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Edmk-hMLqExIm6xLI34lvqYBtRQsO-4k83GBOPkaOjd5-w"
     },
     "050901": {
         "NAME": "EVANT ISD",
@@ -38806,7 +38806,7 @@ var DistrictsData = {
         "FederalFunding": 612208,
         "OtherLocalFunding": 79861,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETWgFv0V4nBJg_8taamlqDIBQAq8HH4NTAzIXoP2iGjfDQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfH3UVsetnxFtfe70djmXKYB1Hj_LMoMM_xRhXaMGcLy2A"
     },
     "141902": {
         "NAME": "LOMETA ISD",
@@ -38847,7 +38847,7 @@ var DistrictsData = {
         "FederalFunding": 1978187,
         "OtherLocalFunding": 187814,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbSd0lKP4DJDmnoJArc_DTEBJl5RNb4zrLA_p8woFd61qw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUrSl2i1pPBHkVuB3V0j7ocBZ4pFqcjUiP4V8lYln1Mr_w"
     },
     "206901": {
         "NAME": "SAN SABA ISD",
@@ -38879,7 +38879,7 @@ var DistrictsData = {
         "FederalFunding": 1040866,
         "OtherLocalFunding": 119300,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EcRUJjd_eW1ImbzqxIQOxS0BOt9zzLKBej_PgFCNl3d1pg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Econhc0uokJLvo4aol3Qv0wBLJ6xhFTfMW4JtErLqwg3Pg"
     },
     "167901": {
         "NAME": "GOLDTHWAITE CONS ISD",
@@ -38920,7 +38920,7 @@ var DistrictsData = {
         "FederalFunding": 1167151,
         "OtherLocalFunding": 1500309,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea1o_Vdv4jxCuQdkLe4YkgwB0KQcBBqefSEfeef1BxsusA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYOEhQ1NR4hFmyyLBoGmIB0B2z563lNZIya1-qsrlrrH6A"
     },
     "014909": {
         "NAME": "TEMPLE ISD",
@@ -38952,7 +38952,7 @@ var DistrictsData = {
         "FederalFunding": 15070780,
         "OtherLocalFunding": 8499142,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea87qaHS3OdOmSUFXbWjgQoB1Sf1hMbD_XhJEw1goij2kA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ed2thO5uoGdAqNH6AuXw180BGs7et9pymBMKT20qj99EWQ"
     },
     "014901": {
         "NAME": "ACADEMY ISD",
@@ -38989,7 +38989,7 @@ var DistrictsData = {
         "FederalFunding": 1687703,
         "OtherLocalFunding": 698897,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ES_yKNR1e29Ntg5_xU2fYkMBN5qvD65AJnJBzXDP2VrZ1w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWUobrZMzK1GtYdyEi3YdV4B2XlnhyndkW2SzNNQ6SIsKw"
     },
     "246907": {
         "NAME": "JARRELL ISD",
@@ -39026,7 +39026,7 @@ var DistrictsData = {
         "FederalFunding": 2092180,
         "OtherLocalFunding": 521184,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUshzV2_JpJAtSyUvTbJTzYBH9stCda7dFk4qKAbQXCP-A"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdAh5PvIyEdOrVZgeWZ090ABUfOpct2IYMBlzzPYKRpR4Q"
     },
     "014905": {
         "NAME": "HOLLAND ISD",
@@ -39075,7 +39075,7 @@ var DistrictsData = {
         "FederalFunding": 2068760,
         "OtherLocalFunding": 1450753,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZAwitzhvVBJh6aBFtv4TL4BKAiOBX0a_fkK8TAwMuqvQw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQKAQG8Ili9IomoSrAhN4m0B1Vy5I45h3vcFU2HhOE6k8g"
     },
     "014902": {
         "NAME": "BARTLETT ISD",
@@ -39124,7 +39124,7 @@ var DistrictsData = {
         "FederalFunding": 1146099,
         "OtherLocalFunding": 125013,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUgYdQHtChlErsRijEmz1BEBXCb9c_aVLc8L1a0XhVm5Qw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETSuzJfytmdPpLLXYDbY5yoBSlhosGQk6degRMTRiTeOzQ"
     },
     "073905": {
         "NAME": "ROSEBUD-LOTT ISD",
@@ -39169,7 +39169,7 @@ var DistrictsData = {
         "FederalFunding": 1104723,
         "OtherLocalFunding": 237652,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZm6zYbti9JFrQ1R8bfPsAMBKQG-MId6zA6M4baDmmvInA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXUAPdqLuiVCsR-2r1odim8B4ggDbO00gh_IR1wdbtTh9Q"
     },
     "073901": {
         "NAME": "CHILTON ISD",
@@ -39206,7 +39206,7 @@ var DistrictsData = {
         "FederalFunding": 1160459,
         "OtherLocalFunding": 248411,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaqY0X5AzNpBi_34MycXoqUByfRj_b0N8HJf_dW-nEgtsg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZbElUrtbY9AjyUs_MZrh1sB2l5eocyUQ3ozeyIBCa-TGg"
     },
     "198901": {
         "NAME": "BREMOND ISD",
@@ -39247,7 +39247,7 @@ var DistrictsData = {
         "FederalFunding": 688506,
         "OtherLocalFunding": 287664,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUjRFnbDucZJtxvxQ05XxK0BDLrPOltJnyfVVdzPS4eJ8Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWJnO62-SyRKjcDoVoGANFcBIOggT2fz3ngL7silsVrHtQ"
     },
     "166901": {
         "NAME": "CAMERON ISD",
@@ -39284,7 +39284,7 @@ var DistrictsData = {
         "FederalFunding": 2920308,
         "OtherLocalFunding": 340226,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eeye-xF6-Y1Akn8frO0f__UBpBIJ1C666hJq-Su_q69NAQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVl4aK0IvNtFlKRtGlIaG_sB8EDotsxLNbSCJytWstg8MQ"
     },
     "073904": {
         "NAME": "WESTPHALIA ISD",
@@ -39316,7 +39316,7 @@ var DistrictsData = {
         "FederalFunding": 96231,
         "OtherLocalFunding": 301431,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX4MthdzedpKtDz2VvU0pZYB1CARMEesoywz4Ph_mf_crQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ET9WKKXPv5dNjWcSYzjt5tAB8NKhartV270z7f0rX7IjQg"
     },
     "073903": {
         "NAME": "MARLIN ISD",
@@ -39353,7 +39353,7 @@ var DistrictsData = {
         "FederalFunding": 4370599,
         "OtherLocalFunding": 2862981,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERzR-ZNsG5dGkLlTbDOolO4BWBsdy_gNWTu2xN5iqBYcOA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZd54rUGkrpPuOT7bVO0vlQB3XqrDq0WElmp8F2AUFwWtA"
     },
     "014907": {
         "NAME": "ROGERS ISD",
@@ -39394,7 +39394,7 @@ var DistrictsData = {
         "FederalFunding": 851523,
         "OtherLocalFunding": 274042,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERvsXavMbXZIjsZP2oVHcD0BYb3lq0_J_GEeQ72fRwXqtw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWPbOzz8mpJKq7geA04iLnMB1P3PNzzGPSOqBUFIVK2FXQ"
     },
     "014910": {
         "NAME": "TROY ISD",
@@ -39430,7 +39430,7 @@ var DistrictsData = {
         "FederalFunding": 1765133,
         "OtherLocalFunding": 1056276,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUPa5vpXpy1NuaQbL7yBcHQBjI141_ksnqvaJXcsump2Hg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbaEjLAlCaNLqU02q76BIuEBu-nXcCMH5ymNWJbPCRshDQ"
     },
     "161919": {
         "NAME": "BRUCEVILLE-EDDY ISD",
@@ -39479,7 +39479,7 @@ var DistrictsData = {
         "FederalFunding": 627146,
         "OtherLocalFunding": 173741,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX13uGluiIRKlNFszlKmu18BHO7e0D12_sdZuNmJS_5-Aw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EW6Yuyih-f9PohYsDB692rsBMKQ-sogX1z7QTbneNfAAZA"
     },
     "198902": {
         "NAME": "CALVERT ISD",
@@ -39516,7 +39516,7 @@ var DistrictsData = {
         "FederalFunding": 428769,
         "OtherLocalFunding": 96156,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUry7x8nUsJCla9Cr9d1VzUBgTirGaT0piW040VO2OFprQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EbyJMzwBIOdElnxfPkmtlz0B0bsi1NZ1gU-NbQlc4wCkDQ"
     },
     "014906": {
         "NAME": "KILLEEN ISD",
@@ -39561,7 +39561,7 @@ var DistrictsData = {
         "FederalFunding": 129202951,
         "OtherLocalFunding": 4349603,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee2It1yEAY1Lgb6QOMYyF_4BARLKs6p1FXLT-Ir_SlEMmw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYDkBKrX6hdJgM2wH03gnWAB-sIgstGVQzTw_Y8PYN-RDQ"
     },
     "014908": {
         "NAME": "SALADO ISD",
@@ -39597,7 +39597,7 @@ var DistrictsData = {
         "FederalFunding": 1158576,
         "OtherLocalFunding": 1328310,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVKfERIDoKFMjDtsAUrWWzkBcpEjQVS4vrB_Z3dmTpE1bw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaS1UAhd0HBGk8zqRCxgCVUByxe5fyAZrWM2grRDw7joVA"
     },
     "014903": {
         "NAME": "BELTON ISD",
@@ -39638,7 +39638,7 @@ var DistrictsData = {
         "FederalFunding": 17342001,
         "OtherLocalFunding": 2935651,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ebu-Sdga_GBFnfbvctbW2PkB5U-lAMnyQHA3yfOZH6asKQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUj7p3UV5d9PpY4hBvrROM4BlhZPS-iApFbwlcvTwEM37g"
     },
     "246902": {
         "NAME": "FLORENCE ISD",
@@ -39683,7 +39683,7 @@ var DistrictsData = {
         "FederalFunding": 1728019,
         "OtherLocalFunding": 276309,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXDKXKCCVY1GhahKi-mlc8gB6GjfBhSuB7pVZJBIxxqHqA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaBtIAmXxuFEjtYAQKM3qfUBWxHNxJwkyRz9FriqqahkPg"
     },
     "141901": {
         "NAME": "LAMPASAS ISD",
@@ -39728,7 +39728,7 @@ var DistrictsData = {
         "FederalFunding": 5377412,
         "OtherLocalFunding": 977091,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EakSx6INXONCtgs-uT-tPMkB6djEuJ-_4GGwwGYxNoznzw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXoQWB9jUH9It5NCBEjxRBMBJPxB5xS2_-RFIGkFfHdwLw"
     },
     "050902": {
         "NAME": "GATESVILLE ISD",
@@ -39769,7 +39769,7 @@ var DistrictsData = {
         "FederalFunding": 5884052,
         "OtherLocalFunding": 630010,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EaIwTCb-vsZEvnBg1usDGhgBBIPzUtxktGHTc53CYz9j0Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVfZFcR0INhOhAa-HpOetVwBpi7PT-TGpycnXXKgU9l-zQ"
     },
     "050910": {
         "NAME": "COPPERAS COVE ISD",
@@ -39810,7 +39810,7 @@ var DistrictsData = {
         "FederalFunding": 17325596,
         "OtherLocalFunding": 1475756,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXDDV0PZO-9MinDlxAMRRkEB84Nzu-qKc-_YXOoPTgXmRw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX8fimhMRTZPrlFKivomOZwBFD8_wh9hju2SsTnMEYjzZw"
     },
     "027903": {
         "NAME": "BURNET CONS ISD",
@@ -39855,7 +39855,7 @@ var DistrictsData = {
         "FederalFunding": 7777530,
         "OtherLocalFunding": 1193123,
         "RecaptureAmount": 3168396,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ea40_N6fl9tBs4Z1BPAvCWMBlwxKund4Y_kgtMP0-PO1Gw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQHQwMK1L61Eu1LsOfRfdTcBd6sV07QRICs_Rct7_F_3oQ"
     },
     "106901": {
         "NAME": "CANADIAN ISD",
@@ -39892,7 +39892,7 @@ var DistrictsData = {
         "FederalFunding": 1111951,
         "OtherLocalFunding": 934074,
         "RecaptureAmount": 720807,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EWynJCpF_QNCjmOSVaxShCsBcFmMxQSi6eUIr4mNZypxMQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETJQ4bjr6yFDsoJVf_4OuDwBDIsWpVSwYO8cIGNPFlEa6Q"
     },
     "148901": {
         "NAME": "BOOKER ISD",
@@ -39929,7 +39929,7 @@ var DistrictsData = {
         "FederalFunding": 575748,
         "OtherLocalFunding": 203202,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EZKMR6gSrkZIm8AsxtPLregBPphRmIRxIATgknsiF1OJvw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeNEjrkPMDVFnq7f2J1viaQB13hUQGFYeu-i4WlltzZmAg"
     },
     "197902": {
         "NAME": "MIAMI ISD",
@@ -39966,7 +39966,7 @@ var DistrictsData = {
         "FederalFunding": 92126,
         "OtherLocalFunding": 114853,
         "RecaptureAmount": 888644,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETAMsCK5whVCgdnajwauSUoBBsNVxFj3diky__C7T6lscQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERA8Hq0mq6hCtIsqkTpwHhIBLP-p8lqTlf16w5DScMAyVg"
     },
     "242906": {
         "NAME": "FORT ELLIOTT CONS ISD",
@@ -40007,7 +40007,7 @@ var DistrictsData = {
         "FederalFunding": 53099,
         "OtherLocalFunding": 90435,
         "RecaptureAmount": 7096855,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESSrWtm9Lc1EuVxB0WO2SxEBl8Ux8gCySU2Up7YE_2KonA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYcJqW5VhS9LiIbf_koX848Bck4Apo7vJapTh8caXbQc7g"
     },
     "148902": {
         "NAME": "FOLLETT ISD",
@@ -40044,7 +40044,7 @@ var DistrictsData = {
         "FederalFunding": 226514,
         "OtherLocalFunding": 64617,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESPwffeox8tIitFqMze-CpkBif8lggBPjkGypGGS4lDN6Q"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXX9FqDGXjxLjkNYESJxB0kBvDTFa_tfCaNHzJ5bjDCRQQ"
     },
     "243902": {
         "NAME": "ELECTRA ISD",
@@ -40081,7 +40081,7 @@ var DistrictsData = {
         "FederalFunding": 792832,
         "OtherLocalFunding": 58087,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfNrlMsjYjJGgeFTEw_PKgkBQallM5P5MLMVBoc0vNp36w"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EVEeltj0zqhHtG-Nx7bbAeYB2gCKSgYKvis9f1NxHk3rpQ"
     },
     "012901": {
         "NAME": "SEYMOUR ISD",
@@ -40113,7 +40113,7 @@ var DistrictsData = {
         "FederalFunding": 926590,
         "OtherLocalFunding": 350038,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQlgqs0u8DdBpJU9bfOg8SgBuOG3q6DV05krM6bemsdeQw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdUo47mIZWdOuapu_ORYIFwBqgz1QQ9MNGQPoavIhNnUOQ"
     },
     "244901": {
         "NAME": "HARROLD ISD",
@@ -40150,7 +40150,7 @@ var DistrictsData = {
         "FederalFunding": 171012,
         "OtherLocalFunding": 683260,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EeNAlqPyFjNDkL7dZG7FlewBemQb0_Yy9NtlyuRta-MYEA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Eftq28d9dwpKpPqWYjB_0E0BBAuPMQ-ewCIufIZAAJQwRA"
     },
     "039902": {
         "NAME": "HENRIETTA ISD",
@@ -40187,7 +40187,7 @@ var DistrictsData = {
         "FederalFunding": 1992486,
         "OtherLocalFunding": 367324,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ee-dF8hmJAJHufZXGHqzK_MB6gCZ6cMeBuJxu3kdJ3XDew"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/Ebyw5EkYDWJPpz7IPcC12rcBI5RUhJIhAXJLJME1C9nHLw"
     },
     "039903": {
         "NAME": "PETROLIA CONS ISD",
@@ -40219,7 +40219,7 @@ var DistrictsData = {
         "FederalFunding": 676069,
         "OtherLocalFunding": 99672,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EdgkB4BqXB9ImpN95p9UxjkBB2JYenEzgLbQMTHhq8wmDg"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ETopO0b7w3dCgVbA_XJqeh4BQtuV491Q7mv4U6mPbFL4hA"
     },
     "005902": {
         "NAME": "HOLLIDAY ISD",
@@ -40256,7 +40256,7 @@ var DistrictsData = {
         "FederalFunding": 568513,
         "OtherLocalFunding": 229181,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EfDV2IIXSnpHoBi49IQ4R-UBgBHPXq5O_7BG0s0iYbW2AQ"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESA59mxQ7AdEmWJEtPgAHDYBwXznjPyJSlmFcSi337rx9Q"
     },
     "005901": {
         "NAME": "ARCHER CITY ISD",
@@ -40293,7 +40293,7 @@ var DistrictsData = {
         "FederalFunding": 469263,
         "OtherLocalFunding": 807011,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ERJFv88zGfFFqkdRFh4py2QBkKqhjsjD0eFrMnhLJpI2Ow"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EXG7PrzEj9FMixyfhoS7iiUB5fiKDesWaFcfYcU88K8UnA"
     },
     "243906": {
         "NAME": "CITY VIEW ISD",
@@ -40330,7 +40330,7 @@ var DistrictsData = {
         "FederalFunding": 2510676,
         "OtherLocalFunding": 1403981,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EahUElphJ8VKjvw1PnuYNuYBouF0UqFT7GBboxKtyjjntw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EYY949kc7e9MmSEy74Wsut8B_HJHKz0CbVs07O7VIH6vnw"
     },
     "243905": {
         "NAME": "WICHITA FALLS ISD",
@@ -40367,7 +40367,7 @@ var DistrictsData = {
         "FederalFunding": 22417031,
         "OtherLocalFunding": 2576900,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EV3fbq9B5mFGjsvuE53y7lkBZsA4TjQ5b1VR1E0tTIBYNw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/ESSNm8Nmvs1Jj8Eejk4t_-4BxRqyuv4N9PNp8C1e0JSOeQ"
     },
     "243901": {
         "NAME": "BURKBURNETT ISD",
@@ -40404,7 +40404,7 @@ var DistrictsData = {
         "FederalFunding": 4779712,
         "OtherLocalFunding": 5970181,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EX_W2lfAFNxJjktSVEQfF_UBHK3lef75UnLOuQsWcAesRA"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EQmFae3fHl9Di-ieFlFZkwcBVM3WNuz7-NLEz5f4XUMCKQ"
     },
     "243903": {
         "NAME": "IOWA PARK CONS ISD",
@@ -40441,6 +40441,6 @@ var DistrictsData = {
         "FederalFunding": 1307552,
         "OtherLocalFunding": 497038,
         "RecaptureAmount": 0,
-        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EUc6o_vIXoNDpL6P1xYyOG4BtH-gaSz0g8ShKKw8mLs8tw"
+        "CharterCostLink": "https://netorg5477163-my.sharepoint.com/:b:/g/personal/apena_texasaft_org/EblfcNrded9LqZDR3PxuyjsBtsG0b08RunjUi1x3oqYq6g"
     }
 };
