@@ -32949,8 +32949,8 @@ var DistrictsData = {
             ]
         ],
         "PerStudentCostOfCharters": "$9,457.32",
-        "CostOfCharters": "$370,702,119.49",
-        "CharterTransfers": "43,563",
+        "CostOfCharters": "$371,221,202.87",
+        "CharterTransfers": "43,624",
         "TotalTransfers": "45,952 (46,440)",
         "Attendance": 177206.586,
         "LocalFunding": 1603618038,
